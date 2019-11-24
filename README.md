@@ -1,4 +1,4 @@
-# Recommendations_for_Engineers
+# Recommendations for Engineers
 All of my recommendations for aspiring engineers in a single place, coming from various areas of interest. The principal scope supports data science, development, python, math, cybersecurity, business, and productivity.
 
 The list also aggregates and extends most of the suggestions from [my blog posts](https://pawelcislo.com/), where some of the entries come from a different language (🇵🇱). Although it's my personal list, don't hesitate to create a pull request if I missed something interesting or if there is a dead link.
@@ -32,7 +32,6 @@ The list also aggregates and extends most of the suggestions from [my blog posts
 * * * * *
 
 ## Blogs
---------
 
 Collection of all the blogs for the categories below. I advise adding all the relevant sites in a news aggregator like [Feedly](https://feedly.com/).
 
@@ -99,7 +98,6 @@ Collection of all the blogs for the categories below. I advise adding all the re
 -   [Math with Bad Drawings](https://mathwithbaddrawings.com/)
 
 ## Books
---------
 For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/list/57442889).
 
 ### biographies
@@ -235,7 +233,6 @@ Mostly universal (language-independent books).
 -   [The Information: A History, a Theory, a Flood](https://www.goodreads.com/book/show/10728649-the-information "The Information: A History, a Theory, a Flood")
 
 ## Browser Extensions
----------------------
 
 -   [30 seconds of knowledge](https://30secondsofknowledge.com/) <--- random code snippet every time you open a new tab
 -   [ColorZilla](https://www.colorzilla.com/chrome/) <--- advanced eyedropper
@@ -259,13 +256,12 @@ Mostly universal (language-independent books).
 -   [Wappalyzer](https://www.wappalyzer.com/) <--- identify technology on websites
 
 ## Business_Management
-------------------------
 
 -   [ahrefs](https://ahrefs.com/) <--- research your competitors
 -   [Bitcoin Regret Club](https://bitcoinregret.club/calculate-regret) <--- check how much would you earn/lose if you would invest into Bitcoin on the chosen date
 -   [BuzzSumo](https://buzzsumo.com/) <--- analyze what content performs best for any topic or competitor
 -   [Calendly](https://calendly.com/) <--- schedule appointments
--   [CoSchedule](https://coschedule.com/) <--- schedule online posts/marketing
+-   [CoSchedule](https://coschedule.com/) <--- schedule online posts/marketing
 -   [Cryptowatch](https://cryptowat.ch/) <--- live Bitcoin price charts
 -   [FlatGA](https://flatga.io/#/dashboard) <--- easy overview of your Google Analytics dashboard
 -   [Google Optimize](https://www.blog.google/products/marketingplatform/analytics/this-is-not-a-test-google-optimize-now-free-for-everyone/) <--- free tool to perform A/B tests to analyse customers
@@ -274,16 +270,14 @@ Mostly universal (language-independent books).
 -   [Remote Work Toolkit](https://nohq.co/tools/) <--- set of tools for remote work
 -   [Sendy](https://sendy.co/) <--- cheap newsletter system via Amazon SES
 -   Startup
-
     -   [books](https://startupbooks.io/) <--- list of books to help you along your startup journey
     -   [idea checklist](https://www.defmacro.org/2019/03/26/startup-checklist.html) <--- answer before opening a startup
-    -   [stacklist](https://www.stacklist.com/stacklists/) <--- list of technologies used by startups
     -   [stages](https://foundersbelt.com/timeline?stage=learning) <--- +90 tools for startups
+    -   [stacklist](https://www.stacklist.com/stacklists/) <--- list of technologies used by startups
     -   [stash](https://startupstash.com/#q=&hPP=10&idx=ss_company&p=0&is_v=1) <--- curated directory of resources & tools to help you build your startup
 -   [Tools for Makers](https://toolsformakers.com/) <--- hand-curated directory of tools for makers
 
 ## Cybersecurity
-----------------
 
 -   [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html) <--- create a temporary anonymous e-mail
 -   [AmIUnique](https://amiunique.org/fp) <--- check your browser fingerprint
@@ -304,7 +298,6 @@ Mostly universal (language-independent books).
 -   [Your social media fingerprint](https://robinlinus.github.io/socialmedia-leak/) <--- check where you are currently logged in
 
 ## Data Science
----------------
 
 [Subscribe to my newsletter](http://eepurl.com/dDqG-z) to find out even more inspiring stuff to help you with your analytics!
 
@@ -423,7 +416,6 @@ As there are many, I highly encourage you to check my custom feeds:
 -   [Worldometers](https://www.worldometers.info/) <--- real-time world statistics
 
 ## Design
----------
 
 -   [Can't Unsee](https://cantunsee.space/) <--- check your graphical sense
 -   [Everypixel](https://www.everypixel.com/) <--- find free or paid stock images
@@ -462,7 +454,6 @@ As there are many, I highly encourage you to check my custom feeds:
 -   [icons8](https://icons8.com/icons) <--- free icons
 
 ## Events
----------
 
 -   [Eventbrite](https://www.eventbrite.com/) <--- social network for events
 -   [Eventil](https://eventil.com/) <--- events for tech people
@@ -471,7 +462,6 @@ As there are many, I highly encourage you to check my custom feeds:
 -   [Meetup](https://www.meetup.com/) <--- social network for events
 
 ## IT News
-----------
 
 All the mentioned sites are mostly free of clickbait and offer overgrowth of content over the form.
 
@@ -483,7 +473,6 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 -   [The Hacker News](https://thehackernews.com/) <--- cybersecurity news
 
 ## Learning
------------
 
 -   [Anki](https://apps.ankiweb.net/) <--- my favourite software to learn through spaced repetition and active learning in mobile and open-source PC app. Make sure to [check out my own decks](https://github.com/pyxelr/My_Anki_Decks_of_Flashards)
 -   [Explorable Explanation](https://explorabl.es/) <--- hub for learning through interactive online games. Make sure to check out more from [Nicky Case!](https://ncase.me/)
@@ -519,7 +508,6 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 -   [Quora](https://www.quora.com/) <--- ask anything
 
 ## Math
-------
 
 ### learning
 
@@ -543,7 +531,6 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 -   [WolframAlpha](https://www.wolframalpha.com/) <--- ultimate online calculator
 
 ## Mobile Apps
---------------
 
 -   [Algorithms: Explained and Animated](https://play.google.com/store/apps/details?id=wiki.algorithm.algorithms&hl=en) <--- great representation of various algorithms
 -   [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en) <--- learn any topic using active learning and spaced repetition. Before using the mobile app, I strongly suggest to set up your account and decks of cards using the [PC app](https://apps.ankiweb.net/). Also, make sure to check the [public decks shared from my side](https://github.com/pyxelr/My_Anki_Decks_of_Flashards)
@@ -556,7 +543,6 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 -   [SoloLearn](https://www.sololearn.com/) <--- mobile programming university
 
 ## Music
---------
 
 ### DAW
 
@@ -589,7 +575,6 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 -   [SOUL](https://soul.dev/playground/?id=55e627cb87ad63674a8c07cf3664991d) <--- IDE and language to make music
 
 ## Newsletters
---------------
 
 -   [Bullets.tech](https://bullets.tech/) <--- scientific papers summarized in few bullet points
 -   [Data Science Weekly](https://www.datascienceweekly.org/) <--- featuring curated news, articles and jobs related to Data Science. You can read the [archive](https://www.datascienceweekly.org/newsletters) at any time
@@ -602,7 +587,6 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 -   [unknowNews](https://unknownews.carrd.co/) (🇵🇱) <--- weekly newsletter. Check its [archive](https://news.mrugalski.pl/) for previous sendings
 
 ## Podcasts
------------
 
 I recommend listening to all podcasts with [Pocket Casts web/mobile app](https://www.pocketcasts.com/).
 
@@ -657,7 +641,6 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [TedTalks Health](https://www.ted.com/talks?topics%5B%5D=health)
 
 ## Productivity
---------------
 
 -   [Brain.fm](https://www.brain.fm/) <--- music to improve focus. Try sample sounds on [their YouTube channel](https://www.youtube.com/channel/UC45Wdr3wPy1qR2WLUCTsFKg)
     -   [myNoise](https://mynoise.net/) <--- background noises & interactive soundscapes
@@ -678,7 +661,6 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Toggl](https://toggl.com/) <--- time tracker
 
 ## Programming
------------------
 
 ### coding challenges
 
@@ -732,7 +714,6 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [W3Schools](https://www.w3schools.com/) <--- well documented online tutorials
 
 ## Travel
----------
 
 -   [Champion Traveler](https://championtraveler.com/best-time-to-travel/) <--- find the best time to travel based on the weather
 -   [Country Comparison](https://www.hofstede-insights.com/country-comparison/) <--- across 6 different business factors, by Hofstede Insights
@@ -745,7 +726,6 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Wikivoyage](https://en.wikivoyage.org/wiki/Main_Page) <--- worldwide travel guide
 
 ## Windows
-----------
 
 -   [7-Zip](https://www.7-zip.org/) <--- file archiver with a high compression ratio
 -   [AIMP](https://www.aimp.ru/?do=download&os=windows) <--- music player
@@ -772,7 +752,6 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [ShareX](https://getsharex.com/) <--- most feature-rich screen capture tool
 
 ## Writing_Research
-------------------
 
 -   [After the Deadline](https://www.polishmywriting.com/) <--- free spell checker
 -   [Diffchecker](https://www.diffchecker.com/) <--- compare differences in text, images, PDFs and more
@@ -802,7 +781,6 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   and if that's not enough, try [Wikipedia's List of academic databases and search engines](https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines)
 
 ## YouTube Channels
--------------------
 
 ### data science
 
@@ -883,7 +861,6 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Techquickie](https://www.youtube.com/user/Techquickie/videos) <--- humorous answers to tech questions
 
 ## Other
-----------
 
 -   [Ancient Earth globe](https://dinosaurpictures.org/ancient-earth#0) <--- check how Earth looked like x years ago
 -   [Awesome](https://github.com/sindresorhus/awesome) <--- GitHub repository with lists on all kinds of interesting topics
