@@ -9,7 +9,7 @@ The list also aggregates and extends most of the suggestions from [my blog posts
 - 🌐 [Blogs](#blogs)
 - 📚 [Books](#books)
 - 💾 [Browser Extensions](#browser-extensions)
-- 💼 [Business](#business)
+- 💼 [Business](#business )
 - 👾 [Cybersecurity](#cybersecurity)
 - 📊 [Data Science](#data-science)
 - 🎨 [Design](#design)
@@ -255,7 +255,7 @@ Mostly universal (language-independent books).
 -   [uBlock Origin](https://github.com/gorhill/uBlock#installation) <--- blocker addon (not only for ads)
 -   [Wappalyzer](https://www.wappalyzer.com/) <--- identify technology on websites
 
-## Business
+## Business 
 
 -   [ahrefs](https://ahrefs.com/) <--- research your competitors
 -   [Bitcoin Regret Club](https://bitcoinregret.club/calculate-regret) <--- check how much would you earn/lose if you would invest into Bitcoin on the chosen date
