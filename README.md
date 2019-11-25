@@ -508,7 +508,7 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 ### questions
 
 -   [Reddit](https://www.reddit.com/) <--- find the right subreddit for your question
--   [Stack Exchange](https://stackexchange.com/sites#) <--- find the right site to ask your question
+-   [Stack Exchange](https://stackexchange.com/sites) <--- find the right site to ask your question
 -   [Stack Overflow](https://stackoverflow.com/) <--- all the programming related questions
 -   [Quora](https://www.quora.com/) <--- ask anything
 
