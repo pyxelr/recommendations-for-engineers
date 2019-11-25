@@ -84,6 +84,7 @@ Collection of all the blogs for the categories below. I advise adding all the re
 
 -   [Code Without Rules](https://codewithoutrules.com/) <--- helping you become a productive programmer and get work/life balance
 -   [Coding Horror](https://blog.codinghorror.com/) <--- programming and human factors
+-   [Dev.to](https://dev.to/) <--- popular blogging platform for developers
 -   [Devstyle](https://devstyle.pl/) (🇵🇱) <--- blog for every programmer
 
 ### general
@@ -107,6 +108,7 @@ For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/lis
 -   [Can't Hurt Me: Master Your Mind and Defy the Odds](https://www.goodreads.com/book/show/43160250-can-t-hurt-me)
 -   [Einstein: His Life and Universe](https://www.goodreads.com/book/show/8030965-einstein)
 -   [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.goodreads.com/book/show/25569936-elon-musk)
+-   [Leonardo da Vinci](https://www.goodreads.com/book/show/34752954-leonardo-da-vinci)
 -   [Permanent Record](https://www.goodreads.com/book/show/46223297-permanent-record)
 -   [Steve Jobs](https://www.goodreads.com/book/show/12988058-steve-jobs)
 -   [Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character](https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_)
