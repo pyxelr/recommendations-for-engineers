@@ -446,6 +446,7 @@ As there are many, I highly encourage you to check my custom feeds:
 ### edit
 
 -   [remove.bg](https://www.remove.bg/) <--- remove background from an image by simply uploading it
+-   [Photopea](https://www.photopea.com/) <--- Photoshop in the browser
 -   [Pixlr X](https://pixlr.com/x/) <--- online image editor
 
 ### icons
