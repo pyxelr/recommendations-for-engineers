@@ -756,7 +756,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [PortableApps.com](https://portableapps.com/) <--- full-featured portable software system
 -   [Potplayer](https://potplayer.daum.net/) <--- video player
 -   [PowerToys](https://github.com/microsoft/PowerToys) <--- Windows system utilities to maximize productivity. FancyZones is one of them, which improves window layout management
--   [PuTTY ](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)<--- SSH and telnet client
+-   [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)<--- SSH and telnet client
 -   [qBittorrent](https://www.qbittorrent.org/) <--- open-source torrent manager
 -   [ShareX](https://getsharex.com/) <--- most feature-rich screen capture tool
 
