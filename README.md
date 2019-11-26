@@ -86,6 +86,9 @@ Collection of all the blogs for the categories below. I advise adding all the re
 -   [Coding Horror](https://blog.codinghorror.com/) <--- programming and human factors
 -   [DEV Community](https://dev.to/) <--- popular blogging platform for developers
 -   [Devstyle](https://devstyle.pl/) (🇵🇱) <--- blog for every programmer
+-   [Discover dev](https://www.discoverdev.io/) <--- daily digest of the best engineering blogs from across the web
+-   [Hacker Noon](https://hackernoon.com/) <--- great stories by real tech professionals
+-   [Product Hunt](https://www.producthunt.com/) <--- discover the best new products in tech
 
 ### general
 
