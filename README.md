@@ -711,6 +711,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [DevTube](https://dev.tube/) <--- developer videos in one place. You can try replacing YouTube with DevTube
 -   [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) <--- collection of (mostly) technical things every software developer should know
 -   [freeCodeCamp](https://www.freecodecamp.org/) <--- learn to code from open-source community for free
+-   [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) <--- curated list of games that can teach you how to learn a programming language
 -   [Goalkicker](https://goalkicker.com/) <--- free programming books on various technologies
 -   [interviewing.io](https://interviewing.io/) <--- free anonymous interview practice. Before practising you can [watch technical mock interviews](https://interviewing.io/recordings) with engineers from big companies
 -   [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) <--- algorithms and data structures implemented in JavaScript with explanations and links to further readings. Don't prevent yourself from taking a look, even if you're not a JS developer
