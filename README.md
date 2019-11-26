@@ -873,6 +873,8 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 
 -   [Ancient Earth globe](https://dinosaurpictures.org/ancient-earth#0) <--- check how Earth looked like x years ago
 -   [Awesome](https://github.com/sindresorhus/awesome) <--- GitHub repository with lists on all kinds of interesting topics
+    -   [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) <--- awesome list of repositories of awesome lists
+    -   [Awesome Search](https://awesomelists.top/) <--- search all awesome lists in one second
     -   [List.community](https://list.community/) <--- better graphical form of Awesome
 -   [Buoy](https://www.buoyhealth.com/symptom-checker/) <--- check your symptoms with an online AI assistant
 -   [Can I email](https://www.caniemail.com/) <--- check which HTML and CSS elements are supported by your mail client
