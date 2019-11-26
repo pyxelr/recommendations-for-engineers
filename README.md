@@ -84,7 +84,7 @@ Collection of all the blogs for the categories below. I advise adding all the re
 
 -   [Code Without Rules](https://codewithoutrules.com/) <--- helping you become a productive programmer and get work/life balance
 -   [Coding Horror](https://blog.codinghorror.com/) <--- programming and human factors
--   [Dev.to](https://dev.to/) <--- popular blogging platform for developers
+-   [DEV Community](https://dev.to/) <--- popular blogging platform for developers
 -   [Devstyle](https://devstyle.pl/) (🇵🇱) <--- blog for every programmer
 
 ### general
@@ -583,6 +583,7 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 
 -   [Bullets.tech](https://bullets.tech/) <--- scientific papers summarized in few bullet points
 -   [Data Science Weekly](https://www.datascienceweekly.org/) <--- featuring curated news, articles and jobs related to Data Science. You can read the [archive](https://www.datascienceweekly.org/newsletters) at any time
+-   [DEV Community](https://dev.to/settings/notifications) <--- weekly newsletter of top 7 posts (activate in settings of your account)
 -   [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) <--- subscribe to weekly/daily sets of trending repositories from different languages
 -   [Hacker Newsletter](https://hackernewsletter.com/) <--- weekly newsletter of best posts from Hacker News
 -   [Highbrow](https://gohighbrow.com/) <--- choose a topic to learn and receive a daily message
