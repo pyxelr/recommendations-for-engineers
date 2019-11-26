@@ -49,12 +49,12 @@ Collection of all the blogs for the categories below. I advise adding all the re
 ### cybersecurity
 
 -   [KitPloit](https://www.kitploit.com/) <--- pentest & hacking tools
--   [Latest Hacking News](https://latesthackingnews.com/)
+-   [Latest Hacking News](https://latesthackingnews.com/) <--- latest cybersecurity news
 -   [Niebezpiecznik](https://niebezpiecznik.pl/) (🇵🇱) <--- most popular Polish blog on cybersecurity
 -   [Paged Out!](https://pagedout.institute/) <--- free magazine on programming with a focus on hacking
 -   [Security Through Education](https://www.social-engineer.org/blog/) <--- blog on human engineering
 -   [Sekurak](https://sekurak.pl/) (🇵🇱) <--- for more technical profiles
--   [The Hacker News](https://thehackernews.com/) <--- latest cybersec news
+-   [The Hacker News](https://thehackernews.com/) <--- latest cybersecurity news
 -   [Zaufana Trzecia Strona](https://zaufanatrzeciastrona.pl/) (🇵🇱)
 
 ### data science
@@ -93,8 +93,8 @@ Collection of all the blogs for the categories below. I advise adding all the re
 ### general
 
 -   [Medium](https://medium.com/) <--- popular blogging platform
--   [Reddit](https://www.reddit.com/) <--- front page of the Internet
--   [Wait But Why](https://waitbutwhy.com/) <--- blog posts guaranteeing a great reading time
+-   [Reddit](https://www.reddit.com/) <--- front page of the Internet (tip: browse by subreddits, not the main site)
+-   [Wait But Why](https://waitbutwhy.com/) <--- great reading time guaranteed
 
 ### math
 
@@ -593,7 +593,7 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 -   [Inside](https://inside.com/) <--- daily newsletters on different topics. For example, check out [Inside AI](https://inside.com/ai) and its [recent issues](https://inside.com/lists/ai/recent_issues) at any time
 -   [James Clear](https://jamesclear.com/newsletter) <--- apply better habits in your life (from the author of Atomic Habits)
 -   [Podcast Notes](https://podcastnotes.org/) <--- summary of podcasts in few bullet points
--   [unknowNews](https://unknownews.carrd.co/) (🇵🇱) <--- weekly newsletter. Check its [archive](https://news.mrugalski.pl/) for previous sendings
+-   [unknowNews](https://unknownews.carrd.co/) (🇵🇱) <--- weekly newsletter. Check its [archive](https://news.mrugalski.pl/) for past sendings
 
 ## Podcasts
 
