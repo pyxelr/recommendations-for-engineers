@@ -797,15 +797,15 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ) <--- hours of data analysis in R
 -   [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w) <--- more of Andrew Ng
 -   [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ) <--- complex topics explained with great visualisations
--   [deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw/featured) <--- AI/ML explained
+-   [deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw) <--- AI/ML explained
 -   [sentdex](https://www.youtube.com/user/sentdex) <--- Python programming tutorials
--   [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) <--- AI, ML, Python and more (unfortunately [known for lots of plagiarism](https://www.youtube.com/watch?v=Mz3Mu9e0qRQ))
+-   [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) <--- AI, ML, Python and more (unfortunately [involved in the scandal of plagiarism](https://www.youtube.com/watch?v=Mz3Mu9e0qRQ))
 -   [Two Minute Papers](https://www.youtube.com/user/keeroyz) <--- quick reviews of scientific research papers
 
 ### entertainment
 
 -   [Alan Becker](https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw) <--- fights of stick figures
--   [Dylan Tallchief](https://www.youtube.com/channel/UCIu2Fj4x_VMn2dgSB1bFyQA/videos) <--- fun look over the music production
+-   [Dylan Tallchief](https://www.youtube.com/channel/UCIu2Fj4x_VMn2dgSB1bFyQA) <--- fun look over the music production
 -   [Level UP](https://www.youtube.com/channel/UCNK813T2BNBwcfDPDTPeMPA) <--- mario animations
 -   [PewDiePie](https://www.youtube.com/user/PewDiePie) <--- meme/game reviews and not only
 -   [videogamedunkey](https://www.youtube.com/channel/UCsvn_Po0SmunchJYOWpOxMg) <--- game reviews
@@ -813,12 +813,13 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 ### math
 
 -   [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) <--- driven by animations for difficult problems to be made simple with changes in perspective
--   [Brilliant](https://www.youtube.com/channel/UCpR62MSOeBQVXub13xwZ8aA/featured) <--- excel in math and science
+-   [Brilliant](https://www.youtube.com/channel/UCpR62MSOeBQVXub13xwZ8aA) <--- excel in math and science
 -   [Domain of Science](https://www.youtube.com/user/dominicwalliman) <--- overview of science with the help of single maps
 -   [Eddie Woo](https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ) <--- one of the most enthusiastic math teachers on the web
--   [Krista King](https://www.youtube.com/user/TheIntegralCALC/featured) <--- master in math
--   [MindYourDecisions](https://www.youtube.com/user/MindYourDecisions/featured) <--- brain teasers
+-   [Krista King](https://www.youtube.com/user/TheIntegralCALC) <--- master in math
+-   [MindYourDecisions](https://www.youtube.com/user/MindYourDecisions) <--- brain teasers
 -   [Numberphile](https://www.youtube.com/user/numberphile) <--- videos about numbers
+-   [Prof Ghrist Math](https://www.youtube.com/channel/UC5N5pRddyicAX1QJyJjIIdg/) <--- animated introduction to calculus
 -   [statisticsfun](https://www.youtube.com/channel/UClD8c_piy1nrJySPJUgyivg) <--- visual explanations of algebra, trig, calculus, statistics, and economics
 -   [Think Twice](https://www.youtube.com/ThinktwiceLTU) <--- animated math videos
 -   [Welch Labs](https://www.youtube.com/user/Taylorns34) <--- math, science, and machine learning resources
@@ -831,7 +832,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Devstyle](https://www.youtube.com/channel/UCACp5rqV3Ki0SNdXWDBLhRA) (🇵🇱) <--- daily vlog of Polish entrepreneur (past programmer)
 -   [FightMediocrity](https://www.youtube.com/channel/UCXLesGEfmyhxqOjoAqhRwhA) <--- summaries of the most inspiring books
 -   [MiroBurn](https://www.youtube.com/channel/UCwmFNbGnBeEy9nTt42F4WHw) (🇵🇱) <--- daily vlog of Polish entrepreneur focused on online courses, biohacking, motivating others and establishing new companies
--   [Wojna Idei](https://www.youtube.com/channel/UC7RswyY8VfbSdikz_8wdp3w/featured) (🇵🇱) <--- psychology, philosophy, sociology and culture
+-   [Wojna Idei](https://www.youtube.com/channel/UC7RswyY8VfbSdikz_8wdp3w) (🇵🇱) <--- psychology, philosophy, sociology and culture
 
 ### programming
 
@@ -840,24 +841,23 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Derek Banas](https://www.youtube.com/user/derekbanas) <--- is there a topic on which Derek didn't record a tutorial?
 -   [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg/) <--- solving advanced algorithms step by step
 -   [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) <--- videos from open-source community
--   [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q/featured) <--- ethical hacking tutorials
+-   [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) <--- ethical hacking tutorials
 -   [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g) <--- LeetCode challenges solver
 -   [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) <--- preparing for CTFs
 -   [Niebezpiecznik](https://www.youtube.com/channel/UCe6nK69Yc1zna7QSJEfA9pw) (🇵🇱) <--- cybersecurity channel
 -   [Pasja Informatyki](https://www.youtube.com/user/MiroslawZelent) (🇵🇱) <--- general IT/psychology channel
--   [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge/featured) <--- one of the most varied programming channel
+-   [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge) <--- one of the most varied programming channel
 -   [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA) <--- lots of videos on Python, JavaScript, C#
--   [sentdex](https://www.youtube.com/user/sentdex) <--- Python developer, mainly in the area of AI
 -   [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) <--- one of the most-enthusiastic coders on the web
 
 ### science
 
 -   [AsapSCIENCE](https://www.youtube.com/channel/UCC552Sd-3nyi_tk2BudLUzA) <--- quick scientific explanations
--   [exurb1a](https://www.youtube.com/user/willunicycleforfood/videos) <--- attempt to explain the way universe works
+-   [exurb1a](https://www.youtube.com/user/willunicycleforfood) <--- attempt to explain the way universe works
 -   [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt) <--- high-quality videos
 -   [Life Noggin](https://www.youtube.com/user/lifenoggin) <--- quickly animated explanations
--   [MinuteEarth](https://www.youtube.com/user/minuteearth/featured) <--- science and stories about our awesome planet
--   [minutephysics](https://www.youtube.com/user/minutephysics/featured) <--- cool physics and other sweet science
+-   [MinuteEarth](https://www.youtube.com/user/minuteearth) <--- science and stories about our awesome planet
+-   [minutephysics](https://www.youtube.com/user/minutephysics) <--- cool physics and other sweet science
 -   [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ) <--- animated academic subjects
 -   [SciFun](https://www.youtube.com/user/SciTeraz) (🇵🇱) <--- world of science
 -   [Uwaga! Naukowy Bełkot](https://www.youtube.com/channel/UC_7PqixGIdE-jjoHKMPYpGA) (🇵🇱) <--- well-researched topics from the overall science
@@ -868,7 +868,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 
 -   [Dave Lee](https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw) <--- critical reviews of the newest tech on the market
 -   [Linus](https://www.youtube.com/user/LinusTechTips) <--- entertaining tech explanations
--   [Techquickie](https://www.youtube.com/user/Techquickie/videos) <--- humorous answers to tech questions
+-   [Techquickie](https://www.youtube.com/user/Techquickie) <--- humorous answers to tech questions
 
 ## Other
 
