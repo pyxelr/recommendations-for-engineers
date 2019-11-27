@@ -571,6 +571,7 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 ### listen
 
 -   [Last.fm](http://www.last.fm/) <--- track your scrobbles. Make sure to [follow me](https://www.last.fm/user/Pyxelr)!
+-   [Radio Garden](http://radio.garden/) <--- listen to thousands of radio stations from the world using a Google Earth based menu
 -   [Spotify](https://www.spotify.com/) <--- stream music online
 -   [SoundCloud](https://soundcloud.com/stream) <--- find lots of indie music and upload your own one. Make sure to [follow me](https://soundcloud.com/pyxelr)!
 
@@ -879,6 +880,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
     -   [List.community](https://list.community/) <--- better graphical form of Awesome
 -   [Buoy](https://www.buoyhealth.com/symptom-checker/) <--- check your symptoms with an online AI assistant
 -   [Can I email](https://www.caniemail.com/) <--- check which HTML and CSS elements are supported by your mail client
+-   [Code Wizard ~ Ash Kyd](https://ash.ms/) <--- website of a developer in a Windows ME style. It's worth checking out the arrangement of blog posts/vlogs
 -   [DistroTest](https://distrotest.net/) <--- try running any Linux distro in the cloud VM
 -   [How much free time do you have?](https://erikrood.com/Posts/free_time_calc.html) <--- specify values and get the result
 -   [Follow Friday](https://followfriday.io/) <--- interesting people to follow, categorised by topics like AI, design or programming
@@ -893,4 +895,5 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Studddent](https://studddent.com/) <--- list of discounts while you're a student
 -   [TLDRLegal](https://tldrlegal.com/) <--- software licences explained in plain English
 -   [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) <--- have some fun :)
+-   [windows95](https://github.com/felixrieseberg/windows95) <--- Windows 95, running in an Electron app
 -   [Zero Width Shortener](https://zws.im/) <--- URL shortener that shortens URLs using spaces that have zero width, making them invisible to humans
