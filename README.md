@@ -579,8 +579,8 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 -   [DeepJ](https://deepj.ai/) <--- AI to compose piano music in real-time
 -   [Every Noise at Once](http://everynoise.com/engenremap.html) <--- map of music styles (play each style with a single click)
 -   [Music Maker](https://www.sentient.ai/sentient-labs/ea/lstm-music/) <--- with the use of AI
--   [Newtone](https://www.youtube.com/watch?list=PLDDEE76AC8C26CBD8&time_continue=12&v=MkpaM3fmYF0) <--- edit vocals
 -   [SOUL](https://soul.dev/playground/?id=55e627cb87ad63674a8c07cf3664991d) <--- IDE and language to make music
+-   [Spleeter](https://github.com/deezer/spleeter) <--- extract acapella from the song using AI ([demonstration video](https://youtu.be/tgnuOSLPwMI))
 
 ## Newsletters
 
