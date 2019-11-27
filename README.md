@@ -281,7 +281,7 @@ Mostly universal (language-independent books).
     -   [idea checklist](https://www.defmacro.org/2019/03/26/startup-checklist.html) <--- answer before opening a startup
     -   [stages](https://foundersbelt.com/timeline?stage=learning) <--- +90 tools for startups
     -   [stacklist](https://www.stacklist.com/stacklists/) <--- list of technologies used by startups
-    -   [stash](https://startupstash.com/#q=&hPP=10&idx=ss_company&p=0&is_v=1) <--- curated directory of resources & tools to help you build your startup
+    -   [stash](https://startupstash.com/) <--- curated directory of resources & tools to help you build your startup
 -   [Tools for Makers](https://toolsformakers.com/) <--- hand-curated directory of tools for makers
 
 ## Cybersecurity
@@ -389,15 +389,15 @@ As there are many, I highly encourage you to check my custom feeds:
 
 ### online tools
 
--   [A Neural Network Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.79072&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false) <--- train a neural network
--   [ColorBrewer](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) <--- colour advice for maps
+-   [A Neural Network Playground](https://playground.tensorflow.org/) <--- train a neural network
+-   [ColorBrewer](http://colorbrewer2.org/) <--- colour advice for maps
 -   [Decision Trees in Javascript](https://cs.stanford.edu/~karpathy/svmjs/demo/demoforest.html) <--- random forest demo in Javascript
     -   check out also [SVMs demo](https://cs.stanford.edu/~karpathy/svmjs/demo/)
 -   [Explained Visually](http://setosa.io/ev/) <--- interactive visualisations
 -   [Grail Text Recognizer](https://jackschaedler.github.io/handwriting-recognition/) <--- text recognition explained
 -   [Image-to-Image Demo](https://affinelayer.com/pixsrv/) <--- interactive image translation with pix2pix-tensorflow
 -   [Interactive Machine Learning List](https://p.migdal.pl/interactive-machine-learning-list/) <--- list of interactive ML visualisations
--   [Keras.js](https://transcranial.github.io/keras-js/#/) <--- run Keras models in your browser
+-   [Keras.js](https://transcranial.github.io/keras-js/) <--- run Keras models in your browser
 -   [Lyrebird AI](https://www.descript.com/lyrebird-ai?source=lyrebird) <--- voice cloning
 -   [RecurrentJS Sentence Memorization](https://cs.stanford.edu/people/karpathy/recurrentjs/)
 -   [SegNet](https://mi.eng.cam.ac.uk/projects/segnet/) <--- image segmentation
@@ -456,7 +456,7 @@ As there are many, I highly encourage you to check my custom feeds:
 
 ### icons
 
--   [Eva Icons](https://akveo.github.io/eva-icons/#/) <--- simple open-source icons
+-   [Eva Icons](https://akveo.github.io/eva-icons/) <--- simple open-source icons
 -   [Flaticon](https://www.flaticon.com/) <--- free vector icons
 -   [Font Awesome](https://fontawesome.com/) <--- vector icons and social logos for your website
 -   [icons8](https://icons8.com/icons) <--- free icons
@@ -698,12 +698,12 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [json.pizza](https://json.pizza/) <--- beautify your JSON code
 -   [Python Tutor](http://pythontutor.com/) <--- visualise Python algorithms, step by step
 -   [regex101](https://regex101.com/) <--- online regex tester and debugger
--   [StackEdit](https://stackedit.io/app#) <--- visual Markdown editor
+-   [StackEdit](https://stackedit.io/) <--- visual Markdown editor
 
 ### websites to study from
 
 -   [30 seconds of code](https://www.30secondsofcode.org/) <--- collection of useful snippets in multiple languages, which you can understand in 30 seconds or less
--   [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students#110-c-language) <--- find even more resources to learn software engineering
+-   [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) <--- find even more resources to learn software engineering
 -   [Build your own X](https://github.com/danistefanovic/build-your-own-x) <--- resources to start developing your first website, database; you name it
 -   [Code Club](https://codeclubprojects.org/en-GB/python/) <--- find ideas for your Python projects
 -   [Coding Interview University](https://github.com/jwasham/coding-interview-university) <--- complete computer science study plan to become a software engineer
@@ -731,7 +731,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Nomad List](https://nomadlist.com/) <--- filter the best cities to live
 -   [Numbeo](https://www.numbeo.com/cost-of-living/comparison.jsp) <--- cost of living comparison
 -   [The Best Time to Travel Anywhere](https://championtraveler.com/best-time-to-travel/) <--- comparison of weather, number of tourists etc.
--   [The True Size Of ...](https://thetruesize.com/#?borders=1~!MTYyNjI0NzU.MzU3NjkyNA*MzU1NjgzMzA(MTkyMzc5OQ~!CONTIGUOUS_US*MTAwMjQwNzU.MjUwMjM1MTc(MTc1)MA~!IN*NTI2NDA1MQ.Nzg2MzQyMQ)MQ~!CN*OTkyMTY5Nw.NzMxNDcwNQ(MjI1)Mg) <--- select a country, drag it around the world map to compare its size
+-   [The True Size Of ...](https://thetruesize.com/) <--- select a country, drag it around the world map to compare its size
 -   [What to Eat in](https://what.toeat.in/) <--- list of things to eat in selected countries
 -   [Wikivoyage](https://en.wikivoyage.org/wiki/Main_Page) <--- worldwide travel guide
 
@@ -872,7 +872,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 
 ## Other
 
--   [Ancient Earth globe](https://dinosaurpictures.org/ancient-earth#0) <--- check how Earth looked like x years ago
+-   [Ancient Earth globe](https://dinosaurpictures.org/ancient-earth) <--- check how Earth looked like x years ago
 -   [Awesome](https://github.com/sindresorhus/awesome) <--- GitHub repository with lists on all kinds of interesting topics
     -   [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) <--- awesome list of repositories of awesome lists
     -   [Awesome Search](https://awesomelists.top/) <--- search all awesome lists in one second
