@@ -483,7 +483,7 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 ## Learning
 
 -   [Anki](https://apps.ankiweb.net/) <--- my favourite software to learn through spaced repetition and active learning in mobile and open-source PC app. Make sure to [check out my own decks](https://github.com/pyxelr/My_Anki_Decks_of_Flashards)
--   [Explorable Explanation](https://explorabl.es/) <--- hub for learning through interactive online games. Make sure to check out more from [Nicky Case!](https://ncase.me/)
+-   [Explorable Explanation](https://explorabl.es/all/) <--- hub for learning through interactive online games. Make sure to check out more from [Nicky Case!](https://ncase.me/)
 -   [Quizlet](https://quizlet.com/latest) <--- more user-friendly alternative to Anki
 -   [Researcher](https://www.researcher-app.com/) <--- feed for scientific papers
 -   [Simple Wikipedia](https://simple.wikipedia.org/wiki/Main_Page) <--- Wikipedia articles explained in simple words
@@ -885,6 +885,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [How much free time do you have?](https://erikrood.com/Posts/free_time_calc.html) <--- specify values and get the result
 -   [Follow Friday](https://followfriday.io/) <--- interesting people to follow, categorised by topics like AI, design or programming
     -   [list of accounts I'm following](https://twitter.com/pawel_cislo/following) <--- all the people that influence my writing on this website
+-   [Free Time](https://erikrood.com/Posts/free_time_calc.html) <--- calculate how much free time you have based on the specified criteria
 -   [Internet Archive](https://archive.org/web/) <--- wayback machine with a digital library of Internet sites
 -   [My Pinterest account](https://pinterest.com/pyxelrr/) <--- aggregation of the most practical infographics that I stepped on
 -   [Programming Fonts](https://app.programmingfonts.org/) <--- quickly check lots of programming fonts
@@ -894,6 +895,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Stellarium Web Online Star Map](https://stellarium-web.org/) <--- online planetarium
 -   [Studddent](https://studddent.com/) <--- list of discounts while you're a student
 -   [TLDRLegal](https://tldrlegal.com/) <--- software licences explained in plain English
+-   [Webamp](https://webamp.org/) <--- Winamp 2 in your browser
 -   [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) <--- have some fun :)
 -   [windows95](https://github.com/felixrieseberg/windows95) <--- Windows 95, running in an Electron app
 -   [Zero Width Shortener](https://zws.im/) <--- URL shortener that shortens URLs using spaces that have zero width, making them invisible to humans
