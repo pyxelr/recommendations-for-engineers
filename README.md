@@ -885,17 +885,16 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [How much free time do you have?](https://erikrood.com/Posts/free_time_calc.html) <--- specify values and get the result
 -   [Follow Friday](https://followfriday.io/) <--- interesting people to follow, categorised by topics like AI, design or programming
     -   [list of accounts I'm following](https://twitter.com/pawel_cislo/following) <--- all the people that influence my writing on [pawelcislo.com](https://pawelcislo.com/)
--   [Free Time](https://erikrood.com/Posts/free_time_calc.html) <--- calculate how much free time you have based on the specified criteria
 -   [Internet Archive](https://archive.org/web/) <--- wayback machine with a digital library of Internet sites
 -   [My Pinterest account](https://pinterest.com/pyxelrr/) <--- aggregation of the most practical infographics that I stepped on
--   [Programming Fonts](https://app.programmingfonts.org/) <--- quickly check lots of programming fonts
+-   [Programming Fonts](https://app.programmingfonts.org/) <--- quickly check lots of programming fonts in your browser
 -   [Related subreddits](https://anvaka.github.io/sayit/?query=datascience&utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn) <--- find related subreddits in the form of a graph
--   [scrcpy](https://blog.rom1v.com/2018/03/introducing-scrcpy/) <--- display and control Android devices connected on USB
+-   [scrcpy](https://github.com/Genymobile/scrcpy) <--- display and control Android devices connected on USB
 -   [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) <--- find the shortest path from one Wikipedia article to another
 -   [Stellarium Web Online Star Map](https://stellarium-web.org/) <--- online planetarium
--   [Studddent](https://studddent.com/) <--- list of discounts while you're a student
+-   [Studddent](https://studddent.com/) <--- list of student discounts for learning & development
 -   [TLDRLegal](https://tldrlegal.com/) <--- software licences explained in plain English
 -   [Webamp](https://webamp.org/) <--- Winamp 2 in your browser
 -   [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) <--- have some fun :)
--   [windows95](https://github.com/felixrieseberg/windows95) <--- Windows 95, running in an Electron app
+-   [windows95](https://github.com/felixrieseberg/windows95) <--- Windows 95 running in the Electron app
 -   [Zero Width Shortener](https://zws.im/) <--- URL shortener that shortens URLs using spaces that have zero width, making them invisible to humans
