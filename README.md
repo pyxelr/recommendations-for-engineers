@@ -483,7 +483,7 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 ## Learning
 
 -   [Anki](https://apps.ankiweb.net/) <--- my favourite software to learn through spaced repetition and active learning in mobile and open-source PC app. Make sure to [check out my own decks](https://github.com/pyxelr/My_Anki_Decks_of_Flashards)
--   [Explorable Explanation](https://explorabl.es/all/) <--- hub for learning through interactive online games. Make sure to check out more from [Nicky Case!](https://ncase.me/)
+-   [Explorable Explanations](https://explorabl.es/all/) <--- hub for learning through interactive online games. Make sure to check out more from [Nicky Case!](https://ncase.me/)
 -   [Quizlet](https://quizlet.com/latest) <--- more user-friendly alternative to Anki
 -   [Researcher](https://www.researcher-app.com/) <--- feed for scientific papers
 -   [Simple Wikipedia](https://simple.wikipedia.org/wiki/Main_Page) <--- Wikipedia articles explained in simple words
