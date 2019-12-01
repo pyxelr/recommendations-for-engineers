@@ -525,6 +525,7 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 -   [Calculus For The People -- Season 1](https://www.geogebra.org/m/x39ys4d7) <--- free online book with interactive elements
 -   [Example Problems](http://www.exampleproblems.com/wiki/index.php/Main_Page) <--- example problems with solutions in a Wiki format
 -   [immersive linear algebra](http://immersivemath.com/ila/index.html) <--- free interactive online book
+-   [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html) <--- free online textbook at Georgia Tech
 -   [Mathematics For Machine Learning](https://mml-book.github.io/) <--- free book in a PDF format
 -   [Mathigon](https://mathigon.org/) <--- interactive math online
 -   [Math is Fun](https://www.mathsisfun.com/) <--- easy mathematical explanations
@@ -674,7 +675,9 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 
 ### coding challenges
 
+-   [CheckiO](https://checkio.org/) <--- learn Python or JavaScript through the online game
 -   [CodeSignal](https://codesignal.com/) <--- the most popular website of this kind
+-   [CodinGame](https://www.codingame.com/training) <--- learn programming through online sets of puzzles
 -   [Edabit](https://edabit.com/) <--- simple, new website in the market
 -   [exercism](https://exercism.io/) <--- 100% free service, where you submit solutions through your terminal
 -   [HackerRank](https://www.hackerrank.com/) <--- my personal choice. I've started with included 30-days coding challenge and can totally recommend it
@@ -887,6 +890,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
     -   [list of accounts I'm following](https://twitter.com/pawel_cislo/following) <--- all the people that influence my writing on [pawelcislo.com](https://pawelcislo.com/)
 -   [Internet Archive](https://archive.org/web/) <--- wayback machine with a digital library of Internet sites
 -   [My Pinterest account](https://pinterest.com/pyxelrr/) <--- aggregation of the most practical infographics that I stepped on
+-   [Nerd Fonts](https://www.nerdfonts.com/) <--- iconic font aggregator, collection, and patches
 -   [Programming Fonts](https://app.programmingfonts.org/) <--- quickly check lots of programming fonts in your browser
 -   [Related subreddits](https://anvaka.github.io/sayit/?query=datascience&utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn) <--- find related subreddits in the form of a graph
 -   [scrcpy](https://github.com/Genymobile/scrcpy) <--- display and control Android devices connected on USB
