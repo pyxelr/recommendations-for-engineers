@@ -353,6 +353,7 @@ My private OneNote would be there, but I prefer to share only the most relevant 
 -   [LinkedIn](https://www.linkedin.com/) <--- social platform for employees
 -   [Remote Jobs](https://remotehub.io/) <--- browse 1,900+ remote companies and learn about their team, benefits, work culture and more
 -   [StatsJobs](https://www.statsjobs.com/) <--- jobs for statisticians
+-   [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) <--- carefully curated content to help you ace your next technical interview with a focus on algorithms
 
 #### tools
 
@@ -658,6 +659,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
     -   [Noises](https://noises.online/) <--- free alternative to Brain.fm
     -   [Noisli](https://www.noisli.com/) <--- another alternative
 -   [Box Breathing Exercise](https://breathe.vividwell.com/) <--- take a break, breathe and calm down
+-   [Effective Engineer Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) <--- quick read on how to be effective and get things done
 -   [Feedly](https://feedly.com) <--- news aggregator. Save time by browsing what matters
 -   [Focusmate](https://www.focusmate.com/) <--- let others watch you while you work
 -   [Integromat](https://www.integromat.com/en/) <--- automate various tasks (more advanced than [IFTT](https://ifttt.com/) and 2.5x cheaper than [Zapier](https://zapier.com/))
