@@ -756,7 +756,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [JDownloader](http://jdownloader.org/home/index?s=lng_en) <--- open-source download management tool
 -   [KeePassXC](https://keepassxc.org/) <--- cross-platform password manager. Otherwise, consider [1Password](https://1password.com/) as the most secure online manager
 -   [Mp3tag](https://www.mp3tag.de/en/) <--- mp3 tag editor
--   [Ninite](https://ninite.com/) <--- install or update all your programs at once
+-   [Ninite](https://ninite.com/) <--- install and update all your programs at once
 -   [PDF-XChange Editor](https://www.tracker-software.com/product/pdf-xchange-editor) <--- most feature-rich PDF viewer/editor
 -   [PortableApps.com](https://portableapps.com/) <--- full-featured portable software system
 -   [Potplayer](https://potplayer.daum.net/) <--- video player
