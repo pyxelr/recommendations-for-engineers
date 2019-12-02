@@ -595,7 +595,7 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 -   [Inside](https://inside.com/) <--- daily newsletters on different topics. For example, check out [Inside AI](https://inside.com/ai) and its [recent issues](https://inside.com/lists/ai/recent_issues) at any time
 -   [James Clear](https://jamesclear.com/newsletter) <--- apply better habits in your life (from the author of Atomic Habits)
 -   [Podcast Notes](https://podcastnotes.org/) <--- summary of podcasts in few bullet points
--   [unknowNews](https://unknow.news/) (🇵🇱) <--- weekly newsletter. Check its [archive](https://news.mrugalski.pl/) or [search engine](https://www.uw7.org/szukaj/) for past sendings
+-   [unknowNews](https://unknow.news/) (🇵🇱) <--- weekly newsletter. Check its [archive](https://news.mrugalski.pl/) or [search engine](https://www.uw7.org/szukaj/) for the past sendings
 
 ## Podcasts
 
