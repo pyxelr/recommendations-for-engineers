@@ -701,6 +701,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 
 -   [Airtable](https://airtable.com/) <--- partly spreadsheet, partly database. Can replace WordPress for non-technical users, who can also manage multiple domains using this tool
 -   [Algorithm Visualiser](https://algorithm-visualizer.org/) <--- interactive online platform to visualise algorithms from code
+-   [ExtendsClass](https://extendsclass.com/) <--- toolbox for web designers and webmasters
 -   [json.pizza](https://json.pizza/) <--- beautify your JSON code
 -   [Python Tutor](http://pythontutor.com/) <--- visualise Python algorithms, step by step
 -   [regex101](https://regex101.com/) <--- online regex tester and debugger
