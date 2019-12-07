@@ -399,7 +399,8 @@ As there are many, I highly encourage you to check my custom feeds:
 -   [Image-to-Image Demo](https://affinelayer.com/pixsrv/) <--- interactive image translation with pix2pix-tensorflow
 -   [Interactive Machine Learning List](https://p.migdal.pl/interactive-machine-learning-list/) <--- list of interactive ML visualisations
 -   [Keras.js](https://transcranial.github.io/keras-js/) <--- run Keras models in your browser
--   [Lyrebird AI](https://www.descript.com/lyrebird-ai?source=lyrebird) <--- voice cloning
+-   [Lyrebird AI](https://www.descript.com/lyrebird-ai) <--- voice cloning
+-   [RAWGraphs](https://rawgraphs.io/) <--- quickly generate data visualisations from spreadsheets
 -   [RecurrentJS Sentence Memorization](https://cs.stanford.edu/people/karpathy/recurrentjs/)
 -   [SegNet](https://mi.eng.cam.ac.uk/projects/segnet/) <--- image segmentation
 -   [Self-driving cars in the browser](https://janhuenermann.com/blog/learning-to-drive)
