@@ -1,5 +1,5 @@
 # Recommendations for Engineers
-All of my recommendations for aspiring engineers in a single place, coming from various areas of my interest. The principal scope supports data science, development, python, math, cybersecurity, business, and productivity.
+All of my recommendations for aspiring engineers in a single place, coming from various areas of my interest. The principal scope supports data science, programming, python, math, cybersecurity, business, and productivity.
 
 The list also aggregates and extends most of the suggestions from [my blog posts](https://pawelcislo.com/), where some of the entries come from a different language (🇵🇱). Although it's my personal list, don't hesitate to create a pull request if I missed something interesting or if there is a dead link.
 
@@ -80,16 +80,6 @@ Collection of all the blogs for the categories below. I advise adding all the re
 -   [Towards Data Science](https://towardsdatascience.com/) <--- Medium for data science
 -   [Victor Zhou](https://victorzhou.com/) <--- blog about web development, machine learning, and more
 
-### development
-
--   [Code Without Rules](https://codewithoutrules.com/) <--- helping you become a productive programmer and get work/life balance
--   [Coding Horror](https://blog.codinghorror.com/) <--- programming and human factors
--   [DEV Community](https://dev.to/) <--- popular blogging platform for developers
--   [Devstyle](https://devstyle.pl/) (🇵🇱) <--- blog for every programmer
--   [Discover dev](https://www.discoverdev.io/) <--- daily digest of the best engineering blogs from across the web
--   [Hacker Noon](https://hackernoon.com/) <--- great stories by real tech professionals
--   [Product Hunt](https://www.producthunt.com/) <--- discover the best new products in tech
-
 ### general
 
 -   [Medium](https://medium.com/) <--- popular blogging platform
@@ -102,6 +92,16 @@ Collection of all the blogs for the categories below. I advise adding all the re
 -   [Math = Love](https://mathequalslove.blogspot.com/)
 -   [Math for Love](https://mathforlove.com/blog/)
 -   [Math with Bad Drawings](https://mathwithbaddrawings.com/)
+
+### programming
+
+-   [Code Without Rules](https://codewithoutrules.com/) <--- helping you become a productive programmer and get work/life balance
+-   [Coding Horror](https://blog.codinghorror.com/) <--- programming and human factors
+-   [DEV Community](https://dev.to/) <--- popular blogging platform for developers
+-   [Devstyle](https://devstyle.pl/) (🇵🇱) <--- blog for every programmer
+-   [Discover dev](https://www.discoverdev.io/) <--- daily digest of the best engineering blogs from across the web
+-   [Hacker Noon](https://hackernoon.com/) <--- great stories by real tech professionals
+-   [Product Hunt](https://www.producthunt.com/) <--- discover the best new products in tech
 
 ## Books
 For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/list/57442889).
@@ -628,14 +628,6 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Talk Python To Me](https://talkpython.fm/) <--- podcast on Python and related technologies
 -   [The Numberphile podcast](https://www.numberphile.com/podcast/) <--- fall in love with numbers
 
-### development
-
--   [Andrzej on Software](https://www.spreaker.com/show/andrzej-krzywdas-show) <--- software, including but not limited to Ruby, JS, OOP, DDD, CQRS, AI, business, sales, marketing
--   [DevelopersHangout](http://www.developershangout.io/) <--- discussions of topics about coding and all that comes with it
--   [Developer Tea](https://spec.fm/podcasts/developer-tea) <--- short podcast for developers
--   [DevTalk](https://devtalk.pl/) (🇵🇱) <--- podcast for programmers
--   [Retrospektywa](https://www.retrospektywa.com/) (🇵🇱) <--- talks about IT projects
-
 ### general/science
 
 -   [60-Second Science](https://www.scientificamerican.com/podcast/60-second-science/) <--- 60-second podcasts to explain scientific topics
@@ -652,6 +644,14 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Ben Greenfield Fitness](https://bengreenfieldfitness.com/) <--- fitness advice
 -   [Bulletproof Radio](https://blog.daveasprey.com/category/podcasts/) <--- biohacker podcast by Dave Asprey
 -   [TedTalks Health](https://www.ted.com/talks?topics%5B%5D=health)
+
+### programming
+
+-   [Andrzej on Software](https://www.spreaker.com/show/andrzej-krzywdas-show) <--- software, including but not limited to Ruby, JS, OOP, DDD, CQRS, AI, business, sales, marketing
+-   [DevelopersHangout](http://www.developershangout.io/) <--- discussions of topics about coding and all that comes with it
+-   [Developer Tea](https://spec.fm/podcasts/developer-tea) <--- short podcast for developers
+-   [DevTalk](https://devtalk.pl/) (🇵🇱) <--- podcast for programmers
+-   [Retrospektywa](https://www.retrospektywa.com/) (🇵🇱) <--- talks about IT projects
 
 ## Productivity
 
