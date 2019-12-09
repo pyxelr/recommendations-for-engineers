@@ -138,8 +138,8 @@ For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/lis
 
 ### cybersecurity
 
--   [Black Hat Python: Python Programming for Hackers and Pentesters](https://www.goodreads.com/book/show/23719792-black-hat-python)
 -   [Bezpieczeństwo aplikacji webowych](https://www.goodreads.com/book/show/48718398-bezpiecze-stwo-aplikacji-webowych) (🇵🇱)
+-   [Black Hat Python: Python Programming for Hackers and Pentesters](https://www.goodreads.com/book/show/23719792-black-hat-python)
 -   [Hacking, 2nd Edition: The Art of Exploitation](https://www.goodreads.com/book/show/20891014-hacking-2nd-edition)
 -   [Machine Learning and Security: Protecting Systems with Data and Algorithms](https://www.goodreads.com/book/show/34691714-machine-learning-and-security)
 -   [Penetration Testing: A Hands-On Introduction to Hacking](https://www.goodreads.com/book/show/22713760-penetration-testing)
@@ -222,7 +222,7 @@ Mostly universal (language-independent books).
 -   [Implementing Domain-Driven Design](https://www.goodreads.com/book/show/15756865-implementing-domain-driven-design)
 -   [Junior Developer. Wszystko co trzeba wiedzieć, by zacząć pracę jako programista](https://www.goodreads.com/book/show/32998879-junior-developer-wszystko-co-trzeba-wiedzie-by-zacz-prac-jako-prog) (🇵🇱)
 -   [Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
--   [The C programming language](https://www.goodreads.com/book/show/515601.The_C_Programming_Language)
+-   [The C Programming Language](https://www.goodreads.com/book/show/515601.The_C_Programming_Language)
 -   [The C++ Programming Language](https://www.goodreads.com/book/show/18709954-the-c-programming-language) (4th Edition)
 -   [The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job](https://www.goodreads.com/book/show/35674293-the-complete-software-developer-s-career-guide)
 -   [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
@@ -366,8 +366,8 @@ My private OneNote would be there, but I prefer to share only the most relevant 
 -   [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) <--- learn data science from IPython notebooks
 -   [Kaggle](https://www.kaggle.com/) <--- home of data science for competitions, datasets, coursers, notebooks and discussions
 -   [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/) <--- blog post, which explains the most critical concepts in a funny and practical way. You won't be bored reading it, and it might take you around 30-40 mins
--   [Machine Learning Study Path March 2019](https://github.com/clone95/Machine-Learning-Study-Path-March-2019) <--- GitHub repository with complete ML study path, focused on TensorFlow and Scikit-Learn
 -   [Machine Learning on Coursera](https://www.coursera.org/learn/machine-learning) <--- the must check course by Andrew Ng
+-   [Machine Learning Study Path March 2019](https://github.com/clone95/Machine-Learning-Study-Path-March-2019) <--- GitHub repository with complete ML study path, focused on TensorFlow and Scikit-Learn
 -   [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) <--- YouTube playlist of four (20 mins videos) explaining the theory behind neural networks (by 3blue1brown).
 
 ### news
@@ -417,7 +417,7 @@ As there are many, I highly encourage you to check my custom feeds:
 
 ### visualisations
 
--   [Datavisualisation](http://selection.datavisualization.ch/) <--- list of visualisation tools
+-   [Datavisualization](http://selection.datavisualization.ch/) <--- list of visualisation tools
 -   [FlowingData](https://flowingdata.com/) <--- blog on data visualisation
 -   [Information is Beautiful](https://informationisbeautiful.net/) <--- see it with your own eyes
 -   [Population.io](https://population.io/) <--- what's your place in the world population? How long will you live?
@@ -452,9 +452,9 @@ As there are many, I highly encourage you to check my custom feeds:
 
 ### edit
 
--   [remove.bg](https://www.remove.bg/) <--- remove background from an image by simply uploading it
 -   [Photopea](https://www.photopea.com/) <--- Photoshop in the browser
 -   [Pixlr X](https://pixlr.com/x/) <--- online image editor
+-   [remove.bg](https://www.remove.bg/) <--- remove background from an image by simply uploading it
 
 ### icons
 
@@ -512,10 +512,10 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 
 ### questions
 
+-   [Quora](https://www.quora.com/) <--- ask anything
 -   [Reddit](https://www.reddit.com/) <--- find the right subreddit for your question
 -   [Stack Exchange](https://stackexchange.com/sites) <--- find the right site to ask your question
 -   [Stack Overflow](https://stackoverflow.com/) <--- all the programming related questions
--   [Quora](https://www.quora.com/) <--- ask anything
 
 ## Math
 
@@ -575,8 +575,8 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 
 -   [Last.fm](http://www.last.fm/) <--- track your scrobbles. Make sure to [follow me](https://www.last.fm/user/Pyxelr)!
 -   [Radio Garden](http://radio.garden/) <--- listen to thousands of radio stations from the world using a Google Earth based menu
--   [Spotify](https://www.spotify.com/) <--- stream music online
 -   [SoundCloud](https://soundcloud.com/stream) <--- find lots of indie music and upload your own one. Make sure to [follow me](https://soundcloud.com/pyxelr)!
+-   [Spotify](https://www.spotify.com/) <--- stream music online
 
 ### tools
 
@@ -702,6 +702,8 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 
 -   [Airtable](https://airtable.com/) <--- partly spreadsheet, partly database. Can replace WordPress for non-technical users, who can also manage multiple domains using this tool
 -   [Algorithm Visualiser](https://algorithm-visualizer.org/) <--- interactive online platform to visualise algorithms from code
+-   [Bubble](https://bubble.is/) <--- visual programming (no coding required)
+-   [Coda](https://coda.io/) <--- build docs as powerful as an app (no coding recuired)
 -   [ExtendsClass](https://extendsclass.com/) <--- toolbox for web designers and webmasters
 -   [json.pizza](https://json.pizza/) <--- beautify your JSON code
 -   [Python Tutor](http://pythontutor.com/) <--- visualise Python algorithms, step by step
@@ -777,8 +779,8 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Grammarly](https://www.grammarly.com/) <--- most popular English proofreader with AI optimisation
 -   [LanguageTool Plus](https://languagetoolplus.com/) <--- proofreading extension
 -   [Parts of speech](https://parts-of-speech.info/) <--- categorise words based on similar grammatical properties (noun, verb, adjective, etc.)
--   [Readable](https://www.webfx.com/tools/read-able/) <--- perform the ultimate readability test (base on Flesch Kincaid Reading Ease, SMOG Index and more...)
 -   [Power Thesaurus](https://www.powerthesaurus.org/) <--- synonym finder
+-   [Readable](https://www.webfx.com/tools/read-able/) <--- perform the ultimate readability test (base on Flesch Kincaid Reading Ease, SMOG Index and more...)
 -   [Word Frequency Counter](http://www.writewords.org.uk/word_count.asp) <--- paste in the text and find out if you're not overusing particular words
 -   [ZoteroBib](https://zbib.org/) <--- web bibliography manager. Also, check the [cross-platform version](https://www.zotero.org/)
 
@@ -795,8 +797,8 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [DOAJ](https://doaj.org/) <--- directory of open access journals
 -   [Google Scholar](https://scholar.google.com/)
 -   [ResearchGate](https://www.researchgate.net/)
--   [Sci-Hub](https://whereisscihub.now.sh/) <--- unlock access to all scientific papers using its URL, PMID/DOI
 -   [ScienceDirect](https://www.sciencedirect.com/)
+-   [Sci-Hub](https://whereisscihub.now.sh/) <--- unlock access to all scientific papers using its URL, PMID/DOI
 -   and if that's not enough, try [Wikipedia's List of academic databases and search engines](https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines)
 
 ## YouTube Channels
@@ -890,9 +892,9 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Can I email](https://www.caniemail.com/) <--- check which HTML and CSS elements are supported by your mail client
 -   [Code Wizard ~ Ash Kyd](https://ash.ms/) <--- website of a developer in a Windows ME style. It's worth checking out the arrangement of blog posts/vlogs
 -   [DistroTest](https://distrotest.net/) <--- try running any Linux distro in the cloud VM
--   [How much free time do you have?](https://erikrood.com/Posts/free_time_calc.html) <--- specify values and get the result
 -   [Follow Friday](https://followfriday.io/) <--- interesting people to follow, categorised by topics like AI, design or programming
     -   [list of accounts I'm following](https://twitter.com/pawel_cislo/following) <--- all the people that influence my writing on [pawelcislo.com](https://pawelcislo.com/)
+-   [How much free time do you have?](https://erikrood.com/Posts/free_time_calc.html) <--- specify values and get the result
 -   [Internet Archive](https://archive.org/web/) <--- wayback machine with a digital library of Internet sites
 -   [My Pinterest account](https://pinterest.com/pyxelrr/) <--- aggregation of the most practical infographics that I stepped on
 -   [Nerd Fonts](https://www.nerdfonts.com/) <--- iconic font aggregator, collection, and patches
