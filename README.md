@@ -66,6 +66,7 @@ Collection of all the blogs for the categories below. I advise adding all the re
 -   [Business Science](https://www.business-science.io/blog/index.html) <--- general blog on DS with many courses
 -   [colah's blog](https://colah.github.io/) <--- great explanations of more advanced topics
 -   [Datafloq](https://datafloq.com/read/) <--- big data news
+-   [DataGenetics](http://datagenetics.com/blog.html) <--- data decoded, value unlocked
 -   [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/) <--- using ML and quantum physics
 -   [Distill](https://distill.pub/) <--- interactive, visual journal for machine learning research
 -   [FlowingData](https://flowingdata.com/) <--- blog on data visualisation
