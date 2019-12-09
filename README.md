@@ -67,6 +67,7 @@ Collection of all the blogs for the categories below. I advise adding all the re
 -   [colah's blog](https://colah.github.io/) <--- great explanations of more advanced topics
 -   [Datafloq](https://datafloq.com/read/) <--- big data news
 -   [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/) <--- using ML and quantum physics
+-   [Distill](https://distill.pub/) <--- interactive, visual journal for machine learning research
 -   [FlowingData](https://flowingdata.com/) <--- blog on data visualisation
 -   [Information is Beautiful](https://informationisbeautiful.net/) <--- see it with your own eyes
 -   [Jak badać dane](https://www.jakbadacdane.pl/) (🇵🇱) <--- data, ML, AI
