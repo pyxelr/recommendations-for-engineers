@@ -300,6 +300,9 @@ Mostly universal (language-independent books).
 -   [Hybrid Analysis](https://hybrid-analysis.com//) <--- analyse malware for free in the browser
 -   [IP Info](https://ip.voidsec.com/) <--- check if your VPN leaks information
 -   [Pi-Hole](https://pi-hole.net/) <--- adblock for the whole network (requires: router + raspberry pi)
+-   [PrivacyTools](https://www.privacytools.io/index.html) <--- set of services, tools, and knowledge to protect your privacy
+    -   [PRISM Break](https://prism-break.org/) <--- set of privacy tools (categorised by operating systems)
+    -   [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) <--- curated list of privacy respecting services and software
 -   [Shodan](https://www.shodan.io/) <--- search engine of IoT
 -   [Tails](https://tails.boum.org/) <--- privacy OS for pendrive (protects your privacy and offers all sorts of apps to do so, like Tor, Thunderbird and PGP)
 -   [Webbkoll](https://webbkoll.dataskydd.net/en/) <--- monitor privacy-enhancing features on websites, and find out who is letting you exercise control over your privacy
