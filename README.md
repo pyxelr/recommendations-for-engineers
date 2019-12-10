@@ -104,6 +104,7 @@ Collection of all the blogs for the categories below. I advise adding all the re
 -   [Discover dev](https://www.discoverdev.io/) <--- daily digest of the best engineering blogs from across the web
 -   [Hacker Noon](https://hackernoon.com/) <--- great stories by real tech professionals
 -   [Product Hunt](https://www.producthunt.com/) <--- discover the best new products in tech
+-   [Stack Overflow Blog](https://stackoverflow.blog/) <--- essays, opinions, and advice on the act of computer programming
 
 ## Books
 For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/list/57442889).
@@ -602,6 +603,7 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 -   [Inside](https://inside.com/) <--- daily newsletters on different topics. For example, check out [Inside AI](https://inside.com/ai) and its [recent issues](https://inside.com/lists/ai/recent_issues) at any time
 -   [James Clear](https://jamesclear.com/newsletter) <--- apply better habits in your life (from the author of Atomic Habits)
 -   [Podcast Notes](https://podcastnotes.org/) <--- summary of podcasts in few bullet points
+-   [The Overflow](https://stackoverflow.blog/newsletter/) <--- newsletter by developers, for developers
 -   [unknowNews](https://unknow.news/) (🇵🇱) <--- weekly newsletter. Check its [archive](https://news.mrugalski.pl/) or [search engine](https://www.uw7.org/szukaj/) for the past sendings
 
 ## Podcasts
@@ -657,6 +659,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Developer Tea](https://spec.fm/podcasts/developer-tea) <--- short podcast for developers
 -   [DevTalk](https://devtalk.pl/) (🇵🇱) <--- podcast for programmers
 -   [Retrospektywa](https://www.retrospektywa.com/) (🇵🇱) <--- talks about IT projects
+-   [The Stack Overflow Podcast](https://stackoverflow.blog/podcast/) <--- weekly conversation about working in software development
 
 ## Productivity
 
