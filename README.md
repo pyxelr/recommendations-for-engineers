@@ -673,6 +673,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Ted Talks Daily](https://www.ted.com/talks) <--- use your podcast app to find more categorised TED talks
 -   [The Anthropocene Reviewed](https://www.wnycstudios.org/podcasts/anthropocene-reviewed) <--- reviews of facets of the human-centred planet
 -   [The Joe Rogan Experience](https://www.joerogan.com/) <--- famous podcast of Comedian Joe Rogan
+-   [The Stephen Wolfram Podcast](https://soundcloud.com/stephenwolfram/) <--- from the creator of Mathematica, Wolfram|Alpha and the Wolfram Language
 
 ### health
 
