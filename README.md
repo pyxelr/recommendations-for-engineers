@@ -510,6 +510,7 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 -   [Coursera](https://www.coursera.org/) <--- courses by universities and other professional organizations
 -   [Courseroot](https://courseroot.com/) <--- course search engine
 -   [DataCamp](https://www.datacamp.com/) <--- online courses just for data science
+-   [Dataquest](https://www.dataquest.io/) <--- online courses just for data science (seems to be tougher than DataCamp but lacks the mobile app)
 -   [edX](https://www.edx.org/) <--- online university-level courses
 -   [HN Academy](https://yahnd.com/academy/) <--- online courses recommended by the community of Hacker News
 -   [Khan Academy](https://www.khanacademy.org/) <--- free online university
