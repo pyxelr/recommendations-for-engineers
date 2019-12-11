@@ -30,7 +30,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - ✍ [Writing/Research](#writing_research)
 - 📼 [YouTube Channels](#youtube-channels)
 - 🤷‍♂ [Other](#other)
-
 * * * * *
 
 ## Blogs
@@ -105,6 +104,8 @@ Collection of all the blogs for the categories below. I advise adding all the re
 -   [Hacker Noon](https://hackernoon.com/) <--- great stories by real tech professionals
 -   [Product Hunt](https://www.producthunt.com/) <--- discover the best new products in tech
 -   [Stack Overflow Blog](https://stackoverflow.blog/) <--- essays, opinions, and advice on the act of computer programming
+
+**[⬆ Back to Contents](#contents)**
 
 ## Books
 For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/list/57442889).
@@ -242,6 +243,8 @@ Mostly universal (language-independent books).
 -   [The Ape that Understood the Universe: How the Mind and Culture Evolve](https://www.goodreads.com/book/show/40536444-the-ape-that-understood-the-universe "The Ape that Understood the Universe: How the Mind and Culture Evolve")
 -   [The Information: A History, a Theory, a Flood](https://www.goodreads.com/book/show/10728649-the-information "The Information: A History, a Theory, a Flood")
 
+**[⬆ Back to Contents](#contents)**
+
 ## Browser Extensions
 
 -   [30 seconds of knowledge](https://30secondsofknowledge.com/) <--- random code snippet every time you open a new tab
@@ -265,6 +268,8 @@ Mostly universal (language-independent books).
 -   [uBlock Origin](https://github.com/gorhill/uBlock#installation) <--- blocker addon (not only for ads)
 -   [Wappalyzer](https://www.wappalyzer.com/) <--- identify technology on websites
 
+**[⬆ Back to Contents](#contents)**
+
 ## Business 
 
 -   [ahrefs](https://ahrefs.com/) <--- research your competitors
@@ -286,6 +291,8 @@ Mostly universal (language-independent books).
     -   [stacklist](https://www.stacklist.com/stacklists/) <--- list of technologies used by startups
     -   [stash](https://startupstash.com/) <--- curated directory of resources & tools to help you build your startup
 -   [Tools for Makers](https://toolsformakers.com/) <--- hand-curated directory of tools for makers
+
+**[⬆ Back to Contents](#contents)**
 
 ## Cybersecurity
 
@@ -309,6 +316,8 @@ Mostly universal (language-independent books).
 -   [Webbkoll](https://webbkoll.dataskydd.net/en/) <--- monitor privacy-enhancing features on websites, and find out who is letting you exercise control over your privacy
 -   [Whois](https://whois.domaintools.com/) <--- whois lookup
 -   [Your social media fingerprint](https://robinlinus.github.io/socialmedia-leak/) <--- check where you are currently logged in
+
+**[⬆ Back to Contents](#contents)**
 
 ## Data Science
 
@@ -430,6 +439,8 @@ As there are many, I highly encourage you to check my custom feeds:
 -   [Simply Statistics](https://simplystatistics.org/) <--- blog on data visualisation
 -   [Worldometers](https://www.worldometers.info/) <--- real-time world statistics
 
+**[⬆ Back to Contents](#contents)**
+
 ## Design
 
 -   [Can't Unsee](https://cantunsee.space/) <--- check your graphical sense
@@ -469,6 +480,8 @@ As there are many, I highly encourage you to check my custom feeds:
 -   [Font Awesome](https://fontawesome.com/) <--- vector icons and social logos for your website
 -   [icons8](https://icons8.com/icons) <--- free icons
 
+**[⬆ Back to Contents](#contents)**
+
 ## Events
 
 -   [Eventbrite](https://www.eventbrite.com/) <--- social network for events
@@ -476,6 +489,8 @@ As there are many, I highly encourage you to check my custom feeds:
 -   [Facebook](https://www.facebook.com/events/)
 -   [Hackathon.com](https://www.hackathon.com/) <--- find worldwide hackathons
 -   [Meetup](https://www.meetup.com/) <--- social network for events
+
+**[⬆ Back to Contents](#contents)**
 
 ## IT News
 
@@ -487,6 +502,8 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 -   [Slashdot](https://slashdot.org/)
 -   [TechCrunch](https://techcrunch.com/)
 -   [The Hacker News](https://thehackernews.com/) <--- cybersecurity news
+
+**[⬆ Back to Contents](#contents)**
 
 ## Learning
 
@@ -525,6 +542,8 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 -   [Stack Exchange](https://stackexchange.com/sites) <--- find the right site to ask your question
 -   [Stack Overflow](https://stackoverflow.com/) <--- all the programming related questions
 
+**[⬆ Back to Contents](#contents)**
+
 ## Math
 
 ### learning
@@ -549,6 +568,8 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 -   [Symbolab](https://www.symbolab.com/) <--- step by step solver
 -   [WolframAlpha](https://www.wolframalpha.com/) <--- ultimate online calculator
 
+**[⬆ Back to Contents](#contents)**
+
 ## Mobile Apps
 
 -   [Algorithms: Explained and Animated](https://play.google.com/store/apps/details?id=wiki.algorithm.algorithms&hl=en) <--- great representation of various algorithms
@@ -560,6 +581,8 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 -   [Statinfer](https://play.google.com/store/apps/details?id=com.learn.statinfer1) <--- quiz app to test your data science skills (ML, DL, tools, interview questions, etc.)
 -   [Puzzlerama](https://play.google.com/store/apps/details?id=com.leodesol.games.puzzlecollection) <--- stock of puzzles
 -   [SoloLearn](https://www.sololearn.com/) <--- mobile programming university
+
+**[⬆ Back to Contents](#contents)**
 
 ## Music
 
@@ -573,7 +596,6 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 -   [academy.fm](https://academy.fm/) <--- lots of online courses
 -   [Beatboxing for kids](https://beatboxingforkids.fun/) <--- teach your kids beatboxing using everyday words
 -   [Learn music with Ableton](https://learningmusic.ableton.com/index.html) <--- interactively in your browser
-
     -   [Learning Synths](https://learningsynths.ableton.com/get-started)
 -   [Melodics](https://melodics.com/) <--- interactive desktop software
 -   [Pianu](https://pianu.com/) <--- online interactive piano
@@ -594,6 +616,8 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 -   [SOUL](https://soul.dev/playground/?id=55e627cb87ad63674a8c07cf3664991d) <--- IDE and language to make music
 -   [Spleeter](https://github.com/deezer/spleeter) <--- extract acapella from the song using AI ([demonstration video](https://youtu.be/tgnuOSLPwMI))
 
+**[⬆ Back to Contents](#contents)**
+
 ## Newsletters
 
 -   [Bullets.tech](https://bullets.tech/) <--- scientific papers summarized in few bullet points
@@ -607,6 +631,8 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 -   [Podcast Notes](https://podcastnotes.org/) <--- summary of podcasts in few bullet points
 -   [The Overflow](https://stackoverflow.blog/newsletter/) <--- newsletter by developers, for developers
 -   [unknowNews](https://unknow.news/) (🇵🇱) <--- weekly newsletter. Check its [archive](https://news.mrugalski.pl/) or [search engine](https://www.uw7.org/szukaj/) for the past sendings
+
+**[⬆ Back to Contents](#contents)**
 
 ## Podcasts
 
@@ -663,6 +689,8 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Retrospektywa](https://www.retrospektywa.com/) (🇵🇱) <--- talks about IT projects
 -   [The Stack Overflow Podcast](https://stackoverflow.blog/podcast/) <--- weekly conversation about working in software development
 
+**[⬆ Back to Contents](#contents)**
+
 ## Productivity
 
 -   [Brain.fm](https://www.brain.fm/) <--- music to improve focus. Try sample sounds on [their YouTube channel](https://www.youtube.com/channel/UC45Wdr3wPy1qR2WLUCTsFKg)
@@ -683,6 +711,8 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Productivity](https://hive.com/the-productivity-stack/) [Stack](https://hive.com/the-productivity-stack/) <--- list of productivity tools
 -   [Todoist](https://todoist.com/) <--- my daily to-do app, for which I explained my setup in a [past blog post](https://pawelcislo.com/2018/11/09/aim-for-your-goals-the-right-way/#ftoc-heading-3)
 -   [Toggl](https://toggl.com/) <--- time tracker
+
+**[⬆ Back to Contents](#contents)**
 
 ## Programming
 
@@ -743,6 +773,8 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Tutorialspoint](https://www.tutorialspoint.com/) <--- programmer's ultimate Wikipedia
 -   [W3Schools](https://www.w3schools.com/) <--- well documented online tutorials
 
+**[⬆ Back to Contents](#contents)**
+
 ## Travel
 
 -   [Champion Traveler](https://championtraveler.com/best-time-to-travel/) <--- find the best time to travel based on the weather
@@ -754,6 +786,8 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [The True Size Of ...](https://thetruesize.com/) <--- select a country, drag it around the world map to compare its size
 -   [What to Eat in](https://what.toeat.in/) <--- list of things to eat in selected countries
 -   [Wikivoyage](https://en.wikivoyage.org/wiki/Main_Page) <--- worldwide travel guide
+
+**[⬆ Back to Contents](#contents)**
 
 ## Windows
 
@@ -781,6 +815,8 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)<--- SSH and telnet client
 -   [qBittorrent](https://www.qbittorrent.org/) <--- open-source torrent manager
 -   [ShareX](https://getsharex.com/) <--- most feature-rich screen capture tool
+
+**[⬆ Back to Contents](#contents)**
 
 ## Writing_Research
 
@@ -810,6 +846,8 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [ScienceDirect](https://www.sciencedirect.com/)
 -   [Sci-Hub](https://whereisscihub.now.sh/) <--- unlock access to all scientific papers using its URL, PMID/DOI
 -   and if that's not enough, try [Wikipedia's List of academic databases and search engines](https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines)
+
+**[⬆ Back to Contents](#contents)**
 
 ## YouTube Channels
 
@@ -891,6 +929,8 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Linus](https://www.youtube.com/user/LinusTechTips) <--- entertaining tech explanations
 -   [Techquickie](https://www.youtube.com/user/Techquickie) <--- humorous answers to tech questions
 
+**[⬆ Back to Contents](#contents)**
+
 ## Other
 
 -   [Ancient Earth globe](https://dinosaurpictures.org/ancient-earth) <--- check how Earth looked like x years ago
@@ -919,3 +959,5 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) <--- have some fun :)
 -   [windows95](https://github.com/felixrieseberg/windows95) <--- Windows 95 running in the Electron app
 -   [Zero Width Shortener](https://zws.im/) <--- URL shortener that shortens URLs using spaces that have zero width, making them invisible to humans
+
+**[⬆ Back to Contents](#contents)**
