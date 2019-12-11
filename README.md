@@ -513,6 +513,7 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 -   [edX](https://www.edx.org/) <--- online university-level courses
 -   [HN Academy](https://yahnd.com/academy/) <--- online courses recommended by the community of Hacker News
 -   [Khan Academy](https://www.khanacademy.org/) <--- free online university
+-   [SwitchUp](https://www.switchup.org/) <--- compare/rank bootcamps by subjects
 -   [Udacity](https://www.udacity.com/) <--- high-quality courses for tech topics
 -   [Udemy](https://www.udemy.com/) <--- find and create online courses
 
