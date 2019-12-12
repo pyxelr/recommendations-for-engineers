@@ -604,7 +604,6 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 ### listen
 
 -   [Last.fm](http://www.last.fm/) <--- track your scrobbles. Make sure to [follow me](https://www.last.fm/user/Pyxelr)!
--   [musicForProgramming](http://musicforprogramming.net/) <--- series of mixes intended for listening while '+task+' to aid concentration
 -   [Radio Garden](http://radio.garden/) <--- listen to thousands of radio stations from the world using a Google Earth based menu
 -   [SoundCloud](https://soundcloud.com/stream) <--- find lots of indie music and upload your own one. Make sure to [follow me](https://soundcloud.com/pyxelr)!
 -   [Spotify](https://www.spotify.com/) <--- stream music online
@@ -707,6 +706,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Integromat](https://www.integromat.com/en/) <--- automate various tasks (more advanced than [IFTT](https://ifttt.com/) and 2.5x cheaper than [Zapier](https://zapier.com/))
 -   [Leave Me Alone](https://leavemealone.xyz/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn) <--- see all of your subscription emails in one place and unsubscribe from them with a single click
 -   Monochrome mode (grayscale mode) activation on your mobile device <--- attract yourself less to the colourless screen
+-   [musicForProgramming](http://musicforprogramming.net/) <--- series of mixes intended for listening while '+task+' to aid concentration
 -   [Notion](https://www.notion.so/) <--- all-in-one workspace to replace to-do lists and note-taking apps
 -   [OneNote 2016](https://support.office.com/en-gb/article/install-or-reinstall-onenote-2016-for-windows-c08068d8-b517-4464-9ff2-132cb9c45c08) <--- my favourite note-taking tool (2016 version more feature-rich over the UWP app)
     -   [Onetastic](https://getonetastic.com/) <--- set of extensions for OneNote
