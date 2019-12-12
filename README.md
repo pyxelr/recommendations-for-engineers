@@ -604,6 +604,7 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 ### listen
 
 -   [Last.fm](http://www.last.fm/) <--- track your scrobbles. Make sure to [follow me](https://www.last.fm/user/Pyxelr)!
+-   [musicForProgramming](http://musicforprogramming.net/) <--- series of mixes intended for listening while '+task+' to aid concentration
 -   [Radio Garden](http://radio.garden/) <--- listen to thousands of radio stations from the world using a Google Earth based menu
 -   [SoundCloud](https://soundcloud.com/stream) <--- find lots of indie music and upload your own one. Make sure to [follow me](https://soundcloud.com/pyxelr)!
 -   [Spotify](https://www.spotify.com/) <--- stream music online
@@ -620,6 +621,7 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 
 ## Newsletters
 
+-   [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters) <--- curated list of awesome newsletters
 -   [Bullets.tech](https://bullets.tech/) <--- scientific papers summarized in few bullet points
 -   [Data Science Weekly](https://www.datascienceweekly.org/) <--- featuring curated news, articles and jobs related to Data Science. You can read the [archive](https://www.datascienceweekly.org/newsletters) at any time
 -   [DEV Community](https://dev.to/settings/notifications) <--- weekly newsletter of top 7 posts (activate in settings of your account)
