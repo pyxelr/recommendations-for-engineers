@@ -83,6 +83,7 @@ Collection of all the blogs for the categories below. I advise adding all the re
 
 ### general
 
+-   [Andy Matuschak](https://andymatuschak.org/) <--- read and learn about learning, quantum computing, math, software development, and more
 -   [Medium](https://medium.com/) <--- popular blogging platform
 -   [Reddit](https://www.reddit.com/) <--- front page of the Internet (tip: browse by subreddits, not the main site)
 -   [Wait But Why](https://waitbutwhy.com/) <--- great reading time guaranteed
