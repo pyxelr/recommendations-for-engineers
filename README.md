@@ -66,8 +66,10 @@ Collection of all the blogs for the categories below. I advise adding all the re
 -   [colah's blog](https://colah.github.io/) <--- great explanations of more advanced topics
 -   [Datafloq](https://datafloq.com/read/) <--- big data news
 -   [DataGenetics](http://datagenetics.com/blog.html) <--- data decoded, value unlocked
+-   [David Does Data](https://josephsdavid.github.io/) <--- high-quality posts from aspiring data scientist
 -   [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/) <--- using ML and quantum physics
 -   [Distill](https://distill.pub/) <--- interactive, visual journal for machine learning research
+-   [Econometrics and Free Software](https://www.brodrigues.co/) <--- blog focused on R from the economist with PhD
 -   [FlowingData](https://flowingdata.com/) <--- blog on data visualisation
 -   [Information is Beautiful](https://informationisbeautiful.net/) <--- see it with your own eyes
 -   [Jak badać dane](https://www.jakbadacdane.pl/) (🇵🇱) <--- data, ML, AI
@@ -76,6 +78,7 @@ Collection of all the blogs for the categories below. I advise adding all the re
 -   [Łukasz Prokulski](http://prokulski.net/) (🇵🇱) <--- lots of data use cases with step by step analysis in R
 -   [Machine Learning Mastery](https://machinelearningmastery.com/blog/) <--- popular blog on ML with lots of content to learn from
 -   [Mateusz Grzyb](https://mateuszgrzyb.pl/) (🇵🇱) <--- data analysis in Python
+-   [Peter Laurinec](https://petolau.github.io/) <--- Time series data mining in R from a PhD researcher
 -   [Rubik's Code](https://rubikscode.net/) <--- AI without tears
 -   [Simply Statistics](https://simplystatistics.org/) <--- blog on data visualisation
 -   [Towards Data Science](https://towardsdatascience.com/) <--- Medium for data science
