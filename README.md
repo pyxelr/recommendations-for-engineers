@@ -68,9 +68,11 @@ Collection of all the blogs for the categories below. I advise adding all the re
 -   [DataGenetics](http://datagenetics.com/blog.html) <--- data decoded, value unlocked
 -   [David Does Data](https://josephsdavid.github.io/) <--- high-quality posts from aspiring data scientist
 -   [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/) <--- using ML and quantum physics
+-   [deepsense.ai](https://deepsense.ai/blog/) <--- blog from a team of business-oriented problem solvers
 -   [Distill](https://distill.pub/) <--- interactive, visual journal for machine learning research
 -   [Econometrics and Free Software](https://www.brodrigues.co/) <--- blog focused on R from the economist with PhD
 -   [FlowingData](https://flowingdata.com/) <--- blog on data visualisation
+-   [Go Practice](https://gopractice.io/blog/) <--- essays on how data helps building and growing products
 -   [Information is Beautiful](https://informationisbeautiful.net/) <--- see it with your own eyes
 -   [Jak badać dane](https://www.jakbadacdane.pl/) (🇵🇱) <--- data, ML, AI
 -   [Jay Alammar](https://jalammar.github.io/) <--- blog with lots of simple ML visualisations
