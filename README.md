@@ -70,7 +70,7 @@ Collection of all the blogs for the categories below. I advise adding all the re
 -   [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/) <--- using ML and quantum physics
 -   [deepsense.ai](https://deepsense.ai/blog/) <--- blog from a team of business-oriented problem solvers
 -   [Distill](https://distill.pub/) <--- interactive, visual journal for machine learning research
--   [Econometrics and Free Software](https://www.brodrigues.co/) <--- blog focused on R from the economist with PhD
+-   [Econometrics and Free Software](https://www.brodrigues.co/) <--- blog focused on R from the economist holding a PhD
 -   [FlowingData](https://flowingdata.com/) <--- blog on data visualisation
 -   [Go Practice](https://gopractice.io/blog/) <--- essays on how data helps building and growing products
 -   [Information is Beautiful](https://informationisbeautiful.net/) <--- see it with your own eyes
@@ -80,7 +80,7 @@ Collection of all the blogs for the categories below. I advise adding all the re
 -   [Łukasz Prokulski](http://prokulski.net/) (🇵🇱) <--- lots of data use cases with step by step analysis in R
 -   [Machine Learning Mastery](https://machinelearningmastery.com/blog/) <--- popular blog on ML with lots of content to learn from
 -   [Mateusz Grzyb](https://mateuszgrzyb.pl/) (🇵🇱) <--- data analysis in Python
--   [Peter Laurinec](https://petolau.github.io/) <--- Time series data mining in R from a PhD researcher
+-   [Peter Laurinec](https://petolau.github.io/) <--- time series data mining in R from a PhD researcher
 -   [Rubik's Code](https://rubikscode.net/) <--- AI without tears
 -   [Simply Statistics](https://simplystatistics.org/) <--- blog on data visualisation
 -   [Towards Data Science](https://towardsdatascience.com/) <--- Medium for data science
