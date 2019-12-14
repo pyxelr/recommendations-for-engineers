@@ -716,8 +716,8 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Notion](https://www.notion.so/) <--- all-in-one workspace to replace to-do lists and note-taking apps
 -   [OneNote 2016](https://support.office.com/en-gb/article/install-or-reinstall-onenote-2016-for-windows-c08068d8-b517-4464-9ff2-132cb9c45c08) <--- my favourite note-taking tool (2016 version more feature-rich over the UWP app)
     -   [Onetastic](https://getonetastic.com/) <--- set of extensions for OneNote
--   [Productivity](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/) [Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/) <--- large list by Todoist
--   [Productivity](https://hive.com/the-productivity-stack/) [Stack](https://hive.com/the-productivity-stack/) <--- list of productivity tools
+-   [Productivity Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/) <--- large list by Todoist
+-   [Productivity Stack](https://hive.com/the-productivity-stack/) <--- list of productivity tools
 -   [Todoist](https://todoist.com/) <--- my daily to-do app, for which I explained my setup in a [past blog post](https://pawelcislo.com/2018/11/09/aim-for-your-goals-the-right-way/#ftoc-heading-3)
 -   [Toggl](https://toggl.com/) <--- time tracker
 
