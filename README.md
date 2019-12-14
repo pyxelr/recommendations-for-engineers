@@ -711,6 +711,9 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Focusmate](https://www.focusmate.com/) <--- let others watch you while you work
 -   [Integromat](https://www.integromat.com/en/) <--- automate various tasks (more advanced than [IFTT](https://ifttt.com/) and 2.5x cheaper than [Zapier](https://zapier.com/))
 -   [Leave Me Alone](https://leavemealone.xyz/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn) <--- see all of your subscription emails in one place and unsubscribe from them with a single click
+-   lofi hip hop radio <--- live YouTube transmission of background music for your studying sessions
+    -   [beats to relax/study to](https://www.youtube.com/watch?v=hHW1oY26kxQ)
+    -   [beats to sleep/chill to](https://www.youtube.com/watch?v=EcEMX-63PKY)
 -   Monochrome mode (grayscale mode) activation on your mobile device <--- attract yourself less to the colourless screen
 -   [musicForProgramming](http://musicforprogramming.net/) <--- series of mixes intended for listening while '+task+' to aid concentration
 -   [Notion](https://www.notion.so/) <--- all-in-one workspace to replace to-do lists and note-taking apps
