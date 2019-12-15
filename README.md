@@ -718,6 +718,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [musicForProgramming](http://musicforprogramming.net/) <--- series of mixes intended for listening while '+task+' to aid concentration
 -   [Notion](https://www.notion.so/) <--- all-in-one workspace to replace to-do lists and note-taking apps
 -   [OneNote 2016](https://support.office.com/en-gb/article/install-or-reinstall-onenote-2016-for-windows-c08068d8-b517-4464-9ff2-132cb9c45c08) <--- my favourite note-taking tool (2016 version more feature-rich over the UWP app)
+    -   [Office OneNote Gem Add-Ins](https://www.onenotegem.com/) <--- lots of plugins for different versions of OneNote
     -   [Onetastic](https://getonetastic.com/) <--- set of extensions for OneNote
 -   [Productivity Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/) <--- large list by Todoist
 -   [Productivity Stack](https://hive.com/the-productivity-stack/) <--- list of productivity tools
