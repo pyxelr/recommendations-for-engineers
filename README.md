@@ -809,7 +809,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Audacity](https://www.audacityteam.org/) <--- simple audio editor
 -   [AutoHotkey](https://www.autohotkey.com/) <--- ultimate automation scripting language for Windows
 -   [Calibre](https://calibre-ebook.com/) <--- e-book manager
--   [Chocolatey](https://potplayer.daum.net/) <--- package manager
+-   [Chocolatey](https://chocolatey.org/) <--- package manager
 -   [ConEmu](https://conemu.github.io/) <--- improved windows terminal
 -   [Directory Opus](https://www.gpsoft.com.au/) <--- ultimate file manager (worth paying for)
 -   [Ditto](https://ditto-cp.sourceforge.io/) <--- clipboard manager
