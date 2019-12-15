@@ -294,7 +294,7 @@ Mostly universal (language-independent books).
     -   [books](https://startupbooks.io/) <--- list of books to help you along your startup journey
     -   [idea checklist](https://www.defmacro.org/2019/03/26/startup-checklist.html) <--- answer before opening a startup
     -   [stages](https://foundersbelt.com/timeline?stage=learning) <--- +90 tools for startups
-    -   [stacklist](https://www.stacklist.com/stacklists/) <--- list of technologies used by startups
+    -   [stacklist](https://tools.stacklist.com/stacklists/) <--- list of technologies used by startups
     -   [stash](https://startupstash.com/) <--- curated directory of resources & tools to help you build your startup
 -   [Tools for Makers](https://toolsformakers.com/) <--- hand-curated directory of tools for makers
 
@@ -348,9 +348,9 @@ My private OneNote would be there, but I prefer to share only the most relevant 
 -   [Caffe2](https://caffe2.ai/docs/datasets.html)
 -   [Common Voice](https://voice.mozilla.org/data) <--- dataset of voices that everyone can use to train speech-enabled applications
 -   [CORGIS](https://think.cs.vt.edu/corgis/) <--- datasets for beginners
--   [DataHub](https://datahub.now.sh/) <--- easiest way to find, share and publish datasets online
+-   [DataHub](https://datahub.io/search) <--- easiest way to find, share and publish datasets online
 -   [Datasets for machine learning](https://www.datasetlist.com/) <--- huge list (CV/NLP/Audio)
--   [Datasets for mind reading](https://mindcodec.com/datasets-for-mind-reading-visual-reconstruction/) <--- fancy, huh?
+-   [Datasets for mind reading](https://mindcodec.ai/2018/10/03/datasets-for-mind-reading/) <--- fancy, huh?
 -   [FiveThirtyEight](https://data.fivethirtyeight.com/) <--- economics, sports, politics
 -   [Goodbooks-10k](http://fastml.com/goodbooks-10k-a-new-dataset-for-book-recommendations/) <--- new dataset for book recommendations
 -   [Google BigQuery](https://www.reddit.com/r/bigquery/wiki/datasets) <--- public datasets from Google
@@ -611,12 +611,12 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 
 -   [Last.fm](http://www.last.fm/) <--- track your scrobbles. Make sure to [follow me](https://www.last.fm/user/Pyxelr)!
 -   [Radio Garden](http://radio.garden/) <--- listen to thousands of radio stations from the world using a Google Earth based menu
--   [SoundCloud](https://soundcloud.com/stream) <--- find lots of indie music and upload your own one. Make sure to [follow me](https://soundcloud.com/pyxelr)!
+-   [SoundCloud](https://soundcloud.com/) <--- find lots of indie music and upload your own one. Make sure to [follow me](https://soundcloud.com/pyxelr)!
 -   [Spotify](https://www.spotify.com/) <--- stream music online
 
 ### tools
 
--   [DeepJ](https://deepj.ai/) <--- AI to compose piano music in real-time
+-   [DeepJ](https://github.com/calclavia/DeepJ) <--- AI to compose piano music in real-time
 -   [Every Noise at Once](http://everynoise.com/engenremap.html) <--- map of music styles (play each style with a single click)
 -   [Music Maker](https://www.sentient.ai/sentient-labs/ea/lstm-music/) <--- with the use of AI
 -   [SOUL](https://soul.dev/playground/?id=55e627cb87ad63674a8c07cf3664991d) <--- IDE and language to make music
