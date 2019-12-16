@@ -347,7 +347,7 @@ My private OneNote would be there, but I prefer to share only the most relevant 
 -   [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 -   [AWS Public Datasets](https://aws.amazon.com/public-datasets/)
 -   [Caffe2](https://caffe2.ai/docs/datasets.html)
--   [Common Voice](https://voice.mozilla.org/data) <--- dataset of voices that everyone can use to train speech-enabled applications
+-   [Common Voice](https://voice.mozilla.org/en/datasets) <--- dataset of voices that everyone can use to train speech-enabled applications
 -   [CORGIS](https://think.cs.vt.edu/corgis/) <--- datasets for beginners
 -   [DataHub](https://datahub.io/search) <--- easiest way to find, share and publish datasets online
 -   [Datasets for machine learning](https://www.datasetlist.com/) <--- huge list (CV/NLP/Audio)
