@@ -724,7 +724,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
     -   [Onetastic](https://getonetastic.com/) <--- set of extensions for OneNote
 -   [Productivity Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/) <--- large list by Todoist
 -   [Productivity Stack](https://hive.com/the-productivity-stack/) <--- list of productivity tools
--   [Todoist](https://todoist.com/) <--- my daily to-do app, for which I explained my setup in a [past blog post](https://pawelcislo.com/2018/11/09/aim-for-your-goals-the-right-way/#ftoc-heading-3)
+-   [Todoist](https://todoist.com/r/pyxelr_kjtwbq) <--- my daily to-do app, for which I explained my setup in a [past blog post](https://pawelcislo.com/2018/11/09/aim-for-your-goals-the-right-way/#ftoc-heading-3)
 -   [Toggl](https://toggl.com/) <--- the most integrated time tracker
 
 **[⬆ Back to Contents](#contents)**
