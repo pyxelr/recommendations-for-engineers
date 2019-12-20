@@ -137,14 +137,17 @@ For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/lis
 -   [How to Get Rich](https://www.goodreads.com/book/show/1837402.How_to_Get_Rich)
 -   [If You're Not First, You're Last: Sales Strategies to Dominate Your Market and Beat Your Competition](https://www.goodreads.com/book/show/7902256-if-you-re-not-first-you-re-last)
 -   [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
+-   [Prediction Machines: The Simple Economics of Artificial Intelligence](https://www.goodreads.com/book/show/36484703-prediction-machines)
+-   [Range: Why Generalists Triumph in a Specialized World](https://www.goodreads.com/book/show/44000528-range)
 -   [The 10X Rule: The Only Difference Between Success and Failure](https://www.goodreads.com/book/show/46382280-the-10x-rule)
 -   [The Boron Letters](https://www.goodreads.com/book/show/17732053-the-boron-letters)
 -   [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited)
 -   [The Goal: A Process of Ongoing Improvement](https://www.goodreads.com/book/show/113937.The_Goal)
+-   [The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution](https://www.goodreads.com/book/show/43889703-the-man-who-solved-the-market)
 -   [The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime!](https://www.goodreads.com/book/show/18872437-the-millionaire-fastlane)
 -   [The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success](https://www.goodreads.com/book/show/13586932-the-outsiders)
 -   [The Personal MBA: Master the Art of Business](https://www.goodreads.com/book/show/9512985-the-personal-mba)
--   [Think and Grow Rich (Impact Books): With linked Table of Contents](https://www.goodreads.com/book/show/25022443-think-and-grow-rich-impact-books "Think and Grow Rich (Impact Books): With linked Table of Contents")
+-   [Think and Grow Rich (Impact Books): With linked Table of Contents](https://www.goodreads.com/book/show/25022443-think-and-grow-rich-impact-books)
 -   [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers](https://www.goodreads.com/book/show/31823677-tools-of-titans)
 
 ### cybersecurity
@@ -162,64 +165,64 @@ For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/lis
 
 ### data science
 
--   [Artificial Intelligence: A Modern Approach](https://www.goodreads.com/book/show/40098944-artificial-intelligence "Artificial Intelligence: A Modern Approach")
--   [Data Science for Business: What you need to know about data mining and data-analytic thinking](https://www.goodreads.com/book/show/18711043-data-science-for-business "Data Science for Business: What you need to know about data mining and data-analytic thinking")
--   [Deep Learning](https://www.goodreads.com/book/show/24072897-deep-learning "Deep Learning")
--   [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/book/show/34626431-designing-data-intensive-applications "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems")
--   [Discovering Statistics Using R](https://www.goodreads.com/book/show/20568094-discovering-statistics-using-r "Discovering Statistics Using R")
--   [Machine Learning Yearning: Technical Strategy for AI Engineers, In the Era of Deep Learning](https://www.goodreads.com/book/show/46249355-machine-learning-yearning "Machine Learning Yearning: Technical Strategy for AI Engineers, In the Era of Deep Learning")
--   [Reinforcement Learning: An Introduction](https://www.goodreads.com/book/show/739791.Reinforcement_Learning "Reinforcement Learning: An Introduction")
--   [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.goodreads.com/book/show/26535513-storytelling-with-data "Storytelling with Data: A Data Visualization Guide for Business Professionals")
+-   [Artificial Intelligence: A Modern Approach](https://www.goodreads.com/book/show/40098944-artificial-intelligence)
+-   [Data Science for Business: What you need to know about data mining and data-analytic thinking](https://www.goodreads.com/book/show/18711043-data-science-for-business)
+-   [Deep Learning](https://www.goodreads.com/book/show/24072897-deep-learning)
+-   [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/book/show/34626431-designing-data-intensive-applications)
+-   [Discovering Statistics Using R](https://www.goodreads.com/book/show/20568094-discovering-statistics-using-r)
+-   [Machine Learning Yearning: Technical Strategy for AI Engineers, In the Era of Deep Learning](https://www.goodreads.com/book/show/46249355-machine-learning-yearning)
+-   [Reinforcement Learning: An Introduction](https://www.goodreads.com/book/show/739791.Reinforcement_Learning)
+-   [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.goodreads.com/book/show/26535513-storytelling-with-data)
 -   [The Hundred-Page Machine Learning Book](https://www.goodreads.com/book/show/43564614-the-hundred-page-machine-learning-book)
 
 ### data tools
 
--   [Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners](https://www.goodreads.com/book/show/47951337-automate-the-boring-stuff-with-python-2nd-edition "Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners")
--   [Data Analysis with Open Source Tools: A Hands-On Guide for Programmers and Data Scientists](https://www.goodreads.com/book/show/8360735-data-analysis-with-open-source-tools "Data Analysis with Open Source Tools: A Hands-On Guide for Programmers and Data Scientists")
--   [Elements of Programming Interviews in Python: The Insiders' Guide](https://www.goodreads.com/book/show/34791936-elements-of-programming-interviews-in-python "Elements of Programming Interviews in Python: The Insiders' Guide")
--   [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.goodreads.com/book/show/48073071-hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems")
--   [Pandas Cookbook](https://www.goodreads.com/book/show/34325160-pandas-cookbook "Pandas Cookbook")
--   [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://www.goodreads.com/book/show/23241059-python-crash-course "Python Crash Course: A Hands-On, Project-Based Introduction to Programming")
--   [Python Data Science Handbook: Essential Tools for Working with Data](https://www.goodreads.com/book/show/45426977-python-data-science-handbook "Python Data Science Handbook: Essential Tools for Working with Data")
--   [Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition](https://www.goodreads.com/book/show/35911519-python-machine-learning "Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition")
--   [Python Tricks: A Buffet of Awesome Python Features](https://www.goodreads.com/book/show/36990732-python-tricks "Python Tricks: A Buffet of Awesome Python Features")
--   [The Book of R: A First Course in Programming and Statistics](https://www.goodreads.com/book/show/26529994-the-book-of-r "The Book of R: A First Course in Programming and Statistics")
+-   [Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners](https://www.goodreads.com/book/show/47951337-automate-the-boring-stuff-with-python-2nd-edition)
+-   [Data Analysis with Open Source Tools: A Hands-On Guide for Programmers and Data Scientists](https://www.goodreads.com/book/show/8360735-data-analysis-with-open-source-tools)
+-   [Elements of Programming Interviews in Python: The Insiders' Guide](https://www.goodreads.com/book/show/34791936-elements-of-programming-interviews-in-python)
+-   [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.goodreads.com/book/show/48073071-hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow)
+-   [Pandas Cookbook](https://www.goodreads.com/book/show/34325160-pandas-cookbook)
+-   [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://www.goodreads.com/book/show/23241059-python-crash-course)
+-   [Python Data Science Handbook: Essential Tools for Working with Data](https://www.goodreads.com/book/show/45426977-python-data-science-handbook)
+-   [Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition](https://www.goodreads.com/book/show/35911519-python-machine-learning)
+-   [Python Tricks: A Buffet of Awesome Python Features](https://www.goodreads.com/book/show/36990732-python-tricks)
+-   [The Book of R: A First Course in Programming and Statistics](https://www.goodreads.com/book/show/26529994-the-book-of-r)
 
 ### health
 
--   [How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease](https://www.goodreads.com/book/show/25663961-how-not-to-die "How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease")
--   [The Obesity Code: unlocking the secrets of weight loss](https://www.goodreads.com/book/show/29405348-the-obesity-code "The Obesity Code: unlocking the secrets of weight loss")
--   [Why We Get Fat: And What to Do About It](https://www.goodreads.com/book/show/10128759-why-we-get-fat "Why We Get Fat: And What to Do About It")
--   [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/book/show/36294636-why-we-sleep "Why We Sleep: Unlocking the Power of Sleep and Dreams")
--   [Zen in the Art of Archery](https://www.goodreads.com/book/show/103758.Zen_in_the_Art_of_Archery "Zen in the Art of Archery")
+-   [How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease](https://www.goodreads.com/book/show/25663961-how-not-to-die)
+-   [The Obesity Code: unlocking the secrets of weight loss](https://www.goodreads.com/book/show/29405348-the-obesity-code)
+-   [Why We Get Fat: And What to Do About It](https://www.goodreads.com/book/show/10128759-why-we-get-fat)
+-   [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/book/show/36294636-why-we-sleep)
+-   [Zen in the Art of Archery](https://www.goodreads.com/book/show/103758.Zen_in_the_Art_of_Archery)
 
 ### math
 
--   [An Introduction to Statistical Learning: With Applications in R](https://www.goodreads.com/book/show/17397466-an-introduction-to-statistical-learning "An Introduction to Statistical Learning: With Applications in R")
--   [Mathematics for Machine Learning](https://www.goodreads.com/book/show/41432653-mathematics-for-machine-learning "Mathematics for Machine Learning")
--   [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition](https://www.goodreads.com/book/show/40049133-the-elements-of-statistical-learning "The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)")
+-   [An Introduction to Statistical Learning: With Applications in R](https://www.goodreads.com/book/show/17397466-an-introduction-to-statistical-learning)
+-   [Mathematics for Machine Learning](https://www.goodreads.com/book/show/41432653-mathematics-for-machine-learning)
+-   [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition](https://www.goodreads.com/book/show/40049133-the-elements-of-statistical-learning)
 
 ### personal development
 
--   [A Guide to the Good Life: The Ancient Art of Stoic Joy](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life "A Guide to the Good Life: The Ancient Art of Stoic Joy")
--   [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by "Algorithms to Live By: The Computer Science of Human Decisions")
--   [A Mind for Numbers: How to Excel at Math and Science](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers "A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)")
--   [Async Remote](https://www.goodreads.com/book/show/32883490-async-remote "Async Remote")
--   [Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones](https://www.goodreads.com/book/show/40540502-atomic-habits "Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones")
--   [How to Win Friends and Influence People](https://www.goodreads.com/book/show/29550624-how-to-win-friends-and-influence-people "How to Win Friends and Influence People")
--   [Influence: The Psychology of Persuasion](https://www.goodreads.com/book/show/28815.Influence "Influence: The Psychology of Persuasion")
--   [Lying](https://www.goodreads.com/book/show/18870418-lying "Lying")
--   [Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships](https://www.goodreads.com/book/show/26203640-nonviolent-communication "Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships (Nonviolent Communication Guides)")
--   [Outwitting the Devil: The Secret to Freedom and Success](https://www.goodreads.com/book/show/10713286-outwitting-the-devil "Outwitting the Devil: The Secret to Freedom and Success")
--   [Seeking Wisdom: From Darwin To Munger](https://www.goodreads.com/book/show/1995421.Seeking_Wisdom "Seeking Wisdom: From Darwin To Munger")
--   [The Biology of Belief: Unleashing the Power of Consciousness, Matter and Miracles](https://www.goodreads.com/book/show/90556.The_Biology_of_Belief "The Biology of Belief: Unleashing the Power of Consciousness, Matter and Miracles")
--   [The Book of Awakening: Having the Life You Want by Being Present to the Life You Have](https://www.goodreads.com/book/show/7581.The_Book_of_Awakening "The Book of Awakening: Having the Life You Want by Being Present to the Life You Have")
--   [The Chimp Paradox: The Acclaimed Mind Management Programme to Help You Achieve Success, Confidence and Happiness](https://www.goodreads.com/book/show/12228097-the-chimp-paradox "The Chimp Paradox: The Acclaimed Mind Management Programme to Help You Achieve Success, Confidence and Happiness")
--   [The Magic of Thinking Big](https://www.goodreads.com/book/show/759945.The_Magic_of_Thinking_Big "The Magic of Thinking Big")
--   [The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results](https://www.goodreads.com/book/show/16256798-the-one-thing "The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results")
--   [The Slight Edge: Turning Simple Disciplines into Massive Success and Happiness](https://www.goodreads.com/book/show/23130805-the-slight-edge "The Slight Edge: Turning Simple Disciplines into Massive Success and Happiness")
--   [The Top Five Regrets of the Dying: A Life Transformed by the Dearly Departing](https://www.goodreads.com/book/show/13059271-the-top-five-regrets-of-the-dying "The Top Five Regrets of the Dying: A Life Transformed by the Dearly Departing")
--   [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow "Thinking, Fast and Slow")
+-   [A Guide to the Good Life: The Ancient Art of Stoic Joy](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life)
+-   [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by)
+-   [A Mind for Numbers: How to Excel at Math and Science](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers)
+-   [Async Remote](https://www.goodreads.com/book/show/32883490-async-remote)
+-   [Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones](https://www.goodreads.com/book/show/40540502-atomic-habits)
+-   [How to Win Friends and Influence People](https://www.goodreads.com/book/show/29550624-how-to-win-friends-and-influence-people)
+-   [Influence: The Psychology of Persuasion](https://www.goodreads.com/book/show/28815.Influence)
+-   [Lying](https://www.goodreads.com/book/show/18870418-lying)
+-   [Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships](https://www.goodreads.com/book/show/26203640-nonviolent-communication)
+-   [Outwitting the Devil: The Secret to Freedom and Success](https://www.goodreads.com/book/show/10713286-outwitting-the-devil)
+-   [Seeking Wisdom: From Darwin To Munger](https://www.goodreads.com/book/show/1995421.Seeking_Wisdom)
+-   [The Biology of Belief: Unleashing the Power of Consciousness, Matter and Miracles](https://www.goodreads.com/book/show/90556.The_Biology_of_Belief)
+-   [The Book of Awakening: Having the Life You Want by Being Present to the Life You Have](https://www.goodreads.com/book/show/7581.The_Book_of_Awakening)
+-   [The Chimp Paradox: The Acclaimed Mind Management Programme to Help You Achieve Success, Confidence and Happiness](https://www.goodreads.com/book/show/12228097-the-chimp-paradox)
+-   [The Magic of Thinking Big](https://www.goodreads.com/book/show/759945.The_Magic_of_Thinking_Big)
+-   [The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results](https://www.goodreads.com/book/show/16256798-the-one-thing)
+-   [The Slight Edge: Turning Simple Disciplines into Massive Success and Happiness](https://www.goodreads.com/book/show/23130805-the-slight-edge)
+-   [The Top Five Regrets of the Dying: A Life Transformed by the Dearly Departing](https://www.goodreads.com/book/show/13059271-the-top-five-regrets-of-the-dying)
+-   [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 
 ### programming
 
@@ -242,13 +245,16 @@ Mostly universal (language-independent books).
 
 ### science
 
--   [AI Superpowers: China, Silicon Valley, and the New World Order](https://www.goodreads.com/book/show/38242135-ai-superpowers "AI Superpowers: China, Silicon Valley, and the New World Order")
--   [Brief Answers to the Big Questions](https://www.goodreads.com/book/show/40277241-brief-answers-to-the-big-questions "Brief Answers to the Big Questions")
--   [How Smart Machines Think](https://www.goodreads.com/book/show/42598754-how-smart-machines-think "How Smart Machines Think")
--   [Incognito: The Secret Lives of the Brain](https://www.goodreads.com/book/show/11550688-incognito "Incognito: The Secret Lives of the Brain")
--   [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0 "Life 3.0: Being Human in the Age of Artificial Intelligence")
--   [The Ape that Understood the Universe: How the Mind and Culture Evolve](https://www.goodreads.com/book/show/40536444-the-ape-that-understood-the-universe "The Ape that Understood the Universe: How the Mind and Culture Evolve")
--   [The Information: A History, a Theory, a Flood](https://www.goodreads.com/book/show/10728649-the-information "The Information: A History, a Theory, a Flood")
+-   [AI Superpowers: China, Silicon Valley, and the New World Order](https://www.goodreads.com/book/show/38242135-ai-superpowers)
+-   [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/book/show/33516538-behave)
+-   [Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think, and Do](https://www.goodreads.com/book/show/40407320-biased)
+-   [Brief Answers to the Big Questions](https://www.goodreads.com/book/show/40277241-brief-answers-to-the-big-questions)
+-   [Hacking Darwin: Genetic Engineering and the Future of Humanity](https://www.goodreads.com/book/show/45275976-hacking-darwin)
+-   [How Smart Machines Think](https://www.goodreads.com/book/show/42598754-how-smart-machines-think)
+-   [Incognito: The Secret Lives of the Brain](https://www.goodreads.com/book/show/11550688-incognito)
+-   [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0)
+-   [The Ape that Understood the Universe: How the Mind and Culture Evolve](https://www.goodreads.com/book/show/40536444-the-ape-that-understood-the-universe)
+-   [The Information: A History, a Theory, a Flood](https://www.goodreads.com/book/show/10728649-the-information)
 
 **[⬆ Back to Contents](#contents)**
 
@@ -369,6 +375,7 @@ My private OneNote would be there, but I prefer to share only the most relevant 
 
 ### jobs
 
+-   [CalmJobs](http://calmjobs.io/) <--- job board of companies who value work-life balance
 -   [DataJobs](https://datajobs.com/) <--- jobs on the US market
 -   [Indeed](https://www.indeed.com/) <--- worldwide job search
 -   [Kaggle jobs](https://www.kaggle.com/jobs) <--- job board on Kaggle
@@ -463,6 +470,7 @@ As there are many, I highly encourage you to check my custom feeds:
 -   [Color Hunt](https://colorhunt.co/) <--- colour palettes to choose from
 -   [ColorKitty](https://colorkitty.com/) <--- create and discover colour palettes
 -   [Coolors](https://coolors.co/) <--- quickly generate new colour schemes
+-   [Happy Hues](https://www.happyhues.co/) <--- colour palette inspiration site
 
 ### create
 
