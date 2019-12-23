@@ -876,6 +876,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 
 ### data science
 
+-   [CodeEmporium](https://www.youtube.com/channel/UC5_6ZD6s8klmMu9TXEB_1IA) <--- data science topics explained through simple visualisations
 -   [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ) <--- hours of data analysis in R
 -   [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w) <--- more of Andrew Ng
 -   [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ) <--- complex topics explained with great visualisations
