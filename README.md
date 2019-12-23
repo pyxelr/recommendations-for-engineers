@@ -111,6 +111,7 @@ Collection of all the blogs for the categories below. I advise adding all the re
 -   [Hacker Noon](https://hackernoon.com/) <--- great stories by real tech professionals
 -   [Product Hunt](https://www.producthunt.com/) <--- discover the best new products in tech
 -   [Stack Overflow Blog](https://stackoverflow.blog/) <--- essays, opinions, and advice on the act of computer programming
+-   [Tania Rascia](https://www.taniarascia.com/) <--- visually pleasing blog about modern JavaScript, Node.js, design and web development
 
 **[⬆ Back to Contents](#contents)**
 
