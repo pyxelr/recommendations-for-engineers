@@ -942,6 +942,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [MinuteEarth](https://www.youtube.com/user/minuteearth) <--- science and stories about our awesome planet
 -   [minutephysics](https://www.youtube.com/user/minutephysics) <--- cool physics and other sweet science
 -   [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ) <--- animated academic subjects
+-   [Reigarw Comparisons](https://www.youtube.com/user/reigarw) <--- comparisons of sizes, speed, price, or anything interesting
 -   [SciFun](https://www.youtube.com/user/SciTeraz) (🇵🇱) <--- world of science
 -   [Uwaga! Naukowy Bełkot](https://www.youtube.com/channel/UC_7PqixGIdE-jjoHKMPYpGA) (🇵🇱) <--- well-researched topics from the overall science
 -   [What If](https://www.youtube.com/channel/UCphTF9wHwhCt-BzIq-s4V-g/) <--- what if ___ ?
