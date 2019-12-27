@@ -81,6 +81,7 @@ Collection of all the blogs for the categories below. I advise adding all the re
 -   [Machine Learning Mastery](https://machinelearningmastery.com/blog/) <--- popular blog on ML with lots of content to learn from
 -   [Mateusz Grzyb](https://mateuszgrzyb.pl/) (🇵🇱) <--- data analysis in Python
 -   [Peter Laurinec](https://petolau.github.io/) <--- time series data mining in R from a PhD researcher
+-   [PyImageSearch](https://www.pyimagesearch.com/) <--- be awesome at OpenCV, Python, deep learning, and computer vision
 -   [Rubik's Code](https://rubikscode.net/) <--- AI without tears
 -   [Simply Statistics](https://simplystatistics.org/) <--- blog on data visualisation
 -   [Towards Data Science](https://towardsdatascience.com/) <--- Medium for data science
@@ -180,9 +181,11 @@ For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/lis
 
 -   [Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners](https://www.goodreads.com/book/show/47951337-automate-the-boring-stuff-with-python-2nd-edition)
 -   [Data Analysis with Open Source Tools: A Hands-On Guide for Programmers and Data Scientists](https://www.goodreads.com/book/show/8360735-data-analysis-with-open-source-tools)
+-   [Deep Learning for Computer Vision with Python — Practitioner Bundle](https://www.goodreads.com/book/show/41724711-deep-learning-for-computer-vision-with-python-practitioner-bundle)
 -   [Elements of Programming Interviews in Python: The Insiders' Guide](https://www.goodreads.com/book/show/34791936-elements-of-programming-interviews-in-python)
 -   [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.goodreads.com/book/show/48073071-hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow)
 -   [Pandas Cookbook](https://www.goodreads.com/book/show/34325160-pandas-cookbook)
+-   [Practical Python and OpenCV](https://www.goodreads.com/book/show/24563887-practical-python-and-opencv)
 -   [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://www.goodreads.com/book/show/23241059-python-crash-course)
 -   [Python Data Science Handbook: Essential Tools for Working with Data](https://www.goodreads.com/book/show/45426977-python-data-science-handbook)
 -   [Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition](https://www.goodreads.com/book/show/35911519-python-machine-learning)
