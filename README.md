@@ -593,7 +593,8 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 -   [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en) <--- learn any topic using active learning and spaced repetition. Before using the mobile app, I strongly suggest to set up your account and decks of cards using the [PC app](https://apps.ankiweb.net/). Also, make sure to check the [public decks shared from my side](https://github.com/pyxelr/My_Anki_Decks_of_Flashards)
 -   [Brilliant](https://brilliant.org/) <--- app that I do not feel guilty wasting my time with and paying to be a premium subscriber. It's part of my "[Three Goals](https://pawelcislo.com/three-goals/)" programme
 -   [Elevate](https://www.elevateapp.com/) <--- used daily can significantly improve math, reading, writing, speaking, and listening
--   [Grasshopper](https://play.google.com/store/apps/details?id=com.area120.grasshopper&hl=en) <--- learn JavaScript for free from Google
+-   [Enki](https://www.enki.com/) <--- learn data science, coding, and stay on top of tech trends
+-   [Grasshopper](https://grasshopper.app/) <--- learn JavaScript for free from Google
 -   [Materialistic -- Hacker News](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic) <--- great looking tech news that I can read for hours
 -   [Statinfer](https://play.google.com/store/apps/details?id=com.learn.statinfer1) <--- quiz app to test your data science skills (ML, DL, tools, interview questions, etc.)
 -   [Puzzlerama](https://play.google.com/store/apps/details?id=com.leodesol.games.puzzlecollection) <--- stock of puzzles
