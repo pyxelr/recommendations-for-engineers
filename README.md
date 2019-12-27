@@ -937,6 +937,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 ### science
 
 -   [AsapSCIENCE](https://www.youtube.com/channel/UCC552Sd-3nyi_tk2BudLUzA) <--- quick scientific explanations
+-   [CGP Grey](https://www.youtube.com/user/CGPGrey/) <--- short explanatory videos on varying subjects, including politics, geography, economics, history, and culture
 -   [exurb1a](https://www.youtube.com/user/willunicycleforfood) <--- attempt to explain the way universe works
 -   [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt) <--- high-quality videos
 -   [Life Noggin](https://www.youtube.com/user/lifenoggin) <--- quickly animated explanations
@@ -946,6 +947,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Reigarw Comparisons](https://www.youtube.com/user/reigarw) <--- comparisons of sizes, speed, price, or anything interesting
 -   [SciFun](https://www.youtube.com/user/SciTeraz) (🇵🇱) <--- world of science
 -   [Uwaga! Naukowy Bełkot](https://www.youtube.com/channel/UC_7PqixGIdE-jjoHKMPYpGA) (🇵🇱) <--- well-researched topics from the overall science
+-   [Veritasium](https://www.youtube.com/user/1veritasium/) <--- videos about science, education, and anything else found interesting
 -   [What If](https://www.youtube.com/channel/UCphTF9wHwhCt-BzIq-s4V-g/) <--- what if ___ ?
 -   [What I've Learned](https://www.youtube.com/channel/UCqYPhGiB9tkShZorfgcL2lA) <--- mostly health-based videos from a single person
 
