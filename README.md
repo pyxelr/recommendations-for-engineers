@@ -894,6 +894,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 
 -   [Alan Becker](https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw) <--- fights of stick figures
 -   [Dylan Tallchief](https://www.youtube.com/channel/UCIu2Fj4x_VMn2dgSB1bFyQA) <--- fun look over the music production
+-   [I did a thing](https://www.youtube.com/channel/UCJLZe_NoiG0hT7QCX_9vmqw/) <--- the author likes to do things
 -   [Level UP](https://www.youtube.com/channel/UCNK813T2BNBwcfDPDTPeMPA) <--- mario animations
 -   [PewDiePie](https://www.youtube.com/user/PewDiePie) <--- meme/game reviews and not only
 -   [videogamedunkey](https://www.youtube.com/channel/UCsvn_Po0SmunchJYOWpOxMg) <--- game reviews
@@ -901,6 +902,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 ### math
 
 -   [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) <--- driven by animations for difficult problems to be made simple with changes in perspective
+-   [blackpenredpen](https://www.youtube.com/user/blackpenredpen/) <--- for everyone who loves math
 -   [Brilliant](https://www.youtube.com/channel/UCpR62MSOeBQVXub13xwZ8aA) <--- excel in math and science
 -   [Domain of Science](https://www.youtube.com/user/dominicwalliman) <--- overview of science with the help of single maps
 -   [Eddie Woo](https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ) <--- one of the most enthusiastic math teachers on the web
@@ -940,18 +942,24 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 
 ### science
 
+-   [AK LECTURES](https://www.youtube.com/user/mathdude2012/) <--- biology, biochemistry and physics. I recommend going through the playlists
 -   [AsapSCIENCE](https://www.youtube.com/channel/UCC552Sd-3nyi_tk2BudLUzA) <--- quick scientific explanations
+-   [Astrofaza](https://www.youtube.com/user/Astrofaza/) (🇵🇱) <--- everything about space
 -   [CGP Grey](https://www.youtube.com/user/CGPGrey/) <--- short explanatory videos on varying subjects, including politics, geography, economics, history, and culture
 -   [exurb1a](https://www.youtube.com/user/willunicycleforfood) <--- attempt to explain the way universe works
 -   [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt) <--- high-quality videos
 -   [Life Noggin](https://www.youtube.com/user/lifenoggin) <--- quickly animated explanations
 -   [MinuteEarth](https://www.youtube.com/user/minuteearth) <--- science and stories about our awesome planet
 -   [minutephysics](https://www.youtube.com/user/minutephysics) <--- cool physics and other sweet science
+-   [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g/) <--- explore the outer reaches of space, the craziness of astrophysics, the possibilities of sci-fi and more
 -   [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ) <--- animated academic subjects
 -   [Reigarw Comparisons](https://www.youtube.com/user/reigarw) <--- comparisons of sizes, speed, price, or anything interesting
 -   [SciFun](https://www.youtube.com/user/SciTeraz) (🇵🇱) <--- world of science
+-   [Smartgasm](https://www.youtube.com/channel/UCwylAt0VrqZPPNCjQV2t8Qg) (🇵🇱) <--- lots of astronomy and physics
+-   [TierZoo](https://www.youtube.com/channel/UCHsRtomD4twRf5WVHHk-cMw/) <--- what if to talk about animals in terms of stats
 -   [Uwaga! Naukowy Bełkot](https://www.youtube.com/channel/UC_7PqixGIdE-jjoHKMPYpGA) (🇵🇱) <--- well-researched topics from the overall science
 -   [Veritasium](https://www.youtube.com/user/1veritasium/) <--- videos about science, education, and anything else found interesting
+-   [Vsauce](https://www.youtube.com/user/Vsauce/) <--- mostly scientific, psychological, mathematical, and philosophical topics
 -   [What If](https://www.youtube.com/channel/UCphTF9wHwhCt-BzIq-s4V-g/) <--- what if ___ ?
 -   [What I've Learned](https://www.youtube.com/channel/UCqYPhGiB9tkShZorfgcL2lA) <--- mostly health-based videos from a single person
 
