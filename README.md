@@ -518,7 +518,7 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 
 -   [Ars Technica](https://arstechnica.com/)
 -   [dobreprogramy](https://www.dobreprogramy.pl/) (🇵🇱) <--- one of the most popular Polish sites
--   [Hacker News](https://news.ycombinator.com/) <--- my top resource with great quality content and discussions
+-   [Hacker News](https://news.ycombinator.com/) <--- my top resource with high quality content and discussions. Check out [my dark theme](https://github.com/pyxelr/Hacker_News_-_Bluish_Gray) to save your eyes
 -   [Slashdot](https://slashdot.org/)
 -   [TechCrunch](https://techcrunch.com/)
 -   [The Hacker News](https://thehackernews.com/) <--- cybersecurity news
