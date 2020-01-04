@@ -529,6 +529,7 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 
 -   [Anki](https://apps.ankiweb.net/) <--- my favourite software to learn through spaced repetition and active learning in mobile and open-source PC app. Make sure to [check out my own decks](https://github.com/pyxelr/My_Anki_Decks_of_Flashards)
 -   [Explorable Explanations](https://explorabl.es/all/) <--- hub for learning through interactive online games. Make sure to check out more from [Nicky Case!](https://ncase.me/)
+-   [Neal.fun](https://neal.fun/) <--- lots of interactive educational/interesting comparisons
 -   [Quizlet](https://quizlet.com/latest) <--- more user-friendly alternative to Anki
 -   [Researcher](https://www.researcher-app.com/) <--- feed for scientific papers
 -   [Simple Wikipedia](https://simple.wikipedia.org/wiki/Main_Page) <--- Wikipedia articles explained in simple words
@@ -947,6 +948,8 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Astrofaza](https://www.youtube.com/user/Astrofaza/) (🇵🇱) <--- everything about space
 -   [CGP Grey](https://www.youtube.com/user/CGPGrey/) <--- short explanatory videos on varying subjects, including politics, geography, economics, history, and culture
 -   [exurb1a](https://www.youtube.com/user/willunicycleforfood) <--- attempt to explain the way universe works
+-   [iBiology](https://www.youtube.com/user/ibioseminars/) <--- biology talks by the world's leading scientists that show the process of science and the wonders of discovery. Make sure to check out their other channels
+    -   [iBiology Techniques](https://www.youtube.com/user/iBioEducation/) <--- iBiology technique driven videos such as a microscopy course
 -   [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt) <--- high-quality videos
 -   [Life Noggin](https://www.youtube.com/user/lifenoggin) <--- quickly animated explanations
 -   [MinuteEarth](https://www.youtube.com/user/minuteearth) <--- science and stories about our awesome planet
@@ -956,6 +959,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Reigarw Comparisons](https://www.youtube.com/user/reigarw) <--- comparisons of sizes, speed, price, or anything interesting
 -   [SciFun](https://www.youtube.com/user/SciTeraz) (🇵🇱) <--- world of science
 -   [Smartgasm](https://www.youtube.com/channel/UCwylAt0VrqZPPNCjQV2t8Qg) (🇵🇱) <--- lots of astronomy and physics
+-   [The Thought Emporium](https://www.youtube.com/user/TheChemlife/) <--- from biohacking and biology, to nuclear physics and nanotech
 -   [TierZoo](https://www.youtube.com/channel/UCHsRtomD4twRf5WVHHk-cMw/) <--- what if to talk about animals in terms of stats
 -   [Uwaga! Naukowy Bełkot](https://www.youtube.com/channel/UC_7PqixGIdE-jjoHKMPYpGA) (🇵🇱) <--- well-researched topics from the overall science
 -   [Veritasium](https://www.youtube.com/user/1veritasium/) <--- videos about science, education, and anything else found interesting
