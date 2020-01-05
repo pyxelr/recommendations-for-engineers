@@ -464,6 +464,7 @@ As there are many, I highly encourage you to check my custom feeds:
 
 -   [Can't Unsee](https://cantunsee.space/) <--- check your graphical sense
 -   [Everypixel](https://www.everypixel.com/) <--- find free or paid stock images
+-   [Grumpy Website](https://grumpy.website/) <--- examples where the design went wrong
 -   [GUI gallery for every OS](http://toastytech.com/guis/index.html)
 -   [Squoosh](https://squoosh.app/) <--- optimise image size
 -   [UI Goodies](https://www.uigoodies.com/) <--- directory of online resources
@@ -495,6 +496,7 @@ As there are many, I highly encourage you to check my custom feeds:
 
 ### icons
 
+-   [CoreUI Icons](https://coreui.io/icons/) <--- premium designed free icon set with marks in SVG, Webfont and raster formats
 -   [Eva Icons](https://akveo.github.io/eva-icons/) <--- simple open-source icons
 -   [Flaticon](https://www.flaticon.com/) <--- free vector icons
 -   [Font Awesome](https://fontawesome.com/) <--- vector icons and social logos for your website
