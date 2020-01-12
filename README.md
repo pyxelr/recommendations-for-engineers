@@ -29,7 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - 🖥 [Windows](#windows)
 - ✍ [Writing/Research](#writing_research)
 - 📼 [YouTube Channels](#youtube-channels)
-- 🤷‍♂ [Other](#other)
+- 🤷‍ [Other](#other)
 * * * * *
 
 ## Blogs
@@ -172,6 +172,7 @@ For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/lis
 -   [Deep Learning](https://www.goodreads.com/book/show/24072897-deep-learning)
 -   [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/book/show/34626431-designing-data-intensive-applications)
 -   [Discovering Statistics Using R](https://www.goodreads.com/book/show/20568094-discovering-statistics-using-r)
+-   [Dive into Deep Learning](https://d2l.ai/)
 -   [Machine Learning Yearning: Technical Strategy for AI Engineers, In the Era of Deep Learning](https://www.goodreads.com/book/show/46249355-machine-learning-yearning)
 -   [Reinforcement Learning: An Introduction](https://www.goodreads.com/book/show/739791.Reinforcement_Learning)
 -   [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.goodreads.com/book/show/26535513-storytelling-with-data)
@@ -342,13 +343,13 @@ Mostly universal (language-independent books).
 
 ### cheatsheets
 
-My private OneNote would be there, but I prefer to share only the most relevant content.
+My private OneNote would be there, but I prefer to share only the most relevant content. **IMPORTANT**: be aware that [many cheatsheets repeat false information](https://www.linkedin.com/posts/adrianolszewski_biostatistics-statistics-rstats-activity-6621020198185111552-jw12), such as classifying logistic regression as a pure classification algorithm.
 
--   [Chris Albon](https://chrisalbon.com/)
+-   [Chris Albon](https://chrisalbon.com/) <--- comprehensive notes/code snippets on using Data Science & Artificial Intelligence
 -   [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/) <--- best Python cheatsheet I found so far
--   [Data Science board of my Pinterest](https://pl.pinterest.com/pyxelrr/data-science/)
--   [Data Science Cheatsheets](https://github.com/abhat222/Data-Science--Cheat-Sheet) <--- GitHub repository with a vast collection
+-   [Data Science board of my Pinterest](https://pinterest.com/pyxelrr/data-science/)
 -   [Most general cheatsheet](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/General/data-science-cheatsheet.pdf) <--- in a single PDF file
+-   [Statistical Models](https://www.linkedin.com/posts/adrianolszewski_rockyourr-rstats-datascience-activity-6612425857552252929-u-Ts/) <--- most verified cheatsheet out there on the internet. I recommend following the author's LinkedIn account for lots of substantive discussions
 
 ### datasets
 
@@ -374,8 +375,9 @@ My private OneNote would be there, but I prefer to share only the most relevant 
 -   [Quandl](https://www.quandl.com/tools/python) <--- financial data directly into Python
 -   [Quantopian Datasets](https://www.quantopian.com/docs/data-reference/overview)
 -   [Tencent ML-Images](https://github.com/Tencent/tencent-ml-images) <--- largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet
--   [World Bank Open Data](https://data.worldbank.org/) <---economic data
--   [YouTube 8M](https://research.google.com/youtube8m/) - dataset of YouTube videos
+-   [VQA](https://visualqa.org/) <--- 200k+ images and over a million questions (with answers) about those images
+-   [World Bank Open Data](https://data.worldbank.org/) <--- economic data
+-   [YouTube 8M](https://research.google.com/youtube8m/) <--- dataset of YouTube videos
 
 ### jobs
 
@@ -397,6 +399,7 @@ My private OneNote would be there, but I prefer to share only the most relevant 
 ### learning material
 
 -   [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) <--- learn data science from IPython notebooks
+-   [Dive into Deep Learning](https://d2l.ai/) <--- interactive deep learning book with code, math, and discussions, based on the NumPy interface
 -   [Kaggle](https://www.kaggle.com/) <--- home of data science for competitions, datasets, coursers, notebooks and discussions
 -   [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/) <--- blog post, which explains the most critical concepts in a funny and practical way. You won't be bored reading it, and it might take you around 30-40 mins
 -   [Machine Learning on Coursera](https://www.coursera.org/learn/machine-learning) <--- the must check course by Andrew Ng
@@ -602,6 +605,7 @@ All the mentioned sites are mostly free of clickbait and offer overgrowth of con
 -   [Enki](https://www.enki.com/) <--- learn data science, coding, and stay on top of tech trends
 -   [Grasshopper](https://grasshopper.app/) <--- learn JavaScript for free from Google
 -   [Materialistic -- Hacker News](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic) <--- great looking tech news that I can read for hours
+-   [Simon Tatham's Puzzles](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles&hl=en) <--- mobile implementation of the [web based collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/) of one-player puzzle games
 -   [Statinfer](https://play.google.com/store/apps/details?id=com.learn.statinfer1) <--- quiz app to test your data science skills (ML, DL, tools, interview questions, etc.)
 -   [Puzzlerama](https://play.google.com/store/apps/details?id=com.leodesol.games.puzzlecollection) <--- stock of puzzles
 -   [SoloLearn](https://www.sololearn.com/) <--- mobile programming university
@@ -994,6 +998,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Internet Archive](https://archive.org/web/) <--- wayback machine with a digital library of Internet sites
 -   [My Pinterest account](https://pinterest.com/pyxelrr/) <--- aggregation of the most practical infographics that I stepped on
 -   [Nerd Fonts](https://www.nerdfonts.com/) <--- iconic font aggregator, collection, and patches
+-   [NUKEMAP](https://nuclearsecrecy.com/nukemap/) <--- mapping mash-up that calculates the effects of the detonation of a nuclear bomb
 -   [Programming Fonts](https://app.programmingfonts.org/) <--- quickly check lots of programming fonts in your browser
 -   [Related subreddits](https://anvaka.github.io/sayit/?query=datascience&utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn) <--- find related subreddits in the form of a graph
 -   [scrcpy](https://github.com/Genymobile/scrcpy) <--- display and control Android devices connected on USB
