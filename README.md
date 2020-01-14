@@ -919,6 +919,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Numberphile](https://www.youtube.com/user/numberphile) <--- videos about numbers
 -   [Prof Ghrist Math](https://www.youtube.com/channel/UC5N5pRddyicAX1QJyJjIIdg/) <--- animated introduction to calculus
 -   [statisticsfun](https://www.youtube.com/channel/UClD8c_piy1nrJySPJUgyivg) <--- visual explanations of algebra, trig, calculus, statistics, and economics
+-   [The Organic Chemistry Tutor](https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA/) <--- tutorial videos on organic chemistry, general chemistry, physics, algebra, trigonometry, precalculus, and calculus
 -   [Think Twice](https://www.youtube.com/ThinktwiceLTU) <--- animated math videos
 -   [Welch Labs](https://www.youtube.com/user/Taylorns34) <--- math, science, and machine learning resources
 
