@@ -368,6 +368,7 @@ My private OneNote would be there, but I prefer to share only the most relevant 
 -   [Goodbooks-10k](http://fastml.com/goodbooks-10k-a-new-dataset-for-book-recommendations/) <--- new dataset for book recommendations
 -   [Google BigQuery](https://www.reddit.com/r/bigquery/wiki/datasets) <--- public datasets from Google
 -   [Google Dataset Search](https://toolbox.google.com/datasetsearch) <--- search engine of datasets from Google
+-   [HealthData](https://healthdata.gov/) <--- high value health data
 -   [How readers browse Wikipedia](https://blog.wikimedia.org/2018/01/16/wikipedia-rabbit-hole-clickstream/)
 -   [Kaggle datasets](https://www.kaggle.com/datasets)
 -   [List of lists with datasets](https://www.dataandsons.com/data-market/categories)
