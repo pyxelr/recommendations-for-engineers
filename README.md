@@ -959,7 +959,8 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [exurb1a](https://www.youtube.com/user/willunicycleforfood) <--- attempt to explain the way universe works
 -   [iBiology](https://www.youtube.com/user/ibioseminars/) <--- biology talks by the world's leading scientists that show the process of science and the wonders of discovery. Make sure to check out their other channels
     -   [iBiology Techniques](https://www.youtube.com/user/iBioEducation/) <--- iBiology technique driven videos such as a microscopy course
--   [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt) <--- high-quality videos
+-   [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt) <--- videos explaining things with optimistic nihilism (quality > quantity)
+-   [Lex Clips](https://www.youtube.com/channel/UCJIfeSCssxSC_Dhc5s7woww/) <--- clips from the Artificial Intelligent podcast and other conversations with Lex Fridman
 -   [Life Noggin](https://www.youtube.com/user/lifenoggin) <--- quickly animated explanations
 -   [MinuteEarth](https://www.youtube.com/user/minuteearth) <--- science and stories about our awesome planet
 -   [minutephysics](https://www.youtube.com/user/minutephysics) <--- cool physics and other sweet science
