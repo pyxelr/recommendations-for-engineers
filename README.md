@@ -521,7 +521,7 @@ As there are many, I highly encourage you to check my custom feeds:
 
 ## IT News
 
-All the mentioned sites are mostly free of clickbait and offer overgrowth of content over the form.
+All the mentioned sites are mostly free of clickbait and offer the triumph of form over content.
 
 -   [Ars Technica](https://arstechnica.com/)
 -   [dobreprogramy](https://www.dobreprogramy.pl/) (🇵🇱) <--- one of the most popular Polish sites
