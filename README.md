@@ -964,6 +964,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Life Noggin](https://www.youtube.com/user/lifenoggin) <--- quickly animated explanations
 -   [MinuteEarth](https://www.youtube.com/user/minuteearth) <--- science and stories about our awesome planet
 -   [minutephysics](https://www.youtube.com/user/minutephysics) <--- cool physics and other sweet science
+-   [Nauka. To Lubię](https://www.youtube.com/user/naukatolubie/) (🇵🇱) <--- for everyone who likes science
 -   [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g/) <--- explore the outer reaches of space, the craziness of astrophysics, the possibilities of sci-fi and more
 -   [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ) <--- animated academic subjects
 -   [Reigarw Comparisons](https://www.youtube.com/user/reigarw) <--- comparisons of sizes, speed, price, or anything interesting
