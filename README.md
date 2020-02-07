@@ -24,7 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - 📧 [Newsletters](#newsletters)
 - 🎧 [Podcasts](#podcasts)
 - ⏲ [Productivity](#productivity)
-- 👨‍💻 [Programming](#programming-1)
+- 👨‍💻 [Programming](#programming-3)
 - 🛫 [Travel](#travel)
 - 🖥 [Windows](#windows)
 - ✍ [Writing/Research](#writing_research)
@@ -659,9 +659,11 @@ All the mentioned sites are mostly free of clickbait and offer the triumph of fo
 -   [Highbrow](https://gohighbrow.com/) <--- choose a topic to learn and receive a daily message
 -   [Inside](https://inside.com/) <--- daily newsletters on different topics. For example, check out [Inside AI](https://inside.com/ai) and its [recent issues](https://inside.com/lists/ai/recent_issues) at any time
 -   [James Clear](https://jamesclear.com/newsletter) <--- apply better habits in your life (from the author of Atomic Habits)
+-   [Morning Cup of Coding](https://morningcupofcoding.com/) <--- daily programming newsletter featuring long form technical articles of all fields of software engineering
 -   [Podcast Notes](https://podcastnotes.org/) <--- summary of podcasts in few bullet points
 -   [The Overflow](https://stackoverflow.blog/newsletter/) <--- newsletter by developers, for developers
 -   [unknowNews](https://unknow.news/) (🇵🇱) <--- weekly newsletter. Check its [archive](https://news.mrugalski.pl/) or [search engine](https://www.uw7.org/szukaj/) for the past sendings
+-   [Unreadit/Tech](https://unreadit.com/n/tech/) <--- Reddit content on tech
 
 **[⬆ Back to Contents](#contents)**
 
@@ -804,6 +806,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) <--- algorithms and data structures implemented in JavaScript with explanations and links to further readings. Don't prevent yourself from taking a look, even if you're not a JS developer
 -   [Learn X in Y Minutes](https://learnxinyminutes.com/) <--- take a whirlwind tour of your next favourite language. Community-driven!
 -   [My Pinterest Page about Software Developement](https://pinterest.com/pyxelrr/software-development/) <--- here I store the most interesting infographics
+-   [Python Awesome](https://pythonawesome.com/) <--- nice collection of often useful awesome Python frameworks, libraries and software
 -   [The Best Python Lighting Talks](https://pythonlinks.info/python) <--- videos to watch about Python
 -   [Real Python](https://realpython.com/) <--- Python tutorials, quizzes, courses and more
 -   [Refactoring](https://refactoring.guru/refactoring) <--- pleasant guide to clean your messy code
