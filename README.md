@@ -953,6 +953,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge) <--- one of the most varied programming channel
 -   [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA) <--- lots of videos on Python, JavaScript, C#
 -   [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) <--- one of the most-enthusiastic coders on the web
+-   [WilliamFiset](https://www.youtube.com/user/purpongie/) <--- educational computer science and mathematics videos
 
 ### science
 
