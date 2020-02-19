@@ -102,6 +102,7 @@ Collection of all the blogs for the categories below. I advise adding all the re
 -   [Math = Love](https://mathequalslove.blogspot.com/)
 -   [Math for Love](https://mathforlove.com/blog/)
 -   [Math with Bad Drawings](https://mathwithbaddrawings.com/)
+-   [Recommended Math Books](https://mathvault.ca/books/) <--- set of books recommended by different levels/topics
 
 ### programming
 
@@ -477,6 +478,7 @@ As there are many, I highly encourage you to check my custom feeds:
 ### colour palettes
 
 -   [Adobe Color](https://color.adobe.com/create) <--- colour wheel by Adobe
+-   [Canva Color Wheel](https://www.canva.com/colors/color-wheel/) <--- colour wheel by Canva
 -   [Color Hunt](https://colorhunt.co/) <--- colour palettes to choose from
 -   [ColorKitty](https://colorkitty.com/) <--- create and discover colour palettes
 -   [Coolors](https://coolors.co/) <--- quickly generate new colour schemes
@@ -757,6 +759,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 
 ### coding challenges
 
+-   [Binary Search](https://binarysearch.io/) <--- create a room, invite your friends, and race to finish the problems
 -   [CheckiO](https://checkio.org/) <--- learn Python or JavaScript through the online game
 -   [CodeSignal](https://codesignal.com/) <--- the most popular website of this kind
 -   [CodinGame](https://www.codingame.com/training) <--- learn programming through online sets of puzzles
