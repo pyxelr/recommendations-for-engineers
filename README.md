@@ -106,6 +106,7 @@ Collection of all the blogs for the categories below. I advise adding all the re
 
 ### programming
 
+-   [beepb00p](https://beepb00p.xyz/) <--- inspirational blogger building various things
 -   [Code Without Rules](https://codewithoutrules.com/) <--- helping you become a productive programmer and get work/life balance
 -   [Coding Horror](https://blog.codinghorror.com/) <--- programming and human factors
 -   [DEV Community](https://dev.to/) <--- popular blogging platform for developers
@@ -143,10 +144,13 @@ For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/lis
 -   [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
 -   [Prediction Machines: The Simple Economics of Artificial Intelligence](https://www.goodreads.com/book/show/36484703-prediction-machines)
 -   [Range: Why Generalists Triumph in a Specialized World](https://www.goodreads.com/book/show/44000528-range)
+-   [The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future](https://www.goodreads.com/book/show/12605157-the-100-startup)
 -   [The 10X Rule: The Only Difference Between Success and Failure](https://www.goodreads.com/book/show/46382280-the-10x-rule)
 -   [The Boron Letters](https://www.goodreads.com/book/show/17732053-the-boron-letters)
 -   [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited)
 -   [The Goal: A Process of Ongoing Improvement](https://www.goodreads.com/book/show/113937.The_Goal)
+-   [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/book/show/20657434-the-hard-thing-about-hard-things)
+-   [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.goodreads.com/book/show/11500159-the-lean-startup)
 -   [The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution](https://www.goodreads.com/book/show/43889703-the-man-who-solved-the-market)
 -   [The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime!](https://www.goodreads.com/book/show/18872437-the-millionaire-fastlane)
 -   [The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success](https://www.goodreads.com/book/show/13586932-the-outsiders)
@@ -236,16 +240,27 @@ For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/lis
 Mostly universal (language-independent books).
 
 -   [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
+-   [Code Complete](https://www.goodreads.com/book/show/21899045-code-complete)
+-   [Code: The Hidden Language of Computer Hardware and Software (Developer Best Practices)](https://www.goodreads.com/book/show/21948821-code)
 -   [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
 -   [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.goodreads.com/book/show/85009.Design_Patterns)
+-   [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
 -   [Elements of Programming Interviews in Python: The Insiders' Guide](https://www.goodreads.com/book/show/34791936-elements-of-programming-interviews-in-python)
 -   [Extreme Programming Explained: Embrace Change (The XP Series)](https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained)
+-   [Head First Design Patterns](https://www.goodreads.com/book/show/17374834-head-first-design-patterns)
 -   [Implementing Domain-Driven Design](https://www.goodreads.com/book/show/15756865-implementing-domain-driven-design)
+-   [Introduction to Algorithms (The MIT Press)](https://www.goodreads.com/book/show/44086616-introduction-to-algorithms)
 -   [Junior Developer. Wszystko co trzeba wiedzieć, by zacząć pracę jako programista](https://www.goodreads.com/book/show/32998879-junior-developer-wszystko-co-trzeba-wiedzie-by-zacz-prac-jako-prog) (🇵🇱)
+-   [Peopleware: Productive Projects and Teams](https://www.goodreads.com/book/show/18895165-peopleware)
+-   [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/book/show/44719608-refactoring)
 -   [Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
 -   [The C Programming Language](https://www.goodreads.com/book/show/515601.The_C_Programming_Language)
 -   [The C++ Programming Language](https://www.goodreads.com/book/show/18709954-the-c-programming-language) (4th Edition)
+-   [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/11486819-the-clean-coder)
 -   [The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job](https://www.goodreads.com/book/show/35674293-the-complete-software-developer-s-career-guide)
+-   [The Mythical Man-Month: Essays on Software Engineering](https://www.goodreads.com/book/show/6558055-the-mythical-man-month)
+-   [The Pragmatic Programmer](https://www.goodreads.com/book/show/22404360-the-pragmatic-programmer)
+-   [The Self-Taught Programmer: The Definitive Guide to Programming Professionally](https://www.goodreads.com/book/show/33580202-the-self-taught-programmer)
 -   [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)
 -   [Zawód: Programista](https://www.goodreads.com/book/show/36223075-zaw-d) (🇵🇱)
 -   [Zrozumieć programowanie](https://www.goodreads.com/book/show/28457659-zrozumie-programowanie) (🇵🇱)
