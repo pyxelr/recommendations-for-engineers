@@ -852,6 +852,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 
 -   [7-Zip](https://www.7-zip.org/) <--- file archiver with a high compression ratio
 -   [AIMP](https://www.aimp.ru/?do=download&os=windows) <--- music player
+-   [AquaSnap](https://www.nurgo-software.com/products/aquasnap) <--- tiling window manager
 -   [Audacity](https://www.audacityteam.org/) <--- simple audio editor
 -   [AutoHotkey](https://www.autohotkey.com/) <--- ultimate automation scripting language for Windows
 -   [Calibre](https://calibre-ebook.com/) <--- e-book manager
