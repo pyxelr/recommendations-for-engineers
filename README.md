@@ -776,6 +776,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 
 -   [Binary Search](https://binarysearch.io/) <--- create a room, invite your friends, and race to finish the problems
 -   [CheckiO](https://checkio.org/) <--- learn Python or JavaScript through the online game
+-   [CodeGym](https://codegym.cc/) <--- online Java programming course that is 80% based on practice
 -   [CodeSignal](https://codesignal.com/) <--- the most popular website of this kind
 -   [CodinGame](https://www.codingame.com/training) <--- learn programming through online sets of puzzles
 -   [Edabit](https://edabit.com/) <--- simple, new website in the market
