@@ -926,8 +926,9 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 ### entertainment
 
 -   [Alan Becker](https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw) <--- fights of stick figures
+-   [Daily Dose Of Internet](https://www.youtube.com/channel/UCdC0An4ZPNr_YiFiYoVbwaw) <--- the best and top trending videos from all over the Internet in short videos
 -   [Dylan Tallchief](https://www.youtube.com/channel/UCIu2Fj4x_VMn2dgSB1bFyQA) <--- fun look over the music production
--   [I did a thing](https://www.youtube.com/channel/UCJLZe_NoiG0hT7QCX_9vmqw/) <--- the author likes to do things
+-   [I did a thing](https://www.youtube.com/channel/UCJLZe_NoiG0hT7QCX_9vmqw) <--- the author likes to do things
 -   [Level UP](https://www.youtube.com/channel/UCNK813T2BNBwcfDPDTPeMPA) <--- mario animations
 -   [PewDiePie](https://www.youtube.com/user/PewDiePie) <--- meme/game reviews and not only
 -   [videogamedunkey](https://www.youtube.com/channel/UCsvn_Po0SmunchJYOWpOxMg) <--- game reviews
@@ -935,16 +936,16 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 ### math
 
 -   [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) <--- driven by animations for difficult problems to be made simple with changes in perspective
--   [blackpenredpen](https://www.youtube.com/user/blackpenredpen/) <--- for everyone who loves math
+-   [blackpenredpen](https://www.youtube.com/user/blackpenredpen) <--- for everyone who loves math
 -   [Brilliant](https://www.youtube.com/channel/UCpR62MSOeBQVXub13xwZ8aA) <--- excel in math and science
 -   [Domain of Science](https://www.youtube.com/user/dominicwalliman) <--- overview of science with the help of single maps
 -   [Eddie Woo](https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ) <--- one of the most enthusiastic math teachers on the web
 -   [Krista King](https://www.youtube.com/user/TheIntegralCALC) <--- master in math
 -   [MindYourDecisions](https://www.youtube.com/user/MindYourDecisions) <--- brain teasers
 -   [Numberphile](https://www.youtube.com/user/numberphile) <--- videos about numbers
--   [Prof Ghrist Math](https://www.youtube.com/channel/UC5N5pRddyicAX1QJyJjIIdg/) <--- animated introduction to calculus
+-   [Prof Ghrist Math](https://www.youtube.com/channel/UC5N5pRddyicAX1QJyJjIIdg) <--- animated introduction to calculus
 -   [statisticsfun](https://www.youtube.com/channel/UClD8c_piy1nrJySPJUgyivg) <--- visual explanations of algebra, trig, calculus, statistics, and economics
--   [The Organic Chemistry Tutor](https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA/) <--- tutorial videos on organic chemistry, general chemistry, physics, algebra, trigonometry, precalculus, and calculus
+-   [The Organic Chemistry Tutor](https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA) <--- tutorial videos on organic chemistry, general chemistry, physics, algebra, trigonometry, precalculus, and calculus
 -   [Think Twice](https://www.youtube.com/ThinktwiceLTU) <--- animated math videos
 -   [Welch Labs](https://www.youtube.com/user/Taylorns34) <--- math, science, and machine learning resources
 
@@ -963,7 +964,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) <--- general computer science channel
 -   [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) <--- Python in data science and not only
 -   [Derek Banas](https://www.youtube.com/user/derekbanas) <--- is there a topic on which Derek didn't record a tutorial?
--   [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg/) <--- solving advanced algorithms step by step
+-   [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg) <--- solving advanced algorithms step by step
 -   [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) <--- videos from open-source community
 -   [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) <--- ethical hacking tutorials
 -   [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g) <--- LeetCode challenges solver
@@ -973,34 +974,34 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge) <--- one of the most varied programming channel
 -   [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA) <--- lots of videos on Python, JavaScript, C#
 -   [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) <--- one of the most-enthusiastic coders on the web
--   [WilliamFiset](https://www.youtube.com/user/purpongie/) <--- educational computer science and mathematics videos
+-   [WilliamFiset](https://www.youtube.com/user/purpongie) <--- educational computer science and mathematics videos
 
 ### science
 
--   [AK LECTURES](https://www.youtube.com/user/mathdude2012/) <--- biology, biochemistry and physics. I recommend going through the playlists
+-   [AK LECTURES](https://www.youtube.com/user/mathdude2012) <--- biology, biochemistry and physics. I recommend going through the playlists
 -   [AsapSCIENCE](https://www.youtube.com/channel/UCC552Sd-3nyi_tk2BudLUzA) <--- quick scientific explanations
--   [Astrofaza](https://www.youtube.com/user/Astrofaza/) (🇵🇱) <--- everything about space
--   [CGP Grey](https://www.youtube.com/user/CGPGrey/) <--- short explanatory videos on varying subjects, including politics, geography, economics, history, and culture
+-   [Astrofaza](https://www.youtube.com/user/Astrofaza) (🇵🇱) <--- everything about space
+-   [CGP Grey](https://www.youtube.com/user/CGPGrey) <--- short explanatory videos on varying subjects, including politics, geography, economics, history, and culture
 -   [exurb1a](https://www.youtube.com/user/willunicycleforfood) <--- attempt to explain the way universe works
--   [iBiology](https://www.youtube.com/user/ibioseminars/) <--- biology talks by the world's leading scientists that show the process of science and the wonders of discovery. Make sure to check out their other channels
-    -   [iBiology Techniques](https://www.youtube.com/user/iBioEducation/) <--- iBiology technique driven videos such as a microscopy course
+-   [iBiology](https://www.youtube.com/user/ibioseminars) <--- biology talks by the world's leading scientists that show the process of science and the wonders of discovery. Make sure to check out their other channels
+    -   [iBiology Techniques](https://www.youtube.com/user/iBioEducation) <--- iBiology technique driven videos such as a microscopy course
 -   [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt) <--- videos explaining things with optimistic nihilism (quality > quantity)
--   [Lex Clips](https://www.youtube.com/channel/UCJIfeSCssxSC_Dhc5s7woww/) <--- clips from the Artificial Intelligent podcast and other conversations with Lex Fridman
+-   [Lex Clips](https://www.youtube.com/channel/UCJIfeSCssxSC_Dhc5s7woww) <--- clips from the Artificial Intelligent podcast and other conversations with Lex Fridman
 -   [Life Noggin](https://www.youtube.com/user/lifenoggin) <--- quickly animated explanations
 -   [MinuteEarth](https://www.youtube.com/user/minuteearth) <--- science and stories about our awesome planet
 -   [minutephysics](https://www.youtube.com/user/minutephysics) <--- cool physics and other sweet science
--   [Nauka. To Lubię](https://www.youtube.com/user/naukatolubie/) (🇵🇱) <--- for everyone who likes science
--   [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g/) <--- explore the outer reaches of space, the craziness of astrophysics, the possibilities of sci-fi and more
+-   [Nauka. To Lubię](https://www.youtube.com/user/naukatolubie) (🇵🇱) <--- for everyone who likes science
+-   [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g) <--- explore the outer reaches of space, the craziness of astrophysics, the possibilities of sci-fi and more
 -   [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ) <--- animated academic subjects
 -   [Reigarw Comparisons](https://www.youtube.com/user/reigarw) <--- comparisons of sizes, speed, price, or anything interesting
 -   [SciFun](https://www.youtube.com/user/SciTeraz) (🇵🇱) <--- world of science
 -   [Smartgasm](https://www.youtube.com/channel/UCwylAt0VrqZPPNCjQV2t8Qg) (🇵🇱) <--- lots of astronomy and physics
--   [The Thought Emporium](https://www.youtube.com/user/TheChemlife/) <--- from biohacking and biology, to nuclear physics and nanotech
--   [TierZoo](https://www.youtube.com/channel/UCHsRtomD4twRf5WVHHk-cMw/) <--- what if to talk about animals in terms of stats
+-   [The Thought Emporium](https://www.youtube.com/user/TheChemlife) <--- from biohacking and biology, to nuclear physics and nanotech
+-   [TierZoo](https://www.youtube.com/channel/UCHsRtomD4twRf5WVHHk-cMw) <--- what if to talk about animals in terms of stats
 -   [Uwaga! Naukowy Bełkot](https://www.youtube.com/channel/UC_7PqixGIdE-jjoHKMPYpGA) (🇵🇱) <--- well-researched topics from the overall science
--   [Veritasium](https://www.youtube.com/user/1veritasium/) <--- videos about science, education, and anything else found interesting
--   [Vsauce](https://www.youtube.com/user/Vsauce/) <--- mostly scientific, psychological, mathematical, and philosophical topics
--   [What If](https://www.youtube.com/channel/UCphTF9wHwhCt-BzIq-s4V-g/) <--- what if ___ ?
+-   [Veritasium](https://www.youtube.com/user/1veritasium) <--- videos about science, education, and anything else found interesting
+-   [Vsauce](https://www.youtube.com/user/Vsauce) <--- mostly scientific, psychological, mathematical, and philosophical topics
+-   [What If](https://www.youtube.com/channel/UCphTF9wHwhCt-BzIq-s4V-g) <--- what if ___ ?
 -   [What I've Learned](https://www.youtube.com/channel/UCqYPhGiB9tkShZorfgcL2lA) <--- mostly health-based videos from a single person
 
 ### tech news
