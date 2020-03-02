@@ -81,6 +81,7 @@ Collection of all the blogs for the categories below. I advise adding all the re
 -   [Machine Learning Mastery](https://machinelearningmastery.com/blog/) <--- popular blog on ML with lots of content to learn from
 -   [Mateusz Grzyb](https://mateuszgrzyb.pl/) (🇵🇱) <--- data analysis in Python
 -   [Peter Laurinec](https://petolau.github.io/) <--- time series data mining in R from a PhD researcher
+-   [Piotr Migdał](https://p.migdal.pl/articles/) <--- write-ups from an independent data science consultant, with PhD in quantum physics
 -   [PyImageSearch](https://www.pyimagesearch.com/) <--- be awesome at OpenCV, Python, deep learning, and computer vision
 -   [Python⇒Speed](https://pythonspeed.com/) <--- learn tools and techniques to help you ship better Python software, faster
 -   [Rubik's Code](https://rubikscode.net/) <--- AI without tears
