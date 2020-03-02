@@ -905,7 +905,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Google Scholar](https://scholar.google.com/)
 -   [ResearchGate](https://www.researchgate.net/)
 -   [ScienceDirect](https://www.sciencedirect.com/)
--   [Sci-Hub](https://whereisscihub.now.sh/) <--- unlock access to all scientific papers using its URL, PMID/DOI
+-   [Sci-Hub](https://sci-hub.now.sh/) <--- unlock access to all scientific papers using its URL, PMID/DOI
 -   and if that's not enough, try [Wikipedia's List of academic databases and search engines](https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines)
 
 **[⬆ Back to Contents](#contents)**
