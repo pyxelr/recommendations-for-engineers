@@ -516,7 +516,8 @@ As there are many, I highly encourage you to check my custom feeds:
 
 -   [Photopea](https://www.photopea.com/) <--- Photoshop in the browser
 -   [Pixlr X](https://pixlr.com/x/) <--- online image editor
--   [remove.bg](https://www.remove.bg/) <--- remove background from an image by simply uploading it
+-   [remove.bg](https://www.remove.bg/) <--- automatically remove background from an image
+-   [Unscreen](https://www.unscreen.com/) <--- automatically remove background from a video
 
 ### icons
 
