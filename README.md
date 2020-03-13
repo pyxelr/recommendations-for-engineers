@@ -506,7 +506,7 @@ As there are many, I highly encourage you to check my custom feeds:
 -   [Canva](https://www.canva.com/) <--- create graphics easily
 -   [Carbon](https://carbon.now.sh/) <--- share an image of code
 -   [Coggle](https://coggle.it/) <--- generate mind maps
--   [draw.io](https://www.draw.io/) <--- free online diagram software
+-   [diagrams.net](https://www.diagrams.net/) <--- free online diagram software (previously: draw.io)
 -   [Hatchful](https://hatchful.shopify.com/) <--- logo creator from the Shopify team
 -   [Launchaco](https://www.launchaco.com/logo) <--- free online logo maker
 -   [Marvel](https://marvelapp.com/) <--- create mockups in the browser
