@@ -945,9 +945,11 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Domain of Science](https://www.youtube.com/user/dominicwalliman) <--- overview of science with the help of single maps
 -   [Eddie Woo](https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ) <--- one of the most enthusiastic math teachers on the web
 -   [Krista King](https://www.youtube.com/user/TheIntegralCALC) <--- master in math
+-   [Looking Glass Universe](https://www.youtube.com/channel/UCFk__1iexL3T5gvGcMpeHNA) <--- about the strange world of maths and physics
 -   [MindYourDecisions](https://www.youtube.com/user/MindYourDecisions) <--- brain teasers
 -   [Numberphile](https://www.youtube.com/user/numberphile) <--- videos about numbers
 -   [Prof Ghrist Math](https://www.youtube.com/channel/UC5N5pRddyicAX1QJyJjIIdg) <--- animated introduction to calculus
+-   [standupmaths](https://www.youtube.com/user/standupmaths) <--- mathematics and stand-up (sometimes simultaneously)
 -   [statisticsfun](https://www.youtube.com/channel/UClD8c_piy1nrJySPJUgyivg) <--- visual explanations of algebra, trig, calculus, statistics, and economics
 -   [The Organic Chemistry Tutor](https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA) <--- tutorial videos on organic chemistry, general chemistry, physics, algebra, trigonometry, precalculus, and calculus
 -   [Think Twice](https://www.youtube.com/ThinktwiceLTU) <--- animated math videos
