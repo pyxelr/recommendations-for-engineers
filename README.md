@@ -140,6 +140,7 @@ For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/lis
 
 -   [Actionable Gamification: Beyond Points, Badges, and Leaderboards](https://www.goodreads.com/book/show/25416321-actionable-gamification)
 -   [Anything You Want](https://www.goodreads.com/book/show/11878168-anything-you-want)
+-   [Async Remote](https://www.goodreads.com/book/show/32883490-async-remote)
 -   [DotCom Secrets: The Underground Playbook for Growing Your Company Online](https://www.goodreads.com/book/show/25054961-dotcom-secrets)
 -   [Finansowy Ninja](https://www.goodreads.com/book/show/29151508-finansowy-ninja) (🇵🇱)
 -   [How to Get Rich](https://www.goodreads.com/book/show/1837402.How_to_Get_Rich)
@@ -221,7 +222,6 @@ For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/lis
 -   [A Guide to the Good Life: The Ancient Art of Stoic Joy](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life)
 -   [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by)
 -   [A Mind for Numbers: How to Excel at Math and Science](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers)
--   [Async Remote](https://www.goodreads.com/book/show/32883490-async-remote)
 -   [Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones](https://www.goodreads.com/book/show/40540502-atomic-habits)
 -   [How to Win Friends and Influence People](https://www.goodreads.com/book/show/29550624-how-to-win-friends-and-influence-people)
 -   [Influence: The Psychology of Persuasion](https://www.goodreads.com/book/show/28815.Influence)
