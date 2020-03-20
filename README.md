@@ -744,6 +744,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Developer Tea](https://spec.fm/podcasts/developer-tea) <--- short podcast for developers
 -   [DevTalk](https://devtalk.pl/) (🇵🇱) <--- podcast for programmers
 -   [Retrospektywa](https://www.retrospektywa.com/) (🇵🇱) <--- talks about IT projects
+-   [The Real Python Podcast](https://realpython.com/podcasts/rpp/) <--- interviews, coding tips, and conversation with guests from the Python community
 -   [The Stack Overflow Podcast](https://stackoverflow.blog/podcast/) <--- weekly conversation about working in software development
 
 **[⬆ Back to Contents](#contents)**
