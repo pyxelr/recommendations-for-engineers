@@ -437,16 +437,6 @@ My private OneNote would be there, but I prefer to share only the most relevant 
 -   [Towards Data Science](https://towardsdatascience.com/) <--- Medium for DS
 -   [Twitter](https://twitter.com/) <--- you can start with [#datascience](https://twitter.com/hashtag/datascience?lang=en) or [Follow Friday](https://followfriday.io/) (AI)
 
-### subreddits
-
-As there are many, I highly encourage you to check my custom feeds:
-
--   [~data_science](https://www.reddit.com/user/pyxelr/m/data_science/)
--   [~data_tools](https://www.reddit.com/user/pyxelr/m/data_tools/)
--   [~data_viz](https://www.reddit.com/user/pyxelr/m/data_viz/)
--   [~machine_learning](https://www.reddit.com/user/pyxelr/m/machine_learning/)
--   [~math](https://www.reddit.com/user/pyxelr/m/math/)
-
 ### online tools
 
 -   [A Neural Network Playground](https://playground.tensorflow.org/) <--- train a neural network
@@ -474,6 +464,16 @@ As there are many, I highly encourage you to check my custom feeds:
 -   [Data Science Stack Exchange](https://datascience.stackexchange.com/) <--- alternative to Cross Validated
 -   [Quora](https://www.quora.com/) <--- general website for questions
 -   subreddits <--- find the right subreddits above in this list
+
+### subreddits
+
+As there are many, I highly encourage you to check my custom feeds:
+
+-   [~data_science](https://www.reddit.com/user/pyxelr/m/data_science/)
+-   [~data_tools](https://www.reddit.com/user/pyxelr/m/data_tools/)
+-   [~data_viz](https://www.reddit.com/user/pyxelr/m/data_viz/)
+-   [~machine_learning](https://www.reddit.com/user/pyxelr/m/machine_learning/)
+-   [~math](https://www.reddit.com/user/pyxelr/m/math/)
 
 ### visualisations
 
