@@ -459,6 +459,7 @@ As there are many, I highly encourage you to check my custom feeds:
 -   [Interactive Machine Learning List](https://p.migdal.pl/interactive-machine-learning-list/) <--- list of interactive ML visualisations
 -   [Keras.js](https://transcranial.github.io/keras-js/) <--- run Keras models in your browser
 -   [Lyrebird AI](https://www.descript.com/lyrebird-ai) <--- voice cloning
+-   [Plotly Chart Studio](https://plot.ly/create/) <--- online Plotly graph maker
 -   [RAWGraphs](https://rawgraphs.io/) <--- quickly generate data visualisations from spreadsheets
 -   [RecurrentJS Sentence Memorization](https://cs.stanford.edu/people/karpathy/recurrentjs/)
 -   [SegNet](https://mi.eng.cam.ac.uk/projects/segnet/) <--- image segmentation
