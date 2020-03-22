@@ -463,7 +463,7 @@ My private OneNote would be there, but I prefer to share only the most relevant 
 -   [Cross Validated](https://stats.stackexchange.com/) <--- Stack Overflow for DS
 -   [Data Science Stack Exchange](https://datascience.stackexchange.com/) <--- alternative to Cross Validated
 -   [Quora](https://www.quora.com/) <--- general website for questions
--   subreddits <--- find the right subreddits above in this list
+-   subreddits <--- find the right subreddits in the list below
 
 ### subreddits
 
@@ -648,12 +648,14 @@ All the mentioned sites are mostly free of clickbait and offer the triumph of fo
 ### learn
 
 -   [academy.fm](https://academy.fm/) <--- lots of online courses
+-   [ADSR](https://www.adsrsounds.com/courses/) <--- learn Serum, Reaktor, Massive, etc.
 -   [Beatboxing for kids](https://beatboxingforkids.fun/) <--- teach your kids beatboxing using everyday words
 -   [Learn music with Ableton](https://learningmusic.ableton.com/index.html) <--- interactively in your browser
     -   [Learning Synths](https://learningsynths.ableton.com/get-started)
 -   [Melodics](https://melodics.com/) <--- interactive desktop software
 -   [Pianu](https://pianu.com/) <--- online interactive piano
--   [Synthesia](https://www.synthesiagame.com/) <--- game to learn piano
+-   [Simply Piano](http://www.joytunes.com/simply-piano) <--- mobile app that listens to the sound through microphone
+-   [Synthesia](https://www.synthesiagame.com/) <--- game that can help you learn how to play the piano using falling notes
 
 ### listen
 
@@ -661,6 +663,14 @@ All the mentioned sites are mostly free of clickbait and offer the triumph of fo
 -   [Radio Garden](http://radio.garden/) <--- listen to thousands of radio stations from the world using a Google Earth based menu
 -   [SoundCloud](https://soundcloud.com/) <--- find lots of indie music and upload your own one. Make sure to [follow me](https://soundcloud.com/pyxelr)!
 -   [Spotify](https://www.spotify.com/) <--- stream music online
+
+### sample packs
+
+-   [ADSR](https://www.adsrsounds.com/) <--- sample packs + music courses
+-   [BBC Sound Effects](http://bbcsfx.acropolis.org.uk/) <--- 16000 BBC Sound Effects in WAV format
+-   [Cymatics.fm](https://cymatics.fm/pages/free-download-vault) <--- 1000’s of free samples, presets, and more
+-   [Loopmasters](https://www.loopmasters.com/) <--- different types of samples: one shots, loops, construction kits (samples combined for one particular song)
+-   [SoundPacks](https://soundpacks.com/) <--- comprehensive source for free sample packs, drum kits, loop packs, and preset packs
 
 ### tools
 
