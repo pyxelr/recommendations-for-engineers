@@ -654,7 +654,7 @@ All the mentioned sites are mostly free of clickbait and offer the triumph of fo
     -   [Learning Synths](https://learningsynths.ableton.com/get-started)
 -   [Melodics](https://melodics.com/) <--- interactive desktop software
 -   [Pianu](https://pianu.com/) <--- online interactive piano
--   [Simply Piano](http://www.joytunes.com/simply-piano) <--- mobile app that listens to the sound through microphone
+-   [Simply Piano](http://www.joytunes.com/simply-piano) <--- mobile app that listens to the sound through a microphone
 -   [Synthesia](https://www.synthesiagame.com/) <--- game that can help you learn how to play the piano using falling notes
 
 ### listen
