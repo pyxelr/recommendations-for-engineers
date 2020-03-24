@@ -939,6 +939,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw) <--- AI/ML explained
 -   [sentdex](https://www.youtube.com/user/sentdex) <--- Python programming tutorials
 -   [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) <--- AI, ML, Python and more (unfortunately [involved in the scandal of plagiarism](https://www.youtube.com/watch?v=Mz3Mu9e0qRQ))
+-   [The AI University](https://www.youtube.com/channel/UCv6Uw36LRbYnX4HDxKPguKg) <--- educational channel on data science, data analysis, data engineering and cloud architecture
 -   [Two Minute Papers](https://www.youtube.com/user/keeroyz) <--- quick reviews of scientific research papers
 
 ### entertainment
