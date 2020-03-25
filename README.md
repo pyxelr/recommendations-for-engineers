@@ -350,6 +350,7 @@ Mostly universal (language-independent books).
 -   [PrivacyTools](https://www.privacytools.io/) <--- set of services, tools, and knowledge to protect your privacy
     -   [PRISM Break](https://prism-break.org/) <--- set of privacy tools (categorised by operating systems)
     -   [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) <--- curated list of privacy respecting services and software
+    -   [Secured.fyi](https://secured.fyi/) <--- list of security tools with great filtering options
 -   [Shodan](https://www.shodan.io/) <--- search engine of IoT
 -   [Tails](https://tails.boum.org/) <--- privacy OS for pendrive (protects your privacy and offers all sorts of apps to do so, like Tor, Thunderbird and PGP)
 -   [Webbkoll](https://webbkoll.dataskydd.net/en/) <--- monitor privacy-enhancing features on websites, and find out who is letting you exercise control over your privacy
