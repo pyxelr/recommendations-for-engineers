@@ -1005,6 +1005,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Astrofaza](https://www.youtube.com/user/Astrofaza) (🇵🇱) <--- everything about space
 -   [CGP Grey](https://www.youtube.com/user/CGPGrey) <--- short explanatory videos on varying subjects, including politics, geography, economics, history, and culture
 -   [exurb1a](https://www.youtube.com/user/willunicycleforfood) <--- attempt to explain the way universe works
+-   [Geography Now](https://www.youtube.com/user/GeographyNow) <--- first and only Youtube Channel that actively attempts to cover profiles on every single country of the world
 -   [iBiology](https://www.youtube.com/user/ibioseminars) <--- biology talks by the world's leading scientists that show the process of science and the wonders of discovery. Make sure to check out their other channels
     -   [iBiology Techniques](https://www.youtube.com/user/iBioEducation) <--- iBiology technique driven videos such as a microscopy course
 -   [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt) <--- videos explaining things with optimistic nihilism (quality > quantity)
