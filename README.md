@@ -948,7 +948,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 
 ### cybersecurity
 
--   [Gynvael Coldwind](https://www.youtube.com/user/GynvaelEN) <--- podcasts about CTFs, computer security, programing and similar things. You can also check out [Gynvael's (🇵🇱) channel](https://www.youtube.com/user/GynvaelColdwind)
+-   [Gynvael Coldwind](https://www.youtube.com/user/GynvaelEN) <--- podcasts about CTFs, computer security, programming and similar things. You can also check out [Gynvael's (🇵🇱) channel](https://www.youtube.com/user/GynvaelColdwind)
 -   [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) <--- ethical hacking tutorials
 -   [John Hammond](https://www.youtube.com/user/RootOfTheNull) <--- tutorials and videos on lots of programming languages
 -   [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) <--- preparing for CTFs
