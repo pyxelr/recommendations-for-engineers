@@ -47,8 +47,11 @@ Collection of all the blogs for the categories below. I advise adding all the re
 
 ### cybersecurity
 
+
+-   [Gynvael Coldwind](https://gynvael.coldwind.pl/) <--- blog of a programmer enthusiast with a passion for computer security and low-level aspects of computer science
 -   [KitPloit](https://www.kitploit.com/) <--- pentest & hacking tools
 -   [Latest Hacking News](https://latesthackingnews.com/) <--- latest cybersecurity news
+-   [LiveOverflow](https://liveoverflow.com/) <--- blog of a security professional who shares free IT security videos on YouTube
 -   [Niebezpiecznik](https://niebezpiecznik.pl/) (🇵🇱) <--- most popular Polish blog on cybersecurity
 -   [Paged Out!](https://pagedout.institute/) <--- free magazine on programming with a focus on hacking
 -   [Security Through Education](https://www.social-engineer.org/blog/) <--- blog on human engineering
@@ -334,6 +337,18 @@ Mostly universal (language-independent books).
 **[⬆ Back to Contents](#contents)**
 
 ## Cybersecurity
+
+### Learn
+
+-   [CTFlearn](https://ctflearn.com/) <--- ethical hacking platform that enables tens of thousands to learn, practice, and compete
+-   [CTFtime](https://ctftime.org/) <--- CTF archive, current overall Capture The Flag team rating, per-team statistics etc.
+-   [Google CTF](https://capturetheflag.withgoogle.com/) <--- CTF organised by Google with different challenges to practice
+-   [Hacker101](https://www.hacker101.com/) <--- free class for web security
+-   [Hack The Box](https://www.hackthebox.eu/) <--- online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field
+-   [pwn.college](https://pwn.college/) <--- education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion
+-   [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) <--- collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more
+
+### Tools
 
 -   [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html) <--- create a temporary anonymous e-mail
 -   [AmIUnique](https://amiunique.org/fp) <--- check your browser fingerprint
@@ -931,6 +946,14 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 
 ## YouTube Channels
 
+### cybersecurity
+
+-   [Gynvael Coldwind](https://www.youtube.com/user/GynvaelEN) <--- podcasts about CTFs, computer security, programing and similar things. You can also check out [Gynvael's (🇵🇱) channel](https://www.youtube.com/user/GynvaelColdwind)
+-   [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) <--- ethical hacking tutorials
+-   [John Hammond](https://www.youtube.com/user/RootOfTheNull) <--- tutorials and videos on lots of programming languages
+-   [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) <--- preparing for CTFs
+-   [Niebezpiecznik](https://www.youtube.com/channel/UCe6nK69Yc1zna7QSJEfA9pw) (🇵🇱) <--- cybersecurity channel
+
 ### data science
 
 -   [CodeEmporium](https://www.youtube.com/channel/UC5_6ZD6s8klmMu9TXEB_1IA) <--- data science topics explained through simple visualisations
@@ -988,10 +1011,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Derek Banas](https://www.youtube.com/user/derekbanas) <--- is there a topic on which Derek didn't record a tutorial?
 -   [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg) <--- solving advanced algorithms step by step
 -   [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) <--- videos from open-source community
--   [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) <--- ethical hacking tutorials
 -   [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g) <--- LeetCode challenges solver
--   [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) <--- preparing for CTFs
--   [Niebezpiecznik](https://www.youtube.com/channel/UCe6nK69Yc1zna7QSJEfA9pw) (🇵🇱) <--- cybersecurity channel
 -   [Pasja Informatyki](https://www.youtube.com/user/MiroslawZelent) (🇵🇱) <--- general IT/psychology channel
 -   [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge) <--- one of the most varied programming channel
 -   [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA) <--- lots of videos on Python, JavaScript, C#
