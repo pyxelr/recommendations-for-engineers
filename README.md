@@ -574,9 +574,6 @@ All the mentioned sites are mostly free of clickbait and offer the triumph of fo
 ## Learning
 
 -   [Anki](https://apps.ankiweb.net/) <--- my favourite software to learn through spaced repetition and active learning in mobile and open-source PC app. Make sure to [check out my own decks](https://github.com/pyxelr/My_Anki_Decks_of_Flashards)
--   [Explorable Explanations](https://explorabl.es/all/) <--- hub for learning through interactive online games. Make sure to check out more from [Nicky Case!](https://ncase.me/)
--   [Explorable Physics](https://landgreen.github.io/physics/index.html) <--- course notes for algebra based physics with explorable explanations
--   [Neal.fun](https://neal.fun/) <--- lots of interactive educational/interesting comparisons
 -   [Quizlet](https://quizlet.com/latest) <--- more user-friendly alternative to Anki
 -   [Researcher](https://www.researcher-app.com/) <--- feed for scientific papers
 -   [Simple Wikipedia](https://simple.wikipedia.org/wiki/Main_Page) <--- Wikipedia articles explained in simple words
@@ -609,6 +606,13 @@ All the mentioned sites are mostly free of clickbait and offer the triumph of fo
 -   [Reddit](https://www.reddit.com/) <--- find the right subreddit for your question
 -   [Stack Exchange](https://stackexchange.com/sites) <--- find the right site to ask your question
 -   [Stack Overflow](https://stackoverflow.com/) <--- all the programming related questions
+
+### simulations
+
+-   [Explorable Explanations](https://explorabl.es/all/) <--- hub for learning through interactive online games. Make sure to check out more from [Nicky Case!](https://ncase.me/)
+-   [Explorable Physics](https://landgreen.github.io/physics/index.html) <--- course notes for algebra based physics with explorable explanations
+-   [Neal.fun](https://neal.fun/) <--- lots of interactive educational/interesting comparisons
+-   [Prajwal DSouza](https://prajwalsouza.github.io/) <--- simulations related to Math, Physics and Computer Science
 
 **[⬆ Back to Contents](#contents)**
 
