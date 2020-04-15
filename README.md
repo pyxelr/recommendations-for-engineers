@@ -444,6 +444,7 @@ My private OneNote would be there, but I prefer to share only the most relevant 
 -   [Machine Learning Study Path March 2019](https://github.com/clone95/Machine-Learning-Study-Path-March-2019) <--- GitHub repository with complete ML study path, focused on TensorFlow and Scikit-Learn
 -   [Made with ML](https://madewithml.com/) <--- platform for the ML community to learn, discover, share & organize content
 -   [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) <--- YouTube playlist of four (20 mins videos) explaining the theory behind neural networks (by 3blue1brown)
+-   [Papers with Code](https://paperswithcode.com/) <--- free and open resource with Machine Learning papers, code and evaluation tables
 
 ### news
 
