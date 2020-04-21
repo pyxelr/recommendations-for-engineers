@@ -1038,6 +1038,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [AK LECTURES](https://www.youtube.com/user/mathdude2012) <--- biology, biochemistry and physics. I recommend going through the playlists
 -   [AsapSCIENCE](https://www.youtube.com/channel/UCC552Sd-3nyi_tk2BudLUzA) <--- quick scientific explanations
 -   [Astrofaza](https://www.youtube.com/user/Astrofaza) (🇵🇱) <--- everything about space
+-   [BrainStuff - HowStuffWorks](https://www.youtube.com/user/BrainStuffShow) <--- everyday science in the world around us
 -   [CGP Grey](https://www.youtube.com/user/CGPGrey) <--- short explanatory videos on varying subjects, including politics, geography, economics, history, and culture
 -   [exurb1a](https://www.youtube.com/user/willunicycleforfood) <--- attempt to explain the way universe works
 -   [Geography Now](https://www.youtube.com/user/GeographyNow) <--- first and only Youtube Channel that actively attempts to cover profiles on every single country of the world
@@ -1050,6 +1051,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [MinuteEarth](https://www.youtube.com/user/minuteearth) <--- science and stories about our awesome planet
 -   [minutephysics](https://www.youtube.com/user/minutephysics) <--- cool physics and other sweet science
 -   [Nauka. To Lubię](https://www.youtube.com/user/naukatolubie) (🇵🇱) <--- for everyone who likes science
+-   [National Geographic](https://www.youtube.com/user/NationalGeographic) <--- world's premium destination for science, exploration, and adventure
 -   [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g) <--- explore the outer reaches of space, the craziness of astrophysics, the possibilities of sci-fi and more
 -   [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ) <--- animated academic subjects
 -   [Reigarw Comparisons](https://www.youtube.com/user/reigarw) <--- comparisons of sizes, speed, price, or anything interesting
