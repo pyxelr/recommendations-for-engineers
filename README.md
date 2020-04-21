@@ -312,7 +312,18 @@ Mostly universal (language-independent books).
 
 **[⬆ Back to Contents](#contents)**
 
-## Business 
+## Business
+
+### remote collaboration
+
+-   [Discord](https://discordapp.com/) <--- VoIP application (my preference over Slack)
+-   [Google Hangouts](https://hangouts.google.com/) <--- remote video calls
+-   [Hackpad](https://hackpad.com/) <--- web-based realtime wiki (great for knowledge sharing/documentation)
+-   [Miro](https://miro.com/) <--- online collaborative whiteboard (great for remote event storming)
+-   [Remote Work Toolkit](https://nohq.co/tools/) <--- set of tools for remote work
+-   [Trello](https://trello.com/) <--- web-based Kanban-style list-making application (great for creating tickets)
+
+### tools
 
 -   [ahrefs](https://ahrefs.com/) <--- research your competitors
 -   [Bitcoin Regret Club](https://bitcoinregret.club/calculate-regret) <--- check how much would you earn/lose if you would invest into Bitcoin on the chosen date
@@ -324,7 +335,6 @@ Mostly universal (language-independent books).
 -   [Google Optimize](https://www.blog.google/products/marketingplatform/analytics/this-is-not-a-test-google-optimize-now-free-for-everyone/) <--- free tool to perform A/B tests to analyse customers
 -   [Investing.com](https://www.investing.com/) <--- stock market quotes & financial news
 -   [ODOO](https://www.odoo.com/) <--- web-based open source business apps
--   [Remote Work Toolkit](https://nohq.co/tools/) <--- set of tools for remote work
 -   [Sendy](https://sendy.co/) <--- cheap newsletter system via Amazon SES
 -   Startup
     -   [books](https://startupbooks.io/) <--- list of books to help you along your startup journey
@@ -338,7 +348,7 @@ Mostly universal (language-independent books).
 
 ## Cybersecurity
 
-### Learn
+### learn
 
 -   [CTFlearn](https://ctflearn.com/) <--- ethical hacking platform that enables tens of thousands to learn, practice, and compete
 -   [CTFtime](https://ctftime.org/) <--- CTF archive, current overall Capture The Flag team rating, per-team statistics etc.
@@ -348,7 +358,7 @@ Mostly universal (language-independent books).
 -   [pwn.college](https://pwn.college/) <--- education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion
 -   [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) <--- collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more
 
-### Tools
+### tools
 
 -   [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html) <--- create a temporary anonymous e-mail
 -   [AmIUnique](https://amiunique.org/fp) <--- check your browser fingerprint
@@ -619,7 +629,7 @@ All the mentioned sites are mostly free of clickbait and offer the triumph of fo
 
 ## Math
 
-### learning
+### learn
 
 -   [Become a Calculus Master](https://www.udemy.com/calculus1/) <--- Udemy course of three parts
 -   [Better Explained](https://betterexplained.com/calculus/) <--- free calculus course
