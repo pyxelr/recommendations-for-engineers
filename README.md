@@ -307,6 +307,7 @@ Mostly universal (language-independent books).
 -   [Session Buddy](https://sessionbuddy.com/) <--- manage browser sessions
 -   [Sourcegraph](https://docs.sourcegraph.com/integration/browser_extension) <--- add code intelligence to GitHub and other code hosts
 -   [Stylus](https://add0n.com/stylus.html) <--- user-style manager
+-   [Tampermonkey](https://www.tampermonkey.net/) <--- the most popular userscript manager
 -   [uBlock Origin](https://github.com/gorhill/uBlock#installation) <--- blocker addon (not only for ads)
 -   [Wappalyzer](https://www.wappalyzer.com/) <--- identify technology on websites
 
