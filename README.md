@@ -726,7 +726,9 @@ All the mentioned sites are mostly free of clickbait and offer the triumph of fo
 -   [Inside](https://inside.com/) <--- daily newsletters on different topics. For example, check out [Inside AI](https://inside.com/ai) and its [recent issues](https://inside.com/lists/ai/recent_issues) at any time
 -   [James Clear](https://jamesclear.com/newsletter) <--- apply better habits in your life (from the author of Atomic Habits)
 -   [Morning Cup of Coding](https://morningcupofcoding.com/) <--- daily programming newsletter featuring long form technical articles of all fields of software engineering
+-   [Newsletry](https://newsletry.com/) <--- Feedly for newsletters (discover and read newsletters, all in one place)
 -   [Podcast Notes](https://podcastnotes.org/) <--- summary of podcasts in few bullet points
+-   [The Data Science Roundup](http://roundup.fishtownanalytics.com/) <--- internet's most useful data science articles
 -   [The Overflow](https://stackoverflow.blog/newsletter/) <--- newsletter by developers, for developers
 -   [unknowNews](https://unknow.news/) (🇵🇱) <--- weekly newsletter. Check its [archive](https://news.mrugalski.pl/) or [search engine](https://www.uw7.org/szukaj/) for the past sendings
 -   [Unreadit/Tech](https://unreadit.com/n/tech/) <--- Reddit content on tech
