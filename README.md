@@ -1088,6 +1088,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Buoy](https://www.buoyhealth.com/symptom-checker/) <--- check your symptoms with an online AI assistant
 -   [Can I email](https://www.caniemail.com/) <--- check which HTML and CSS elements are supported by your mail client
 -   [Code Wizard ~ Ash Kyd](https://ash.ms/) <--- website of a developer in a Windows ME style. It's worth checking out the arrangement of blog posts/vlogs
+-   [discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) <--- list of student discounts for learning & development
 -   [DistroTest](https://distrotest.net/) <--- try running any Linux distro in the cloud VM
 -   [Follow Friday](https://followfriday.io/) <--- interesting people to follow, categorised by topics like AI, design or programming
     -   [list of accounts I'm following](https://twitter.com/pawel_cislo/following) <--- all the people that influence my writing on [pawelcislo.com](https://pawelcislo.com/)
@@ -1101,7 +1102,6 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [scrcpy](https://github.com/Genymobile/scrcpy) <--- display and control Android devices connected on USB
 -   [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) <--- find the shortest path from one Wikipedia article to another
 -   [Stellarium Web Online Star Map](https://stellarium-web.org/) <--- online planetarium
--   [Studddent](https://studddent.com/) <--- list of student discounts for learning & development
 -   [TLDRLegal](https://tldrlegal.com/) <--- software licences explained in plain English
 -   [Webamp](https://webamp.org/) <--- Winamp 2 in your browser
 -   [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) <--- have some fun :)
