@@ -1092,6 +1092,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [DistroTest](https://distrotest.net/) <--- try running any Linux distro in the cloud VM
 -   [Follow Friday](https://followfriday.io/) <--- interesting people to follow, categorised by topics like AI, design or programming
     -   [list of accounts I'm following](https://twitter.com/pawel_cislo/following) <--- all the people that influence my writing on [pawelcislo.com](https://pawelcislo.com/)
+-   [Future Timeline](https://www.futuretimeline.net/) <--- timeline of future predictions
 -   [How much free time do you have?](https://erikrood.com/Posts/free_time_calc.html) <--- specify values and get the result
 -   [Internet Archive](https://archive.org/web/) <--- wayback machine with a digital library of Internet sites
 -   [My Pinterest account](https://pinterest.com/pyxelrr/) <--- aggregation of the most practical infographics that I stepped on
