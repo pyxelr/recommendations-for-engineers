@@ -954,11 +954,13 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [arXiv](https://arxiv.org/) <--- open access to the scientific papers
     -   [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) <--- web interface that attempts to tame the overwhelming flood of papers on Arxiv
 -   [DOAJ](https://doaj.org/) <--- directory of open access journals
--   [Google Scholar](https://scholar.google.com/)
--   [ResearchGate](https://www.researchgate.net/)
--   [ScienceDirect](https://www.sciencedirect.com/)
+-   [Google Scholar](https://scholar.google.com/) <--- web search engine that indexes the full text or metadata of scholarly literature
+-   [JSTOR](https://www.jstor.org/) <--- access to more than 12 million academic journal articles, books, and primary sources in 75 disciplines
+-   [ResearchGate](https://www.researchgate.net/) <--- European commercial social networking site for scientists and researchers to share papers, ask and answer questions, and find collaborators
+-   [ScienceDirect](https://www.sciencedirect.com/) <--- website which provides subscription-based access to a large database of scientific and medical research
 -   [Sci-Hub](https://sci-hub.now.sh/) <--- unlock access to all scientific papers using its URL, PMID/DOI
--   and if that's not enough, try [Wikipedia's List of academic databases and search engines](https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines)
+-   [Springer](https://link.springer.com/) <--- access to millions of scientific documents from journals, books, series, protocols, reference works and proceedings
+-   [Wikipedia's List of academic databases and search engines](https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines)
 
 **[⬆ Back to Contents](#contents)**
 
