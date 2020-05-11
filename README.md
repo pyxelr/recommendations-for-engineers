@@ -447,8 +447,10 @@ My private OneNote would be there, but I prefer to share only the most relevant 
 
 ### learning material
 
+-   [AI Explorables](https://pair.withgoogle.com/explorables/) <--- big ideas in machine learning, simply explained by Google 
 -   [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) <--- learn data science from IPython notebooks
 -   [Dive into Deep Learning](https://d2l.ai/) <--- interactive deep learning book with code, math, and discussions, based on the NumPy interface
+-   [Explained Visually](http://setosa.io/ev/) <--- interactive visualisations
 -   [Kaggle](https://www.kaggle.com/) <--- home of data science for competitions, datasets, coursers, notebooks and discussions
 -   [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/) <--- blog post, which explains the most critical concepts in a funny and practical way. You won't be bored reading it, and it might take you around 30-40 mins
 -   [Machine Learning on Coursera](https://www.coursera.org/learn/machine-learning) <--- the must check course by Andrew Ng
@@ -471,7 +473,6 @@ My private OneNote would be there, but I prefer to share only the most relevant 
 -   [ColorBrewer](http://colorbrewer2.org/) <--- colour advice for maps
 -   [Decision Trees in Javascript](https://cs.stanford.edu/~karpathy/svmjs/demo/demoforest.html) <--- random forest demo in Javascript
     -   check out also [SVMs demo](https://cs.stanford.edu/~karpathy/svmjs/demo/)
--   [Explained Visually](http://setosa.io/ev/) <--- interactive visualisations
 -   [Grail Text Recognizer](https://jackschaedler.github.io/handwriting-recognition/) <--- text recognition explained
 -   [Image-to-Image Demo](https://affinelayer.com/pixsrv/) <--- interactive image translation with pix2pix-tensorflow
 -   [Interactive Machine Learning List](https://p.migdal.pl/interactive-machine-learning-list/) <--- list of interactive ML visualisations
@@ -621,6 +622,8 @@ All the mentioned sites are mostly free of clickbait and offer the triumph of fo
 
 ### simulations
 
+-   [AI Explorables](https://pair.withgoogle.com/explorables/) <--- big ideas in machine learning, simply explained by Google 
+-   [Explained Visually](http://setosa.io/ev/) <--- interactive visualisations
 -   [Explorable Explanations](https://explorabl.es/all/) <--- hub for learning through interactive online games. Make sure to check out more from [Nicky Case!](https://ncase.me/)
 -   [Explorable Physics](https://landgreen.github.io/physics/index.html) <--- course notes for algebra based physics with explorable explanations
 -   [Neal.fun](https://neal.fun/) <--- lots of interactive educational/interesting comparisons
