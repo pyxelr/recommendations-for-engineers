@@ -447,7 +447,7 @@ My private OneNote would be there, but I prefer to share only the most relevant 
 
 ### learning material
 
--   [AI Explorables](https://pair.withgoogle.com/explorables/) <--- big ideas in machine learning, simply explained by Google 
+-   [AI Explorables](https://pair.withgoogle.com/explorables/) <--- big ideas in machine learning, simply explained by Google
 -   [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) <--- learn data science from IPython notebooks
 -   [Dive into Deep Learning](https://d2l.ai/) <--- interactive deep learning book with code, math, and discussions, based on the NumPy interface
 -   [Explained Visually](http://setosa.io/ev/) <--- interactive visualisations
@@ -478,6 +478,7 @@ My private OneNote would be there, but I prefer to share only the most relevant 
 -   [Interactive Machine Learning List](https://p.migdal.pl/interactive-machine-learning-list/) <--- list of interactive ML visualisations
 -   [Keras.js](https://transcranial.github.io/keras-js/) <--- run Keras models in your browser
 -   [Lyrebird AI](https://www.descript.com/lyrebird-ai) <--- voice cloning
+-   [PAIR tools](https://pair.withgoogle.com/tools/) <--- open-source tools to help make ML models more understandable, reliable, and fair (by Google)
 -   [Plotly Chart Studio](https://plot.ly/create/) <--- online Plotly graph maker
 -   [RAWGraphs](https://rawgraphs.io/) <--- quickly generate data visualisations from spreadsheets
 -   [RecurrentJS Sentence Memorization](https://cs.stanford.edu/people/karpathy/recurrentjs/)
@@ -622,7 +623,7 @@ All the mentioned sites are mostly free of clickbait and offer the triumph of fo
 
 ### simulations
 
--   [AI Explorables](https://pair.withgoogle.com/explorables/) <--- big ideas in machine learning, simply explained by Google 
+-   [AI Explorables](https://pair.withgoogle.com/explorables/) <--- big ideas in machine learning, simply explained by Google
 -   [Explained Visually](http://setosa.io/ev/) <--- interactive visualisations
 -   [Explorable Explanations](https://explorabl.es/all/) <--- hub for learning through interactive online games. Make sure to check out more from [Nicky Case!](https://ncase.me/)
 -   [Explorable Physics](https://landgreen.github.io/physics/index.html) <--- course notes for algebra based physics with explorable explanations
