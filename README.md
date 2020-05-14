@@ -1023,6 +1023,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 
 -   [Akademia Bogactwa](https://www.youtube.com/channel/UC6SinQiw2eDU6k9tEXpZv9g) (🇵🇱) <--- daily vlog of Polish entrepreneur focused on real estate
 -   [Andrzej Krzywda](https://www.youtube.com/channel/UCmrGGj6Y_XQuockwwI3yemA) (🇵🇱) <--- daily vlog of Polish programmer/entrepreneur
+-   [BrainCraft](https://www.youtube.com/user/braincraftvideo) <--- self-improvement tips and advice based in psychology and neuroscience
 -   [Charisma on Command](https://www.youtube.com/user/charismaoncommand) <--- master your charisma
 -   [Devstyle](https://www.youtube.com/channel/UCACp5rqV3Ki0SNdXWDBLhRA) (🇵🇱) <--- daily vlog of Polish entrepreneur (past programmer)
 -   [FightMediocrity](https://www.youtube.com/channel/UCXLesGEfmyhxqOjoAqhRwhA) <--- summaries of the most inspiring books
@@ -1054,6 +1055,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Geography Now](https://www.youtube.com/user/GeographyNow) <--- first and only Youtube Channel that actively attempts to cover profiles on every single country of the world
 -   [iBiology](https://www.youtube.com/user/ibioseminars) <--- biology talks by the world's leading scientists that show the process of science and the wonders of discovery. Make sure to check out their other channels
     -   [iBiology Techniques](https://www.youtube.com/user/iBioEducation) <--- iBiology technique driven videos such as a microscopy course
+-   [It's Okay To Be Smart](https://www.youtube.com/user/itsokaytobesmart) <--- Joe Hanson, Ph.D. is a curious group of atoms in a curious universe, and he's here to tell you how it all works
 -   [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt) <--- videos explaining things with optimistic nihilism (quality > quantity)
 -   [Langfocus](https://www.youtube.com/channel/UCNhX3WQEkraW3VHPyup8jkQ) <--- channel of a language enthusiast, globetrotter
 -   [Lex Clips](https://www.youtube.com/channel/UCJIfeSCssxSC_Dhc5s7woww) <--- clips from the Artificial Intelligent podcast and other conversations with Lex Fridman
@@ -1064,9 +1066,12 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Nauka. To Lubię](https://www.youtube.com/user/naukatolubie) (🇵🇱) <--- for everyone who likes science
 -   [National Geographic](https://www.youtube.com/user/NationalGeographic) <--- world's premium destination for science, exploration, and adventure
 -   [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g) <--- explore the outer reaches of space, the craziness of astrophysics, the possibilities of sci-fi and more
+-   [Physics Girl](https://www.youtube.com/user/physicswoman) <--- adventures into the physical sciences with experiments, demonstrations, and cool new discoveries
 -   [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ) <--- animated academic subjects
 -   [Reigarw Comparisons](https://www.youtube.com/user/reigarw) <--- comparisons of sizes, speed, price, or anything interesting
 -   [SciFun](https://www.youtube.com/user/SciTeraz) (🇵🇱) <--- world of science
+-   [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ) <--- channel of a maker/robotics enthusiast/non-engineer
+-   [Smarter Every Day](https://www.youtube.com/user/destinws2) <--- exploring the world using science (also check out [the 2nd channel](https://www.youtube.com/user/FunnerEveryDay))
 -   [Smartgasm](https://www.youtube.com/channel/UCwylAt0VrqZPPNCjQV2t8Qg) (🇵🇱) <--- lots of astronomy and physics
 -   [The Thought Emporium](https://www.youtube.com/user/TheChemlife) <--- from biohacking and biology, to nuclear physics and nanotech
 -   [TierZoo](https://www.youtube.com/channel/UCHsRtomD4twRf5WVHHk-cMw) <--- what if to talk about animals in terms of stats
