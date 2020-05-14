@@ -1058,6 +1058,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Langfocus](https://www.youtube.com/channel/UCNhX3WQEkraW3VHPyup8jkQ) <--- channel of a language enthusiast, globetrotter
 -   [Lex Clips](https://www.youtube.com/channel/UCJIfeSCssxSC_Dhc5s7woww) <--- clips from the Artificial Intelligent podcast and other conversations with Lex Fridman
 -   [Life Noggin](https://www.youtube.com/user/lifenoggin) <--- quickly animated explanations
+-   [Mark Rober](https://www.youtube.com/user/onemeeeliondollars) <--- channel of a former NASA engineer and a friend of science
 -   [MinuteEarth](https://www.youtube.com/user/minuteearth) <--- science and stories about our awesome planet
 -   [minutephysics](https://www.youtube.com/user/minutephysics) <--- cool physics and other sweet science
 -   [Nauka. To Lubię](https://www.youtube.com/user/naukatolubie) (🇵🇱) <--- for everyone who likes science
