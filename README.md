@@ -485,8 +485,8 @@ My private OneNote would be there, but I prefer to share only the most relevant 
 -   [Plotly Chart Studio](https://plot.ly/create/) <--- online Plotly graph maker
 -   [RAWGraphs](https://rawgraphs.io/) <--- quickly generate data visualisations from spreadsheets
 -   [RecurrentJS Sentence Memorization](https://cs.stanford.edu/people/karpathy/recurrentjs/)
--   [SegNet](https://mi.eng.cam.ac.uk/projects/segnet/) <--- image segmentation
 -   [Seeing Theory](https://seeing-theory.brown.edu/) <--- visual introduction to probability and statistics
+-   [SegNet](https://mi.eng.cam.ac.uk/projects/segnet/) <--- image segmentation
 -   [Self-driving cars in the browser](https://janhuenermann.com/blog/learning-to-drive)
 -   [StarByFace](https://starbyface.com/) <--- celebrity look-alike application
 -   [Talk to Transformer](https://talktotransformer.com/) <--- write some text and generate the next sentences
