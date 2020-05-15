@@ -470,12 +470,15 @@ My private OneNote would be there, but I prefer to share only the most relevant 
 ### online tools
 
 -   [A Neural Network Playground](https://playground.tensorflow.org/) <--- train a neural network
+-   [CNN Explainer](https://poloclub.github.io/cnn-explainer/) <--- interactive visualization system designed to help non-experts learn about Convolutional Neural Networks (CNNs)
 -   [ColorBrewer](http://colorbrewer2.org/) <--- colour advice for maps
 -   [Decision Trees in Javascript](https://cs.stanford.edu/~karpathy/svmjs/demo/demoforest.html) <--- random forest demo in Javascript
     -   check out also [SVMs demo](https://cs.stanford.edu/~karpathy/svmjs/demo/)
+-   [GAN Lab](https://poloclub.github.io/ganlab/) <--- play with Generative Adversarial Networks (GANs) in your browser!
 -   [Grail Text Recognizer](https://jackschaedler.github.io/handwriting-recognition/) <--- text recognition explained
 -   [Image-to-Image Demo](https://affinelayer.com/pixsrv/) <--- interactive image translation with pix2pix-tensorflow
 -   [Interactive Machine Learning List](https://p.migdal.pl/interactive-machine-learning-list/) <--- list of interactive ML visualisations
+-   [Interactive Tools for ML, DL and Math](https://github.com/Machine-Learning-Tokyo/Interactive_Tools) <--- learn and play with ML interactively (I highly recommend it!)
 -   [Keras.js](https://transcranial.github.io/keras-js/) <--- run Keras models in your browser
 -   [Lyrebird AI](https://www.descript.com/lyrebird-ai) <--- voice cloning
 -   [PAIR tools](https://pair.withgoogle.com/tools/) <--- open-source tools to help make ML models more understandable, reliable, and fair (by Google)
@@ -483,6 +486,7 @@ My private OneNote would be there, but I prefer to share only the most relevant 
 -   [RAWGraphs](https://rawgraphs.io/) <--- quickly generate data visualisations from spreadsheets
 -   [RecurrentJS Sentence Memorization](https://cs.stanford.edu/people/karpathy/recurrentjs/)
 -   [SegNet](https://mi.eng.cam.ac.uk/projects/segnet/) <--- image segmentation
+-   [Seeing Theory](https://seeing-theory.brown.edu/) <--- visual introduction to probability and statistics
 -   [Self-driving cars in the browser](https://janhuenermann.com/blog/learning-to-drive)
 -   [StarByFace](https://starbyface.com/) <--- celebrity look-alike application
 -   [Talk to Transformer](https://talktotransformer.com/) <--- write some text and generate the next sentences
@@ -987,7 +991,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw) <--- AI/ML explained
 -   [sentdex](https://www.youtube.com/user/sentdex) <--- Python programming tutorials
 -   [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) <--- AI, ML, Python and more (unfortunately [involved in the scandal of plagiarism](https://www.youtube.com/watch?v=Mz3Mu9e0qRQ))
--   [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer) <--- major statistical methodologies into easy to understand pieces (highly recommend it!)
+-   [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer) <--- major statistical methodologies into easy to understand pieces (I highly recommend it!)
 -   [The AI University](https://www.youtube.com/channel/UCv6Uw36LRbYnX4HDxKPguKg) <--- educational channel on data science, data analysis, data engineering and cloud architecture
 -   [Two Minute Papers](https://www.youtube.com/user/keeroyz) <--- quick reviews of scientific research papers
 
