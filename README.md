@@ -1010,6 +1010,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 
 -   [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) <--- driven by animations for difficult problems to be made simple with changes in perspective
 -   [blackpenredpen](https://www.youtube.com/user/blackpenredpen) <--- for everyone who loves math
+-   [Brian McLogan](https://www.youtube.com/user/MrBrianMcLogan) <--- teaching math from the perspective of the struggling student
 -   [Brilliant](https://www.youtube.com/channel/UCpR62MSOeBQVXub13xwZ8aA) <--- excel in math and science
 -   [Domain of Science](https://www.youtube.com/user/dominicwalliman) <--- overview of science with the help of single maps
 -   [Eddie Woo](https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ) <--- one of the most enthusiastic math teachers on the web
