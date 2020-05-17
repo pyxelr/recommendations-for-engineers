@@ -726,6 +726,7 @@ All the mentioned sites are mostly free of clickbait and offer the triumph of fo
 
 -   [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters) <--- curated list of awesome newsletters
 -   [Bullets.news](https://bullets.news/) <--- scientific papers summarized in few bullet points
+-   [Data Elixir](https://dataelixir.com/) <--- weekly dose of the top data science picks from around the web. Covering machine learning, data visualization, analytics, and strategy
 -   [Data Science Weekly](https://www.datascienceweekly.org/) <--- featuring curated news, articles and jobs related to Data Science. You can read the [archive](https://www.datascienceweekly.org/newsletters) at any time
 -   [DEV Community](https://dev.to/settings/notifications) <--- weekly newsletter of top 7 posts (activate in settings of your account)
 -   [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) <--- subscribe to weekly/daily sets of trending repositories from different languages
