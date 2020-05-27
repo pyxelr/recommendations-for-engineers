@@ -1,5 +1,5 @@
 # Recommendations for Engineers
-All of my recommendations for aspiring engineers in a single place, coming from various areas of my interest. The principal scope supports `data science`, `programming`, `python`, `math`, `cybersecurity`, `business`, and `productivity`.
+All of my recommendations for aspiring engineers in a single place, coming from various areas of interest. The principal scope supports `data science`, `programming`, `python`, `math`, `cybersecurity`, `business`, and `productivity`.
 
 The list also aggregates and extends most of the suggestions from [my blog posts](https://pawelcislo.com/), where some of the entries come from a different language (🇵🇱). Although it's my personal list, don't hesitate to create a pull request if I missed something interesting or if there is a dead link.
 
