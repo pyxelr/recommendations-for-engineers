@@ -1029,6 +1029,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 ### productivity/business
 
 -   [Akademia Bogactwa](https://www.youtube.com/channel/UC6SinQiw2eDU6k9tEXpZv9g) (🇵🇱) <--- daily vlog of Polish entrepreneur focused on real estate
+-   [Ali Abdaal](https://www.youtube.com/user/Sepharoth64) <--- one of the best channels to learn organisation and study techniques from a med student
 -   [Andrzej Krzywda](https://www.youtube.com/channel/UCmrGGj6Y_XQuockwwI3yemA) (🇵🇱) <--- daily vlog of Polish programmer/entrepreneur
 -   [BrainCraft](https://www.youtube.com/user/braincraftvideo) <--- self-improvement tips and advice based in psychology and neuroscience
 -   [Charisma on Command](https://www.youtube.com/user/charismaoncommand) <--- master your charisma
