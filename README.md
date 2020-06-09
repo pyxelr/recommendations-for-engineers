@@ -603,7 +603,7 @@ All the mentioned sites are mostly free of clickbait and offer the triumph of fo
 -   [Memrise](https://www.memrise.com/) <--- learn a language and not only
 -   [Quizlet](https://quizlet.com/) <--- more user-friendly alternative to Anki
 -   [ShortcutFoo](https://www.shortcutfoo.com/) <--- fun way to memorise shortcuts and commands
--   [SuperMemo](https://super-memo.com/supermemo18.html) <--- more advanced tool over Anki, including the incremental reading feature. The author also dedicated a lot of time into [science behind the learning topic](http://www.super-memory.com/)
+-   [SuperMemo](https://super-memo.com/supermemo18.html) <--- more advanced tool over Anki, including the incremental reading feature. The author also dedicated a lot of time into the [science behind the learning topic](http://www.super-memory.com/)
 -   [Tinycards](https://tinycards.duolingo.com/) <--- flashcard app from the creators of Duolingo
 
 ### languages
