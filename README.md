@@ -591,10 +591,18 @@ All the mentioned sites are mostly free of clickbait and offer the triumph of fo
 
 ## Learning
 
--   [Anki](https://apps.ankiweb.net/) <--- my favourite software to learn through spaced repetition and active learning in mobile and open-source PC app. Make sure to [check out my own decks](https://github.com/pyxelr/My_Anki_Decks_of_Flashards)
--   [Quizlet](https://quizlet.com/latest) <--- more user-friendly alternative to Anki
+-   [Brilliant](https://brilliant.org/) <--- app that I do not feel guilty wasting my time with and paying to be a premium subscriber. It's part of my "[Three Goals](https://pawelcislo.com/three-goals/)" programme
 -   [Researcher](https://www.researcher-app.com/) <--- feed for scientific papers
 -   [Simple Wikipedia](https://simple.wikipedia.org/wiki/Main_Page) <--- Wikipedia articles explained in simple words
+
+### flashcards
+
+-   [Anki](https://apps.ankiweb.net/) <--- my favourite software to learn through spaced repetition and active learning in mobile and open-source PC app. Make sure to [check out my own decks](https://github.com/pyxelr/My_Anki_Decks_of_Flashards)
+-   [flashcards.wizardzines](https://flashcards.wizardzines.com/) <--- set of flashcards from Julia Evans
+-   [Flashcards for Developers](https://www.flashcardsfordevelopers.com/) <--- online flashcards based mostly on programming skills
+-   [Memrise](https://www.memrise.com/) <--- learn a language and not only
+-   [Quizlet](https://quizlet.com/) <--- more user-friendly alternative to Anki
+-   [ShortcutFoo](https://www.shortcutfoo.com/) <--- fun way to memorise shortcuts and commands
 -   [SuperMemo](https://super-memo.com/supermemo18.html) <--- more advanced tool over Anki, including the incremental reading feature. The author also dedicated a lot of time into [science behind the learning topic](http://www.super-memory.com/)
 -   [Tinycards](https://tinycards.duolingo.com/) <--- flashcard app from the creators of Duolingo
 
