@@ -1003,6 +1003,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 ### data science
 
 -   [CodeEmporium](https://www.youtube.com/channel/UC5_6ZD6s8klmMu9TXEB_1IA) <--- data science topics explained through simple visualisations
+-   [Daniel Bourke](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ) <--- machine learning engineer who plays at the intersection of technology and health
 -   [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ) <--- hours of data analysis in R
 -   [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w) <--- more of Andrew Ng
 -   [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ) <--- complex topics explained with great visualisations
