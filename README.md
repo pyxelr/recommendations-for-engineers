@@ -605,6 +605,8 @@ All the mentioned sites are mostly free of clickbait and offer the triumph of fo
 
 ### flashcards
 
+I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog post](https://pawelcislo.com/2020/07/10/optimising-our-learning-retention-rate-with-srs-anki/).
+
 -   [Anki](https://apps.ankiweb.net/) <--- my favourite software to learn through spaced repetition and active learning in mobile and open-source PC app. Make sure to [check out my own decks](https://github.com/pyxelr/My_Anki_Decks_of_Flashards)
 -   [flashcards.wizardzines](https://flashcards.wizardzines.com/) <--- set of flashcards from Julia Evans
 -   [Flashcards for Developers](https://www.flashcardsfordevelopers.com/) <--- online flashcards based mostly on programming skills
