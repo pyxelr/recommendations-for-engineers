@@ -1100,6 +1100,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ) <--- channel of a maker/robotics enthusiast/non-engineer
 -   [Smarter Every Day](https://www.youtube.com/user/destinws2) <--- exploring the world using science (also check out [the 2nd channel](https://www.youtube.com/user/FunnerEveryDay))
 -   [Smartgasm](https://www.youtube.com/channel/UCwylAt0VrqZPPNCjQV2t8Qg) (🇵🇱) <--- lots of astronomy and physics
+-   [Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ) <--- building fabrication projects, writing software, making electronics, and more
 -   [The Thought Emporium](https://www.youtube.com/user/TheChemlife) <--- from biohacking and biology, to nuclear physics and nanotech
 -   [TierZoo](https://www.youtube.com/channel/UCHsRtomD4twRf5WVHHk-cMw) <--- what if to talk about animals in terms of stats
 -   [Today I Found Out](https://www.youtube.com/user/TodayIFoundOut) <--- brand new videos 7 days a week to learn something new
