@@ -187,7 +187,9 @@ For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/lis
 -   [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/book/show/34626431-designing-data-intensive-applications)
 -   [Discovering Statistics Using R](https://www.goodreads.com/book/show/20568094-discovering-statistics-using-r)
 -   [Dive into Deep Learning](https://d2l.ai/)
+-   [Machine Learning Engineering](https://www.goodreads.com/book/show/50435068-machine-learning-engineering)
 -   [Machine Learning Yearning: Technical Strategy for AI Engineers, In the Era of Deep Learning](https://www.goodreads.com/book/show/46249355-machine-learning-yearning)
+-   [Natural Language Processing in Action](https://www.goodreads.com/book/show/37761872-natural-language-processing-in-action)
 -   [Reinforcement Learning: An Introduction](https://www.goodreads.com/book/show/739791.Reinforcement_Learning)
 -   [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.goodreads.com/book/show/26535513-storytelling-with-data)
 -   [The Hundred-Page Machine Learning Book](https://www.goodreads.com/book/show/43564614-the-hundred-page-machine-learning-book)
@@ -227,9 +229,12 @@ For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/lis
 -   [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by)
 -   [A Mind for Numbers: How to Excel at Math and Science](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers)
 -   [Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones](https://www.goodreads.com/book/show/40540502-atomic-habits)
+-   [Driven to Distraction (Revised): Recognizing and Coping with Attention Deficit Disorder](https://www.goodreads.com/book/show/18712223-driven-to-distraction-revised)
+-   [Fluent Forever: How to Learn Any Language Fast and Never Forget It](https://www.goodreads.com/book/show/22304017-fluent-forever)
 -   [How to Win Friends and Influence People](https://www.goodreads.com/book/show/29550624-how-to-win-friends-and-influence-people)
 -   [Influence: The Psychology of Persuasion](https://www.goodreads.com/book/show/28815.Influence)
 -   [Lying](https://www.goodreads.com/book/show/18870418-lying)
+-   [Make It Stick](https://www.goodreads.com/book/show/21956680-make-it-stick)
 -   [Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships](https://www.goodreads.com/book/show/26203640-nonviolent-communication)
 -   [Outwitting the Devil: The Secret to Freedom and Success](https://www.goodreads.com/book/show/10713286-outwitting-the-devil)
 -   [Seeking Wisdom: From Darwin To Munger](https://www.goodreads.com/book/show/1995421.Seeking_Wisdom)
@@ -237,6 +242,7 @@ For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/lis
 -   [The Book of Awakening: Having the Life You Want by Being Present to the Life You Have](https://www.goodreads.com/book/show/7581.The_Book_of_Awakening)
 -   [The Chimp Paradox: The Acclaimed Mind Management Programme to Help You Achieve Success, Confidence and Happiness](https://www.goodreads.com/book/show/12228097-the-chimp-paradox)
 -   [The Magic of Thinking Big](https://www.goodreads.com/book/show/759945.The_Magic_of_Thinking_Big)
+-   [The Nicomachean Ethics](https://www.goodreads.com/book/show/19090273-the-nicomachean-ethics)
 -   [The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results](https://www.goodreads.com/book/show/16256798-the-one-thing)
 -   [The Slight Edge: Turning Simple Disciplines into Massive Success and Happiness](https://www.goodreads.com/book/show/23130805-the-slight-edge)
 -   [The Top Five Regrets of the Dying: A Life Transformed by the Dearly Departing](https://www.goodreads.com/book/show/13059271-the-top-five-regrets-of-the-dying)
@@ -246,6 +252,7 @@ For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/lis
 
 Mostly universal (language-independent books).
 
+-   [Architecture Patterns with Python: How to Apply DDD, Ports and Adapters, and Enterprise Architecture Design Patterns in a Pythonic Way](https://www.goodreads.com/book/show/50083115-architecture-patterns-with-python)
 -   [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
 -   [Code Complete](https://www.goodreads.com/book/show/21899045-code-complete)
 -   [Code: The Hidden Language of Computer Hardware and Software (Developer Best Practices)](https://www.goodreads.com/book/show/21948821-code)
@@ -610,8 +617,10 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [Anki](https://apps.ankiweb.net/) <--- my favourite software to learn through spaced repetition and active learning in mobile and open-source PC app. Make sure to [check out my own decks](https://github.com/pyxelr/My_Anki_Decks_of_Flashards)
 -   [flashcards.wizardzines](https://flashcards.wizardzines.com/) <--- set of flashcards from Julia Evans
 -   [Flashcards for Developers](https://www.flashcardsfordevelopers.com/) <--- online flashcards based mostly on programming skills
+-   [Fluent Forever](https://fluent-forever.com/) <--- paid application to study languages. You can also read its [accompanying book](https://www.goodreads.com/book/show/22304017-fluent-forever) and watch the [author’s comparison between FF and Anki](https://youtu.be/fepSv0fqg5U)
 -   [Memrise](https://www.memrise.com/) <--- learn a language and not only
 -   [Quizlet](https://quizlet.com/) <--- more user-friendly alternative to Anki
+-   [RemNote](https://www.remnote.io/homepage) <--- note-taking app that will convert your notes to flashcards with the use of specific syntax. Here you can check its [live demo](https://www.remnote.io/documentation/cJSBN4bczFCPMwBx7)
 -   [ShortcutFoo](https://www.shortcutfoo.com/) <--- fun way to memorise shortcuts and commands
 -   [SuperMemo](https://super-memo.com/supermemo18.html) <--- more advanced tool over Anki, including the incremental reading feature. The author also dedicated a lot of time into the [science behind the learning topic](http://www.super-memory.com/)
 -   [Tinycards](https://tinycards.duolingo.com/) <--- flashcard app from the creators of Duolingo
@@ -844,6 +853,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
     -   [Onetastic](https://getonetastic.com/) <--- set of extensions for OneNote
 -   [Productivity Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/) <--- large list by Todoist
 -   [Productivity Stack](https://hive.com/the-productivity-stack/) <--- list of productivity tools
+-   [RemNote](https://www.remnote.io/homepage) <--- note-taking app that will convert your notes to flashcards with the use of specific syntax. Here you can check its [live demo](https://www.remnote.io/documentation/cJSBN4bczFCPMwBx7)
 -   [Todoist](https://todoist.com/r/pyxelr_kjtwbq) <--- my daily to-do app (using this link you will get 2 months of premium for free!). If you don't know how to start, [check out my Todoist setup](https://pawelcislo.com/2018/11/09/aim-for-your-goals-the-right-way/#ftoc-heading-3) and inspire yourself!
 -   [Toggl](https://toggl.com/) <--- the most integrated time tracker
 
