@@ -849,12 +849,14 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   Monochrome mode (grayscale mode) activation on your mobile device <--- attract yourself less to the colourless screen
 -   [musicForProgramming](http://musicforprogramming.net/) <--- series of mixes intended for listening while '+task+' to aid concentration
 -   [Notion](https://www.notion.so/) <--- all-in-one workspace to replace to-do lists and note-taking apps
+-   [Obsidian](https://obsidian.md/) <--- powerful knowledge base (note-taking tool) that works on top of a local folder of plain text Markdown files
 -   [OneNote 2016](https://support.office.com/en-gb/article/install-or-reinstall-onenote-2016-for-windows-c08068d8-b517-4464-9ff2-132cb9c45c08) <--- my favourite note-taking tool (2016 version more feature-rich over the UWP app)
     -   [Office OneNote Gem Add-Ins](https://www.onenotegem.com/) <--- lots of plugins for different versions of OneNote
     -   [Onetastic](https://getonetastic.com/) <--- set of extensions for OneNote
 -   [Productivity Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/) <--- large list by Todoist
 -   [Productivity Stack](https://hive.com/the-productivity-stack/) <--- list of productivity tools
 -   [RemNote](https://www.remnote.io/homepage) <--- note-taking app that will convert your notes to flashcards with the use of specific syntax. Here you can check its [live demo](https://www.remnote.io/documentation/cJSBN4bczFCPMwBx7)
+-   [Roam](https://roamresearch.com/) <--- note-taking tool as powerful as a graph database, applying the Zettelkasten method (alternative to Obsidian)
 -   [Todoist](https://todoist.com/r/pyxelr_kjtwbq) <--- my daily to-do app (using this link you will get 2 months of premium for free!). If you don't know how to start, [check out my Todoist setup](https://pawelcislo.com/2018/11/09/aim-for-your-goals-the-right-way/#ftoc-heading-3) and inspire yourself!
 -   [Toggl](https://toggl.com/) <--- the most integrated time tracker
 
