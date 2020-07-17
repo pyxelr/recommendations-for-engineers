@@ -619,6 +619,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [Flashcards for Developers](https://www.flashcardsfordevelopers.com/) <--- online flashcards based mostly on programming skills
 -   [Fluent Forever](https://fluent-forever.com/) <--- paid application to study languages. You can also read its [accompanying book](https://www.goodreads.com/book/show/22304017-fluent-forever) and watch the [author’s comparison between FF and Anki](https://youtu.be/fepSv0fqg5U)
 -   [Memrise](https://www.memrise.com/) <--- learn a language and not only
+-   [NeuraCache](https://neuracache.com/) <--- automatically generate flashcards from Twitter posts, Markdown editors, Kindle or your favourite note-taking tools, such as OneNote, Evernote or Roam and study them all using a mobile app
 -   [Quizlet](https://quizlet.com/) <--- more user-friendly alternative to Anki
 -   [RemNote](https://www.remnote.io/homepage) <--- note-taking app that will convert your notes to flashcards with the use of specific syntax. Here you can check its [live demo](https://www.remnote.io/documentation/cJSBN4bczFCPMwBx7)
 -   [ShortcutFoo](https://www.shortcutfoo.com/) <--- fun way to memorise shortcuts and commands
