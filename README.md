@@ -607,6 +607,8 @@ All the mentioned sites are mostly free of clickbait and offer the triumph of fo
 ## Learning
 
 -   [Brilliant](https://brilliant.org/) <--- app that I do not feel guilty wasting my time with and paying to be a premium subscriber. It's part of my "[Three Goals](https://pawelcislo.com/three-goals/)" programme
+-   [Hypothesis](https://web.hypothes.is/) <--- open-source tool to highlight/annotate the text you read online and in the scienfitif papers. It's a great way to organize your research, as well as hold discussions about your annotations with other users [like me](https://hypothes.is/users/pyxelr)
+-   [Polar Bookshelf](https://github.com/burtonator/polar-bookshelf) <--- open-source tool to annotate PDF documents and websites and later turn them into Anki flashcards. It's a quite unique alternative to Hypothesis
 -   [Researcher](https://www.researcher-app.com/) <--- feed for scientific papers
 -   [Simple Wikipedia](https://simple.wikipedia.org/wiki/Main_Page) <--- Wikipedia articles explained in simple words
 
