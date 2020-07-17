@@ -833,6 +833,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 
 ## Productivity
 
+-   [ActivityWatch](https://github.com/ActivityWatch/activitywatch) <--- open-source time tracker (alternative to RescueTime)
 -   [Brain.fm](https://www.brain.fm/) <--- music to improve focus. Try sample sounds on [their YouTube channel](https://www.youtube.com/channel/UC45Wdr3wPy1qR2WLUCTsFKg)
     -   [myNoise](https://mynoise.net/) <--- background noises & interactive soundscapes
     -   [Noises](https://noises.online/) <--- free alternative to Brain.fm
@@ -842,6 +843,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Feedly](https://feedly.com) <--- news aggregator. Save time by browsing what matters
 -   [Focusmate](https://www.focusmate.com/) <--- let others watch you while you work
 -   [Integromat](https://www.integromat.com/en/) <--- automate various tasks (more advanced than [IFTT](https://ifttt.com/) and 2.5x cheaper than [Zapier](https://zapier.com/))
+-   [Intention](https://www.getintention.com/) <--- Chrome extension to stop visiting distractive websites
 -   [Leave Me Alone](https://leavemealone.xyz/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn) <--- see all of your subscription emails in one place and unsubscribe from them with a single click
 -   lofi hip hop radio <--- live YouTube transmission of background music for your studying sessions
     -   [beats to relax/study to](https://www.youtube.com/watch?v=hHW1oY26kxQ)
@@ -855,6 +857,8 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
     -   [Onetastic](https://getonetastic.com/) <--- set of extensions for OneNote
 -   [Productivity Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/) <--- large list by Todoist
 -   [Productivity Stack](https://hive.com/the-productivity-stack/) <--- list of productivity tools
+-   [Quirk](https://quirk.fyi/) <--- app to apply Cognitive Behavioral Therapy (CBT). The website also explains what is CBT
+-   [Raindrop.io](https://raindrop.io/) <--- bookmark manager (Pocket like app)
 -   [RemNote](https://www.remnote.io/homepage) <--- note-taking app that will convert your notes to flashcards with the use of specific syntax. Here you can check its [live demo](https://www.remnote.io/documentation/cJSBN4bczFCPMwBx7)
 -   [Roam](https://roamresearch.com/) <--- note-taking tool as powerful as a graph database, applying the Zettelkasten method (alternative to Obsidian)
 -   [Todoist](https://todoist.com/r/pyxelr_kjtwbq) <--- my daily to-do app (using this link you will get 2 months of premium for free!). If you don't know how to start, [check out my Todoist setup](https://pawelcislo.com/2018/11/09/aim-for-your-goals-the-right-way/#ftoc-heading-3) and inspire yourself!
