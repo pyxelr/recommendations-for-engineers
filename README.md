@@ -1083,6 +1083,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Derek Banas](https://www.youtube.com/user/derekbanas) <--- is there a topic on which Derek didn't record a tutorial?
 -   [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg) <--- solving advanced algorithms step by step
 -   [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) <--- videos from open-source community
+-   [Gaurav Sen](https://www.youtube.com/c/GauravSensei/) <--- one of the most tallented YouTube teachers for Competitive programming, System design and Artificial intelligence
 -   [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g) <--- LeetCode challenges solver
 -   [Pasja Informatyki](https://www.youtube.com/user/MiroslawZelent) (🇵🇱) <--- general IT/psychology channel
 -   [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge) <--- one of the most varied programming channel
