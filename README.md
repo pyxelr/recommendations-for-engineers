@@ -304,18 +304,25 @@ Mostly universal (language-independent books).
 -   [EditThisCookie](http://www.editthiscookie.com/) <--- cookie editor
 -   [Email Finder - GetProspect](https://getprospect.io/) <--- find business email address in one click
 -   [F.B. Purity](https://www.fbpurity.com/) <--- customise (clean) your Facebook
+-   [Git History Browser Extension](https://github.com/LuisReinoso/git-history-browser-extension) <--- add "Open in Git History" button to GitHub repos
+-   [Grammarly](https://app.grammarly.com/) <--- very extensive tool to proofread English grammar
 -   [HTTPS Everywhere](https://www.eff.org/https-everywhere) <--- force HTTPS if possible
 -   [Hypothesis](https://web.hypothes.is/) <--- open-source tool to highlight/annotate the text you read online and in the scientific papers. It's a great way to organize your research, as well as hold discussions about your annotations with other users [like me](https://hypothes.is/users/pyxelr)
+-   [Language Learning with Netflix](https://languagelearningwithnetflix.com/) <--- display subtitles in both languages while watching Netflix
+-   [LanguageTool](https://languagetool.org/) <--- check your writing in more than 20 languages (great alternative to Grammarly)
 -   [Nimbus Capture](https://nimbusweb.me/screenshot.php) <--- advanced screenshot tool for Google Chrome
 -   [OneTab](https://www.one-tab.com/) <--- save up to 95% memory by moving all open tabs into a single one in Google Chrome
+-   [Power Thesaurus](https://chrome.google.com/webstore/detail/power-thesaurus/hhnjkanigjoiglnlopahbbjdbfhkndjk) <--- find synonyms and antonyms to improve your writing
 -   [Privacy Badger](https://www.eff.org/privacybadger) <--- block invisible trackers
+-   [Reedy](http://reedy.azagroup.ru/) <--- speed reading with RSVP (Rapid Serial Visual Presentation) technique
 -   [Refined Twitter](https://github.com/sindresorhus/refined-twitter) <--- simplify Twitter UI and add useful features
--   [Remove Recommendations Youtube VK Facebook](https://chrome.google.com/webstore/detail/remove-recommendations-yo/hfnghnjkcpgagjbiheidccjnneoipbmb) <--- save time by hiding recommended YouTube videos and not only
+-   [Remove YouTube Recommended Videos, Comments](https://chrome.google.com/webstore/detail/remove-youtube-recommende/khncfooichmfjbepaaaebmommgaepoid) <--- hide YouTube related videos, comments, video suggestions wall, homepage recommendations, trending tab, and other distractions
 -   [Session Buddy](https://sessionbuddy.com/) <--- manage browser sessions
 -   [Sourcegraph](https://docs.sourcegraph.com/integration/browser_extension) <--- add code intelligence to GitHub and other code hosts
 -   [Stylus](https://add0n.com/stylus.html) <--- user-style manager
 -   [Tampermonkey](https://www.tampermonkey.net/) <--- the most popular userscript manager
 -   [uBlock Origin](https://github.com/gorhill/uBlock#installation) <--- blocker addon (not only for ads)
+-   [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) <--- FireBug for designers - edit any webpage, in any state
 -   [Wappalyzer](https://www.wappalyzer.com/) <--- identify technology on websites
 
 **[⬆ Back to Contents](#contents)**
