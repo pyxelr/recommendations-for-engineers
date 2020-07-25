@@ -1042,6 +1042,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w) <--- more of Andrew Ng
 -   [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ) <--- complex topics explained with great visualisations
 -   [deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw) <--- AI/ML explained
+-   [Luis Serrano](https://www.youtube.com/c/LuisSerrano) <--- complex topics, mainly in mathematics, machine learning, and artificial intelligence
 -   [sentdex](https://www.youtube.com/user/sentdex) <--- Python programming tutorials
 -   [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) <--- AI, ML, Python and more (unfortunately [involved in the scandal of plagiarism](https://www.youtube.com/watch?v=Mz3Mu9e0qRQ))
 -   [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer) <--- major statistical methodologies into easy to understand pieces (I highly recommend it!)
