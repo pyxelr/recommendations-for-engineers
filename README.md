@@ -369,6 +369,7 @@ Mostly universal (language-independent books).
 -   [CTFtime](https://ctftime.org/) <--- CTF archive, current overall Capture The Flag team rating, per-team statistics etc.
 -   [Google CTF](https://capturetheflag.withgoogle.com/) <--- CTF organised by Google with different challenges to practice
 -   [Hacker101](https://www.hacker101.com/) <--- free class for web security
+-   [Hacksplaining](https://www.hacksplaining.com/lessons) <--- interactive lessons to present the most typical cybersecurity attacks. Afterwards, the site presents an extended article with the ways of how to protect ourselves from the particular vulnerability
 -   [Hack The Box](https://www.hackthebox.eu/) <--- online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field
 -   [pwn.college](https://pwn.college/) <--- education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion
 -   [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) <--- collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more
@@ -1103,6 +1104,7 @@ I recommend listening to all podcasts with [Pocket Casts web/mobile app](https:/
 -   [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge) <--- one of the most varied programming channel
 -   [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA) <--- lots of videos on Python, JavaScript, C#
 -   [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) <--- one of the most-enthusiastic coders on the web
+-   [UW-TEAM.org](https://www.youtube.com/c/uwteamorg) (🇵🇱) <--- programming, Linux, security, and more
 -   [WilliamFiset](https://www.youtube.com/user/purpongie) <--- educational computer science and mathematics videos
 
 ### science
