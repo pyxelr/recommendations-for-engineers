@@ -89,7 +89,7 @@ Collection of all the blogs for the categories below. I advise adding all the re
 -   [Python⇒Speed](https://pythonspeed.com/) <--- learn tools and techniques to help you ship better Python software, faster
 -   [Rubik's Code](https://rubikscode.net/) <--- AI without tears
 -   [Simply Statistics](https://simplystatistics.org/) <--- blog on data visualisation
--   [Thomas Neitmann](https://thomas-neitmann.netlify.com/posts/) <--- blog of an R enthusiast
+-   [Thomas Neitmann](https://thomasadventure.blog/) <--- blog of an R enthusiast
 -   [Towards Data Science](https://towardsdatascience.com/) <--- Medium for data science
 -   [Victor Zhou](https://victorzhou.com/) <--- blog about web development, machine learning, and more
 
