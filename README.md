@@ -568,6 +568,7 @@ As there are many, I highly encourage you to check my custom feeds:
 -   [Coggle](https://coggle.it/) <--- generate mind maps
 -   [diagrams.net](https://www.diagrams.net/) <--- free online diagram software (previously: draw.io)
 -   [Hatchful](https://hatchful.shopify.com/) <--- logo creator from the Shopify team
+-   [Kapwing](https://www.kapwing.com/tools) <--- collaborative platform for creating images, videos, and GIFs
 -   [Launchaco](https://www.launchaco.com/logo) <--- free online logo maker
 -   [Marvel](https://marvelapp.com/) <--- create mockups in the browser
 -   [Venngage](https://venngage.com/) <--- infographic creator
