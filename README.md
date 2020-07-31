@@ -34,7 +34,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Blogs
 
-Collection of all the blogs for the categories below. I advise adding all the relevant sites in a news aggregator like [Feedly](https://feedly.com/).
+It's best to collect all your favourite sites into a news aggregator like [Feedly](https://feedly.com/).
 
 ### business
 
@@ -769,6 +769,8 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 
 ## Newsletters
 
+Try gathering all your favourite newsletters into [Newsletry](https://newsletry.com/) (Feedly for newsletters).
+
 -   [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters) <--- curated list of awesome newsletters
 -   [Bullets.news](https://bullets.news/) <--- scientific papers summarized in few bullet points
 -   [Data Elixir](https://dataelixir.com/) <--- weekly dose of the top data science picks from around the web. Covering machine learning, data visualization, analytics, and strategy
@@ -780,7 +782,6 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [Inside](https://inside.com/) <--- daily newsletters on different topics. For example, check out [Inside AI](https://inside.com/ai) and its [recent issues](https://inside.com/lists/ai/recent_issues) at any time
 -   [James Clear](https://jamesclear.com/newsletter) <--- apply better habits in your life (from the author of Atomic Habits)
 -   [Morning Cup of Coding](https://morningcupofcoding.com/) <--- daily programming newsletter featuring long form technical articles of all fields of software engineering
--   [Newsletry](https://newsletry.com/) <--- Feedly for newsletters (discover and read newsletters, all in one place)
 -   [Podcast Notes](https://podcastnotes.org/) <--- summary of podcasts in few bullet points
 -   [The Data Science Roundup](http://roundup.fishtownanalytics.com/) <--- internet's most useful data science articles
 -   [The Overflow](https://stackoverflow.blog/newsletter/) <--- newsletter by developers, for developers
@@ -791,7 +792,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 
 ## Podcasts
 
-I recommend listening to all podcasts with [Pocket Casts web/mobile app](https://www.pocketcasts.com/).
+I recommend listening to all podcasts through [Pocket Casts web/mobile app](https://www.pocketcasts.com/).
 
 ### business
 
