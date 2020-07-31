@@ -184,15 +184,22 @@ For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/lis
 -   [Artificial Intelligence: A Modern Approach](https://www.goodreads.com/book/show/40098944-artificial-intelligence)
 -   [Data Science for Business: What you need to know about data mining and data-analytic thinking](https://www.goodreads.com/book/show/18711043-data-science-for-business)
 -   [Deep Learning](https://www.goodreads.com/book/show/24072897-deep-learning)
+-   [Deep Learning from Scratch: Building with Python from First Principles](https://www.goodreads.com/book/show/51867967-deep-learning-from-scratch)
+-   [Deep Learning with JavaScript: Neural networks in TensorFlow.js](https://www.goodreads.com/book/show/49695782-deep-learning-with-javascript)
 -   [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/book/show/34626431-designing-data-intensive-applications)
 -   [Discovering Statistics Using R](https://www.goodreads.com/book/show/20568094-discovering-statistics-using-r)
 -   [Dive into Deep Learning](https://d2l.ai/)
+-   [Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play](https://www.goodreads.com/book/show/51056293-generative-deep-learning)
 -   [Machine Learning Engineering](https://www.goodreads.com/book/show/50435068-machine-learning-engineering)
 -   [Machine Learning Yearning: Technical Strategy for AI Engineers, In the Era of Deep Learning](https://www.goodreads.com/book/show/46249355-machine-learning-yearning)
 -   [Natural Language Processing in Action](https://www.goodreads.com/book/show/37761872-natural-language-processing-in-action)
+-   [Pattern Recognition and Machine Learning (Information Science and Statistics)](https://www.goodreads.com/book/show/40011158-pattern-recognition-and-machine-learning)
 -   [Reinforcement Learning: An Introduction](https://www.goodreads.com/book/show/739791.Reinforcement_Learning)
+-   [R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](https://www.goodreads.com/book/show/33399049-r-for-data-science)
 -   [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://www.goodreads.com/book/show/26535513-storytelling-with-data)
+-   [Strengthening Deep Neural Networks: Making AI Less Susceptible to Adversarial Trickery](https://www.goodreads.com/book/show/49660384-strengthening-deep-neural-networks)
 -   [The Hundred-Page Machine Learning Book](https://www.goodreads.com/book/show/43564614-the-hundred-page-machine-learning-book)
+-   [Tinyml: Machine Learning with Tensorflow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.goodreads.com/book/show/50204679-tinyml)
 
 ### data tools
 
@@ -862,7 +869,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Focusmate](https://www.focusmate.com/) <--- let others watch you while you work
 -   [Integromat](https://www.integromat.com/en/) <--- automate various tasks (more advanced than [IFTT](https://ifttt.com/) and 2.5x cheaper than [Zapier](https://zapier.com/))
 -   [Intention](https://www.getintention.com/) <--- Chrome extension to stop visiting distractive websites
--   [Leave Me Alone](https://leavemealone.xyz/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn) <--- see all of your subscription emails in one place and unsubscribe from them with a single click
+-   [Leave Me Alone](https://leavemealone.app/) <--- see all of your subscription emails in one place and unsubscribe from them with a single click
 -   lofi hip hop radio <--- live YouTube transmission of background music for your studying sessions
     -   [beats to relax/study to](https://www.youtube.com/watch?v=hHW1oY26kxQ)
     -   [beats to sleep/chill to](https://www.youtube.com/watch?v=EcEMX-63PKY)
