@@ -646,7 +646,10 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 
 ### languages
 
+-   [Busuu](https://www.busuu.com/) <--- global language learning community, where you can take language courses to practice reading, writing, listening and speaking (great alternative to Duolingo)
+-   [Clozemaster](https://www.clozemaster.com/) <--- language learning gamification through mass exposure to vocabulary in context
 -   [Duolingo](https://www.duolingo.com/) <--- free web/mobile app to learn most of the languages
+-   [LyricsTraining](https://lyricstraining.com/) <--- learning languages with the music videos and filling in the lyrics of your favorite songs
 -   [Reverso Context](https://context.reverso.net/translation/) <--- translator with example sentences to give more context
 -   [Rosetta Stone](https://www.rosettastone.com/) <--- learn online with a possibility to book online conversations with a native speaker
 -   [YouGlish](https://youglish.com/) <--- search engine to find the pronunciation of the phrase in a YouTube video. The site offers multiple languages
