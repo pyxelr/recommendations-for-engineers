@@ -331,6 +331,7 @@ Mostly universal (language-independent books).
 -   [uBlock Origin](https://github.com/gorhill/uBlock#installation) <--- blocker addon (not only for ads)
 -   [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) <--- FireBug for designers - edit any webpage, in any state
 -   [Wappalyzer](https://www.wappalyzer.com/) <--- identify technology on websites
+-   [Web Scrobbler](https://web-scrobbler.com/) <--- scrobble music all around the web, e.g. to your Last.fm account
 
 **[⬆ Back to Contents](#contents)**
 
