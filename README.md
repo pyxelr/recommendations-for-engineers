@@ -1063,6 +1063,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer) <--- major statistical methodologies into easy to understand pieces (I highly recommend it!)
 -   [The AI University](https://www.youtube.com/channel/UCv6Uw36LRbYnX4HDxKPguKg) <--- educational channel on data science, data analysis, data engineering and cloud architecture
 -   [Two Minute Papers](https://www.youtube.com/user/keeroyz) <--- quick reviews of scientific research papers
+-   [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) <--- quick reviews of scientific research papers and AI terms explained
 
 ### entertainment
 
