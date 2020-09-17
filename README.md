@@ -1112,6 +1112,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) <--- Python in data science and not only
 -   [Derek Banas](https://www.youtube.com/user/derekbanas) <--- is there a topic on which Derek didn't record a tutorial?
 -   [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg) <--- solving advanced algorithms step by step
+-   [FORBOT](https://www.youtube.com/c/forbot/) (🇵🇱) <--- electronics and programming courses
 -   [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) <--- videos from open-source community
 -   [Gaurav Sen](https://www.youtube.com/c/GauravSensei/) <--- one of the most talented YouTube teachers of Competitive programming, System design and Artificial intelligence
 -   [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g) <--- LeetCode challenges solver
