@@ -381,6 +381,7 @@ Mostly universal (language-independent books).
 -   [Hack The Box](https://www.hackthebox.eu/) <--- online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field
 -   [pwn.college](https://pwn.college/) <--- education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion
 -   [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) <--- collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more
+-   [TryHackMe](https://tryhackme.com/) <--- cybersecurity guides and challenges in your browser
 
 ### tools
 
