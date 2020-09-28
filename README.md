@@ -728,6 +728,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [Statinfer](https://play.google.com/store/apps/details?id=com.learn.statinfer1) <--- quiz app to test your data science skills (ML, DL, tools, interview questions, etc.)
 -   [Puzzlerama](https://play.google.com/store/apps/details?id=com.leodesol.games.puzzlecollection) <--- stock of puzzles
 -   [SoloLearn](https://www.sololearn.com/) <--- mobile programming university
+-   [Universe in a Nutshell](https://shop-eu.kurzgesagt.org/products/universe-in-a-nutshell-app) <--- Wait but Why and Kurzgesagt version of the online [Scale of the Universe 2](https://htwins.net/scale2/)
 
 **[⬆ Back to Contents](#contents)**
 
@@ -1194,6 +1195,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [NUKEMAP](https://nuclearsecrecy.com/nukemap/) <--- mapping mash-up that calculates the effects of the detonation of a nuclear bomb
 -   [Programming Fonts](https://app.programmingfonts.org/) <--- quickly check lots of programming fonts in your browser
 -   [Related subreddits](https://anvaka.github.io/sayit/?query=datascience&utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn) <--- find related subreddits in the form of a graph
+-   [The Scale of the Universe 2](https://htwins.net/scale2/) <--- ride down to the smallest thing theorised by scientists and then out to the vastness of the universe
 -   [scrcpy](https://github.com/Genymobile/scrcpy) <--- display and control Android devices connected on USB
 -   [Simone's Computer](https://simone.computer/#/webdesktops) <--- list of websites that resemble desktop GUIs
 -   [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) <--- find the shortest path from one Wikipedia article to another
