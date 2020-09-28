@@ -1195,11 +1195,11 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [NUKEMAP](https://nuclearsecrecy.com/nukemap/) <--- mapping mash-up that calculates the effects of the detonation of a nuclear bomb
 -   [Programming Fonts](https://app.programmingfonts.org/) <--- quickly check lots of programming fonts in your browser
 -   [Related subreddits](https://anvaka.github.io/sayit/?query=datascience&utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn) <--- find related subreddits in the form of a graph
--   [The Scale of the Universe 2](https://htwins.net/scale2/) <--- ride down to the smallest thing theorised by scientists and then out to the vastness of the universe
 -   [scrcpy](https://github.com/Genymobile/scrcpy) <--- display and control Android devices connected on USB
 -   [Simone's Computer](https://simone.computer/#/webdesktops) <--- list of websites that resemble desktop GUIs
 -   [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) <--- find the shortest path from one Wikipedia article to another
 -   [Stellarium Web Online Star Map](https://stellarium-web.org/) <--- online planetarium
+-   [The Scale of the Universe 2](https://htwins.net/scale2/) <--- ride down to the smallest thing theorised by scientists and then out to the vastness of the universe
 -   [TLDRLegal](https://tldrlegal.com/) <--- software licences explained in plain English
 -   [Webamp](https://webamp.org/) <--- Winamp 2 in your browser
 -   [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) <--- have some fun :)
