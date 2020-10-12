@@ -65,6 +65,7 @@ It's best to collect all your favourite sites into a news aggregator like [Feedl
 -   [Andrej Karpathy](https://karpathy.github.io/) <--- blog of AI director at Tesla
 -   [Becoming Human](https://becominghuman.ai/) <--- exploring AI & what it means to be human
 -   [Biznes Myśli](https://biznesmysli.pl/) (🇵🇱) <--- AI in business
+-   [Brilliantly wrong](https://arogozhnikov.github.io/) <--- math, machine learning, programming, physics and biology
 -   [Business Science](https://www.business-science.io/blog/index.html) <--- general blog on DS with many courses
 -   [colah's blog](https://colah.github.io/) <--- great explanations of more advanced topics
 -   [Datafloq](https://datafloq.com/read/) <--- big data news
