@@ -1067,6 +1067,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [The AI University](https://www.youtube.com/channel/UCv6Uw36LRbYnX4HDxKPguKg) <--- educational channel on data science, data analysis, data engineering and cloud architecture
 -   [Two Minute Papers](https://www.youtube.com/user/keeroyz) <--- quick reviews of scientific research papers
 -   [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) <--- quick reviews of scientific research papers and AI terms explained
+-   [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher) <--- videos about machine learning research papers, programming, and issues of the AI community and the broader impact of AI in society
 
 ### entertainment
 
