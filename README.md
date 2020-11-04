@@ -1134,6 +1134,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Astrofaza](https://www.youtube.com/user/Astrofaza) (🇵🇱) <--- everything about space
 -   [BrainStuff - HowStuffWorks](https://www.youtube.com/user/BrainStuffShow) <--- everyday science in the world around us
 -   [CGP Grey](https://www.youtube.com/user/CGPGrey) <--- short explanatory videos on varying subjects, including politics, geography, economics, history, and culture
+-   [DIY Perks](https://www.youtube.com/c/DIYPerks) <--- plenty of interesting DIY projects on a variety of topics, including computers, woodworking, electronics, audio, and more!
 -   [exurb1a](https://www.youtube.com/user/willunicycleforfood) <--- attempt to explain the way universe works
 -   [Geography Now](https://www.youtube.com/user/GeographyNow) <--- first and only Youtube Channel that actively attempts to cover profiles on every single country of the world
 -   [iBiology](https://www.youtube.com/user/ibioseminars) <--- biology talks by the world's leading scientists that show the process of science and the wonders of discovery. Make sure to check out their other channels
