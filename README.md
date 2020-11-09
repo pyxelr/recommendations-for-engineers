@@ -480,6 +480,7 @@ My private OneNote would be there, but I prefer to share only the most relevant 
 
 ### learning material
 
+-   [AI Expert Roadmap](https://i.am.ai/roadmap) <--- roadmap to becoming an Artificial Intelligence Expert in 2020
 -   [AI Explorables](https://pair.withgoogle.com/explorables/) <--- big ideas in machine learning, simply explained by Google
 -   [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) <--- learn data science from IPython notebooks
 -   [Dive into Deep Learning](https://d2l.ai/) <--- interactive deep learning book with code, math, and discussions, based on the NumPy interface
