@@ -228,9 +228,18 @@ For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/lis
 
 ### math
 
+-   [A History of Pi](https://www.goodreads.com/book/show/24315636-a-history-of-pi)
+-   [An Imaginary Tale: The Story of i [the square root of minus one]](https://www.goodreads.com/book/show/8462163-an-imaginary-tale)
 -   [An Introduction to Statistical Learning: With Applications in R](https://www.goodreads.com/book/show/17397466-an-introduction-to-statistical-learning)
+-   [Journey through Genius: The Great Theorems of Mathematics](https://www.goodreads.com/book/show/116185.Journey_through_Genius)
 -   [Mathematics for Machine Learning](https://www.goodreads.com/book/show/41432653-mathematics-for-machine-learning)
+-   [Measurement](https://www.goodreads.com/book/show/18914498-measurement)
+-   [Prelude to Mathematics](https://www.goodreads.com/book/show/1134116.Prelude_to_Mathematics)
+-   [Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics](https://www.goodreads.com/book/show/9899005-prime-obsession)
+-   [Proofs from THE BOOK](https://www.goodreads.com/book/show/24865668-proofs-from-the-book)
 -   [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition](https://www.goodreads.com/book/show/40049133-the-elements-of-statistical-learning)
+-   [The Joy of x: A Guided Tour of Math, from One to Infinity](https://www.goodreads.com/book/show/18652674-the-joy-of-x)
+-   [What Is Mathematics?: An Elementary Approach to Ideas and Methods](https://www.goodreads.com/book/show/12952426-what-is-mathematics)
 
 ### personal development
 
