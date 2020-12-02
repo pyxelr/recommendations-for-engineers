@@ -853,6 +853,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Duolingo podcast](https://podcast.duolingo.com/) <--- learn languages with Duolingo
 -   [Podcast Notes](https://podcastnotes.org/) <--- best ideas and recommendations from the top podcasts
 -   [Podcast Pasja Informatyki](https://podcast.pasja-informatyki.pl/) (🇵🇱) <--- philosophy + IT
+-   [Simplify](https://www.blinkist.com/simplify) <--- for anybody who’s taken a close look at their habits, their happiness, their relationships, or their health
 -   [Ted Talks Daily](https://www.ted.com/talks) <--- use your podcast app to find more categorised TED talks
 -   [The Anthropocene Reviewed](https://www.wnycstudios.org/podcasts/anthropocene-reviewed) <--- reviews of facets of the human-centred planet
 -   [The Joe Rogan Experience](https://www.joerogan.com/) <--- famous podcast of Comedian Joe Rogan
@@ -869,6 +870,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Andrzej on Software](https://www.spreaker.com/show/andrzej-krzywdas-show) <--- software, including but not limited to Ruby, JS, OOP, DDD, CQRS, AI, business, sales, marketing
 -   [DevelopersHangout](http://www.developershangout.io/) <--- discussions of topics about coding and all that comes with it
 -   [Developer Tea](https://spec.fm/podcasts/developer-tea) <--- short podcast for developers
+-   [Devsession](https://devsession.pl/) (🇵🇱) <--- from programmer for programmers
 -   [DevTalk](https://devtalk.pl/) (🇵🇱) <--- podcast for programmers
 -   [Retrospektywa](https://www.retrospektywa.com/) (🇵🇱) <--- talks about IT projects
 -   [The Real Python Podcast](https://realpython.com/podcasts/rpp/) <--- interviews, coding tips, and conversation with guests from the Python community
