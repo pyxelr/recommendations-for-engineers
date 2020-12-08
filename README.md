@@ -823,9 +823,9 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 
 ### business
 
--   [Akademia.pl](https://akademia.pl/) (🇵🇱) <--- podcast for new entrepreneurs
+-   [Akademia.pl](https://anchor.fm/akademia) (🇵🇱) <--- podcast for new entrepreneurs
 -   [Life Hacking Podcast](https://www.spreaker.com/show/life-hacking-podcast) (🇵🇱) <--- develop your mind
--   [Projektant Życia](https://anchor.fm/mirek-burnejko) (🇵🇱) <--- main podcast by MiroBurn
+-   [MiroBurn Show](https://anchor.fm/miroburn) (🇵🇱) <--- main podcast by MiroBurn
 -   [Startup my Way](https://startupmyway.com/) (🇵🇱) <--- SaaS, startups, tech, future
 -   [Ted Talks Business](https://www.ted.com/talks?topics%5B%5D=business)
 -   [Więcej niż oszczędzanie pieniędzy](https://jakoszczedzacpieniadze.pl/podcast) (🇵🇱) <--- how to spend money the right way
@@ -838,10 +838,10 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 
 ### data science
 
--   [Artificial Intelligence with Lex Fridman](https://lexfridman.com/ai/) <--- AI talks with top engineers
 -   [Biznes Myśli](https://www.spreaker.com/show/biznes-mysli) (🇵🇱) <--- AI podcast by Vladimir
 -   [DataEvangelists](https://www.spreaker.com/show/dataevangelists) (🇵🇱) <--- 1st Polish podcast on data science
 -   [Data Framed](https://www.datacamp.com/community/podcast) <--- from DataCamp creators
+-   [Lex Fridman Podcast](https://lexfridman.com/ai/) <--- AI talks with top engineers
 -   [Python Bytes](https://pythonbytes.fm/) <--- weekly podcast on Python
 -   [Talk Python To Me](https://talkpython.fm/) <--- podcast on Python and related technologies
 -   [The Numberphile podcast](https://www.numberphile.com/podcast/) <--- fall in love with numbers
