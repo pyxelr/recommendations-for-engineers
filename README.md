@@ -946,6 +946,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Bubble](https://bubble.is/) <--- visual programming (no coding required)
 -   [Coda](https://coda.io/) <--- build docs as powerful as an app (no coding recuired)
 -   [ExtendsClass](https://extendsclass.com/) <--- toolbox for web designers and webmasters
+-   [free-for.dev](https://free-for.dev/) <--- list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
 -   [json.pizza](https://json.pizza/) <--- beautify your JSON code
 -   [Python Tutor](http://pythontutor.com/) <--- visualise Python algorithms, step by step
 -   [regex101](https://regex101.com/) <--- online regex tester and debugger
