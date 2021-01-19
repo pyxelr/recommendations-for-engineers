@@ -967,6 +967,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Goalkicker](https://goalkicker.com/) <--- free programming books on various technologies
 -   [interviewing.io](https://interviewing.io/) <--- free anonymous interview practice. Before practising you can [watch technical mock interviews](https://interviewing.io/recordings) with engineers from big companies
 -   [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) <--- algorithms and data structures implemented in JavaScript with explanations and links to further readings. Don't prevent yourself from taking a look, even if you're not a JS developer
+-   [Learn X by doing Y](https://aquadzn.github.io/learn-x-by-doing-y/) <--- list of projects to learn by doing
 -   [Learn X in Y Minutes](https://learnxinyminutes.com/) <--- take a whirlwind tour of your next favourite language. Community-driven!
 -   [My Pinterest Page about Software Development](https://pinterest.com/pyxelrr/software-development/) <--- here I store the most interesting infographics
 -   [Packt Hub Tutorials](https://hub.packtpub.com/category/tutorials/) <--- free web dev & programming tutorials
