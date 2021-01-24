@@ -925,6 +925,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Edabit](https://edabit.com/) <--- simple, new website in the market
 -   [exercism](https://exercism.io/) <--- 100% free service, where you submit solutions through your terminal
 -   [HackerRank](https://www.hackerrank.com/) <--- my personal choice. I've started with included 30-days coding challenge and can totally recommend it
+-   [JetBrains Academy](https://www.jetbrains.com/academy/) <--- dive into Java, Python, and other programming languages in a project-based learning environment that is integrated with JetBrains IDEs
 -   [LeetCode](https://leetcode.com/) <--- more advanced website, where you will mostly find problems asked by the world's largest tech companies. I recommend watching [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g) who goes through many problems from there
 
 ### IDE
