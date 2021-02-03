@@ -463,6 +463,7 @@ My private OneNote would be there, but I prefer to share only the most relevant 
 -   [Mathematics Dataset](https://github.com/deepmind/mathematics_dataset) <--- generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty
 -   [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/)
 -   [nuScenes](https://www.nuscenes.org/) <--- large-scale autonomous driving dataset
+-   [Papers With Code Datasets](https://paperswithcode.com/datasets) <--- ML datasets with lots of filtering options
 -   [Quandl](https://www.quandl.com/tools/python) <--- financial data directly into Python
 -   [Quantopian Datasets](https://www.quantopian.com/docs/data-reference/overview)
 -   [Tencent ML-Images](https://github.com/Tencent/tencent-ml-images) <--- largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet
