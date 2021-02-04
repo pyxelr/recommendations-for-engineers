@@ -332,7 +332,7 @@ Mostly universal (language-independent books).
 -   [OneTab](https://www.one-tab.com/) <--- save up to 95% memory by moving all open tabs into a single one in Google Chrome
 -   [Power Thesaurus](https://chrome.google.com/webstore/detail/power-thesaurus/hhnjkanigjoiglnlopahbbjdbfhkndjk) <--- find synonyms and antonyms to improve your writing
 -   [Privacy Badger](https://www.eff.org/privacybadger) <--- block invisible trackers
--   [Reedy](http://reedy.azagroup.ru/) <--- speed reading with RSVP (Rapid Serial Visual Presentation) technique
+-   [Reedy](https://reedy.azagroup.ru/) <--- speed reading with RSVP (Rapid Serial Visual Presentation) technique
 -   [Refined Twitter](https://github.com/sindresorhus/refined-twitter) <--- simplify Twitter UI and add useful features
 -   [Remove YouTube Recommended Videos, Comments](https://chrome.google.com/webstore/detail/remove-youtube-recommende/khncfooichmfjbepaaaebmommgaepoid) <--- hide YouTube related videos, comments, video suggestions wall, homepage recommendations, trending tab, and other distractions
 -   [Session Buddy](https://sessionbuddy.com/) <--- manage browser sessions
@@ -373,7 +373,6 @@ Mostly universal (language-independent books).
 -   Startup
     -   [books](https://startupbooks.io/) <--- list of books to help you along your startup journey
     -   [idea checklist](https://www.defmacro.org/2019/03/26/startup-checklist.html) <--- answer before opening a startup
-    -   [stages](https://foundersbelt.com/timeline?stage=learning) <--- +90 tools for startups
     -   [stacklist](https://tools.stacklist.com/stacklists/) <--- list of technologies used by startups
     -   [stash](https://startupstash.com/) <--- curated directory of resources & tools to help you build your startup
 -   [Tools for Makers](https://toolsformakers.com/) <--- hand-curated directory of tools for makers
@@ -396,12 +395,10 @@ Mostly universal (language-independent books).
 
 ### tools
 
--   [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html) <--- create a temporary anonymous e-mail
 -   [AmIUnique](https://amiunique.org/fp) <--- check your browser fingerprint
 -   [CyberChef](https://gchq.github.io/CyberChef/) <--- web app for encryption, encoding, compression and data analysis
 -   [DuckDuckGo](https://duckduckgo.com/) <--- find what has been hidden from you by Google
 -   [Filecrypt](https://filecrypt.co/Create.html) <--- encrypt a link
--   [Firefox Send](https://send.firefox.com/) <--- private file sharing up to 1GB (2.5GB with account)
 -   [Have I Been Pwned](https://haveibeenpwned.com/) <--- check if you have an account that has been compromised in a data breach
     -   [Firefox Monitor](https://monitor.firefox.com/) <--- the same tool from Firefox
     -   [We Leak Info](https://weleakinfo.com/) <--- data breach search engine
@@ -414,6 +411,7 @@ Mostly universal (language-independent books).
     -   [Secured.fyi](https://secured.fyi/) <--- list of security tools with great filtering options
 -   [Shodan](https://www.shodan.io/) <--- search engine of IoT
 -   [Tails](https://tails.boum.org/) <--- privacy OS for pendrive (protects your privacy and offers all sorts of apps to do so, like Tor, Thunderbird and PGP)
+-   [Temp Mail](https://temp-mail.org/en/) <--- create a temporary anonymous e-mail
 -   [Webbkoll](https://webbkoll.dataskydd.net/en/) <--- monitor privacy-enhancing features on websites, and find out who is letting you exercise control over your privacy
 -   [Whois](https://whois.domaintools.com/) <--- whois lookup
 -   [Your social media fingerprint](https://robinlinus.github.io/socialmedia-leak/) <--- check where you are currently logged in
@@ -448,11 +446,11 @@ My private OneNote would be there, but I prefer to share only the most relevant 
 -   [CORGIS](https://think.cs.vt.edu/corgis/) <--- datasets for beginners
 -   [DataHub](https://datahub.io/search) <--- easiest way to find, share and publish datasets online
 -   [Datasets for machine learning](https://www.datasetlist.com/) <--- huge list (CV/NLP/Audio)
--   [Datasets for mind reading](https://mindcodec.ai/2018/10/03/datasets-for-mind-reading/) <--- fancy, huh?
+-   [Datasets for mind reading](https://mindcodec.ai/2018/10/03/datasets-for-mind-reading/) (dataset is still available [here](https://crcns.org/data-sets/vc/vim-1/about-vim-1) with a CRCNS account) <--- fancy, huh?
 -   [FiveThirtyEight](https://data.fivethirtyeight.com/) <--- economics, sports, politics
 -   [Goodbooks-10k](http://fastml.com/goodbooks-10k-a-new-dataset-for-book-recommendations/) <--- new dataset for book recommendations
 -   [Google BigQuery](https://www.reddit.com/r/bigquery/wiki/datasets) <--- public datasets from Google
--   [Google Dataset Search](https://toolbox.google.com/datasetsearch) <--- search engine of datasets from Google
+-   [Google Dataset Search](https://datasetsearch.research.google.com/) <--- search engine of datasets from Google
 -   [Grouplens datasets](https://grouplens.org/datasets/movielens/)
 -   [HealthData](https://healthdata.gov/) <--- high value health data
 -   [How readers browse Wikipedia](https://blog.wikimedia.org/2018/01/16/wikipedia-rabbit-hole-clickstream/)
@@ -739,7 +737,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [Grasshopper](https://grasshopper.app/) <--- learn JavaScript for free from Google
 -   [Materialistic -- Hacker News](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic) <--- great looking tech news that I can read for hours
 -   [Simon Tatham's Puzzles](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles&hl=en) <--- mobile implementation of the [web-based collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/) of one-player puzzle games
--   [Statinfer](https://play.google.com/store/apps/details?id=com.learn.statinfer1) <--- quiz app to test your data science skills (ML, DL, tools, interview questions, etc.)
+-   [Statinfer](https://play.google.com/store/apps/details?id=com.learn.statinfer1) ([here's an archived apk file](https://apkpure.com/statinfer-%E2%80%93-learn-data-science/com.learn.statinfer1)) <--- quiz app to test your data science skills (ML, DL, tools, interview questions, etc.)
 -   [Puzzlerama](https://play.google.com/store/apps/details?id=com.leodesol.games.puzzlecollection) <--- stock of puzzles
 -   [SoloLearn](https://www.sololearn.com/) <--- mobile programming university
 -   [Universe in a Nutshell](https://shop-eu.kurzgesagt.org/products/universe-in-a-nutshell-app) <--- Wait but Why and Kurzgesagt version of the online [Scale of the Universe 2](https://htwins.net/scale2/)
