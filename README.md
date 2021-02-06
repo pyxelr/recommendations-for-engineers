@@ -845,6 +845,14 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Talk Python To Me](https://talkpython.fm/) <--- podcast on Python and related technologies
 -   [The Numberphile podcast](https://www.numberphile.com/podcast/) <--- fall in love with numbers
 
+### devops
+
+-   [DevOps and Docker Talk](https://podcast.bretfisher.com/) <--- interviews and audience Q&A from Bret Fisher's YouTube Live show and other chats with friends in the world of cloud native and container DevOps
+-   [Kubernetes Notes](https://kubernetes-notes.captivate.fm/) <--- based on Kubernetes Documentation
+-   [Kubernetes Podcast from Google](https://kubernetespodcast.com/) <--- weekly news and interview show with insight from the Kubernetes community
+-   [MLOps.community](https://anchor.fm/mlops) <--- weekly talks and fireside chats about everything that has to do with the new space emerging around DevOps for Machine Learning aka MLOps aka Machine Learning Operations
+-   [Więcej Niż Konteneryzacja](https://szkoladockera.pl/category/podcast/) (🇵🇱) <--- everything about containers by Damian Naprawa
+
 ### general/science
 
 -   [60-Second Science](https://www.scientificamerican.com/podcast/60-second-science/) <--- 60-second podcasts to explain scientific topics
