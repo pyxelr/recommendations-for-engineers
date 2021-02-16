@@ -34,7 +34,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Blogs
 
-It's best to collect all your favourite sites into a news aggregator like [Feedly](https://feedly.com/).
+It's best to collect all your favourite sites into a news aggregator like [Feedly](https://feedly.com/).  
+You can also discover more tech blogs with [Blogging for Devs](https://bloggingfordevs.com/trends/).
 
 ### business
 
@@ -399,6 +400,7 @@ Mostly universal (language-independent books).
 -   [CyberChef](https://gchq.github.io/CyberChef/) <--- web app for encryption, encoding, compression and data analysis
 -   [DuckDuckGo](https://duckduckgo.com/) <--- find what has been hidden from you by Google
 -   [Filecrypt](https://filecrypt.co/Create.html) <--- encrypt a link
+-   [Firefox Relay](https://relay.firefox.com/) <--- create aliases, randomly generated email addresses that forward to your real inbox
 -   [Have I Been Pwned](https://haveibeenpwned.com/) <--- check if you have an account that has been compromised in a data breach
     -   [Firefox Monitor](https://monitor.firefox.com/) <--- the same tool from Firefox
     -   [We Leak Info](https://weleakinfo.com/) <--- data breach search engine
