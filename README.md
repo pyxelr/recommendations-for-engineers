@@ -928,14 +928,18 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 
 -   [Binary Search](https://binarysearch.io/) <--- create a room, invite your friends, and race to finish the problems
 -   [CheckiO](https://checkio.org/) <--- learn Python or JavaScript through the online game
+-   [Codecademy](https://www.codecademy.com/) <--- one of the biggest online coding platforms
+-   [CodeCombat](https://codecombat.com/) <--- coding games to learn Python and JavaScript
 -   [CodeGym](https://codegym.cc/) <--- online Java programming course that is 80% based on practice
 -   [CodeSignal](https://codesignal.com/) <--- the most popular website of this kind
+-   [Codewars](https://www.codewars.com/) <--- improve your skills by training with others on real code challenges
 -   [CodinGame](https://www.codingame.com/training) <--- learn programming through online sets of puzzles
 -   [Edabit](https://edabit.com/) <--- simple, new website in the market
 -   [exercism](https://exercism.io/) <--- 100% free service, where you submit solutions through your terminal
 -   [HackerRank](https://www.hackerrank.com/) <--- my personal choice. I've started with included 30-days coding challenge and can totally recommend it
 -   [JetBrains Academy](https://www.jetbrains.com/academy/) <--- dive into Java, Python, and other programming languages in a project-based learning environment that is integrated with JetBrains IDEs
 -   [LeetCode](https://leetcode.com/) <--- more advanced website, where you will mostly find problems asked by the world's largest tech companies. I recommend watching [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g) who goes through many problems from there
+-   [StrataScratch](https://www.stratascratch.com/) <--- over 1000 data science exercises taken from real companies to practice SQL and Python
 
 ### IDE
 
