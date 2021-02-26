@@ -324,6 +324,7 @@ Mostly universal (language-independent books).
 -   [Email Finder - GetProspect](https://getprospect.io/) <--- find business email address in one click
 -   [F.B. Purity](https://www.fbpurity.com/) <--- customise (clean) your Facebook
 -   [Git History Browser Extension](https://github.com/LuisReinoso/git-history-browser-extension) <--- add "Open in Git History" button to GitHub repos
+-   [Github Web IDE](https://github.com/zvizvi/Github-Web-IDE) <--- add a new drop down menu to any Github repository to browse the source code in a number of online IDEs
 -   [Grammarly](https://app.grammarly.com/) <--- very extensive tool to proofread English grammar
 -   [HTTPS Everywhere](https://www.eff.org/https-everywhere) <--- force HTTPS if possible
 -   [Hypothesis](https://web.hypothes.is/) <--- open-source tool to highlight/annotate the text you read online and in the scientific papers. It's a great way to organize your research, as well as hold discussions about your annotations with other users [like me](https://hypothes.is/users/pyxelr)
@@ -335,12 +336,12 @@ Mostly universal (language-independent books).
 -   [Privacy Badger](https://www.eff.org/privacybadger) <--- block invisible trackers
 -   [Reedy](https://reedy.azagroup.ru/) <--- speed reading with RSVP (Rapid Serial Visual Presentation) technique
 -   [Refined Twitter](https://github.com/sindresorhus/refined-twitter) <--- simplify Twitter UI and add useful features
--   [Remove YouTube Recommended Videos, Comments](https://chrome.google.com/webstore/detail/remove-youtube-recommende/khncfooichmfjbepaaaebmommgaepoid) <--- hide YouTube related videos, comments, video suggestions wall, homepage recommendations, trending tab, and other distractions
 -   [Session Buddy](https://sessionbuddy.com/) <--- manage browser sessions
 -   [Sourcegraph](https://docs.sourcegraph.com/integration/browser_extension) <--- add code intelligence to GitHub and other code hosts
 -   [Stylus](https://add0n.com/stylus.html) <--- user-style manager
 -   [Tampermonkey](https://www.tampermonkey.net/) <--- the most popular userscript manager
 -   [uBlock Origin](https://github.com/gorhill/uBlock#installation) <--- blocker addon (not only for ads)
+-   [Unhook - Remove YouTube Recommended Videos](https://chrome.google.com/webstore/detail/remove-youtube-recommende/khncfooichmfjbepaaaebmommgaepoid) <--- hide YouTube related videos, comments, video suggestions wall, homepage recommendations, trending tab, and other distractions
 -   [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) <--- FireBug for designers - edit any webpage, in any state
 -   [Wappalyzer](https://www.wappalyzer.com/) <--- identify technology on websites
 -   [Web Scrobbler](https://web-scrobbler.com/) <--- scrobble music all around the web, e.g. to your Last.fm account
