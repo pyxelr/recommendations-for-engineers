@@ -896,6 +896,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
     -   [Noises](https://noises.online/) <--- free alternative to Brain.fm
     -   [Noisli](https://www.noisli.com/) <--- another alternative
 -   [Box Breathing Exercise](https://breathe.vividwell.com/) <--- take a break, breathe and calm down
+-   [DeepL](https://www.deepl.com/translator) <--- AI based translator (imho, better than Google Translator)
 -   [Effective Engineer Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) <--- quick read on how to be effective and get things done
 -   [Feedly](https://feedly.com) <--- news aggregator. Save time by browsing what matters
 -   [Focusmate](https://www.focusmate.com/) <--- let others watch you while you work
