@@ -682,6 +682,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [HN Academy](https://yahnd.com/academy/) <--- online courses recommended by the community of Hacker News
 -   [Khan Academy](https://www.khanacademy.org/) <--- free online university
 -   [Linux Academy](https://linuxacademy.com/) <--- the #1 rated Learn-by-Doing, multicloud training platform, and the Hands-On Lab pioneers
+-   [O'Reilly learning](https://www.oreilly.com/online-learning/) <--- learning platform with online interactive sandboxes and access to O'Reilly books
 -   [SwitchUp](https://www.switchup.org/) <--- compare/rank bootcamps by subjects
 -   [Udacity](https://www.udacity.com/) <--- high-quality courses for tech topics
 -   [Udemy](https://www.udemy.com/) <--- find and create online courses
