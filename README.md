@@ -1031,14 +1031,18 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [JDownloader](http://jdownloader.org/home/index?s=lng_en) <--- open-source download management tool
 -   [KeePassXC](https://keepassxc.org/) <--- cross-platform password manager. Otherwise, consider [1Password](https://1password.com/) as the most secure online manager
 -   [Mp3tag](https://www.mp3tag.de/en/) <--- mp3 tag editor
+-   [MobaXterm](https://mobaxterm.mobatek.net/) <--- enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more
 -   [Ninite](https://ninite.com/) <--- install and update all your programs at once
 -   [PDF-XChange Editor](https://www.tracker-software.com/product/pdf-xchange-editor) <--- most feature-rich PDF viewer/editor
 -   [PortableApps.com](https://portableapps.com/) <--- full-featured portable software system
+-   [Postman](https://www.postman.com/) <--- popular API client that makes it easy for developers to create, share, test and document APIs
 -   [Potplayer](https://potplayer.daum.net/) <--- video player
 -   [PowerToys](https://github.com/microsoft/PowerToys) <--- Windows system utilities to maximize productivity. FancyZones is one of them, which improves window layout management
 -   [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)<--- SSH and telnet client
 -   [qBittorrent](https://www.qbittorrent.org/) <--- open-source torrent manager
 -   [ShareX](https://getsharex.com/) <--- most feature-rich screen capture tool
+-   [TaskbarX](https://chrisandriessen.nl/taskbarx) <--- center Windows taskbar icons with a variety of animations and options
+-   [WinSCP](https://winscp.net/eng/index.php) <--- popular SFTP client and FTP client for Microsoft Windows
 
 **[⬆ Back to Contents](#contents)**
 
