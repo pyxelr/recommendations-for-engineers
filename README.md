@@ -770,6 +770,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 ### listen
 
 -   [Last.fm](http://www.last.fm/) <--- track your scrobbles. Make sure to [follow me](https://www.last.fm/user/Pyxelr)!
+-   [lofi.cafe](https://lofi.cafe/) <--- online radio to focus and relax
 -   lofi hip hop radio <--- live YouTube transmission of background music for your studying sessions
     -   [beats to relax/study to](https://www.youtube.com/watch?v=hHW1oY26kxQ)
     -   [beats to sleep/chill to](https://www.youtube.com/watch?v=EcEMX-63PKY)
@@ -904,6 +905,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Integromat](https://www.integromat.com/en/) <--- automate various tasks (more advanced than [IFTT](https://ifttt.com/) and 2.5x cheaper than [Zapier](https://zapier.com/))
 -   [Intention](https://www.getintention.com/) <--- Chrome extension to stop visiting distractive websites
 -   [Leave Me Alone](https://leavemealone.app/) <--- see all of your subscription emails in one place and unsubscribe from them with a single click
+-   [lofi.cafe](https://lofi.cafe/) <--- online radio to focus and relax
 -   lofi hip hop radio <--- live YouTube transmission of background music for your studying sessions
     -   [beats to relax/study to](https://www.youtube.com/watch?v=hHW1oY26kxQ)
     -   [beats to sleep/chill to](https://www.youtube.com/watch?v=EcEMX-63PKY)
