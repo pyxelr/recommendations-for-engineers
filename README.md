@@ -631,7 +631,7 @@ All the mentioned sites are mostly free of clickbait and offer the triumph of fo
 
 -   [Ars Technica](https://arstechnica.com/)
 -   [dobreprogramy](https://www.dobreprogramy.pl/) (🇵🇱) <--- one of the most popular Polish sites
--   [Hacker News](https://news.ycombinator.com/) <--- my top resource with high quality content and discussions. Check out [my dark theme](https://github.com/pyxelr/Hacker_News_-_Bluish_Gray) to save your eyes
+-   [Hacker News](https://news.ycombinator.com/) <--- my top resource with high quality content and discussions. Check out [my dark theme](https://github.com/pyxelr/hacker-news-bluish-gray) to save your eyes
 -   [Slashdot](https://slashdot.org/)
 -   [TechCrunch](https://techcrunch.com/)
 -   [The Hacker News](https://thehackernews.com/) <--- cybersecurity news
@@ -650,7 +650,7 @@ All the mentioned sites are mostly free of clickbait and offer the triumph of fo
 
 I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog post](https://pawelcislo.com/2020/07/10/optimising-our-learning-retention-rate-with-srs-anki/).
 
--   [Anki](https://apps.ankiweb.net/) <--- my favourite software to learn through spaced repetition and active learning in mobile and open-source PC app. Make sure to [check out my own decks](https://github.com/pyxelr/My_Anki_Decks_of_Flashards)
+-   [Anki](https://apps.ankiweb.net/) <--- my favourite software to learn through spaced repetition and active learning in mobile and open-source PC app. Make sure to [check out my own decks](https://github.com/pyxelr/my-anki-decks-of-flashcards)
 -   [flashcards.wizardzines](https://flashcards.wizardzines.com/) <--- set of flashcards from Julia Evans
 -   [Flashcards for Developers](https://www.flashcardsfordevelopers.com/) <--- online flashcards based mostly on programming skills
 -   [Fluent Forever](https://fluent-forever.com/) <--- paid application to study languages. You can also read its [accompanying book](https://www.goodreads.com/book/show/22304017-fluent-forever) and watch the [author’s comparison between FF and Anki](https://youtu.be/fepSv0fqg5U)
@@ -734,7 +734,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 ## Mobile Apps
 
 -   [Algorithms: Explained and Animated](https://play.google.com/store/apps/details?id=wiki.algorithm.algorithms&hl=en) <--- great representation of various algorithms
--   [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en) <--- learn any topic using active learning and spaced repetition. Before using the mobile app, I strongly suggest to set up your account and decks of cards using the [PC app](https://apps.ankiweb.net/). Also, make sure to check the [public decks shared from my side](https://github.com/pyxelr/My_Anki_Decks_of_Flashards)
+-   [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en) <--- learn any topic using active learning and spaced repetition. Before using the mobile app, I strongly suggest to set up your account and decks of cards using the [PC app](https://apps.ankiweb.net/). Also, make sure to check the [public decks shared from my side](https://github.com/pyxelr/my-anki-decks-of-flashcards)
 -   [Brilliant](https://brilliant.org/) <--- app that I do not feel guilty wasting my time with and paying to be a premium subscriber. It's part of my "[Three Goals](https://pawelcislo.com/three-goals/)" programme
 -   [Elevate](https://www.elevateapp.com/) <--- used daily can significantly improve math, reading, writing, speaking, and listening
 -   [Enki](https://www.enki.com/) <--- learn data science, coding, and stay on top of tech trends
