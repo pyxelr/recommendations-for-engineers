@@ -1152,6 +1152,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 
 ### programming
 
+-   [Branch Education](https://www.youtube.com/c/BranchEducation) <--- engineering and science concepts illuminated with videos of accurate models and visualized physics
 -   [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) <--- general computer science channel
 -   [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) <--- Python in data science and not only
 -   [Derek Banas](https://www.youtube.com/user/derekbanas) <--- is there a topic on which Derek didn't record a tutorial?
