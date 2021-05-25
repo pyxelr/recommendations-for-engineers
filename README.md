@@ -849,7 +849,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Talk Python To Me](https://talkpython.fm/) <--- podcast on Python and related technologies
 -   [The Numberphile podcast](https://www.numberphile.com/podcast/) <--- fall in love with numbers
 
-### devops / mlops
+### devops/mlops
 
 -   [DevOps and Docker Talk](https://podcast.bretfisher.com/) <--- interviews and audience Q&A from Bret Fisher's YouTube Live show and other chats with friends in the world of cloud native and container DevOps
 -   [Kubernetes Notes](https://kubernetes-notes.captivate.fm/) <--- based on Kubernetes Documentation
