@@ -411,7 +411,6 @@ Mostly universal (language-independent books).
 -   [PrivacyTools](https://www.privacytools.io/) <--- set of services, tools, and knowledge to protect your privacy
     -   [PRISM Break](https://prism-break.org/) <--- set of privacy tools (categorised by operating systems)
     -   [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) <--- curated list of privacy respecting services and software
-    -   [Secured.fyi](https://secured.fyi/) <--- list of security tools with great filtering options
 -   [Shodan](https://www.shodan.io/) <--- search engine of IoT
 -   [Tails](https://tails.boum.org/) <--- privacy OS for pendrive (protects your privacy and offers all sorts of apps to do so, like Tor, Thunderbird and PGP)
 -   [Temp Mail](https://temp-mail.org/en/) <--- create a temporary anonymous e-mail
@@ -462,7 +461,7 @@ My private OneNote would be there, but I prefer to share only the most relevant 
 -   [LVIS](https://www.lvisdataset.org/) <--- dataset for large vocabulary instance segmentation
 -   [Mapillary Vistas Dataset](https://www.mapillary.com/dataset/vistas) <--- street-level imagery dataset with pixel‑accurate and instance‑specific human annotations for understanding street scenes around the world
 -   [Mathematics Dataset](https://github.com/deepmind/mathematics_dataset) <--- generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty
--   [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/)
+-   [Million Song Dataset](http://millionsongdataset.com/)
 -   [nuScenes](https://www.nuscenes.org/) <--- large-scale autonomous driving dataset
 -   [Papers With Code Datasets](https://paperswithcode.com/datasets) <--- ML datasets with lots of filtering options
 -   [Quandl](https://www.quandl.com/tools/python) <--- financial data directly into Python
@@ -793,7 +792,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [DeepJ](https://github.com/calclavia/DeepJ) <--- AI to compose piano music in real-time
 -   [Every Noise at Once](http://everynoise.com/engenremap.html) <--- map of music styles (play each style with a single click)
 -   [Music Maker](https://www.sentient.ai/sentient-labs/ea/lstm-music/) <--- with the use of AI
--   [SOUL](https://soul.dev/playground/?id=55e627cb87ad63674a8c07cf3664991d) <--- IDE and language to make music
+-   [SOUL](https://soul.dev/) <--- IDE and language to make music
 -   [Spleeter](https://github.com/deezer/spleeter) <--- extract acapella from the song using AI ([demonstration video](https://youtu.be/tgnuOSLPwMI))
 
 **[⬆ Back to Contents](#contents)**
@@ -845,7 +844,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Biznes Myśli](https://www.spreaker.com/show/biznes-mysli) (🇵🇱) <--- AI podcast by Vladimir
 -   [DataEvangelists](https://www.spreaker.com/show/dataevangelists) (🇵🇱) <--- 1st Polish podcast on data science
 -   [Data Framed](https://www.datacamp.com/community/podcast) <--- from DataCamp creators
--   [Lex Fridman Podcast](https://lexfridman.com/ai/) <--- AI talks with top engineers
+-   [Lex Fridman Podcast](https://lexfridman.com/podcast/) <--- AI talks with top engineers
 -   [Python Bytes](https://pythonbytes.fm/) <--- weekly podcast on Python
 -   [Talk Python To Me](https://talkpython.fm/) <--- podcast on Python and related technologies
 -   [The Numberphile podcast](https://www.numberphile.com/podcast/) <--- fall in love with numbers
@@ -875,6 +874,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 
 -   [Ben Greenfield Fitness](https://bengreenfieldfitness.com/) <--- fitness advice
 -   [Bulletproof Radio](https://blog.daveasprey.com/category/podcasts/) <--- biohacker podcast by Dave Asprey
+-   [Huberman Lab](https://hubermanlab.libsyn.com/) <--- analysis of Neuroscience: how our brain and its connections with the organs of our body controls our perceptions, our behaviors, and our health
 -   [TedTalks Health](https://www.ted.com/talks?topics%5B%5D=health)
 
 ### programming
