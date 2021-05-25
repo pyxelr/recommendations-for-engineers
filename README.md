@@ -845,6 +845,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [DataEvangelists](https://www.spreaker.com/show/dataevangelists) (🇵🇱) <--- 1st Polish podcast on data science
 -   [Data Framed](https://www.datacamp.com/community/podcast) <--- from DataCamp creators
 -   [Lex Fridman Podcast](https://lexfridman.com/podcast/) <--- AI talks with top engineers
+-   [Practical AI](https://changelog.com/practicalai) <--- making artificial intelligence practical, productive, and accessible to everyone
 -   [Python Bytes](https://pythonbytes.fm/) <--- weekly podcast on Python
 -   [Talk Python To Me](https://talkpython.fm/) <--- podcast on Python and related technologies
 -   [The Numberphile podcast](https://www.numberphile.com/podcast/) <--- fall in love with numbers
