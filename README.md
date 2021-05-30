@@ -141,6 +141,7 @@ For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/lis
 -   [Permanent Record](https://www.goodreads.com/book/show/46223297-permanent-record)
 -   [Steve Jobs](https://www.goodreads.com/book/show/12988058-steve-jobs)
 -   [Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character](https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_)
+-   [The Everything Store: Jeff Bezos and the Age of Amazon](https://www.goodreads.com/book/show/18887015-the-everything-store)
 -   [Total Recall: My Unbelievably True Life Story](https://www.goodreads.com/book/show/14546626-total-recall)
 
 ### business
@@ -159,7 +160,6 @@ For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/lis
 -   [The 10X Rule: The Only Difference Between Success and Failure](https://www.goodreads.com/book/show/46382280-the-10x-rule)
 -   [The Boron Letters](https://www.goodreads.com/book/show/17732053-the-boron-letters)
 -   [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited)
--   [The Everything Store: Jeff Bezos and the Age of Amazon](https://www.goodreads.com/book/show/18887015-the-everything-store)
 -   [The Goal: A Process of Ongoing Improvement](https://www.goodreads.com/book/show/113937.The_Goal)
 -   [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/book/show/20657434-the-hard-thing-about-hard-things)
 -   [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.goodreads.com/book/show/11500159-the-lean-startup)
