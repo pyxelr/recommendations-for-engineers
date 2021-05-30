@@ -159,6 +159,7 @@ For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/lis
 -   [The 10X Rule: The Only Difference Between Success and Failure](https://www.goodreads.com/book/show/46382280-the-10x-rule)
 -   [The Boron Letters](https://www.goodreads.com/book/show/17732053-the-boron-letters)
 -   [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited)
+-   [The Everything Store: Jeff Bezos and the Age of Amazon](https://www.goodreads.com/book/show/18887015-the-everything-store)
 -   [The Goal: A Process of Ongoing Improvement](https://www.goodreads.com/book/show/113937.The_Goal)
 -   [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/book/show/20657434-the-hard-thing-about-hard-things)
 -   [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.goodreads.com/book/show/11500159-the-lean-startup)
@@ -219,6 +220,12 @@ For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/lis
 -   [Python Tricks: A Buffet of Awesome Python Features](https://www.goodreads.com/book/show/36990732-python-tricks)
 -   [The Book of R: A First Course in Programming and Statistics](https://www.goodreads.com/book/show/26529994-the-book-of-r)
 
+### devops/mlops
+-   [Building Microservices](https://www.goodreads.com/book/show/24836465-building-microservices)
+-   [Data Science on AWS: Implementing End-to-End, Continuous AI and Machine Learning Pipelines](https://www.goodreads.com/book/show/57671430-data-science-on-aws)
+-   [Introducing Mlops: How to Scale Machine Learning in the Enterprise](https://www.goodreads.com/book/show/55182023-introducing-mlops)
+-   [Machine Learning Design Patterns: Solutions to Common Challenges in Data Preparation, Model Building, and MLOps](https://www.goodreads.com/book/show/55739247-machine-learning-design-patterns)
+
 ### health
 
 -   [How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease](https://www.goodreads.com/book/show/25663961-how-not-to-die)
@@ -256,6 +263,7 @@ For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/lis
 -   [Make It Stick](https://www.goodreads.com/book/show/21956680-make-it-stick)
 -   [Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships](https://www.goodreads.com/book/show/26203640-nonviolent-communication)
 -   [Outwitting the Devil: The Secret to Freedom and Success](https://www.goodreads.com/book/show/10713286-outwitting-the-devil)
+-   [Rebel Ideas: The Power of Diverse Thinking](https://www.goodreads.com/book/show/52326253-rebel-ideas)
 -   [Seeking Wisdom: From Darwin To Munger](https://www.goodreads.com/book/show/1995421.Seeking_Wisdom)
 -   [The Biology of Belief: Unleashing the Power of Consciousness, Matter and Miracles](https://www.goodreads.com/book/show/90556.The_Biology_of_Belief)
 -   [The Book of Awakening: Having the Life You Want by Being Present to the Life You Have](https://www.goodreads.com/book/show/7581.The_Book_of_Awakening)
@@ -271,6 +279,7 @@ For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/lis
 
 Mostly universal (language-independent books).
 
+-   [A Philosophy of Software Design](https://www.goodreads.com/book/show/43701534-a-philosophy-of-software-design)
 -   [Architecture Patterns with Python: How to Apply DDD, Ports and Adapters, and Enterprise Architecture Design Patterns in a Pythonic Way](https://www.goodreads.com/book/show/50083115-architecture-patterns-with-python)
 -   [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
 -   [Code Complete](https://www.goodreads.com/book/show/21899045-code-complete)
