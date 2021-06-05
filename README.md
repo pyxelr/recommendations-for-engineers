@@ -963,11 +963,11 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
     -   [Jupyter Notebook](https://jupyter.org/) <--- good choice for the beginning and the reason of maintaining a well-documented code
     -   [Spyder](https://www.spyder-ide.org/) <--- Python IDE
     -   [RStudio](https://rstudio.com/) <--- R IDE
-    -   [Visual Studio Code](https://code.visualstudio.com/) <--- highly extensible IDE from Microsoft
 -   [Google Colab](https://colab.research.google.com/) <--- alternative to Jupyter Notebook. Run your code entirely in the browser and improve the model learning time by leveraging Google's GPU/TPU
 -   [PyCharm](https://www.jetbrains.com/pycharm/) <--- more robust Python IDE
 -   [Repl.it](https://repl.it/) <--- world's leading online coding platform
 -   [Sublime Text](https://www.sublimetext.com/) <--- the most optimised text editor with a package control
+-   [Visual Studio Code](https://code.visualstudio.com/) <--- highly extensible IDE from Microsoft
 
 ### online tools
 
