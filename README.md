@@ -777,6 +777,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 
 ### listen
 
+-   [Endel](https://play.endel.io/) <--- personalized soundscapes to help you focus, relax, and sleep. Backed by neuroscience
 -   [Last.fm](http://www.last.fm/) <--- track your scrobbles. Make sure to [follow me](https://www.last.fm/user/Pyxelr)!
 -   [lofi.cafe](https://lofi.cafe/) <--- online radio to focus and relax
 -   lofi hip hop radio <--- live YouTube transmission of background music for your studying sessions
@@ -910,6 +911,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Box Breathing Exercise](https://breathe.vividwell.com/) <--- take a break, breathe and calm down
 -   [DeepL](https://www.deepl.com/translator) <--- AI based translator (imho, better than Google Translator)
 -   [Effective Engineer Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) <--- quick read on how to be effective and get things done
+-   [Endel](https://play.endel.io/) <--- personalized soundscapes to help you focus, relax, and sleep. Backed by neuroscience
 -   [Feedly](https://feedly.com) <--- news aggregator. Save time by browsing what matters
 -   [Focusmate](https://www.focusmate.com/) <--- let others watch you while you work
 -   [Integromat](https://www.integromat.com/en/) <--- automate various tasks (more advanced than [IFTT](https://ifttt.com/) and 2.5x cheaper than [Zapier](https://zapier.com/))
