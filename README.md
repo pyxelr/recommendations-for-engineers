@@ -878,6 +878,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Podcast Pasja Informatyki](https://podcast.pasja-informatyki.pl/) (🇵🇱) <--- philosophy + IT
 -   [Simplify](https://www.blinkist.com/simplify) <--- for anybody who’s taken a close look at their habits, their happiness, their relationships, or their health
 -   [Ted Talks Daily](https://www.ted.com/talks) <--- use your podcast app to find more categorised TED talks
+-   [The 3b1b podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82MzZiNDgyMC9wb2RjYXN0L3Jzcw==) <--- interviews hosted by Grant Sanderson, the creator of 3blue1brown
 -   [The Anthropocene Reviewed](https://www.wnycstudios.org/podcasts/anthropocene-reviewed) <--- reviews of facets of the human-centred planet
 -   [The Joe Rogan Experience](https://www.joerogan.com/) <--- famous podcast of Comedian Joe Rogan
 -   [The Stephen Wolfram Podcast](https://soundcloud.com/stephenwolfram/) <--- from the creator of Mathematica, Wolfram|Alpha and the Wolfram Language
