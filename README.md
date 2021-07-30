@@ -1124,6 +1124,11 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) <--- quick reviews of scientific research papers and AI terms explained
 -   [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher) <--- videos about machine learning research papers, programming, and issues of the AI community and the broader impact of AI in society
 
+### devops/mlops
+
+-   [DevOps Toolkit by Viktor Farcic](https://www.youtube.com/c/DevOpsToolkit) <--- channel of a passionate DevOps who keeps us up with the most recent DevOps tools
+-   [MLOps.community](https://www.youtube.com/c/MLOpscommunity/) <--- Machine Learning Operations best practices from engineers in the field
+
 ### entertainment
 
 -   [Alan Becker](https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw) <--- fights of stick figures
