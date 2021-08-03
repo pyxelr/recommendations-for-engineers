@@ -1047,9 +1047,11 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [GitKraken](https://www.gitkraken.com/) <--- cross-platform GUI Git client
 -   [JDownloader](http://jdownloader.org/home/index?s=lng_en) <--- open-source download management tool
 -   [KeePassXC](https://keepassxc.org/) <--- cross-platform password manager. Otherwise, consider [1Password](https://1password.com/) as the most secure online manager
--   [Mp3tag](https://www.mp3tag.de/en/) <--- mp3 tag editor
 -   [MobaXterm](https://mobaxterm.mobatek.net/) <--- enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more
+-   [Mp3tag](https://www.mp3tag.de/en/) <--- mp3 tag editor
 -   [Ninite](https://ninite.com/) <--- install and update all your programs at once
+-   [Oh My Posh](https://ohmyposh.dev/) <--- prompt theme engine for any shell
+-   [Patch My PC](https://patchmypc.com/home-updater) <--- free tool for detecting and automatically updating software (more automated than [SUMo](https://www.kcsoftwares.com/?sumo), but less powerful)
 -   [PDF-XChange Editor](https://www.tracker-software.com/product/pdf-xchange-editor) <--- most feature-rich PDF viewer/editor
 -   [PortableApps.com](https://portableapps.com/) <--- full-featured portable software system
 -   [Postman](https://www.postman.com/) <--- popular API client that makes it easy for developers to create, share, test and document APIs
@@ -1058,7 +1060,9 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)<--- SSH and telnet client
 -   [qBittorrent](https://www.qbittorrent.org/) <--- open-source torrent manager
 -   [ShareX](https://getsharex.com/) <--- most feature-rich screen capture tool
+-   [SUMo](https://www.kcsoftwares.com/?sumo) <--- tool for detecting software updates (less automated than [Patch My PC](https://patchmypc.com/home-updater), but more powerful)
 -   [TaskbarX](https://chrisandriessen.nl/taskbarx) <--- center Windows taskbar icons with a variety of animations and options
+-   [WinMerge](https://winmerge.org/) <--- open-source diff checker (required e.g. by Ditto)
 -   [WinSCP](https://winscp.net/eng/index.php) <--- popular SFTP client and FTP client for Microsoft Windows
 
 **[⬆ Back to Contents](#contents)**
