@@ -799,8 +799,11 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 
 ### tools
 
+-   [alda](https://alda.io/) <--- text-based programming language for music composition
 -   [DeepJ](https://github.com/calclavia/DeepJ) <--- AI to compose piano music in real-time
 -   [Every Noise at Once](http://everynoise.com/engenremap.html) <--- map of music styles (play each style with a single click)
+-   [Jukeblocks](https://jukeblocks.io/) <--- song structure generator, that generates the tracks, song sections and composition/arrangement of a song
+-   [Music Grid](https://music-grid.surge.sh/) <--- turn on sound, tap on the grid
 -   [Music Maker](https://www.sentient.ai/sentient-labs/ea/lstm-music/) <--- with the use of AI
 -   [SOUL](https://soul.dev/) <--- IDE and language to make music
 -   [Spleeter](https://github.com/deezer/spleeter) <--- extract acapella from the song using AI ([demonstration video](https://youtu.be/tgnuOSLPwMI))
