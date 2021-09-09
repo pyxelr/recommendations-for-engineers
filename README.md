@@ -1048,6 +1048,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [f.lux](https://justgetflux.com/) <--- reduce the amount of blue light at night (you can also install [the preferred UWP app](https://www.microsoft.com/en-us/p/flux/9n9kdphv91jt))
 -   [Frink](https://frinklang.org/) <--- practical calculating tool and programming language designed to make physical calculations simple
 -   [GitKraken](https://www.gitkraken.com/) <--- cross-platform GUI Git client
+-   [gsudo](https://github.com/gerardog/gsudo) <--- sudo for Windows
 -   [JDownloader](http://jdownloader.org/home/index?s=lng_en) <--- open-source download management tool
 -   [KeePassXC](https://keepassxc.org/) <--- cross-platform password manager. Otherwise, consider [1Password](https://1password.com/) as the most secure online manager
 -   [MobaXterm](https://mobaxterm.mobatek.net/) <--- enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more
