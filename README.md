@@ -1037,7 +1037,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [AIMP](https://www.aimp.ru/?do=download&os=windows) <--- music player
 -   [AquaSnap](https://www.nurgo-software.com/products/aquasnap) <--- tiling window manager
 -   [Audacity](https://www.audacityteam.org/) <--- simple audio editor
--   [AutoHotkey](https://www.autohotkey.com/) <--- ultimate automation scripting language for Windows
+-   [AutoHotkey](https://www.autohotkey.com/) <--- ultimate automation scripting language for Windows ([here](https://github.com/pyxelr/my-autohotkey-scripts) is a collection of my scripts)
 -   [Calibre](https://calibre-ebook.com/) <--- e-book manager
 -   [Chocolatey](https://chocolatey.org/) <--- package manager
 -   [ConEmu](https://conemu.github.io/) <--- improved windows terminal
