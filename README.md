@@ -1065,6 +1065,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [ShareX](https://getsharex.com/) <--- most feature-rich screen capture tool
 -   [SUMo](https://www.kcsoftwares.com/?sumo) <--- tool for detecting software updates (less automated than [Patch My PC](https://patchmypc.com/home-updater), but more powerful)
 -   [TaskbarX](https://chrisandriessen.nl/taskbarx) <--- center Windows taskbar icons with a variety of animations and options
+-   [Windows Terminal](https://github.com/microsoft/terminal) <--- modern, fast, efficient, powerful, and productive terminal application
 -   [WinMerge](https://winmerge.org/) <--- open-source diff checker (required e.g. by Ditto)
 -   [WinSCP](https://winscp.net/eng/index.php) <--- popular SFTP client and FTP client for Microsoft Windows
 
