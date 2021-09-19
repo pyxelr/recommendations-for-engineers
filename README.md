@@ -803,6 +803,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [DeepJ](https://github.com/calclavia/DeepJ) <--- AI to compose piano music in real-time
 -   [Every Noise at Once](http://everynoise.com/engenremap.html) <--- map of music styles (play each style with a single click)
 -   [Jukeblocks](https://jukeblocks.io/) <--- song structure generator, that generates the tracks, song sections and composition/arrangement of a song
+-   [Ludotune](https://ludotune.com/) <--- make music with 3D blocks
 -   [Music Grid](https://music-grid.surge.sh/) <--- turn on sound, tap on the grid
 -   [Music Maker](https://www.sentient.ai/sentient-labs/ea/lstm-music/) <--- with the use of AI
 -   [SOUL](https://soul.dev/) <--- IDE and language to make music
@@ -1156,8 +1157,12 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Brilliant](https://www.youtube.com/channel/UCpR62MSOeBQVXub13xwZ8aA) <--- excel in math and science
 -   [Domain of Science](https://www.youtube.com/user/dominicwalliman) <--- overview of science with the help of single maps
 -   [Eddie Woo](https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ) <--- one of the most enthusiastic math teachers on the web
+-   [Flammable Maths](https://www.youtube.com/c/papaflammy) <--- memes and math!
 -   [Krista King](https://www.youtube.com/user/TheIntegralCALC) <--- master in math
 -   [Looking Glass Universe](https://www.youtube.com/channel/UCFk__1iexL3T5gvGcMpeHNA) <--- about the strange world of maths and physics
+-   [Mathemaniac](https://www.youtube.com/c/Mathemaniac) <--- showing a more fun side of Mathematics, as well as the elegance of Math
+-   [Mathologer](https://www.youtube.com/c/Mathologer) <--- really accessible explanations of hard and beautiful math(s)
+-   [Michael Penn](https://www.youtube.com/c/MichaelPennMath) <--- math videos covering Calculus, Differential Equations, Number Theory and more
 -   [MindYourDecisions](https://www.youtube.com/user/MindYourDecisions) <--- brain teasers
 -   [Numberphile](https://www.youtube.com/user/numberphile) <--- videos about numbers
 -   [Prof Ghrist Math](https://www.youtube.com/channel/UC5N5pRddyicAX1QJyJjIIdg) <--- animated introduction to calculus
