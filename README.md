@@ -1144,6 +1144,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Alan Becker](https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw) <--- fights of stick figures
 -   [Daily Dose Of Internet](https://www.youtube.com/channel/UCdC0An4ZPNr_YiFiYoVbwaw) <--- the best and top trending videos from all over the Internet in short videos
 -   [Dylan Tallchief](https://www.youtube.com/channel/UCIu2Fj4x_VMn2dgSB1bFyQA) <--- fun look over the music production
+-   [GeoWizard](https://www.youtube.com/c/GeoWizard) <--- adventure and geography videos + stories
 -   [I did a thing](https://www.youtube.com/channel/UCJLZe_NoiG0hT7QCX_9vmqw) <--- the author likes to do things
 -   [Level UP](https://www.youtube.com/channel/UCNK813T2BNBwcfDPDTPeMPA) <--- mario animations
 -   [PewDiePie](https://www.youtube.com/user/PewDiePie) <--- meme/game reviews and not only
