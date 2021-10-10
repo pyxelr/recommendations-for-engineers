@@ -1246,11 +1246,12 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [What If](https://www.youtube.com/channel/UCphTF9wHwhCt-BzIq-s4V-g) <--- what if ___ ?
 -   [What I've Learned](https://www.youtube.com/channel/UCqYPhGiB9tkShZorfgcL2lA) <--- mostly health-based videos from a single person
 
-### tech news
+### tech
 
 -   [Dave Lee](https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw) <--- critical reviews of the newest tech on the market
 -   [Linus](https://www.youtube.com/user/LinusTechTips) <--- entertaining tech explanations
 -   [Techquickie](https://www.youtube.com/user/Techquickie) <--- humorous answers to tech questions
+-   [ThioJoe](https://www.youtube.com/c/ThioJoe) <--- technology videos, including tech news, reviews, and discussions (mainly focused on Windows)
 
 **[⬆ Back to Contents](#contents)**
 
