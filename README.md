@@ -126,6 +126,7 @@ You can also discover more tech blogs with [Blogging for Devs](https://bloggingf
 -   [Product Hunt](https://www.producthunt.com/) <--- discover the best new products in tech
 -   [Stack Overflow Blog](https://stackoverflow.blog/) <--- essays, opinions, and advice on the act of computer programming
 -   [Tania Rascia](https://www.taniarascia.com/) <--- visually pleasing blog about modern JavaScript, Node.js, design and web development
+-   [Tushar's Blog](https://sadh.life/) <--- exceptional Python focused blog
 
 **[⬆ Back to Contents](#contents)**
 
