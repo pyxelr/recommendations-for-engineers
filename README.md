@@ -1192,6 +1192,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Branch Education](https://www.youtube.com/c/BranchEducation) <--- engineering and science concepts illuminated with videos of accurate models and visualized physics
 -   [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) <--- general computer science channel
 -   [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) <--- Python in data science and not only
+-   [Daniel Rakowiecki](https://www.youtube.com/c/DanielRakowiecki/) (🇵🇱) <--- electronics repair (laptops, consoles and more)
 -   [Derek Banas](https://www.youtube.com/user/derekbanas) <--- is there a topic on which Derek didn't record a tutorial?
 -   [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg) <--- solving advanced algorithms step by step
 -   [Fireship](https://www.youtube.com/c/Fireship) <--- intermediate to advanced lessons about JavaScript, Flutter, Firebase, and modern app development. The channel hosts lots of videos explaining complex topics in 100 seconds
