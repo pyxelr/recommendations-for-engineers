@@ -1046,6 +1046,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Directory Opus](https://www.gpsoft.com.au/) <--- ultimate file manager (worth paying for)
 -   [Ditto](https://ditto-cp.sourceforge.io/) <--- clipboard manager
 -   [Everything](https://www.voidtools.com/downloads/) <--- search local files instantly
+-   [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) <--- Everything integration for the Windows taskbar
 -   [FileZilla](https://filezilla-project.org/) <--- free and open-source FTP client/server
 -   [f.lux](https://justgetflux.com/) <--- reduce the amount of blue light at night (you can also install [the preferred UWP app](https://www.microsoft.com/en-us/p/flux/9n9kdphv91jt))
 -   [Frink](https://frinklang.org/) <--- practical calculating tool and programming language designed to make physical calculations simple
