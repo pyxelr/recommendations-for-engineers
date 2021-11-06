@@ -785,7 +785,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
     -   [beats to relax/study to](https://www.youtube.com/watch?v=hHW1oY26kxQ)
     -   [beats to sleep/chill to](https://www.youtube.com/watch?v=EcEMX-63PKY)
 -   [musicForProgramming](http://musicforprogramming.net/) <--- series of mixes intended for listening while '+task+' to aid concentration
--   [Poolside FM](https://poolside.fm/) <--- the chillest place online: a place where it's perpetually the summer of 1997 (probably my favourite radio)
+-   [Poolsuite FM](https://poolsuite.net/) <--- the chillest place online: a place where it's perpetually the summer of 1997 (probably my favourite radio)
 -   [Radio Garden](http://radio.garden/) <--- listen to thousands of radio stations from the world using a Google Earth based menu
 -   [SoundCloud](https://soundcloud.com/) <--- find lots of indie music and upload your own one. Make sure to [follow me](https://soundcloud.com/pyxelr)!
 -   [Spotify](https://www.spotify.com/) <--- stream music online
