@@ -749,6 +749,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [Enki](https://www.enki.com/) <--- learn data science, coding, and stay on top of tech trends
 -   [Grasshopper](https://grasshopper.app/) <--- learn JavaScript for free from Google
 -   [Materialistic -- Hacker News](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic) <--- great looking tech news that I can read for hours
+-   [One Calendar](https://www.onecalendar.nl/) <--- manage all your calendars on all your devices
 -   [Simon Tatham's Puzzles](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles&hl=en) <--- mobile implementation of the [web-based collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/) of one-player puzzle games
 -   [Statinfer](https://play.google.com/store/apps/details?id=com.learn.statinfer1) ([here's an archived apk file](https://apkpure.com/statinfer-%E2%80%93-learn-data-science/com.learn.statinfer1)) <--- quiz app to test your data science skills (ML, DL, tools, interview questions, etc.)
 -   [Puzzlerama](https://play.google.com/store/apps/details?id=com.leodesol.games.puzzlecollection) <--- stock of puzzles
