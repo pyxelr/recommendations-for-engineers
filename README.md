@@ -53,6 +53,7 @@ You can also discover more tech blogs with [Blogging for Devs](https://bloggingf
 -   [KitPloit](https://www.kitploit.com/) <--- pentest & hacking tools
 -   [Latest Hacking News](https://latesthackingnews.com/) <--- latest cybersecurity news
 -   [LiveOverflow](https://liveoverflow.com/) <--- blog of a security professional who shares free IT security videos on YouTube
+-   [mr.d0x](https://mrd0x.com/) <--- red team & security research notes
 -   [Niebezpiecznik](https://niebezpiecznik.pl/) (🇵🇱) <--- most popular Polish blog on cybersecurity
 -   [Paged Out!](https://pagedout.institute/) <--- free magazine on programming with a focus on hacking
 -   [Security Through Education](https://www.social-engineer.org/blog/) <--- blog on human engineering
@@ -649,7 +650,7 @@ All the mentioned sites are mostly free of clickbait and offer the triumph of fo
 
 ## Learning
 
--   [Brilliant](https://brilliant.org/) <--- app that I do not feel guilty wasting my time with and paying to be a premium subscriber. It's part of my "[Three Goals](https://pawelcislo.com/three-goals/)" programme
+-   [Brilliant](https://brilliant.org/) <--- app that I do not feel guilty wasting my time with and paying to be a premium subscriber
 -   [Hypothesis](https://web.hypothes.is/) <--- open-source tool to highlight/annotate the text you read online and in the scientific papers. It's a great way to organize your research, as well as hold discussions about your annotations with other users [like me](https://hypothes.is/users/pyxelr)
 -   [Polar Bookshelf](https://github.com/burtonator/polar-bookshelf) <--- open-source tool to annotate PDF documents and websites and later turn them into Anki flashcards. It's a quite unique alternative to Hypothesis
 -   [Researcher](https://www.researcher-app.com/) <--- feed for scientific papers
@@ -746,7 +747,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki) <--- learn any topic using active learning and spaced repetition. Before using the mobile app, I strongly suggest to set up your account and decks of cards using the [PC app](https://apps.ankiweb.net/). Also, make sure to check the [public decks shared from my side](https://github.com/pyxelr/my-anki-decks-of-flashcards)
 -   [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free) <--- best free screen recorder
 -   [Backdrops](https://backdrops.io/) <--- my favorite high-quality wallpaper app
--   [Brilliant](https://brilliant.org/) <--- app that I do not feel guilty wasting my time with and paying to be a premium subscriber. It's part of my "[Three Goals](https://pawelcislo.com/three-goals/)" programme
+-   [Brilliant](https://brilliant.org/) <--- app that I do not feel guilty wasting my time with and paying to be a premium subscriber
 -   [Elevate](https://www.elevateapp.com/) <--- used daily can significantly improve math, reading, writing, speaking, and listening
 -   [Enki](https://www.enki.com/) <--- learn data science, coding, and stay on top of tech trends
 -   [File Manager Plus](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager) <--- my favourite file manager
