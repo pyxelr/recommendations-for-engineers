@@ -759,10 +759,10 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [One Calendar](https://www.onecalendar.nl/) <--- manage all your calendars on all your devices
 -   [Pocket Casts](https://www.pocketcasts.com/) <--- my favourite Podcast Player
 -   [Polish](https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro) <--- most advanced photo editor 
+-   [Puzzlerama](https://play.google.com/store/apps/details?id=com.leodesol.games.puzzlecollection) <--- stock of puzzles
 -   [Screen On](https://play.google.com/store/apps/details?id=de.dieterthiess.keepiton) <--- app and widget to keep the screen on
 -   [Simon Tatham's Puzzles](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles) <--- mobile implementation of the [web-based collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/) of one-player puzzle games
 -   [Statinfer](https://play.google.com/store/apps/details?id=com.learn.statinfer1) ([here's an archived apk file](https://apkpure.com/statinfer-%E2%80%93-learn-data-science/com.learn.statinfer1)) <--- quiz app to test your data science skills (ML, DL, tools, interview questions, etc.)
--   [Puzzlerama](https://play.google.com/store/apps/details?id=com.leodesol.games.puzzlecollection) <--- stock of puzzles
 -   [SoloLearn](https://www.sololearn.com/) <--- mobile programming university
 -   [Tiny Scanner](https://play.google.com/store/apps/details?id=com.appxy.tinyscanner) <--- PDF scanner app
 -   [Twilight](https://twilight.urbandroid.org/) <--- blue light filter
