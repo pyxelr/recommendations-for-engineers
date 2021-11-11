@@ -650,7 +650,7 @@ All the mentioned sites are mostly free of clickbait and offer the triumph of fo
 
 ## Learning
 
--   [Brilliant](https://brilliant.org/) <--- app that I do not feel guilty wasting my time with and paying to be a premium subscriber
+-   [Brilliant](https://brilliant.org/) <--- replace lecture videos with hands-on, interactive problem solving
 -   [Hypothesis](https://web.hypothes.is/) <--- open-source tool to highlight/annotate the text you read online and in the scientific papers. It's a great way to organize your research, as well as hold discussions about your annotations with other users [like me](https://hypothes.is/users/pyxelr)
 -   [Polar Bookshelf](https://github.com/burtonator/polar-bookshelf) <--- open-source tool to annotate PDF documents and websites and later turn them into Anki flashcards. It's a quite unique alternative to Hypothesis
 -   [Researcher](https://www.researcher-app.com/) <--- feed for scientific papers
@@ -749,7 +749,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free) <--- best free screen recorder
 -   [Backdrops](https://backdrops.io/) <--- my favorite high-quality wallpaper app
 -   [Boost for reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) <--- Reddit client
--   [Brilliant](https://brilliant.org/) <--- app that I do not feel guilty wasting my time with and paying to be a premium subscriber
+-   [Brilliant](https://brilliant.org/) <--- replace lecture videos with hands-on, interactive problem solving
 -   [Calmaria](https://calmaria.app/) <--- focus / breathe / relax
 -   [Chess King (Learn Tactics & Solve Puzzles)](https://learn.chessking.com/) <--- collection of chess education courses
 -   [Cymath - Math Problem Solver](https://www.cymath.com/) <--- step by step problem solver
