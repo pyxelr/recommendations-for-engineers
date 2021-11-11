@@ -743,23 +743,32 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 
 ## Mobile Apps
 
+-   [AdGuard](https://adguard.com/en/products.html) <--- get rid of intrusive ads and online tracking
 -   [Algorithms: Explained and Animated](https://play.google.com/store/apps/details?id=wiki.algorithm.algorithms) <--- great representation of various algorithms
 -   [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki) <--- learn any topic using active learning and spaced repetition. Before using the mobile app, I strongly suggest to set up your account and decks of cards using the [PC app](https://apps.ankiweb.net/). Also, make sure to check the [public decks shared from my side](https://github.com/pyxelr/my-anki-decks-of-flashcards)
 -   [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free) <--- best free screen recorder
 -   [Backdrops](https://backdrops.io/) <--- my favorite high-quality wallpaper app
+-   [Boost for reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) <--- Reddit client
 -   [Brilliant](https://brilliant.org/) <--- app that I do not feel guilty wasting my time with and paying to be a premium subscriber
+-   [Calmaria](https://calmaria.app/) <--- focus / breathe / relax
+-   [Chess King (Learn Tactics & Solve Puzzles)](https://learn.chessking.com/) <--- collection of chess education courses
+-   [Cymath - Math Problem Solver](https://www.cymath.com/) <--- step by step problem solver
 -   [Elevate](https://www.elevateapp.com/) <--- used daily can significantly improve math, reading, writing, speaking, and listening
 -   [Enki](https://www.enki.com/) <--- learn data science, coding, and stay on top of tech trends
 -   [File Manager Plus](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager) <--- my favourite file manager
 -   [Google Lens](https://lens.google/) <--- search what you see
 -   [Grasshopper](https://grasshopper.app/) <--- learn JavaScript for free from Google
+-   [HiPER Calc Scientific Calculator](https://hiperdevelopment.wixsite.com/hipercalc-android) <--- high precision scientific calculator
 -   [InShot](https://inshot.com/) <--- most advanced video editor 
 -   [Listen Audiobook Player](https://play.google.com/store/apps/details?id=com.acmeandroid.listen) <--- my favourite Audiobook Player
 -   [Materialistic -- Hacker News](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic) <--- great looking tech news that I can read for hours
+-   [Mathlab Graphing Calculator](https://www.mathlab.us/calc/index.html) <--- scientific, graphing, fraction and matrix calculator in one app
+-   [Network Analyzer](https://techet.net/netanalyzer/) <--- network analysis, scanning and problem detection
 -   [One Calendar](https://www.onecalendar.nl/) <--- manage all your calendars on all your devices
 -   [Pocket Casts](https://www.pocketcasts.com/) <--- my favourite Podcast Player
 -   [Polish](https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro) <--- most advanced photo editor 
 -   [Puzzlerama](https://play.google.com/store/apps/details?id=com.leodesol.games.puzzlecollection) <--- stock of puzzles
+-   [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) <--- Python 3 IDE for Android
 -   [Screen On](https://play.google.com/store/apps/details?id=de.dieterthiess.keepiton) <--- app and widget to keep the screen on
 -   [Simon Tatham's Puzzles](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles) <--- mobile implementation of the [web-based collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/) of one-player puzzle games
 -   [Statinfer](https://play.google.com/store/apps/details?id=com.learn.statinfer1) ([here's an archived apk file](https://apkpure.com/statinfer-%E2%80%93-learn-data-science/com.learn.statinfer1)) <--- quiz app to test your data science skills (ML, DL, tools, interview questions, etc.)
