@@ -999,7 +999,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [PyCharm](https://www.jetbrains.com/pycharm/) <--- more robust Python IDE
 -   [Repl.it](https://repl.it/) <--- world's leading online coding platform
 -   [Sublime Text](https://www.sublimetext.com/) <--- the most optimised text editor with a package control
--   [Visual Studio Code](https://code.visualstudio.com/) <--- highly extensible IDE from Microsoft
+-   [VS Code](https://code.visualstudio.com/) <--- highly extensible IDE from Microsoft (explained thoroughly in [My VS Code Playground](https://pawelcislo.com/2021/11/14/my-vs-code-playground/) blog post)
 
 ### online tools
 
