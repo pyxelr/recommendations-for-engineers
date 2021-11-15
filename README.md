@@ -874,8 +874,15 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 
 ### cybersecurity
 
+-   [Breaking Badness](https://www.domaintools.com/resources/podcasts) <--- where timely and relevant security news meets ninja jokes and sit down comedy
+-   [Cyber Security Headlines](https://cisoseries.com/category/podcast/cyber-security-headlines/) <--- six-minute news podcast available every weekday
+-   [Daily Information Security Podcast ("StormCast")](https://isc.sans.edu/podcast.html) <--- daily 5-10 minute information security threat updates
+-   [Darknet Diaries](https://darknetdiaries.com/) <--- true stories from the dark side of the internet
+-   [Digital Forensic Survival Podcast](https://digitalforensicsurvivalpodcast.com/) <--- computer forensic analysis, techniques, methodology, tool reviews and more
 -   [Kacper Szurek](https://security.szurek.pl/) (🇵🇱) <--- overview of the latest security news
+-   [Malicious Life](https://malicious.life/) <--- history of cybersecurity, with comments and reflections by real hackers
 -   [Na Podsłuchu - Niebezpiecznik.pl](https://www.spreaker.com/show/na-podsluchu-niebezpiecznik-pl) (🇵🇱) <--- discussions of different cybersecurity topics
+-   [The Privacy, Security, and OSINT Show](https://inteltechniques.com/podcast.html) <--- weekly podcast presents ideas to help you become digitally invisible, stay secure from cyber threats, and make you a better online investigator
 -   [The Social-Engineer Podcast](http://www.social-engineer.org/category/podcast/) <--- podcast on social engineering
 
 ### data science
