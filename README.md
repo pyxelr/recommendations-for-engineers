@@ -1237,6 +1237,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge) <--- one of the most varied programming channel
 -   [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA) <--- lots of videos on Python, JavaScript, C#
 -   [Python Engineer](https://www.youtube.com/c/PythonEngineer) <--- Python and Machine Learning tutorials
+-   [RS Elektronika](https://www.youtube.com/c/RSElektronika) (🇵🇱) <--- for anyone interested in electronics
 -   [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) <--- one of the most-enthusiastic coders on the web
 -   [UW-TEAM.org](https://www.youtube.com/c/uwteamorg) (🇵🇱) <--- programming, Linux, security, and more
 -   [WilliamFiset](https://www.youtube.com/user/purpongie) <--- educational computer science and mathematics videos
