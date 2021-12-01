@@ -760,6 +760,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [Grasshopper](https://grasshopper.app/) <--- learn JavaScript for free from Google
 -   [HiPER Calc Scientific Calculator](https://hiperdevelopment.wixsite.com/hipercalc-android) <--- high precision scientific calculator
 -   [InShot](https://inshot.com/) <--- most advanced video editor 
+-   [lichess](https://play.google.com/store/apps/details?id=org.lichess.mobileapp) <--- best open-source free chess
 -   [Listen Audiobook Player](https://play.google.com/store/apps/details?id=com.acmeandroid.listen) <--- my favourite Audiobook Player
 -   [Materialistic -- Hacker News](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic) <--- great looking tech news that I can read for hours
 -   [Mathlab Graphing Calculator](https://www.mathlab.us/calc/index.html) <--- scientific, graphing, fraction and matrix calculator in one app
