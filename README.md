@@ -1288,6 +1288,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 
 -   [Dave Lee](https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw) <--- critical reviews of the newest tech on the market
 -   [Linus](https://www.youtube.com/user/LinusTechTips) <--- entertaining tech explanations
+-   [Mateusz Chrobok](https://www.youtube.com/c/MateuszChrobok) (🇵🇱) <--- channel of a CyberSecurity Geek
 -   [Techquickie](https://www.youtube.com/user/Techquickie) <--- humorous answers to tech questions
 -   [ThioJoe](https://www.youtube.com/c/ThioJoe) <--- technology videos, including tech news, reviews, and discussions (mainly focused on Windows)
 
