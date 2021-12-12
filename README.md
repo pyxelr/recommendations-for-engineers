@@ -1149,6 +1149,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) <--- ethical hacking tutorials
 -   [John Hammond](https://www.youtube.com/user/RootOfTheNull) <--- tutorials and videos on lots of programming languages
 -   [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) <--- preparing for CTFs
+-   [Mateusz Chrobok](https://www.youtube.com/c/MateuszChrobok) (🇵🇱) <--- channel of a CyberSecurity Geek
 -   [Niebezpiecznik](https://www.youtube.com/channel/UCe6nK69Yc1zna7QSJEfA9pw) (🇵🇱) <--- cybersecurity channel
 
 ### data science
@@ -1288,7 +1289,6 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 
 -   [Dave Lee](https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw) <--- critical reviews of the newest tech on the market
 -   [Linus](https://www.youtube.com/user/LinusTechTips) <--- entertaining tech explanations
--   [Mateusz Chrobok](https://www.youtube.com/c/MateuszChrobok) (🇵🇱) <--- channel of a CyberSecurity Geek
 -   [Techquickie](https://www.youtube.com/user/Techquickie) <--- humorous answers to tech questions
 -   [ThioJoe](https://www.youtube.com/c/ThioJoe) <--- technology videos, including tech news, reviews, and discussions (mainly focused on Windows)
 
