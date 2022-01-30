@@ -1069,6 +1069,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 ## Windows
 
 -   [7-Zip](https://www.7-zip.org/) <--- file archiver with a high compression ratio
+-   [Action!](https://mirillis.com/en/products/action.html) <--- screen recorder
 -   [AIMP](https://www.aimp.ru/?do=download&os=windows) <--- music player
 -   [AquaSnap](https://www.nurgo-software.com/products/aquasnap) <--- tiling window manager
 -   [Audacity](https://www.audacityteam.org/) <--- simple audio editor
@@ -1076,6 +1077,8 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Calibre](https://calibre-ebook.com/) <--- e-book manager
 -   [Chocolatey](https://chocolatey.org/) <--- package manager
 -   [ConEmu](https://conemu.github.io/) <--- improved windows terminal
+-   [Deskreen](https://deskreen.com/) <--- turn any device into a secondary screen for your computer
+-   [DevToys](https://devtoys.app/) <--- Swiss Army knife for developers
 -   [Directory Opus](https://www.gpsoft.com.au/) <--- ultimate file manager (worth paying for)
 -   [Ditto](https://ditto-cp.sourceforge.io/) <--- clipboard manager
 -   [Everything](https://www.voidtools.com/downloads/) <--- search local files instantly
@@ -1090,17 +1093,21 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [MobaXterm](https://mobaxterm.mobatek.net/) <--- enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more
 -   [Mp3tag](https://www.mp3tag.de/en/) <--- mp3 tag editor
 -   [Ninite](https://ninite.com/) <--- install and update all your programs at once
+-   [NirSoft - freeware utilities](https://www.nirsoft.net/utils/index.html) <--- freeware tools and system utilities 
 -   [Oh My Posh](https://ohmyposh.dev/) <--- prompt theme engine for any shell
 -   [Patch My PC](https://patchmypc.com/home-updater) <--- free tool for detecting and automatically updating software (more automated than [SUMo](https://www.kcsoftwares.com/?sumo), but less powerful)
 -   [PDF-XChange Editor](https://www.tracker-software.com/product/pdf-xchange-editor) <--- most feature-rich PDF viewer/editor
 -   [PortableApps.com](https://portableapps.com/) <--- full-featured portable software system
 -   [Postman](https://www.postman.com/) <--- popular API client that makes it easy for developers to create, share, test and document APIs
 -   [Potplayer](https://potplayer.daum.net/) <--- video player
--   [PowerToys](https://github.com/microsoft/PowerToys) <--- Windows system utilities to maximize productivity. FancyZones is one of them, which improves window layout management
+-   [PowerToys](https://github.com/microsoft/PowerToys) <--- Windows system utilities to maximize productivity
 -   [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)<--- SSH and telnet client
 -   [qBittorrent](https://www.qbittorrent.org/) <--- open-source torrent manager
+-   [scoop](https://scoop.sh/) <--- command-line installer for Windows
 -   [ShareX](https://getsharex.com/) <--- most feature-rich screen capture tool
+-   [simplewall](https://github.com/henrypp/simplewall) <--- configure Windows Filtering Platform (WFP) which can configure network activity on your computer
 -   [SUMo](https://www.kcsoftwares.com/?sumo) <--- tool for detecting software updates (less automated than [Patch My PC](https://patchmypc.com/home-updater), but more powerful)
+-   [Sysinternals Utilities Index](https://docs.microsoft.com/en-us/sysinternals/downloads/) <--- utilities to manage, diagnose, troubleshoot, and monitor a Microsoft Windows environment
 -   [TaskbarX](https://chrisandriessen.nl/taskbarx) <--- center Windows taskbar icons with a variety of animations and options
 -   [Windows Terminal](https://github.com/microsoft/terminal) <--- modern, fast, efficient, powerful, and productive terminal application
 -   [WinMerge](https://winmerge.org/) <--- open-source diff checker (required e.g. by Ditto)
