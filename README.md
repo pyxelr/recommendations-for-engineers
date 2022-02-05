@@ -850,6 +850,7 @@ Try gathering all your favourite newsletters into [Newsletry](https://newsletry.
 -   [Highbrow](https://gohighbrow.com/) <--- choose a topic to learn and receive a daily message
 -   [Inside](https://inside.com/) <--- daily newsletters on different topics. For example, check out [Inside AI](https://inside.com/ai) and its [recent issues](https://inside.com/lists/ai/recent_issues) at any time
 -   [James Clear](https://jamesclear.com/newsletter) <--- apply better habits in your life (from the author of Atomic Habits)
+-   [learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnbyexample-weekly) <--- CLI, Python, Regular Expressions, Vim, etc.
 -   [Machine Learning Ops Roundup](https://mlopsroundup.substack.com/) <--- bringing together the best articles, news and papers about MLOps
 -   [Morning Cup of Coding](https://morningcupofcoding.com/) <--- daily programming newsletter featuring long form technical articles of all fields of software engineering
 -   [Podcast Notes](https://podcastnotes.org/) <--- summary of podcasts in few bullet points
