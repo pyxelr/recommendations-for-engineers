@@ -288,6 +288,7 @@ Mostly universal (language-independent books).
 -   [Code: The Hidden Language of Computer Hardware and Software (Developer Best Practices)](https://www.goodreads.com/book/show/21948821-code)
 -   [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.goodreads.com/book/show/25707092-cracking-the-coding-interview)
 -   [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.goodreads.com/book/show/85009.Design_Patterns)
+-   [Dive Into Design Patterns](https://www.goodreads.com/book/show/43125355-dive-into-design-patterns)
 -   [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
 -   [Elements of Programming Interviews in Python: The Insiders' Guide](https://www.goodreads.com/book/show/34791936-elements-of-programming-interviews-in-python)
 -   [Extreme Programming Explained: Embrace Change (The XP Series)](https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained)
@@ -409,6 +410,7 @@ Mostly universal (language-independent books).
 ### tools
 
 -   [AmIUnique](https://amiunique.org/fp) <--- check your browser fingerprint
+-   [Browserling](https://www.browserling.com/browser-sandbox) <--- online browser sandbox
 -   [CyberChef](https://gchq.github.io/CyberChef/) <--- web app for encryption, encoding, compression and data analysis
 -   [DuckDuckGo](https://duckduckgo.com/) <--- find what has been hidden from you by Google
 -   [Filecrypt](https://filecrypt.co/Create.html) <--- encrypt a link
