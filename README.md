@@ -18,6 +18,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - 📆 [Events](#events)
 - 📰 [IT News](#it-news)
 - 🧠 [Learning](#learning)
+- 🐧 [Linux](#linux)
+- 🍎 [macOS](#macos)
 - ➗ [Math](#math-2)
 - 📱 [Mobile Apps](#mobile-apps)
 - 🎶 [Music](#music)
@@ -720,6 +722,79 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 
 **[⬆ Back to Contents](#contents)**
 
+## Linux
+
+-   [Cassowary](https://github.com/casualsnek/cassowary) <--- run Windows applications on Linux as if they are native
+-   [DistroTest](https://distrotest.net/index.php) <--- try running any Linux distro in the cloud VM
+-   [instantbox](https://github.com/instantbox/instantbox) <--- spin up temporary Linux systems with instant webshell access from any browser
+-   [Peek](https://github.com/phw/peek) <--- animated GIF recorder for Linux
+-   [termtosvg](https://github.com/nbedos/termtosvg) <--- record terminal sessions as SVG animations
+-   [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) <--- run a Linux distribution or application on Android (without root)
+-   [WebVM](https://webvm.io/) <--- server-less virtual Linux env running client-side in HTML5/WebAssembly
+-   [xxh](https://github.com/xxh/xxh) <--- bring your favorite shell wherever you go through ssh
+
+### shell
+
+-   [bat](https://github.com/sharkdp/bat) <--- cat(1) clone with wings
+-   [broot](https://github.com/Canop/broot) <--- new way to see and navigate directory trees
+-   [CommandLineFu](https://www.commandlinefu.com/commands/browse)<--- share & browse Linux CLI one-liners
+-   [crontab guru](https://crontab.guru/) <--- quick and simple editor for cron schedule expressions
+-   [exa](https://github.com/ogham/exa) <--- modern replacement for `ls`
+-   [explainshell](https://explainshell.com/) <--- match CLI arguments to their help text
+-   [fd](https://github.com/sharkdp/fd) <--- better alternative to `find`
+-   [fzf](https://github.com/junegunn/fzf) <--- CLI fuzzy finder
+-   [howdoi](https://github.com/san-kumar/howdoi) <--- get quick answers to common linux related questions, right inside your terminal by typing `"howdoi [your question]"`
+-   [htop](https://github.com/htop-dev/htop/) <--- interactive process viewer
+-   [jq](https://github.com/stedolan/jq) <--- CLI JSON processor
+-   [Modern Unix](https://github.com/ibraheemdev/modern-unix) <--- collection of modern/faster/saner alternatives to common unix commands
+-   [Neofetch](https://github.com/dylanaraps/neofetch) <--- CLI tool to display information about your OS in an aesthetic way
+-   [nushell](https://github.com/nushell/nushell) <--- new type of shell
+-   [Oh My Zsh](https://ohmyz.sh/) <--- framework for managing your Zsh configuration
+-   [Online Bash Shell](https://www.onlinegdb.com/online_bash_shell) <--- online Bash editor
+-   [Outrun](https://github.com/Overv/outrun) <--- execute a local command using the processing power of another Linux machine
+-   [ShellCheck](https://www.shellcheck.net/) <--- find bugs in your shell scripts
+-   [Starship](https://github.com/starship/starship) <--- prompt for any shell ([customize it](https://starship.rs/config/#configuration), e.g. to disable the package module)
+-   [tealdeer](https://github.com/dbrgn/tealdeer) <--- very fast implementation of tldr in Rust
+-   [yq](https://github.com/mikefarah/yq) <--- command-line YAML, JSON and XML processor
+-   [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) <--- fish-like autosuggestions for Zsh
+-   [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) <--- fish shell like syntax highlighting for Zsh
+
+#### shell aliases
+
+- `alias lisl="exa -hla --icons"` <--- better `ls` with [exa](https://github.com/ogham/exa)
+- `alias list="exa -hlas time --icons"` <--- better `ls` with [exa](https://github.com/ogham/exa) (ordered by time)
+- `alias tree="br -c :pt"` <--- better `tree` with [broot](https://github.com/Canop/broot)
+
+**[⬆ Back to Contents](#contents)**
+
+## macOS
+
+-   [AirBuddy](https://v2.airbuddy.app/) <--- control wireless devices
+-   [Alfred](https://www.alfredapp.com/) <--- extendable launcher
+    -   [Raycast](https://www.raycast.com/) <--- alternative to Alfred
+-   [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) <--- keep your screen awake
+-   [Bartender](https://www.macbartender.com/) <--- take control of menu bar
+-   [BetterSnapTool](https://folivora.ai/bettersnaptool) <--- easily manage your window positions
+-   [BetterTouchTool](https://folivora.ai/) <--- customize various input devices
+-   [BetterZip](https://macitbetter.com/) <--- next generation of archiving
+-   [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) <--- swiss army knife for developers
+-   [DropShelf](https://pilotmoon.com/dropshelf/) <--- drag and drop helper app
+-   [HazeOver](https://hazeover.com/) <--- fade out background windows
+-   [Homebrew](https://brew.sh/) <--- package manager for macOS
+-   [iTerm2](https://iterm2.com/) <--- better terminal (with  [Dracula PRO](https://draculatheme.com/pro) and [Fira Code](https://www.nerdfonts.com/font-downloads))
+-   [Itsycal](https://www.mowglii.com/itsycal/) <--- tiny menu bar calendar
+-   [Karabiner-Elements](https://karabiner-elements.pqrs.org/) <--- keyboard customizer
+-   [mas](https://github.com/mas-cli/mas) <--- Mac App Store command line interface
+-   [MeetingBar](https://github.com/leits/MeetingBar) <--- menu bar calendar
+-   [Monosnap](https://monosnap.com/) <--- screenshot tool
+-   [New File Menu](https://apps.apple.com/us/app/new-file-menu/id1064959555?mt=12) <--- create new files via Finder
+-   [Numi](https://numi.app/) <--- beautiful calculator
+-   [Sound Control](https://staticz.com/soundcontrol/) <--- advanced audio controls
+-   [Transmit](https://panic.com/transmit/) <--- upload, download, and manage files on tons of servers
+-   [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) <--- invert scroll direction for mouse & trackpad
+
+**[⬆ Back to Contents](#contents)**
+
 ## Math
 
 ### learn
@@ -1118,6 +1193,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Windows Terminal](https://github.com/microsoft/terminal) <--- modern, fast, efficient, powerful, and productive terminal application
 -   [WinMerge](https://winmerge.org/) <--- open-source diff checker (required e.g. by Ditto)
 -   [WinSCP](https://winscp.net/eng/index.php) <--- popular SFTP client and FTP client for Microsoft Windows
+-   [WSLg](https://github.com/microsoft/wslg) <--- open GUI software through WSL
 
 **[⬆ Back to Contents](#contents)**
 
