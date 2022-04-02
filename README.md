@@ -411,6 +411,7 @@ Mostly universal (language-independent books).
 
 -   [AmIUnique](https://amiunique.org/fp) <--- check your browser fingerprint
 -   [Browserling](https://www.browserling.com/browser-sandbox) <--- online browser sandbox
+-   [CheckShortURL](https://checkshorturl.com/) <--- shortened URL expander
 -   [CyberChef](https://gchq.github.io/CyberChef/) <--- web app for encryption, encoding, compression and data analysis
 -   [DuckDuckGo](https://duckduckgo.com/) <--- find what has been hidden from you by Google
 -   [Filecrypt](https://filecrypt.co/Create.html) <--- encrypt a link
@@ -419,11 +420,13 @@ Mostly universal (language-independent books).
     -   [Firefox Monitor](https://monitor.firefox.com/) <--- the same tool from Firefox
     -   [We Leak Info](https://weleakinfo.com/) <--- data breach search engine
 -   [Hybrid Analysis](https://hybrid-analysis.com//) <--- analyse malware for free in the browser
+-   [I know what you download](https://iknowwhatyoudownload.com/en/peer/) <--- torrent downloads and distributions for chosen IP
 -   [IP Info](https://ip.voidsec.com/) <--- check if your VPN leaks information
 -   [Pi-Hole](https://pi-hole.net/) <--- adblock for the whole network (requires: router + raspberry pi)
 -   [PrivacyTools](https://www.privacytools.io/) <--- set of services, tools, and knowledge to protect your privacy
     -   [PRISM Break](https://prism-break.org/) <--- set of privacy tools (categorised by operating systems)
     -   [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) <--- curated list of privacy respecting services and software
+-   [Redirect Checker](https://www.redirect-checker.org/) <--- check your redirects and statuscode
 -   [Shodan](https://www.shodan.io/) <--- search engine of IoT
 -   [Tails](https://tails.boum.org/) <--- privacy OS for pendrive (protects your privacy and offers all sorts of apps to do so, like Tor, Thunderbird and PGP)
 -   [Temp Mail](https://temp-mail.org/en/) <--- create a temporary anonymous e-mail
