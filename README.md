@@ -636,7 +636,7 @@ As there are many, I highly encourage you to check my custom feeds:
 
 -   [Eventbrite](https://www.eventbrite.com/) <--- social network for events
 -   [Eventil](https://eventil.com/) <--- events for tech people
--   [Facebook](https://www.facebook.com/events/)
+-   [Facebook Events](https://www.facebook.com/events/)
 -   [Hackathon.com](https://www.hackathon.com/) <--- find worldwide hackathons
 -   [Meetup](https://www.meetup.com/) <--- social network for events
 
@@ -877,18 +877,25 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
     -   [Learning Synths](https://learningsynths.ableton.com/get-started)
 -   [Melodics](https://melodics.com/) <--- interactive desktop software
 -   [Pianu](https://pianu.com/) <--- online interactive piano
+-   [Playground Sessions](https://www.playgroundsessions.com/) <--- my personal favorite app to learn piano
 -   [Simply Piano](http://www.joytunes.com/simply-piano) <--- mobile app that listens to the sound through a microphone
 -   [Synthesia](https://www.synthesiagame.com/) <--- game that can help you learn how to play the piano using falling notes
 
 ### listen
 
+-   [Brain.fm](https://www.brain.fm/) <--- music to improve focus
+-   [defonic](https://defonic.com/) <--- create immersive soundscape
 -   [Endel](https://play.endel.io/) <--- personalized soundscapes to help you focus, relax, and sleep. Backed by neuroscience
 -   [Last.fm](http://www.last.fm/) <--- track your scrobbles. Make sure to [follow me](https://www.last.fm/user/Pyxelr)!
 -   [lofi.cafe](https://lofi.cafe/) <--- online radio to focus and relax
+-   [lofi generator](https://lofigenerator.com/) <--- algorithmically generate royalty-free lofi hip-hop
 -   lofi hip hop radio <--- live YouTube transmission of background music for your studying sessions
     -   [beats to relax/study to](https://www.youtube.com/watch?v=hHW1oY26kxQ)
     -   [beats to sleep/chill to](https://www.youtube.com/watch?v=EcEMX-63PKY)
+-   [Moodil](https://www.moodil.com/) <--- nature sounds
 -   [musicForProgramming](http://musicforprogramming.net/) <--- series of mixes intended for listening while '+task+' to aid concentration
+-   [myNoise](https://mynoise.net/) <--- create beautiful noises to mask the noises you don’t want to hear
+-   [Noises.online](https://noises.online/) <--- premium masking sounds
 -   [Poolsuite FM](https://poolsuite.net/) <--- the chillest place online: a place where it's perpetually the summer of 1997 (probably my favourite radio)
 -   [Radio Garden](http://radio.garden/) <--- listen to thousands of radio stations from the world using a Google Earth based menu
 -   [SoundCloud](https://soundcloud.com/) <--- find lots of indie music and upload your own one. Make sure to [follow me](https://soundcloud.com/pyxelr)!
@@ -905,14 +912,20 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 ### tools
 
 -   [alda](https://alda.io/) <--- text-based programming language for music composition
+-   [Bongo Cat](https://bongo.cat/) <--- hit the bongos like Bongo Cat!
+-   [Chrome Music Lab](https://musiclab.chromeexperiments.com/) <--- website that makes learning music more accessible through fun, hands-on experiments
 -   [DeepJ](https://github.com/calclavia/DeepJ) <--- AI to compose piano music in real-time
+-   [drumbit](https://drumbit.app/) <--- online drum machine
 -   [Every Noise at Once](http://everynoise.com/engenremap.html) <--- map of music styles (play each style with a single click)
 -   [Jukeblocks](https://jukeblocks.io/) <--- song structure generator, that generates the tracks, song sections and composition/arrangement of a song
 -   [Ludotune](https://ludotune.com/) <--- make music with 3D blocks
 -   [Music Grid](https://music-grid.surge.sh/) <--- turn on sound, tap on the grid
 -   [Music Maker](https://www.sentient.ai/sentient-labs/ea/lstm-music/) <--- with the use of AI
+-   [noise.sh](https://noise.sh/) <--- digital signal processing spreadsheet for sound design
+-   [Roland50 Studio](https://roland50.studio/) <--- online music creation platform by Yuri Suzuki and Roland
 -   [SOUL](https://soul.dev/) <--- IDE and language to make music
 -   [Spleeter](https://github.com/deezer/spleeter) <--- extract acapella from the song using AI ([demonstration video](https://youtu.be/tgnuOSLPwMI))
+-   [The Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view/) <--- create beats using sounds from the everyday world
 
 **[⬆ Back to Contents](#contents)**
 
@@ -1023,28 +1036,20 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 ## Productivity
 
 -   [ActivityWatch](https://github.com/ActivityWatch/activitywatch) <--- open-source time tracker (alternative to RescueTime)
--   [Brain.fm](https://www.brain.fm/) <--- music to improve focus. Try sample sounds on [their YouTube channel](https://www.youtube.com/channel/UC45Wdr3wPy1qR2WLUCTsFKg)
-    -   [myNoise](https://mynoise.net/) <--- background noises & interactive soundscapes
-    -   [Noises](https://noises.online/) <--- free alternative to Brain.fm
-    -   [Noisli](https://www.noisli.com/) <--- another alternative
 -   [Box Breathing Exercise](https://breathe.vividwell.com/) <--- take a break, breathe and calm down
 -   [DeepL](https://www.deepl.com/translator) <--- AI based translator (imho, better than Google Translator)
 -   [Effective Engineer Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) <--- quick read on how to be effective and get things done
--   [Endel](https://play.endel.io/) <--- personalized soundscapes to help you focus, relax, and sleep. Backed by neuroscience
 -   [Feedly](https://feedly.com) <--- news aggregator. Save time by browsing what matters
 -   [Focusmate](https://www.focusmate.com/) <--- let others watch you while you work
+-   [Focus Sounds](https://github.com/pyxelr/recommendations-for-engineers#listen) <--- navigate to the "Music" section of this list
 -   [Integromat](https://www.integromat.com/en/) <--- automate various tasks (more advanced than [IFTT](https://ifttt.com/) and 2.5x cheaper than [Zapier](https://zapier.com/))
 -   [Intention](https://www.getintention.com/) <--- Chrome extension to stop visiting distractive websites
 -   [Leave Me Alone](https://leavemealone.app/) <--- see all of your subscription emails in one place and unsubscribe from them with a single click
 -   [lofi.cafe](https://lofi.cafe/) <--- online radio to focus and relax
--   lofi hip hop radio <--- live YouTube transmission of background music for your studying sessions
-    -   [beats to relax/study to](https://www.youtube.com/watch?v=hHW1oY26kxQ)
-    -   [beats to sleep/chill to](https://www.youtube.com/watch?v=EcEMX-63PKY)
 -   Monochrome mode (grayscale mode) activation on your mobile device <--- attract yourself less to the colourless screen
--   [musicForProgramming](http://musicforprogramming.net/) <--- series of mixes intended for listening while '+task+' to aid concentration
 -   [Notion](https://www.notion.so/) <--- all-in-one workspace to replace to-do lists and note-taking apps
 -   [Obsidian](https://obsidian.md/) <--- powerful knowledge base (note-taking tool) that works on top of a local folder of plain text Markdown files
--   [OneNote 2016](https://support.office.com/en-gb/article/install-or-reinstall-onenote-2016-for-windows-c08068d8-b517-4464-9ff2-132cb9c45c08) <--- my favourite note-taking tool (2016 version more feature-rich over the UWP app)
+-   [OneNote Desktop](https://www.onenote.com/download) <--- my favourite note-taking tool (desktop version is much more feature-rich over the UWP app)
     -   [Office OneNote Gem Add-Ins](https://www.onenotegem.com/) <--- lots of plugins for different versions of OneNote
     -   [Onetastic](https://getonetastic.com/) <--- set of extensions for OneNote
 -   [Productivity Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/) <--- large list by Todoist
