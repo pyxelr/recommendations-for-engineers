@@ -405,6 +405,7 @@ Mostly universal (language-independent books).
 -   [Hacker101](https://www.hacker101.com/) <--- free class for web security
 -   [Hacksplaining](https://www.hacksplaining.com/lessons) <--- interactive lessons to present the most typical cybersecurity attacks. Afterwards, the site presents an extended article with the ways of how to protect ourselves from the particular vulnerability
 -   [Hack The Box](https://www.hackthebox.eu/) <--- online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field
+-   [HackTricks](https://book.hacktricks.xyz/) <--- collection of hacking tricks & techniques that the author have learnt in CTFs, real life apps, and by reading researches and news
 -   [pwn.college](https://pwn.college/) <--- education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion
 -   [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) <--- collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more
 -   [TryHackMe](https://tryhackme.com/) <--- cybersecurity guides and challenges in your browser
