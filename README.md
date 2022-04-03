@@ -941,7 +941,7 @@ Try gathering all your favourite newsletters into [Newsletry](https://newsletry.
 -   [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) <--- subscribe to weekly/daily sets of trending repositories from different languages
 -   [Hacker Newsletter](https://hackernewsletter.com/) <--- weekly newsletter of best posts from Hacker News
 -   [Highbrow](https://gohighbrow.com/) <--- choose a topic to learn and receive a daily message
--   [Inside](https://inside.com/) <--- daily newsletters on different topics. For example, check out [Inside AI](https://inside.com/ai) and its [recent issues](https://inside.com/lists/ai/recent_issues) at any time
+-   [Inside](https://inside.com/) <--- daily newsletters on different topics. For example, check out [Inside AI](https://inside.com/ai)
 -   [James Clear](https://jamesclear.com/newsletter) <--- apply better habits in your life (from the author of Atomic Habits)
 -   [learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnbyexample-weekly) <--- CLI, Python, Regular Expressions, Vim, etc.
 -   [Machine Learning Ops Roundup](https://mlopsroundup.substack.com/) <--- bringing together the best articles, news and papers about MLOps
@@ -1098,29 +1098,29 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 
 #### algorithm visualizer
 
-- [Algorithm Visualiser](https://algorithm-visualizer.org/) <--- interactive online platform to visualise algorithms from code
-- [Pandas Data Tutor](https://pandastutor.com/) <--- write Python pandas code in your browser and see how it transforms your data step-by-step
-- [Python Tutor](https://pythontutor.com/) <--- visualise Python algorithms, step by step
-- [Tidy Data Tutor](https://tidydatatutor.com/) <--- write R and Tidyverse code in your browser and see how your data frame changes at each step
+-   [Algorithm Visualiser](https://algorithm-visualizer.org/) <--- interactive online platform to visualise algorithms from code
+-   [Pandas Data Tutor](https://pandastutor.com/) <--- write Python pandas code in your browser and see how it transforms your data step-by-step
+-   [Python Tutor](https://pythontutor.com/) <--- visualise Python algorithms, step by step
+-   [Tidy Data Tutor](https://tidydatatutor.com/) <--- write R and Tidyverse code in your browser and see how your data frame changes at each step
 
 #### dev/mlops
 
-- [contains.dev](https://contains.dev/) <--- explore Docker image files, layers and dependencies
-- [curlconverter](https://github.com/curlconverter/curlconverter) <--- generate code from cURL commands
-- [Hoppscotch](https://hoppscotch.io/) <--- open-source API dev ecosystem
+-   [contains.dev](https://contains.dev/) <--- explore Docker image files, layers and dependencies
+-   [curlconverter](https://github.com/curlconverter/curlconverter) <--- generate code from cURL commands
+-   [Hoppscotch](https://hoppscotch.io/) <--- open-source API dev ecosystem
 
 #### online IDE
 
-- [Coding Ground](https://www.tutorialspoint.com/codingground.htm) <--- set of online IDE and compilers
-- [OnlineGDB](https://www.onlinegdb.com/) <--- online compiler and debugger
-- [Repl.it](https://replit.com/) <--- collaborative, in-browser IDE to code in 50+ languages
-- [vscode.dev](https://vscode.dev/) <--- VS Code for the web
+-   [Coding Ground](https://www.tutorialspoint.com/codingground.htm) <--- set of online IDE and compilers
+-   [OnlineGDB](https://www.onlinegdb.com/) <--- online compiler and debugger
+-   [Repl.it](https://replit.com/) <--- collaborative, in-browser IDE to code in 50+ languages
+-   [vscode.dev](https://vscode.dev/) <--- VS Code for the web
 
 #### SQL
 
-- [MySQL Syntax Check](https://www.piliapp.com/mysql-syntax-check/) <--- online SQL Query Checker
-- [SQLite Online](https://sqliteonline.com/) <--- SQL Online IDE
-- [SQLite Playground](https://sqlime.org/) <--- run SQL query to see the results
+-   [MySQL Syntax Check](https://www.piliapp.com/mysql-syntax-check/) <--- online SQL Query Checker
+-   [SQLite Online](https://sqliteonline.com/) <--- SQL Online IDE
+-   [SQLite Playground](https://sqlime.org/) <--- run SQL query to see the results
 
 #### web dev
 
@@ -1179,15 +1179,28 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 
 ## Travel
 
+-   [Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth#120) <--- what did Earth look like X million years ago?
 -   [Champion Traveler](https://championtraveler.com/best-time-to-travel/) <--- find the best time to travel based on the weather
+-   [Cell Tower Distribution](https://alpercinar.com/open-cell-id/) <--- world's largest open database of cell towers
+-   [city roads](https://anvaka.github.io/city-roads/) <--- render every single road within a city
 -   [Country Comparison](https://www.hofstede-insights.com/country-comparison/) <--- across 6 different business factors, by Hofstede Insights
+-   [Dollar Street](https://www.gapminder.org/dollar-street) <--- photos as data to kill country stereotypes
+-   [Expatistan](https://www.expatistan.com/cost-of-living) <--- compare cost of living between cities
+-   [If It Were My Home](http://www.ifitweremyhome.com/compare/listing/PL) <--- compare countries
 -   [My Life Elsewhere](http://www.mylifeelsewhere.com/) <--- quality of life comparison
 -   [Nomad List](https://nomadlist.com/) <--- filter the best cities to live
 -   [Numbeo](https://www.numbeo.com/cost-of-living/comparison.jsp) <--- cost of living comparison
+-   [See a satellite tonight](https://james.darpinian.com/satellites/) <--- search for a satellite on your sky
+-   [ShadeMap](https://shademap.app/) <--- simulate sun shadows for any time and place on Earth
+-   [Shadow Calculator](http://shadowcalculator.eu) <--- sun shadow on Google Maps
+-   [Submarine Cables](https://globe.gl/example/submarine-cables/) <--- map of submarine cables
+-   [Surname Maps in Europe](https://www.surnamemap.eu/) <--- surname maps generator of main european countries
 -   [The Best Time to Travel Anywhere](https://championtraveler.com/best-time-to-travel/) <--- comparison of weather, number of tourists etc.
 -   [The True Size Of ...](https://thetruesize.com/) <--- select a country, drag it around the world map to compare its size
+-   [Weather Spark](https://weatherspark.com/) <--- climate reports with the weather by month, day, even hour
 -   [What to Eat in](https://what.toeat.in/) <--- list of things to eat in selected countries
 -   [Wikivoyage](https://en.wikivoyage.org/wiki/Main_Page) <--- worldwide travel guide
+-   [World's Air Pollution](https://waqi.info/) <--- real-time air quality index
 
 **[⬆ Back to Contents](#contents)**
 
