@@ -1091,20 +1091,59 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
     -   [RStudio](https://rstudio.com/) <--- R IDE
 -   [Google Colab](https://colab.research.google.com/) <--- alternative to Jupyter Notebook. Run your code entirely in the browser and improve the model learning time by leveraging Google's GPU/TPU
 -   [PyCharm](https://www.jetbrains.com/pycharm/) <--- more robust Python IDE
--   [Repl.it](https://repl.it/) <--- world's leading online coding platform
 -   [Sublime Text](https://www.sublimetext.com/) <--- the most optimised text editor with a package control
 -   [Visual Studio Code](https://code.visualstudio.com/) <--- highly extensible IDE from Microsoft (explained thoroughly in [My VS Code Playground](https://pawelcislo.com/2021/11/14/my-vs-code-playground/) blog post)
 
 ### online tools
 
+#### algorithm visualizer
+
+- [Algorithm Visualiser](https://algorithm-visualizer.org/) <--- interactive online platform to visualise algorithms from code
+- [Pandas Data Tutor](https://pandastutor.com/) <--- write Python pandas code in your browser and see how it transforms your data step-by-step
+- [Python Tutor](https://pythontutor.com/) <--- visualise Python algorithms, step by step
+- [Tidy Data Tutor](https://tidydatatutor.com/) <--- write R and Tidyverse code in your browser and see how your data frame changes at each step
+
+#### dev/mlops
+
+- [contains.dev](https://contains.dev/) <--- explore Docker image files, layers and dependencies
+- [curlconverter](https://github.com/curlconverter/curlconverter) <--- generate code from cURL commands
+- [Hoppscotch](https://hoppscotch.io/) <--- open-source API dev ecosystem
+
+#### online IDE
+
+- [Coding Ground](https://www.tutorialspoint.com/codingground.htm) <--- set of online IDE and compilers
+- [OnlineGDB](https://www.onlinegdb.com/) <--- online compiler and debugger
+- [Repl.it](https://replit.com/) <--- collaborative, in-browser IDE to code in 50+ languages
+- [vscode.dev](https://vscode.dev/) <--- VS Code for the web
+
+#### SQL
+
+- [MySQL Syntax Check](https://www.piliapp.com/mysql-syntax-check/) <--- online SQL Query Checker
+- [SQLite Online](https://sqliteonline.com/) <--- SQL Online IDE
+- [SQLite Playground](https://sqlime.org/) <--- run SQL query to see the results
+
+#### web dev
+
+-   [Animatize](https://animatize.com/) <--- Drag a character with your mouse to create an animation
+-   [Can I use ...](https://caniuse.com/) <--- up-to-date browser support tables for support of front-end web technologies
+-   [CSS Stats](https://cssstats.com/) <--- analytics and visualizations for your stylesheets
+-   [Dead link checker](https://www.deadlinkchecker.com/) <--- broken link checker
+-   [ExtendsClass](https://extendsclass.com/) <--- toolbox for web designers and webmasters
+-   [favicon.cc](https://www.favicon.cc/) <--- favicon.ico generator
+-   [GTmetrix](https://gtmetrix.com/) <--- website performance checker
+-   [Layoutit Grid](https://grid.layoutit.com/) <--- quickly draw down web pages layouts with our clean editor, and get HTML and CSS code
+-   [Nu HTML checker](https://validator.w3.org/nu/#textarea) <--- validate HTML
+-   [Tiny Helpers](https://tiny-helpers.dev/) <--- collection of free single-purpose online tools for web developers
+-   [Transform tools](https://transform.tools/) <--- polyglot web converter
+
+#### extra
+
 -   [Airtable](https://airtable.com/) <--- partly spreadsheet, partly database. Can replace WordPress for non-technical users, who can also manage multiple domains using this tool
--   [Algorithm Visualiser](https://algorithm-visualizer.org/) <--- interactive online platform to visualise algorithms from code
 -   [Bubble](https://bubble.is/) <--- visual programming (no coding required)
 -   [Coda](https://coda.io/) <--- build docs as powerful as an app (no coding recuired)
--   [ExtendsClass](https://extendsclass.com/) <--- toolbox for web designers and webmasters
+-   [DevDocs](https://devdocs.io/) <--- API documentation browser
 -   [free-for.dev](https://free-for.dev/) <--- list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
 -   [json.pizza](https://json.pizza/) <--- beautify your JSON code
--   [Python Tutor](http://pythontutor.com/) <--- visualise Python algorithms, step by step
 -   [regex101](https://regex101.com/) <--- online regex tester and debugger
 -   [StackEdit](https://stackedit.io/) <--- visual Markdown editor
 
