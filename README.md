@@ -1041,7 +1041,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Effective Engineer Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) <--- quick read on how to be effective and get things done
 -   [Feedly](https://feedly.com) <--- news aggregator. Save time by browsing what matters
 -   [Focusmate](https://www.focusmate.com/) <--- let others watch you while you work
--   [Focus Sounds](https://github.com/pyxelr/recommendations-for-engineers#listen) <--- navigate to the "Music" section of this list
+-   [Focus Sounds](https://github.com/pyxelr/recommendations-for-engineers#listen) <--- navigate to the [Music section](https://github.com/pyxelr/recommendations-for-engineers#listen) of this list
 -   [Integromat](https://www.integromat.com/en/) <--- automate various tasks (more advanced than [IFTT](https://ifttt.com/) and 2.5x cheaper than [Zapier](https://zapier.com/))
 -   [Intention](https://www.getintention.com/) <--- Chrome extension to stop visiting distractive websites
 -   [Leave Me Alone](https://leavemealone.app/) <--- see all of your subscription emails in one place and unsubscribe from them with a single click
