@@ -1105,7 +1105,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Python Tutor](https://pythontutor.com/) <--- visualise Python algorithms, step by step
 -   [Tidy Data Tutor](https://tidydatatutor.com/) <--- write R and Tidyverse code in your browser and see how your data frame changes at each step
 
-#### dev/mlops
+#### devops/mlops
 
 -   [contains.dev](https://contains.dev/) <--- explore Docker image files, layers and dependencies
 -   [curlconverter](https://github.com/curlconverter/curlconverter) <--- generate code from cURL commands
