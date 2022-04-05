@@ -784,7 +784,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [DropShelf](https://pilotmoon.com/dropshelf/) <--- drag and drop helper app
 -   [HazeOver](https://hazeover.com/) <--- fade out background windows
 -   [Homebrew](https://brew.sh/) <--- package manager for macOS
--   [iTerm2](https://iterm2.com/) <--- better terminal (with  [Dracula PRO](https://draculatheme.com/pro) and [Fira Code](https://www.nerdfonts.com/font-downloads))
+-   [iTerm2](https://iterm2.com/) <--- better terminal (with [Dracula PRO](https://draculatheme.com/pro) and [JetBrains Mono](https://www.nerdfonts.com/font-downloads))
 -   [Itsycal](https://www.mowglii.com/itsycal/) <--- tiny menu bar calendar
 -   [Karabiner-Elements](https://karabiner-elements.pqrs.org/) <--- keyboard customizer
 -   [mas](https://github.com/mas-cli/mas) <--- Mac App Store command line interface
