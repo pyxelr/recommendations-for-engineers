@@ -469,7 +469,7 @@ My private OneNote would be there, but I prefer to share only the most relevant 
 -   [Datasets for machine learning](https://www.datasetlist.com/) <--- huge list (CV/NLP/Audio)
 -   [Datasets for mind reading](https://mindcodec.ai/2018/10/03/datasets-for-mind-reading/) (dataset is still available [here](https://crcns.org/data-sets/vc/vim-1/about-vim-1) with a CRCNS account) <--- fancy, huh?
 -   [FiveThirtyEight](https://data.fivethirtyeight.com/) <--- economics, sports, politics
--   [Goodbooks-10k](http://fastml.com/goodbooks-10k-a-new-dataset-for-book-recommendations/) <--- new dataset for book recommendations
+-   [Goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k) <--- new dataset for book recommendations
 -   [Google BigQuery](https://www.reddit.com/r/bigquery/wiki/datasets) <--- public datasets from Google
 -   [Google Dataset Search](https://datasetsearch.research.google.com/) <--- search engine of datasets from Google
 -   [Grouplens datasets](https://grouplens.org/datasets/movielens/)
@@ -693,6 +693,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 
 ### online courses
 
+-   [A Cloud Guru](https://acloudguru.com/) <--- courses and real hands-on labs in AWS, Azure, Google Cloud, and beyond
 -   [Coursera](https://www.coursera.org/) <--- courses by universities and other professional organizations
 -   [Courseroot](https://courseroot.com/) <--- course search engine
 -   [DataCamp](https://www.datacamp.com/) <--- online courses just for data science
@@ -700,7 +701,6 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [edX](https://www.edx.org/) <--- online university-level courses
 -   [HN Academy](https://yahnd.com/academy/) <--- online courses recommended by the community of Hacker News
 -   [Khan Academy](https://www.khanacademy.org/) <--- free online university
--   [Linux Academy](https://linuxacademy.com/) <--- the #1 rated Learn-by-Doing, multicloud training platform, and the Hands-On Lab pioneers
 -   [O'Reilly learning](https://www.oreilly.com/online-learning/) <--- learning platform with online interactive sandboxes and access to O'Reilly books
 -   [SwitchUp](https://www.switchup.org/) <--- compare/rank bootcamps by subjects
 -   [Udacity](https://www.udacity.com/) <--- high-quality courses for tech topics
@@ -845,7 +845,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [InShot](https://inshot.com/) <--- most advanced video editor 
 -   [lichess](https://play.google.com/store/apps/details?id=org.lichess.mobileapp) <--- best open-source free chess
 -   [Listen Audiobook Player](https://play.google.com/store/apps/details?id=com.acmeandroid.listen) <--- my favourite Audiobook Player
--   [Materialistic -- Hacker News](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic) <--- great looking tech news that I can read for hours
+-   [Materialistic for Hacker News](https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic) ([repository / archived apk file](https://github.com/hidroh/materialistic)) <--- great looking tech news that I can read for hours
 -   [Mathlab Graphing Calculator](https://www.mathlab.us/calc/index.html) <--- scientific, graphing, fraction and matrix calculator in one app
 -   [Network Analyzer](https://techet.net/netanalyzer/) <--- network analysis, scanning and problem detection
 -   [One Calendar](https://www.onecalendar.nl/) <--- manage all your calendars on all your devices
@@ -855,7 +855,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [Pydroid 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) <--- Python 3 IDE for Android
 -   [Screen On](https://play.google.com/store/apps/details?id=de.dieterthiess.keepiton) <--- app and widget to keep the screen on
 -   [Simon Tatham's Puzzles](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles) <--- mobile implementation of the [web-based collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/) of one-player puzzle games
--   [Statinfer](https://play.google.com/store/apps/details?id=com.learn.statinfer1) ([here's an archived apk file](https://apkpure.com/statinfer-%E2%80%93-learn-data-science/com.learn.statinfer1)) <--- quiz app to test your data science skills (ML, DL, tools, interview questions, etc.)
+-   [Statinfer](https://play.google.com/store/apps/details?id=com.learn.statinfer1) ([archived apk file](https://apkpure.com/statinfer-%E2%80%93-learn-data-science/com.learn.statinfer1)) <--- quiz app to test your data science skills (ML, DL, tools, interview questions, etc.)
 -   [SoloLearn](https://www.sololearn.com/) <--- mobile programming university
 -   [Tiny Scanner](https://play.google.com/store/apps/details?id=com.appxy.tinyscanner) <--- PDF scanner app
 -   [Twilight](https://twilight.urbandroid.org/) <--- blue light filter
