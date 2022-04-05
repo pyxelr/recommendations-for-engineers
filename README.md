@@ -733,6 +733,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [termtosvg](https://github.com/nbedos/termtosvg) <--- record terminal sessions as SVG animations
 -   [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) <--- run a Linux distribution or application on Android (without root)
 -   [WebVM](https://webvm.io/) <--- server-less virtual Linux env running client-side in HTML5/WebAssembly
+-   [Wine](https://www.winehq.org/) <--- compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS, & BSD
 -   [xxh](https://github.com/xxh/xxh) <--- bring your favorite shell wherever you go through ssh
 
 ### shell
