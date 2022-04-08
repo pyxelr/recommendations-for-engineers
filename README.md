@@ -1045,10 +1045,10 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Feedly](https://feedly.com) <--- news aggregator. Save time by browsing what matters
 -   [Focusmate](https://www.focusmate.com/) <--- let others watch you while you work
 -   [Focus Sounds](https://github.com/pyxelr/recommendations-for-engineers#listen) <--- navigate to the ["Music" section](https://github.com/pyxelr/recommendations-for-engineers#listen) of this list
--   [Integromat](https://www.integromat.com/en/) <--- automate various tasks (more advanced than [IFTT](https://ifttt.com/) and 2.5x cheaper than [Zapier](https://zapier.com/))
 -   [Intention](https://www.getintention.com/) <--- Chrome extension to stop visiting distractive websites
 -   [Leave Me Alone](https://leavemealone.app/) <--- see all of your subscription emails in one place and unsubscribe from them with a single click
 -   [lofi.cafe](https://lofi.cafe/) <--- online radio to focus and relax
+-   [Make](https://www.make.com/en) <--- automate various tasks (more advanced than [IFTT](https://ifttt.com/) and 2.5x cheaper than [Zapier](https://zapier.com/))
 -   Monochrome mode (grayscale mode) activation on your mobile device <--- attract yourself less to the colourless screen
 -   [Notion](https://www.notion.so/) <--- all-in-one workspace to replace to-do lists and note-taking apps
 -   [Obsidian](https://obsidian.md/) <--- powerful knowledge base (note-taking tool) that works on top of a local folder of plain text Markdown files
