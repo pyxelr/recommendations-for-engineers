@@ -1367,6 +1367,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Charisma on Command](https://www.youtube.com/user/charismaoncommand) <--- master your charisma
 -   [Devstyle](https://www.youtube.com/channel/UCACp5rqV3Ki0SNdXWDBLhRA) (🇵🇱) <--- daily vlog of Polish entrepreneur (past programmer)
 -   [FightMediocrity](https://www.youtube.com/channel/UCXLesGEfmyhxqOjoAqhRwhA) <--- summaries of the most inspiring books
+-   [HealthyGamerGG](https://www.youtube.com/c/HealthyGamerGG/) <--- mental health platform designed to help the internet generation succeed
 -   [MiroBurn](https://www.youtube.com/channel/UCwmFNbGnBeEy9nTt42F4WHw) (🇵🇱) <--- daily vlog of Polish entrepreneur focused on online courses, biohacking, motivating others and establishing new companies
 -   [Wojna Idei](https://www.youtube.com/channel/UC7RswyY8VfbSdikz_8wdp3w) (🇵🇱) <--- psychology, philosophy, sociology and culture
 
