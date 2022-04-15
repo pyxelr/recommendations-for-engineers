@@ -759,6 +759,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [Starship](https://github.com/starship/starship) <--- prompt for any shell ([customize it](https://starship.rs/config/#configuration), e.g. to disable the package module)
 -   [tealdeer](https://github.com/dbrgn/tealdeer) <--- very fast implementation of tldr in Rust
 -   [yq](https://github.com/mikefarah/yq) <--- command-line YAML, JSON and XML processor
+-   [zsh](https://www.zsh.org/) <--- shell designed for interactive use, although it is also a powerful scripting language
 -   [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) <--- fish-like autosuggestions for Zsh
 -   [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) <--- fish shell like syntax highlighting for Zsh
 
