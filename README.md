@@ -780,6 +780,8 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [BetterSnapTool](https://folivora.ai/bettersnaptool) <--- easily manage your window positions
 -   [BetterTouchTool](https://folivora.ai/) <--- customize various input devices
 -   [BetterZip](https://macitbetter.com/) <--- next generation of archiving
+-   [CleanShot X](https://cleanshot.com/) <--- screenshot tool
+    -   [Monosnap](https://monosnap.com/) <--- free alternative
 -   [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) <--- swiss army knife for developers
 -   [DropShelf](https://pilotmoon.com/dropshelf/) <--- drag and drop helper app
 -   [HazeOver](https://hazeover.com/) <--- fade out background windows
@@ -789,7 +791,6 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [Karabiner-Elements](https://karabiner-elements.pqrs.org/) <--- keyboard customizer
 -   [mas](https://github.com/mas-cli/mas) <--- Mac App Store command line interface
 -   [MeetingBar](https://github.com/leits/MeetingBar) <--- menu bar calendar
--   [Monosnap](https://monosnap.com/) <--- screenshot tool
 -   [New File Menu](https://apps.apple.com/us/app/new-file-menu/id1064959555?mt=12) <--- create new files via Finder
 -   [Numi](https://numi.app/) <--- beautiful calculator
 -   [Sound Control](https://staticz.com/soundcontrol/) <--- advanced audio controls
