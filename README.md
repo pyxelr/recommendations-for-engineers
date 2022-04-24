@@ -1219,7 +1219,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [AutoHotkey](https://www.autohotkey.com/) <--- ultimate automation scripting language for Windows ([here](https://github.com/pyxelr/my-autohotkey-scripts) is a collection of my scripts)
 -   [Calibre](https://calibre-ebook.com/) <--- e-book manager
 -   [Chocolatey](https://chocolatey.org/) <--- package manager
--   [cmder](https://cmder.net/) <--- improved windows terminal
+-   [clink](https://github.com/chrisant996/clink) <--- Bash's powerful command line editing in cmd.exe
 -   [Deskreen](https://deskreen.com/) <--- turn any device into a secondary screen for your computer
 -   [DevToys](https://devtoys.app/) <--- Swiss Army knife for developers
 -   [Directory Opus](https://www.gpsoft.com.au/) <--- ultimate file manager (worth paying for)
@@ -1237,7 +1237,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Mp3tag](https://www.mp3tag.de/en/) <--- mp3 tag editor
 -   [Ninite](https://ninite.com/) <--- install and update all your programs at once
 -   [NirSoft - freeware utilities](https://www.nirsoft.net/utils/index.html) <--- freeware tools and system utilities 
--   [Oh My Posh](https://ohmyposh.dev/) <--- prompt theme engine for any shell
+-   [Oh My Posh](https://ohmyposh.dev/) <--- prompt theme engine for any shell. Alternatively, use [Starship](https://github.com/starship/starship)
 -   [Patch My PC](https://patchmypc.com/home-updater) <--- free tool for detecting and automatically updating software (more automated than [SUMo](https://www.kcsoftwares.com/?sumo), but less powerful)
 -   [PDF-XChange Editor](https://www.tracker-software.com/product/pdf-xchange-editor) <--- most feature-rich PDF viewer/editor
 -   [PortableApps.com](https://portableapps.com/) <--- full-featured portable software system
