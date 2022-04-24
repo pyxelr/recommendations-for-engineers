@@ -1219,7 +1219,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [AutoHotkey](https://www.autohotkey.com/) <--- ultimate automation scripting language for Windows ([here](https://github.com/pyxelr/my-autohotkey-scripts) is a collection of my scripts)
 -   [Calibre](https://calibre-ebook.com/) <--- e-book manager
 -   [Chocolatey](https://chocolatey.org/) <--- package manager
--   [ConEmu](https://conemu.github.io/) <--- improved windows terminal
+-   [cmder](https://cmder.net/) <--- improved windows terminal
 -   [Deskreen](https://deskreen.com/) <--- turn any device into a secondary screen for your computer
 -   [DevToys](https://devtoys.app/) <--- Swiss Army knife for developers
 -   [Directory Opus](https://www.gpsoft.com.au/) <--- ultimate file manager (worth paying for)
