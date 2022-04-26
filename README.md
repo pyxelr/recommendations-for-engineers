@@ -750,6 +750,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [htop](https://github.com/htop-dev/htop/) <--- interactive process viewer
 -   [jq](https://github.com/stedolan/jq) <--- CLI JSON processor
 -   [Modern Unix](https://github.com/ibraheemdev/modern-unix) <--- collection of modern/faster/saner alternatives to common unix commands
+    -   [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/) <--- by Julia Evans
 -   [Neofetch](https://github.com/dylanaraps/neofetch) <--- CLI tool to display information about your OS in an aesthetic way
 -   [nushell](https://github.com/nushell/nushell) <--- new type of shell
 -   [Oh My Zsh](https://ohmyz.sh/) <--- framework for managing your Zsh configuration
