@@ -330,31 +330,37 @@ Mostly universal (language-independent books).
 ## Browser Extensions
 
 -   [30 seconds of knowledge](https://30secondsofknowledge.com/) <--- random code snippet every time you open a new tab
+-   [Automa](https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/) <--- automate browser by connecting blocks
 -   [ColorZilla](https://www.colorzilla.com/chrome/) <--- advanced eyedropper
 -   [Dark Reader](https://darkreader.org/) <--- dark mode for all the websites
 -   [Decentraleyes](https://decentraleyes.org/) <--- protect yourself against tracking through "free", centralised, content delivery
 -   [Disconnect](https://disconnect.me/) <--- visualize and block the invisible websites that track you
 -   [EditThisCookie](http://www.editthiscookie.com/) <--- cookie editor
 -   [Email Finder - GetProspect](https://getprospect.io/) <--- find business email address in one click
--   [F.B. Purity](https://www.fbpurity.com/) <--- customise (clean) your Facebook
+-   [F.B.(FluffBusting)Purity](https://www.fbpurity.com/) <--- customise (clean) your Facebook
 -   [Git History Browser Extension](https://github.com/LuisReinoso/git-history-browser-extension) <--- add "Open in Git History" button to GitHub repos
+-   [GitHub Repository Size](https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci) <--- add repository size to GitHub's repository summary
 -   [Github Web IDE](https://github.com/zvizvi/Github-Web-IDE) <--- add a new drop down menu to any Github repository to browse the source code in a number of online IDEs
 -   [Grammarly](https://app.grammarly.com/) <--- very extensive tool to proofread English grammar
 -   [HTTPS Everywhere](https://www.eff.org/https-everywhere) <--- force HTTPS if possible
--   [Hypothesis](https://web.hypothes.is/) <--- open-source tool to highlight/annotate the text you read online and in the scientific papers. It's a great way to organize your research, as well as hold discussions about your annotations with other users [like me](https://hypothes.is/users/pyxelr)
+-   [Hypothesis - Web & PDF Annotation](https://web.hypothes.is/) <--- open-source tool to highlight/annotate the text you read online and in the scientific papers. It's a great way to organize your research, as well as hold discussions about your annotations with other users [like me](https://hypothes.is/users/pyxelr)
 -   [Language Learning with Netflix](https://languagelearningwithnetflix.com/) <--- display subtitles in both languages while watching Netflix
 -   [LanguageTool](https://languagetool.org/) <--- check your writing in more than 20 languages (great alternative to Grammarly)
+-   [Modern for Wikipedia](https://chrome.google.com/webstore/detail/modern-for-wikipedia/emdkdnnopdnajipoapepbeeiemahbjcn) <--- redesigned user interface for Wikipedia
 -   [Nimbus Capture](https://nimbusweb.me/screenshot.php) <--- advanced screenshot tool for Google Chrome
 -   [OneTab](https://www.one-tab.com/) <--- save up to 95% memory by moving all open tabs into a single one in Google Chrome
 -   [Power Thesaurus](https://chrome.google.com/webstore/detail/power-thesaurus/hhnjkanigjoiglnlopahbbjdbfhkndjk) <--- find synonyms and antonyms to improve your writing
 -   [Privacy Badger](https://www.eff.org/privacybadger) <--- block invisible trackers
 -   [Reedy](https://reedy.azagroup.ru/) <--- speed reading with RSVP (Rapid Serial Visual Presentation) technique
 -   [Refined Twitter](https://github.com/sindresorhus/refined-twitter) <--- simplify Twitter UI and add useful features
+-   [Return YouTube Dislike](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi) <--- return ability to see dislikes
 -   [Session Buddy](https://sessionbuddy.com/) <--- manage browser sessions
 -   [Sourcegraph](https://docs.sourcegraph.com/integration/browser_extension) <--- add code intelligence to GitHub and other code hosts
 -   [Stylus](https://add0n.com/stylus.html) <--- user-style manager
+-   [Tab Resize - split screen layouts](https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc) <--- resize the current tab and tabs to the right into layouts on separate windows
 -   [Tampermonkey](https://www.tampermonkey.net/) <--- the most popular userscript manager
 -   [uBlock Origin](https://github.com/gorhill/uBlock#installation) <--- blocker addon (not only for ads)
+-   [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf) <--- point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.
 -   [Unhook - Remove YouTube Recommended Videos](https://chrome.google.com/webstore/detail/remove-youtube-recommende/khncfooichmfjbepaaaebmommgaepoid) <--- hide YouTube related videos, comments, video suggestions wall, homepage recommendations, trending tab, and other distractions
 -   [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) <--- FireBug for designers - edit any webpage, in any state
 -   [Wappalyzer](https://www.wappalyzer.com/) <--- identify technology on websites
