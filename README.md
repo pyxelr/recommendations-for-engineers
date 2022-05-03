@@ -744,6 +744,8 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 
 ### shell
 
+Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.) in the [my-terminal](https://github.com/pyxelr/my-terminal) repository.
+
 -   [bat](https://github.com/sharkdp/bat) <--- cat(1) clone with wings
 -   [broot](https://github.com/Canop/broot) <--- new way to see and navigate directory trees
 -   [CommandLineFu](https://www.commandlinefu.com/commands/browse)<--- share & browse Linux CLI one-liners
@@ -770,13 +772,6 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) <--- fish-like autosuggestions for Zsh
 -   [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) <--- fish shell like syntax highlighting for Zsh
 
-#### shell aliases
-
-- `alias h="history | grep"` <--- search shell command history using grep
-- `alias lisl="exa -hla --icons"` <--- better `ls` with [exa](https://github.com/ogham/exa)
-- `alias list="exa -hlas time --icons"` <--- better `ls` with [exa](https://github.com/ogham/exa) (ordered by time)
-- `alias tree="br -c :pt"` <--- better `tree` with [broot](https://github.com/Canop/broot)
-
 **[⬆ Back to Contents](#contents)**
 
 ## 🍎 macOS
@@ -795,7 +790,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [DropShelf](https://pilotmoon.com/dropshelf/) <--- drag and drop helper app
 -   [HazeOver](https://hazeover.com/) <--- fade out background windows
 -   [Homebrew](https://brew.sh/) <--- package manager for macOS
--   [iTerm2](https://iterm2.com/) <--- better terminal (with [Dracula PRO](https://draculatheme.com/pro) and [JetBrains Mono](https://www.nerdfonts.com/font-downloads))
+-   [iTerm2](https://iterm2.com/) <--- better terminal (you can find my settings [here](https://github.com/pyxelr/my-terminal))
 -   [Itsycal](https://www.mowglii.com/itsycal/) <--- tiny menu bar calendar
 -   [Karabiner-Elements](https://karabiner-elements.pqrs.org/) <--- keyboard customizer
 -   [mas](https://github.com/mas-cli/mas) <--- Mac App Store command line interface
@@ -1260,7 +1255,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [SUMo](https://www.kcsoftwares.com/?sumo) <--- tool for detecting software updates (less automated than [Patch My PC](https://patchmypc.com/home-updater), but more powerful)
 -   [Sysinternals Utilities Index](https://docs.microsoft.com/en-us/sysinternals/downloads/) <--- utilities to manage, diagnose, troubleshoot, and monitor a Microsoft Windows environment
 -   [TaskbarX](https://chrisandriessen.nl/taskbarx) <--- center Windows taskbar icons with a variety of animations and options
--   [Windows Terminal](https://github.com/microsoft/terminal) <--- modern, fast, efficient, powerful, and productive terminal application
+-   [Windows Terminal](https://github.com/microsoft/terminal) <--- modern terminal application (you can find my settings [here](https://github.com/pyxelr/my-terminal))
 -   [WinMerge](https://winmerge.org/) <--- open-source diff checker (required e.g. by Ditto)
 -   [WinSCP](https://winscp.net/eng/index.php) <--- popular SFTP client and FTP client for Microsoft Windows
 -   [WSLg](https://github.com/microsoft/wslg) <--- open GUI software through WSL
