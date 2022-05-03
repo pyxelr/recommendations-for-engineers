@@ -8,33 +8,33 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * * * * *
 
 ## Contents
-- 🌐 [Blogs](#blogs)
-- 📚 [Books](#books)
-- 💾 [Browser Extensions](#browser-extensions)
-- 💼 [Business](#business-2)
-- 👾 [Cybersecurity](#cybersecurity-2)
-- 📊 [Data Science](#data-science-2)
-- 🎨 [Design](#design)
-- 📆 [Events](#events)
-- 📰 [IT News](#it-news)
-- 🧠 [Learning](#learning)
-- 🐧 [Linux](#linux)
-- 🍎 [macOS](#macos)
-- ➗ [Math](#math-2)
-- 📱 [Mobile Apps](#mobile-apps)
-- 🎶 [Music](#music)
-- 📧 [Newsletters](#newsletters)
-- 🎧 [Podcasts](#podcasts)
-- ⏲ [Productivity](#productivity)
-- 👨‍💻 [Programming](#programming-3)
-- 🛫 [Travel](#travel)
-- 🖥 [Windows](#windows)
-- ✍ [Writing/Research](#writing_research)
-- 📼 [YouTube Channels](#youtube-channels)
-- 🤷‍ [Other](#other)
+- 🌐 [Blogs](#-blogs)
+- 📚 [Books](#-books)
+- 💾 [Browser Extensions](#-browser-extensions)
+- 💼 [Business](#-business)
+- 👾 [Cybersecurity](#-cybersecurity)
+- 📊 [Data Science](#-data-science)
+- 🎨 [Design](#-design)
+- 📆 [Events](#-events)
+- 📰 [IT News](#-it-news)
+- 🧠 [Learning](#-learning)
+- 🐧 [Linux](#-linux)
+- 🍎 [macOS](#-macos)
+- ➗ [Math](#-math)
+- 📱 [Mobile Apps](#-mobile-apps)
+- 🎶 [Music](#-music)
+- 📧 [Newsletters](#-newsletters)
+- 🎧 [Podcasts](#-podcasts)
+- ⏲ [Productivity](#-productivity)
+- 👨‍💻 [Programming](#-programming)
+- 🛫 [Travel](#-travel)
+- 🖥 [Windows](#-windows)
+- ✍ [Writing/Research](#-writing_research)
+- 📼 [YouTube Channels](#-youtube-channels)
+- 🤷‍ [Other](#-other)
 * * * * *
 
-## Blogs
+## 🌐 Blogs
 
 It's best to collect all your favourite sites into a news aggregator like [Feedly](https://feedly.com/).  
 You can also discover more tech blogs with [Blogging for Devs](https://bloggingfordevs.com/trends/).
@@ -133,7 +133,7 @@ You can also discover more tech blogs with [Blogging for Devs](https://bloggingf
 
 **[⬆ Back to Contents](#contents)**
 
-## Books
+## 📚 Books
 For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/list/57442889).
 
 ### biographies
@@ -327,7 +327,7 @@ Mostly universal (language-independent books).
 
 **[⬆ Back to Contents](#contents)**
 
-## Browser Extensions
+## 💾 Browser Extensions
 
 -   [30 seconds of knowledge](https://30secondsofknowledge.com/) <--- random code snippet every time you open a new tab
 -   [Automa](https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/) <--- automate browser by connecting blocks
@@ -368,7 +368,7 @@ Mostly universal (language-independent books).
 
 **[⬆ Back to Contents](#contents)**
 
-## Business
+## 💼 Business
 
 ### remote collaboration
 
@@ -401,7 +401,7 @@ Mostly universal (language-independent books).
 
 **[⬆ Back to Contents](#contents)**
 
-## Cybersecurity
+## 👾 Cybersecurity
 
 ### learn
 
@@ -445,7 +445,7 @@ Mostly universal (language-independent books).
 
 **[⬆ Back to Contents](#contents)**
 
-## Data Science
+## 📊 Data Science
 
 [Subscribe to my newsletter](http://eepurl.com/dDqG-z) to find out even more inspiring stuff to help you with your analytics!
 
@@ -593,7 +593,7 @@ As there are many, I highly encourage you to check my custom feeds:
 
 **[⬆ Back to Contents](#contents)**
 
-## Design
+## 🎨 Design
 
 -   [Can't Unsee](https://cantunsee.space/) <--- check your graphical sense
 -   [Everypixel](https://www.everypixel.com/) <--- find free or paid stock images
@@ -640,7 +640,7 @@ As there are many, I highly encourage you to check my custom feeds:
 
 **[⬆ Back to Contents](#contents)**
 
-## Events
+## 📆 Events
 
 -   [Eventbrite](https://www.eventbrite.com/) <--- social network for events
 -   [Eventil](https://eventil.com/) <--- events for tech people
@@ -650,7 +650,7 @@ As there are many, I highly encourage you to check my custom feeds:
 
 **[⬆ Back to Contents](#contents)**
 
-## IT News
+## 📰 IT News
 
 All the mentioned sites are mostly free of clickbait and offer the triumph of form over content.
 
@@ -663,7 +663,7 @@ All the mentioned sites are mostly free of clickbait and offer the triumph of fo
 
 **[⬆ Back to Contents](#contents)**
 
-## Learning
+## 🧠 Learning
 
 -   [Brilliant](https://brilliant.org/) <--- replace lecture videos with hands-on, interactive problem solving
 -   [Hypothesis](https://web.hypothes.is/) <--- open-source tool to highlight/annotate the text you read online and in the scientific papers. It's a great way to organize your research, as well as hold discussions about your annotations with other users [like me](https://hypothes.is/users/pyxelr)
@@ -730,7 +730,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 
 **[⬆ Back to Contents](#contents)**
 
-## Linux
+## 🐧 Linux
 
 -   [Cassowary](https://github.com/casualsnek/cassowary) <--- run Windows applications on Linux as if they are native
 -   [DistroTest](https://distrotest.net/index.php) <--- try running any Linux distro in the cloud VM
@@ -779,7 +779,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 
 **[⬆ Back to Contents](#contents)**
 
-## macOS
+## 🍎 macOS
 
 -   [AirBuddy](https://v2.airbuddy.app/) <--- control wireless devices
 -   [Alfred](https://www.alfredapp.com/) <--- extendable launcher
@@ -808,7 +808,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 
 **[⬆ Back to Contents](#contents)**
 
-## Math
+## ➗ Math
 
 ### learn
 
@@ -834,7 +834,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 
 **[⬆ Back to Contents](#contents)**
 
-## Mobile Apps
+## 📱 Mobile Apps
 
 -   [AdGuard](https://adguard.com/en/products.html) <--- get rid of intrusive ads and online tracking
 -   [Algorithms: Explained and Animated](https://play.google.com/store/apps/details?id=wiki.algorithm.algorithms) <--- great representation of various algorithms
@@ -874,7 +874,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 
 **[⬆ Back to Contents](#contents)**
 
-## Music
+## 🎶 Music
 
 ### DAW
 
@@ -942,7 +942,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 
 **[⬆ Back to Contents](#contents)**
 
-## Newsletters
+## 📧 Newsletters
 
 Try gathering all your favourite newsletters into [Newsletry](https://newsletry.com/) (Feedly for newsletters).
 
@@ -967,7 +967,7 @@ Try gathering all your favourite newsletters into [Newsletry](https://newsletry.
 
 **[⬆ Back to Contents](#contents)**
 
-## Podcasts
+## 🎧 Podcasts
 
 I recommend listening to all podcasts through [Pocket Casts web/mobile app](https://www.pocketcasts.com/).
 
@@ -1046,7 +1046,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 
 **[⬆ Back to Contents](#contents)**
 
-## Productivity
+## ⏲ Productivity
 
 -   [ActivityWatch](https://github.com/ActivityWatch/activitywatch) <--- open-source time tracker (alternative to RescueTime)
 -   [Box Breathing Exercise](https://breathe.vividwell.com/) <--- take a break, breathe and calm down
@@ -1076,7 +1076,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 
 **[⬆ Back to Contents](#contents)**
 
-## Programming
+## 👨‍💻 Programming
 
 ### coding challenges
 
@@ -1190,7 +1190,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 
 **[⬆ Back to Contents](#contents)**
 
-## Travel
+## 🛫 Travel
 
 -   [Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth#120) <--- what did Earth look like X million years ago?
 -   [Champion Traveler](https://championtraveler.com/best-time-to-travel/) <--- find the best time to travel based on the weather
@@ -1217,7 +1217,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 
 **[⬆ Back to Contents](#contents)**
 
-## Windows
+## 🖥 Windows
 
 -   [7-Zip](https://www.7-zip.org/) <--- file archiver with a high compression ratio
 -   [Action!](https://mirillis.com/en/products/action.html) <--- screen recorder
@@ -1267,7 +1267,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 
 **[⬆ Back to Contents](#contents)**
 
-## Writing_Research
+## ✍ Writing_Research
 
 -   [After the Deadline](https://www.polishmywriting.com/) <--- free spell checker
 -   [Diffchecker](https://www.diffchecker.com/) <--- compare differences in text, images, PDFs and more
@@ -1300,7 +1300,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 
 **[⬆ Back to Contents](#contents)**
 
-## YouTube Channels
+## 📼 YouTube Channels
 
 ### cybersecurity
 
@@ -1455,7 +1455,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 
 **[⬆ Back to Contents](#contents)**
 
-## Other
+## 🤷‍ Other
 
 -   [Ancient Earth globe](https://dinosaurpictures.org/ancient-earth) <--- check how Earth looked like x years ago
 -   [Awesome](https://github.com/sindresorhus/awesome) <--- GitHub repository with lists on all kinds of interesting topics
