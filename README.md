@@ -862,6 +862,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 -   [Simon Tatham's Puzzles](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles) <--- mobile implementation of the [web-based collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/) of one-player puzzle games
 -   [Statinfer](https://play.google.com/store/apps/details?id=com.learn.statinfer1) ([archived apk file](https://apkpure.com/statinfer-%E2%80%93-learn-data-science/com.learn.statinfer1)) <--- quiz app to test your data science skills (ML, DL, tools, interview questions, etc.)
 -   [SoloLearn](https://www.sololearn.com/) <--- mobile programming university
+-   [Termux](https://termux.com/) <--- Android terminal emulator and Linux environment app
 -   [Tiny Scanner](https://play.google.com/store/apps/details?id=com.appxy.tinyscanner) <--- PDF scanner app
 -   [Twilight](https://twilight.urbandroid.org/) <--- blue light filter
 -   [Universe in a Nutshell](https://shop-eu.kurzgesagt.org/products/universe-in-a-nutshell-app) <--- Wait but Why and Kurzgesagt version of the online [Scale of the Universe 2](https://htwins.net/scale2/)
