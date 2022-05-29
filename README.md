@@ -344,6 +344,7 @@ Mostly universal (language-independent books).
 -   [Grammarly](https://app.grammarly.com/) <--- very extensive tool to proofread English grammar
 -   [HTTPS Everywhere](https://www.eff.org/https-everywhere) <--- force HTTPS if possible
 -   [Hypothesis - Web & PDF Annotation](https://web.hypothes.is/) <--- open-source tool to highlight/annotate the text you read online and in the scientific papers. It's a great way to organize your research, as well as hold discussions about your annotations with other users [like me](https://hypothes.is/users/pyxelr)
+-   [Image Search Options](https://chrome.google.com/webstore/detail/image-search-options/kljmejbpilkadikecejccebmccagifhl/) <--- set of highly customizable reverse image search context menu options
 -   [Language Learning with Netflix](https://languagelearningwithnetflix.com/) <--- display subtitles in both languages while watching Netflix
 -   [LanguageTool](https://languagetool.org/) <--- check your writing in more than 20 languages (great alternative to Grammarly)
 -   [Modern for Wikipedia](https://chrome.google.com/webstore/detail/modern-for-wikipedia/emdkdnnopdnajipoapepbeeiemahbjcn) <--- redesigned user interface for Wikipedia
