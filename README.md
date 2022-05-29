@@ -757,7 +757,6 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 -   [fzf](https://github.com/junegunn/fzf) <--- CLI fuzzy finder
 -   [howdoi](https://github.com/san-kumar/howdoi) <--- get quick answers to common linux related questions, right inside your terminal by typing `"howdoi [your question]"`
 -   [htop](https://github.com/htop-dev/htop/) <--- interactive process viewer
--   [jq](https://github.com/stedolan/jq) <--- CLI JSON processor
 -   [Modern Unix](https://github.com/ibraheemdev/modern-unix) <--- collection of modern/faster/saner alternatives to common unix commands
     -   [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/) <--- by Julia Evans
 -   [Neofetch](https://github.com/dylanaraps/neofetch) <--- CLI tool to display information about your OS in an aesthetic way
@@ -768,10 +767,20 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 -   [ShellCheck](https://www.shellcheck.net/) <--- find bugs in your shell scripts
 -   [Starship](https://github.com/starship/starship) <--- prompt for any shell ([customize it](https://starship.rs/config/#configuration), e.g. to disable the package module)
 -   [tealdeer](https://github.com/dbrgn/tealdeer) <--- very fast implementation of tldr in Rust
--   [yq](https://github.com/mikefarah/yq) <--- command-line YAML, JSON and XML processor
 -   [zsh](https://www.zsh.org/) <--- shell designed for interactive use, although it is also a powerful scripting language
 -   [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) <--- fish-like autosuggestions for Zsh
 -   [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) <--- fish shell like syntax highlighting for Zsh
+
+#### devops/mlops
+
+-   [aws-cli](https://formulae.brew.sh/formula/awscli) <--- official Amazon AWS command-line interface
+-   [helm](https://helm.sh/) <--- package manager for Kubernetes
+-   [jq](https://github.com/stedolan/jq) <--- CLI JSON processor
+-   [k9s](https://k9scli.io/) <--- Kubernetes CLI (alternatively, try [Lens](https://k8slens.dev/))
+-   [kubectl](https://kubernetes.io/docs/tasks/tools/) <--- Kubernetes cluster manager
+-   [kustomize](https://kustomize.io/) <--- Kubernetes native configuration management
+-   [sops](https://github.com/mozilla/sops) <--- tool for managing secrets
+-   [yq](https://github.com/mikefarah/yq) <--- command-line YAML, JSON and XML processor
 
 **[⬆ Back to Contents](#contents)**
 
@@ -1093,6 +1102,11 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Project Lovelace](https://projectlovelace.net/) <--- bunch of free scientific programming problems. Each problem teaches some bit of science, like how to simulate a guitar, splice DNA, or predict the weather
 -   [StrataScratch](https://www.stratascratch.com/) <--- over 1000 data science exercises taken from real companies to practice SQL and Python
 
+### devops/mlops
+
+-   [Docker Desktop](https://www.docker.com/products/docker-desktop/) <--- application for building and sharing containerized application
+-   [Postman](https://www.postman.com/) <--- popular API client that makes it easy for developers to create, share, test and document APIs
+
 ### IDE
 
 -   [Anaconda](https://www.anaconda.com/distribution/) <--- most popular Python/R Data Science platform, which lets you install and manage all of the following tools:
@@ -1246,7 +1260,6 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Patch My PC](https://patchmypc.com/home-updater) <--- free tool for detecting and automatically updating software (more automated than [SUMo](https://www.kcsoftwares.com/?sumo), but less powerful)
 -   [PDF-XChange Editor](https://www.tracker-software.com/product/pdf-xchange-editor) <--- most feature-rich PDF viewer/editor
 -   [PortableApps.com](https://portableapps.com/) <--- full-featured portable software system
--   [Postman](https://www.postman.com/) <--- popular API client that makes it easy for developers to create, share, test and document APIs
 -   [Potplayer](https://potplayer.daum.net/) <--- video player
 -   [PowerToys](https://github.com/microsoft/PowerToys) <--- Windows system utilities to maximize productivity
 -   [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)<--- SSH and telnet client
