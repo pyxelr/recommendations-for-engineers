@@ -773,7 +773,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 
 #### devops/mlops
 
--   [aws-cli](https://formulae.brew.sh/formula/awscli) <--- official Amazon AWS command-line interface
+-   [aws-cli](https://github.com/aws/aws-cli) <--- official Amazon AWS command-line interface
 -   [helm](https://helm.sh/) <--- package manager for Kubernetes
 -   [jq](https://github.com/stedolan/jq) <--- CLI JSON processor
 -   [k9s](https://k9scli.io/) <--- Kubernetes CLI (alternatively, try [Lens](https://k8slens.dev/))
