@@ -1274,6 +1274,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [WinMerge](https://winmerge.org/) <--- open-source diff checker (required e.g. by Ditto)
 -   [WinSCP](https://winscp.net/eng/index.php) <--- popular SFTP client and FTP client for Microsoft Windows
 -   [WSLg](https://github.com/microsoft/wslg) <--- open GUI software through WSL
+-   [XnView MP](https://www.xnview.com/en/xnviewmp/) <--- powerful photo viewer, image management, image resizer
 
 **[⬆ Back to Contents](#contents)**
 
