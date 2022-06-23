@@ -965,7 +965,9 @@ Try gathering all your favourite newsletters into [Newsletry](https://newsletry.
 -   [learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnbyexample-weekly) <--- CLI, Python, Regular Expressions, Vim, etc.
 -   [Machine Learning Ops Roundup](https://mlopsroundup.substack.com/) <--- bringing together the best articles, news and papers about MLOps
 -   [Morning Cup of Coding](https://morningcupofcoding.com/) <--- daily programming newsletter featuring long form technical articles of all fields of software engineering
+-   [Papers with Code](https://paperswithcode.com/newsletter) <--- stay informed on the latest trending ML papers with code, research developments, libraries, methods, and datasets
 -   [Podcast Notes](https://podcastnotes.org/) <--- summary of podcasts in few bullet points
+-   [The Batch](https://read.deeplearning.ai/the-batch/) <--- stay updated with weekly AI News and Insights from DeepLearning.AI
 -   [The Data Science Roundup](http://roundup.fishtownanalytics.com/) <--- internet's most useful data science articles
 -   [The Overflow](https://stackoverflow.blog/newsletter/) <--- newsletter by developers, for developers
 -   [unknowNews](https://unknow.news/) (🇵🇱) <--- weekly newsletter. Check its [archive](https://news.mrugalski.pl/) or [search engine](https://www.uw7.org/szukaj/) for the past sendings
