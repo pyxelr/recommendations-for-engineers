@@ -767,6 +767,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 -   [ShellCheck](https://www.shellcheck.net/) <--- find bugs in your shell scripts
 -   [Starship](https://github.com/starship/starship) <--- prompt for any shell ([customize it](https://starship.rs/config/#configuration), e.g. to disable the package module)
 -   [tealdeer](https://github.com/dbrgn/tealdeer) <--- very fast implementation of tldr in Rust
+-   [tree](http://mama.indstate.edu/users/ice/tree/) <--- display directories as trees (with optional color/HTML output)
 -   [zsh](https://www.zsh.org/) <--- shell designed for interactive use, although it is also a powerful scripting language
 -   [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) <--- fish-like autosuggestions for Zsh
 -   [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) <--- fish shell like syntax highlighting for Zsh
