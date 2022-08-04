@@ -452,7 +452,7 @@ Mostly universal (language-independent books).
 
 ### cheatsheets
 
-My private OneNote would be there, but I prefer to share only the most relevant content. **IMPORTANT**: be aware that [many cheatsheets repeat false information](https://www.linkedin.com/posts/adrianolszewski_biostatistics-statistics-rstats-activity-6621020198185111552-jw12), such as classifying logistic regression as a pure classification algorithm.
+My private Notion would be there, but I prefer to share only the most relevant content. **IMPORTANT**: be aware that [many cheatsheets repeat false information](https://www.linkedin.com/posts/adrianolszewski_biostatistics-statistics-rstats-activity-6621020198185111552-jw12), such as classifying logistic regression as a pure classification algorithm.
 
 -   [Chris Albon](https://chrisalbon.com/) <--- comprehensive notes/code snippets on using Data Science & Artificial Intelligence
 -   [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/) <--- best Python cheatsheet I found so far
@@ -1069,9 +1069,9 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [lofi.cafe](https://lofi.cafe/) <--- online radio to focus and relax
 -   [Make](https://www.make.com/en) <--- automate various tasks (more advanced than [IFTT](https://ifttt.com/) and 2.5x cheaper than [Zapier](https://zapier.com/))
 -   Monochrome mode (grayscale mode) activation on your mobile device <--- attract yourself less to the colourless screen
--   [Notion](https://www.notion.so/) <--- all-in-one workspace to replace to-do lists and note-taking apps
+-   [Notion](https://www.notion.so/) <--- my favourite note-taking tool: all-in-one workspace to replace to-do lists and note-taking apps
 -   [Obsidian](https://obsidian.md/) <--- powerful knowledge base (note-taking tool) that works on top of a local folder of plain text Markdown files
--   [OneNote Desktop](https://www.onenote.com/download) <--- my favourite note-taking tool (desktop version is much more feature-rich over the UWP app)
+-   [OneNote Desktop](https://www.onenote.com/download) <--- note-taking tool from Microsoft (desktop version is much more feature-rich over the UWP app)
     -   [Office OneNote Gem Add-Ins](https://www.onenotegem.com/) <--- lots of plugins for different versions of OneNote
     -   [Onetastic](https://getonetastic.com/) <--- set of extensions for OneNote
 -   [Productivity Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/) <--- large list by Todoist
