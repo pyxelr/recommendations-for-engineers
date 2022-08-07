@@ -349,6 +349,7 @@ Mostly universal (language-independent books).
 -   [LanguageTool](https://languagetool.org/) <--- check your writing in more than 20 languages (great alternative to Grammarly)
 -   [Modern for Wikipedia](https://chrome.google.com/webstore/detail/modern-for-wikipedia/emdkdnnopdnajipoapepbeeiemahbjcn) <--- redesigned user interface for Wikipedia
 -   [Nimbus Capture](https://nimbusweb.me/screenshot.php) <--- advanced screenshot tool for Google Chrome
+-   [Notion Boost](https://gourav.io/notion-boost) <--- add 20+ customizations to Notion
 -   [OneTab](https://www.one-tab.com/) <--- save up to 95% memory by moving all open tabs into a single one in Google Chrome
 -   [Power Thesaurus](https://chrome.google.com/webstore/detail/power-thesaurus/hhnjkanigjoiglnlopahbbjdbfhkndjk) <--- find synonyms and antonyms to improve your writing
 -   [Privacy Badger](https://www.eff.org/privacybadger) <--- block invisible trackers
