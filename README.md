@@ -349,7 +349,6 @@ Mostly universal (language-independent books).
 -   [LanguageTool](https://languagetool.org/) <--- check your writing in more than 20 languages (great alternative to Grammarly)
 -   [Modern for Wikipedia](https://chrome.google.com/webstore/detail/modern-for-wikipedia/emdkdnnopdnajipoapepbeeiemahbjcn) <--- redesigned user interface for Wikipedia
 -   [Nimbus Capture](https://nimbusweb.me/screenshot.php) <--- advanced screenshot tool for Google Chrome
--   [Notion Boost](https://gourav.io/notion-boost) <--- add 20+ customizations to Notion
 -   [OneTab](https://www.one-tab.com/) <--- save up to 95% memory by moving all open tabs into a single one in Google Chrome
 -   [Power Thesaurus](https://chrome.google.com/webstore/detail/power-thesaurus/hhnjkanigjoiglnlopahbbjdbfhkndjk) <--- find synonyms and antonyms to improve your writing
 -   [Privacy Badger](https://www.eff.org/privacybadger) <--- block invisible trackers
@@ -453,7 +452,7 @@ Mostly universal (language-independent books).
 
 ### cheatsheets
 
-My private Notion would be there, but I prefer to share only the most relevant content. **IMPORTANT**: be aware that [many cheatsheets repeat false information](https://www.linkedin.com/posts/adrianolszewski_biostatistics-statistics-rstats-activity-6621020198185111552-jw12), such as classifying logistic regression as a pure classification algorithm.
+My private Obsidian would be there, but I prefer to share only the most relevant content. **IMPORTANT**: be aware that [many cheatsheets repeat false information](https://www.linkedin.com/posts/adrianolszewski_biostatistics-statistics-rstats-activity-6621020198185111552-jw12), such as classifying logistic regression as a pure classification algorithm.
 
 -   [Chris Albon](https://chrisalbon.com/) <--- comprehensive notes/code snippets on using Data Science & Artificial Intelligence
 -   [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/) <--- best Python cheatsheet I found so far
@@ -1070,8 +1069,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [lofi.cafe](https://lofi.cafe/) <--- online radio to focus and relax
 -   [Make](https://www.make.com/en) <--- automate various tasks (more advanced than [IFTT](https://ifttt.com/) and 2.5x cheaper than [Zapier](https://zapier.com/))
 -   Monochrome mode (grayscale mode) activation on your mobile device <--- attract yourself less to the colourless screen
--   [Notion](https://www.notion.so/) <--- my favourite note-taking tool: all-in-one workspace to replace to-do lists and note-taking apps
--   [Obsidian](https://obsidian.md/) <--- powerful knowledge base (note-taking tool) that works on top of a local folder of plain text Markdown files
+-   [Obsidian](https://obsidian.md/) <--- my favourite powerful knowledge base (note-taking tool) that works on top of a local folder of plain text Markdown files
 -   [OneNote Desktop](https://www.onenote.com/download) <--- note-taking tool from Microsoft (desktop version is much more feature-rich over the UWP app)
     -   [Office OneNote Gem Add-Ins](https://www.onenotegem.com/) <--- lots of plugins for different versions of OneNote
     -   [Onetastic](https://getonetastic.com/) <--- set of extensions for OneNote
