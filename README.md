@@ -99,6 +99,11 @@ You can also discover more tech blogs with [Blogging for Devs](https://bloggingf
 -   [Towards Data Science](https://towardsdatascience.com/) <--- Medium for data science
 -   [Victor Zhou](https://victorzhou.com/) <--- blog about web development, machine learning, and more
 
+### devops/mlops
+
+- [MLOps Community Blog](https://mlops.community/blog/)
+- [The MLOps Blog](https://neptune.ai/blog/category/mlops) <--- MLOps blog by Neptune.ai
+
 ### general
 
 -   [Andy Matuschak](https://andymatuschak.org/) <--- read and learn about learning, quantum computing, math, software development, and more
@@ -1019,6 +1024,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Kubernetes Notes](https://kubernetes-notes.captivate.fm/) <--- based on Kubernetes Documentation
 -   [Kubernetes Podcast from Google](https://kubernetespodcast.com/) <--- weekly news and interview show with insight from the Kubernetes community
 -   [MLOps.community](https://anchor.fm/mlops) <--- weekly talks and fireside chats about everything that has to do with the new space emerging around DevOps for Machine Learning aka MLOps aka Machine Learning Operations
+-   [MLOps Live](https://podcasts.bcast.fm/mlops-live) <--- podcast by Neptune.ai
 -   [Więcej Niż Konteneryzacja](https://szkoladockera.pl/category/podcast/) (🇵🇱) <--- everything about containers by Damian Naprawa
 
 ### general/science
