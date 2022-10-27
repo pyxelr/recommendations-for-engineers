@@ -990,6 +990,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Akademia.pl](https://anchor.fm/akademia) (🇵🇱) <--- podcast for new entrepreneurs
 -   [Life Hacking Podcast](https://www.spreaker.com/show/life-hacking-podcast) (🇵🇱) <--- develop your mind
 -   [MiroBurn Show](https://anchor.fm/miroburn) (🇵🇱) <--- main podcast by MiroBurn
+-   [Przygody Przedsiębiorców](https://soundcloud.com/przygodyprzedsiebiorcow) (🇵🇱) <--- interviews with entrepreneurs
 -   [Startup my Way](https://startupmyway.com/) (🇵🇱) <--- SaaS, startups, tech, future
 -   [Ted Talks Business](https://www.ted.com/talks?topics%5B%5D=business)
 -   [Więcej niż oszczędzanie pieniędzy](https://jakoszczedzacpieniadze.pl/podcast) (🇵🇱) <--- how to spend money the right way
