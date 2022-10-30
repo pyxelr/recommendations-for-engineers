@@ -1345,6 +1345,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) <--- AI, ML, Python and more (unfortunately [involved in the scandal of plagiarism](https://www.youtube.com/watch?v=Mz3Mu9e0qRQ))
 -   [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer) <--- major statistical methodologies into easy to understand pieces (I highly recommend it!)
 -   [The AI University](https://www.youtube.com/channel/UCv6Uw36LRbYnX4HDxKPguKg) <--- educational channel on data science, data analysis, data engineering and cloud architecture
+-   [Thu Vu data analytics](https://www.youtube.com/c/Thuvu5) <---  information on entering a Data analytics / Data science career
 -   [Two Minute Papers](https://www.youtube.com/user/keeroyz) <--- quick reviews of scientific research papers
 -   [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) <--- quick reviews of scientific research papers and AI terms explained
 -   [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher) <--- videos about machine learning research papers, programming, and issues of the AI community and the broader impact of AI in society
