@@ -960,6 +960,7 @@ Try gathering all your favourite newsletters into [Newsletry](https://newsletry.
 
 -   [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters) <--- curated list of awesome newsletters
 -   [Bullets.news](https://bullets.news/) <--- scientific papers summarized in few bullet points
+-   [Dane i Analizy](https://blog.prokulski.science/) (🇵🇱) <--- ML, AI, devops, data analysis, Python and R
 -   [Data Elixir](https://dataelixir.com/) <--- weekly dose of the top data science picks from around the web. Covering machine learning, data visualization, analytics, and strategy
 -   [Data Science Weekly](https://www.datascienceweekly.org/) <--- featuring curated news, articles and jobs related to Data Science. You can read the [archive](https://www.datascienceweekly.org/newsletters) at any time
 -   [DEV Community](https://dev.to/settings/notifications) <--- weekly newsletter of top 7 posts (activate in settings of your account)
