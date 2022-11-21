@@ -974,6 +974,7 @@ Try gathering all your favourite newsletters into [Newsletry](https://newsletry.
 -   [Morning Cup of Coding](https://morningcupofcoding.com/) <--- daily programming newsletter featuring long form technical articles of all fields of software engineering
 -   [Papers with Code](https://paperswithcode.com/newsletter) <--- stay informed on the latest trending ML papers with code, research developments, libraries, methods, and datasets
 -   [Podcast Notes](https://podcastnotes.org/) <--- summary of podcasts in few bullet points
+-   [Product Hunt Daily](https://www.producthunt.com/newsletter) <--- a daily digest of the best of Product Hunt, created by your friends
 -   [The Batch](https://read.deeplearning.ai/the-batch/) <--- stay updated with weekly AI News and Insights from DeepLearning.AI
 -   [The Data Science Roundup](http://roundup.fishtownanalytics.com/) <--- internet's most useful data science articles
 -   [The Overflow](https://stackoverflow.blog/newsletter/) <--- newsletter by developers, for developers
