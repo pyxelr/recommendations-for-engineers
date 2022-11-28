@@ -36,7 +36,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## 🌐 Blogs
 
-It's best to collect all your favourite sites into a news aggregator like [Feedly](https://feedly.com/).  
+It's best to collect all your favourite sites into a news aggregator like [Inoreader](https://inoreader.com/).  
 You can also discover more tech blogs with [Blogging for Devs](https://bloggingfordevs.com/trends/).
 
 ### business
@@ -956,7 +956,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 
 ## 📧 Newsletters
 
-Try gathering all your favourite newsletters into [Newsletry](https://newsletry.com/) (Feedly for newsletters).
+Try gathering all your favourite newsletters into [Newsletry](https://newsletry.com/) (Inoreader for newsletters).
 
 -   [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters) <--- curated list of awesome newsletters
 -   [Bullets.news](https://bullets.news/) <--- scientific papers summarized in few bullet points
@@ -1070,9 +1070,9 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Box Breathing Exercise](https://breathe.vividwell.com/) <--- take a break, breathe and calm down
 -   [DeepL](https://www.deepl.com/translator) <--- AI based translator (imho, better than Google Translator)
 -   [Effective Engineer Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) <--- quick read on how to be effective and get things done
--   [Feedly](https://feedly.com) <--- news aggregator. Save time by browsing what matters
 -   [Focusmate](https://www.focusmate.com/) <--- let others watch you while you work
 -   [Focus Sounds](https://github.com/pyxelr/recommendations-for-engineers#listen) <--- navigate to the ["Music" section](https://github.com/pyxelr/recommendations-for-engineers#listen) of this list
+-   [Inoreader](https://inoreader.com/) <--- web-based content and RSS feed reader
 -   [Intention](https://www.getintention.com/) <--- Chrome extension to stop visiting distractive websites
 -   [Leave Me Alone](https://leavemealone.app/) <--- see all of your subscription emails in one place and unsubscribe from them with a single click
 -   [lofi.cafe](https://lofi.cafe/) <--- online radio to focus and relax
