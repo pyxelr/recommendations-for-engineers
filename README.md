@@ -36,7 +36,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## 🌐 Blogs
 
-It's best to collect all your favourite sites into a news aggregator like [Inoreader](https://inoreader.com/).  
+It's best to collect all your favourite sites into the RSS feed reader like [Inoreader](https://inoreader.com/).  
 You can also discover more tech blogs with [Blogging for Devs](https://bloggingfordevs.com/trends/).
 
 ### business
@@ -107,6 +107,7 @@ You can also discover more tech blogs with [Blogging for Devs](https://bloggingf
 ### general
 
 -   [Andy Matuschak](https://andymatuschak.org/) <--- read and learn about learning, quantum computing, math, software development, and more
+-   [Bartosz Ciechanowski](https://ciechanow.ski/) <--- high-quality blog posts with interactive elements on topics like GPS or mechanical watch
 -   [Gwern](https://www.gwern.net/) <--- the content varies mostly between psychology, statistics, and technology
 -   [Medium](https://medium.com/) <--- popular blogging platform
 -   [Our World in Data](https://ourworldindata.org/) <--- research and data to make progress against the world’s largest problems
