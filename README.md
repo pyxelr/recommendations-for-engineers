@@ -1407,7 +1407,8 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 
 ### programming
 
--   [ArjanCodes](https://www.youtube.com/c/arjancodes) <--- Python videos about programming and software design to help you take your coding skills to the next level
+-   [anthonywritescode](https://www.youtube.com/@anthonywritescode) <--- various videos about programming and related topics (most videos deal with Python)
+-   [ArjanCodes](https://www.youtube.com/c/arjancodes) <--- Python videos abouVarious videos about programming and related topicst programming and software design to help you take your coding skills to the next level
 -   [Branch Education](https://www.youtube.com/c/BranchEducation) <--- engineering and science concepts illuminated with videos of accurate models and visualized physics
 -   [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) <--- general computer science channel
 -   [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) <--- Python in data science and not only
