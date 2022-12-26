@@ -368,6 +368,7 @@ Mostly universal (language-independent books).
 -   [Tampermonkey](https://www.tampermonkey.net/) <--- the most popular userscript manager
 -   [uBlock Origin](https://github.com/gorhill/uBlock#installation) <--- blocker addon (not only for ads)
 -   [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf) <--- point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.
+-   [Unclutter](https://unclutter.lindylearn.io/) <--- modern reader mode and article library for your browser
 -   [Unhook - Remove YouTube Recommended Videos](https://chrome.google.com/webstore/detail/remove-youtube-recommende/khncfooichmfjbepaaaebmommgaepoid) <--- hide YouTube related videos, comments, video suggestions wall, homepage recommendations, trending tab, and other distractions
 -   [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) <--- FireBug for designers - edit any webpage, in any state
 -   [Wappalyzer](https://www.wappalyzer.com/) <--- identify technology on websites
