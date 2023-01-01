@@ -101,6 +101,7 @@ You can also discover more tech blogs with [Blogging for Devs](https://bloggingf
 
 ### devops/mlops
 
+- [Ivan Velichko](https://iximiuz.com/en/) <--- learning containers, Kubernetes, and backend development
 - [MLOps Community Blog](https://mlops.community/blog/)
 - [The MLOps Blog](https://neptune.ai/blog/category/mlops) <--- MLOps blog by Neptune.ai
 
