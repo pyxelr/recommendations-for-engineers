@@ -1038,6 +1038,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [60-Second Science](https://www.scientificamerican.com/podcast/60-second-science/) <--- 60-second podcasts to explain scientific topics
 -   [Dan Carlin's Hardcore History](https://www.dancarlin.com/) <--- one of the most popular podcasts on history
 -   [Duolingo podcast](https://podcast.duolingo.com/) <--- learn languages with Duolingo
+-   [People Guy w IT](https://www.youtube.com/@MarekDrob/) (🇵🇱) <--- technology leadership topics
 -   [Podcast Notes](https://podcastnotes.org/) <--- best ideas and recommendations from the top podcasts
 -   [Podcast Pasja Informatyki](https://podcast.pasja-informatyki.pl/) (🇵🇱) <--- philosophy + IT
 -   [Simplify](https://www.blinkist.com/simplify) <--- for anybody who’s taken a close look at their habits, their happiness, their relationships, or their health
