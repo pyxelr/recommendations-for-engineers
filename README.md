@@ -798,8 +798,8 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 
 -   [AirBuddy](https://v2.airbuddy.app/) ← control wireless devices
 -   [Alfred](https://www.alfredapp.com/) ← extendable launcher
-    -   [Raycast](https://www.raycast.com/) ← alternative to Alfred
 -   [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) ← keep your screen awake
+-   [Automator](https://support.apple.com/en-gb/guide/automator/welcome/mac) ← built-in app to create workflows
 -   [Bartender](https://www.macbartender.com/) ← take control of menu bar
 -   [BetterSnapTool](https://folivora.ai/bettersnaptool) ← easily manage your window positions
 -   [BetterTouchTool](https://folivora.ai/) ← customize various input devices
@@ -807,7 +807,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 -   [CleanShot X](https://cleanshot.com/) ← screenshot tool
     -   [Monosnap](https://monosnap.com/) ← free alternative
 -   [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) ← swiss army knife for developers
--   [DropShelf](https://pilotmoon.com/dropshelf/) ← drag and drop helper app
+-   [Ferdium](https://ferdium.org/) ← manage social apps
 -   [HazeOver](https://hazeover.com/) ← fade out background windows
 -   [Homebrew](https://brew.sh/) ← package manager for macOS
 -   [iTerm2](https://iterm2.com/) ← better terminal (you can find my settings [here](https://github.com/pyxelr/my-terminal))
@@ -815,11 +815,21 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 -   [Karabiner-Elements](https://karabiner-elements.pqrs.org/) ← keyboard customizer
 -   [mas](https://github.com/mas-cli/mas) ← Mac App Store command line interface
 -   [MeetingBar](https://github.com/leits/MeetingBar) ← menu bar calendar
+-   Microsoft
+    -   [Microsoft Excel](https://apps.apple.com/us/app/microsoft-excel/id586683407) ← my favourite spreadsheet editor
+    -   [Microsoft Outlook](https://apps.apple.com/us/app/microsoft-outlook/id951937596) ← my favourite e-mail client
+    -   [Microsoft PowerPoint](https://apps.apple.com/us/app/microsoft-powerpoint/id586449534) ← my favourite slideshow creator
+    -   [Microsoft Word](https://apps.apple.com/us/app/microsoft-word/id586447913) ← my favourite document editor
 -   [New File Menu](https://apps.apple.com/us/app/new-file-menu/id1064959555?mt=12) ← create new files via Finder
 -   [Numi](https://numi.app/) ← beautiful calculator
+-   [Objective-See’s Tools](https://objective-see.org/tools.html) ← free, open-source, tools to secure your Mac
+-   [PDF Reader Pro](https://www.pdfreaderpro.com/mac) ← best PDF editor as per [this comparison](https://docs.google.com/spreadsheets/d/1pCt75tHayO_QJO2swREcZEgAFEhrm9-3pnDogh5kpRM/)
+-   [QSpace Pro](https://qspace.awehunt.com/en-us/index.html) ← more advanced Finder
+-   [Raycast](https://www.raycast.com/) ← alternative to Alfred
 -   [Sound Control](https://staticz.com/soundcontrol/) ← advanced audio controls
 -   [Transmit](https://panic.com/transmit/) ← upload, download, and manage files on tons of servers
 -   [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) ← invert scroll direction for mouse & trackpad
+-   [Xcode Command Line Tools](https://mac.install.guide/commandlinetools/index.html) ← tools for software developers that run on the command line (install with `sudo xcode-select --install)
 
 **[⬆ Back to Contents](#contents)**
 
