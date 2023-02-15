@@ -807,7 +807,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 -   [CleanShot X](https://cleanshot.com/) ← screenshot tool
     -   [Monosnap](https://monosnap.com/) ← free alternative
 -   [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) ← swiss army knife for developers
--   [Ferdium](https://ferdium.org/) ← manage social apps
+-   [Ferdium](https://ferdium.org/) ← all the social apps in one place
 -   [HazeOver](https://hazeover.com/) ← fade out background windows
 -   [Homebrew](https://brew.sh/) ← package manager for macOS
 -   [iTerm2](https://iterm2.com/) ← better terminal (you can find my settings [here](https://github.com/pyxelr/my-terminal))
@@ -1271,6 +1271,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Ditto](https://ditto-cp.sourceforge.io/) ← clipboard manager
 -   [Everything](https://www.voidtools.com/downloads/) ← search local files instantly
 -   [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) ← Everything integration for the Windows taskbar
+-   [Ferdium](https://ferdium.org/) ← all the social apps in one place
 -   [FileZilla](https://filezilla-project.org/) ← free and open-source FTP client/server
 -   [f.lux](https://justgetflux.com/) ← reduce the amount of blue light at night (you can also install [the preferred UWP app](https://www.microsoft.com/en-us/p/flux/9n9kdphv91jt))
 -   [Frink](https://frinklang.org/) ← practical calculating tool and programming language designed to make physical calculations simple
