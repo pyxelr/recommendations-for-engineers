@@ -829,7 +829,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 -   [Sound Control](https://staticz.com/soundcontrol/) ← advanced audio controls
 -   [Transmit](https://panic.com/transmit/) ← upload, download, and manage files on tons of servers
 -   [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) ← invert scroll direction for mouse & trackpad
--   [Xcode Command Line Tools](https://mac.install.guide/commandlinetools/index.html) ← tools for software developers that run on the command line (install with `sudo xcode-select --install)
+-   [Xcode Command Line Tools](https://mac.install.guide/commandlinetools/index.html) ← tools for software developers that run on the command line
 
 **[⬆ Back to Contents](#contents)**
 
