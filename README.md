@@ -810,6 +810,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 -   [Ferdium](https://ferdium.org/) ← all the social apps in one place
 -   [HazeOver](https://hazeover.com/) ← fade out background windows
 -   [Homebrew](https://brew.sh/) ← package manager for macOS
+-   [iStatistica Pro](https://www.imagetasks.com/istatistica/pro/) (with iStatistica Sensors) ← system monitoring
 -   [iTerm2](https://iterm2.com/) ← better terminal (you can find my settings [here](https://github.com/pyxelr/my-terminal))
 -   [Itsycal](https://www.mowglii.com/itsycal/) ← tiny menu bar calendar
 -   [Karabiner-Elements](https://karabiner-elements.pqrs.org/) ← keyboard customizer
