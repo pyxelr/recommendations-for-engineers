@@ -1353,6 +1353,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 
 ### data science
 
+-   [AI Explained](https://www.youtube.com/@ai-explained-) ← covering the biggest news of the century - the arrival of smarter-than-human AI
 -   [CodeEmporium](https://www.youtube.com/channel/UC5_6ZD6s8klmMu9TXEB_1IA) ← data science topics explained through simple visualisations
 -   [Daniel Bourke](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ) ← machine learning engineer who plays at the intersection of technology and health
 -   [David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ) ← hours of data analysis in R
