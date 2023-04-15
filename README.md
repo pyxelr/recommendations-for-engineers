@@ -1044,6 +1044,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Kubernetes Podcast from Google](https://kubernetespodcast.com/) ← weekly news and interview show with insight from the Kubernetes community
 -   [MLOps.community](https://anchor.fm/mlops) ← weekly talks and fireside chats about everything that has to do with the new space emerging around DevOps for Machine Learning aka MLOps aka Machine Learning Operations
 -   [MLOps Live](https://podcasts.bcast.fm/mlops-live) ← podcast by Neptune.ai
+-   [Patoarchitekci](https://patoarchitekci.io/) (🇵🇱) ← about the modern architecture in IT
 -   [Więcej Niż Konteneryzacja](https://szkoladockera.pl/category/podcast/) (🇵🇱) ← everything about containers by Damian Naprawa
 
 ### general/science
