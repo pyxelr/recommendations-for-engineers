@@ -1055,6 +1055,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [People Guy w IT](https://www.youtube.com/@MarekDrob/) (🇵🇱) ← technology leadership topics
 -   [Podcast Notes](https://podcastnotes.org/) ← best ideas and recommendations from the top podcasts
 -   [Podcast Pasja Informatyki](https://podcast.pasja-informatyki.pl/) (🇵🇱) ← philosophy + IT
+-   [Przemek Górczyk Podcast](https://www.youtube.com/@przemekgorczykpodcast/) (🇵🇱) ← interviews with various experts
 -   [Simplify](https://www.blinkist.com/simplify) ← for anybody who’s taken a close look at their habits, their happiness, their relationships, or their health
 -   [Ted Talks Daily](https://www.ted.com/talks) ← use your podcast app to find more categorised TED talks
 -   [The 3b1b podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82MzZiNDgyMC9wb2RjYXN0L3Jzcw==) ← interviews hosted by Grant Sanderson, the creator of 3blue1brown
