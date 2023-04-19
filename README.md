@@ -1447,6 +1447,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [RS Elektronika](https://www.youtube.com/c/RSElektronika) (🇵🇱) ← for anyone interested in electronics
 -   [Simplilearn](https://www.youtube.com/c/SimplilearnOfficial/) ← online bootcamp focused on helping people acquire the skills they need to thrive in the digital economy
 -   [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) ← one of the most-enthusiastic coders on the web
+-   [ThePrimeagen](https://www.youtube.com/@ThePrimeagen) ← Vim, Rust, TypeScript with a lot of humor (also check the 2nd channel: [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen))
 -   [UW-TEAM.org](https://www.youtube.com/c/uwteamorg) (🇵🇱) ← programming, Linux, security, and more
 -   [WilliamFiset](https://www.youtube.com/user/purpongie) ← educational computer science and mathematics videos
 
