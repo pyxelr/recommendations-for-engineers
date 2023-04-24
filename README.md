@@ -1417,11 +1417,13 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Akademia Bogactwa](https://www.youtube.com/channel/UC6SinQiw2eDU6k9tEXpZv9g) (🇵🇱) ← daily vlog of Polish entrepreneur focused on real estate
 -   [Ali Abdaal](https://www.youtube.com/user/Sepharoth64) ← one of the best channels to learn organisation and study techniques from a med student
 -   [Andrzej Krzywda](https://www.youtube.com/channel/UCmrGGj6Y_XQuockwwI3yemA) (🇵🇱) ← daily vlog of Polish programmer/entrepreneur
+-   [Benjamin Keep, PhD, JD](https://www.youtube.com/@benjaminkeep) ← insights into learning, science, and society. For teachers, students and the science-curious
 -   [BrainCraft](https://www.youtube.com/user/braincraftvideo) ← self-improvement tips and advice based in psychology and neuroscience
 -   [Charisma on Command](https://www.youtube.com/user/charismaoncommand) ← master your charisma
 -   [Devstyle](https://www.youtube.com/channel/UCACp5rqV3Ki0SNdXWDBLhRA) (🇵🇱) ← daily vlog of Polish entrepreneur (past programmer)
 -   [FightMediocrity](https://www.youtube.com/channel/UCXLesGEfmyhxqOjoAqhRwhA) ← summaries of the most inspiring books
 -   [HealthyGamerGG](https://www.youtube.com/c/HealthyGamerGG/) ← mental health platform designed to help the internet generation succeed
+-   [Justin Sung](https://www.youtube.com/@JustinSung) ← studying and learning, time management
 -   [MiroBurn](https://www.youtube.com/channel/UCwmFNbGnBeEy9nTt42F4WHw) (🇵🇱) ← daily vlog of Polish entrepreneur focused on online courses, biohacking, motivating others and establishing new companies
 -   [Wojna Idei](https://www.youtube.com/channel/UC7RswyY8VfbSdikz_8wdp3w) (🇵🇱) ← psychology, philosophy, sociology and culture
 
