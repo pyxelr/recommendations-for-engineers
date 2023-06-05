@@ -828,6 +828,8 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 -   [QSpace Pro](https://qspace.awehunt.com/en-us/index.html) ← more advanced Finder
 -   [Raycast](https://www.raycast.com/) ← alternative to Alfred
 -   [Sound Control](https://staticz.com/soundcontrol/) ← advanced audio controls
+-   [System Color Picker](https://apps.apple.com/pl/app/system-color-picker/id1545870783?mt=12) ← built-in color picker
+-   [Tinker Tool](http://www.bresink.com/osx/TinkerTool.html) ← adjust hidden OS features, e.g. to disable animation on hiding/showing dock
 -   [Transmit](https://panic.com/transmit/) ← upload, download, and manage files on tons of servers
 -   [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) ← invert scroll direction for mouse & trackpad
 -   [Xcode Command Line Tools](https://mac.install.guide/commandlinetools/index.html) ← tools for software developers that run on the command line
