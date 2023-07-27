@@ -45,6 +45,7 @@ You can also discover more tech blogs with [Blogging for Devs](https://bloggingf
 -   [Grant Cardone](https://grantcardone.com/blog/) ← business/motivation oriented blog
 -   [I Will Teach You To Be Rich](https://www.iwillteachyoutoberich.com/blog/)
 -   [Kopywriting Kourse](https://kopywritingkourse.com/blog/) ← improve your writing
+-   [Marcin Iwuć](https://marciniwuc.com/) (🇵🇱) ← personal finances
 -   [Neil Patel](https://writingexcuses.com/) ← digital marketing blog
 -   [Social Media Examiner](https://www.socialmediaexaminer.com/) ← guide to social media
 
@@ -814,6 +815,8 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 -   [iTerm2](https://iterm2.com/) ← better terminal (you can find my settings [here](https://github.com/pyxelr/my-terminal))
 -   [Itsycal](https://www.mowglii.com/itsycal/) ← tiny menu bar calendar
 -   [Karabiner-Elements](https://karabiner-elements.pqrs.org/) ← keyboard customizer
+-   [Keyboard Maestro](https://www.keyboardmaestro.com/main/) ← macOS automation software
+-   [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) ← host-based application firewall for macOS
 -   [mas](https://github.com/mas-cli/mas) ← Mac App Store command line interface
 -   [MeetingBar](https://github.com/leits/MeetingBar) ← menu bar calendar
 -   Microsoft
