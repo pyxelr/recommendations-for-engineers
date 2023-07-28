@@ -1380,6 +1380,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 
 ### devops/mlops
 
+-   [ByteByteGo](https://www.youtube.com/@ByteByteGo) ← topics and trends in large-scale system design
 -   [DevOps Toolkit](https://www.youtube.com/c/DevOpsToolkit) ← channel of a passionate DevOps who keeps us up with the most recent DevOps tools
 -   [MLOps.community](https://www.youtube.com/c/MLOpscommunity/) ← Machine Learning Operations best practices from engineers in the field
 
