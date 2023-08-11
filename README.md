@@ -1041,6 +1041,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Python Bytes](https://pythonbytes.fm/) ← weekly podcast on Python
 -   [Talk Python To Me](https://talkpython.fm/) ← podcast on Python and related technologies
 -   [The Numberphile podcast](https://www.numberphile.com/podcast/) ← fall in love with numbers
+-   [Ubuntu AI](https://podcastsbycanonical.buzzsprout.com/share) ← about the impact of artificial intelligence, machine learning and data science
 
 ### devops/mlops
 
