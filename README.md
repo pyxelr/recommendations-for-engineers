@@ -880,6 +880,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 -   [Elevate](https://www.elevateapp.com/) ← used daily can significantly improve math, reading, writing, speaking, and listening
 -   [Enki](https://www.enki.com/) ← learn data science, coding, and stay on top of tech trends
 -   [File Manager Plus](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager) ← my favourite file manager
+-   [Foreca](https://www.foreca.com/) ← weather forecast
 -   [Google Lens](https://lens.google/) ← search what you see
 -   [Grasshopper](https://grasshopper.app/) ← learn JavaScript for free from Google
 -   [Harmonic for Hacker News](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews) ← great looking tech news that I can read for hours
@@ -902,7 +903,6 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 -   [Tiny Scanner](https://play.google.com/store/apps/details?id=com.appxy.tinyscanner) ← PDF scanner app
 -   [Twilight](https://twilight.urbandroid.org/) ← blue light filter
 -   [Universe in a Nutshell](https://shop-eu.kurzgesagt.org/products/universe-in-a-nutshell-app) ← Wait but Why and Kurzgesagt version of the online [Scale of the Universe 2](https://htwins.net/scale2/)
--   [Weawow](https://weawow.com/) ← beautiful weather forecast
 
 **[⬆ Back to Contents](#contents)**
 
