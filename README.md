@@ -807,7 +807,8 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 -   [BetterZip](https://macitbetter.com/) ← next generation of archiving
 -   [CleanShot X](https://cleanshot.com/) ← screenshot tool
     -   [Monosnap](https://monosnap.com/) ← free alternative
--   [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) ← swiss army knife for developers
+-   [DevUtils](https://devutils.com/) ← all-in-one toolbox for developers
+    -   [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) ← free alternative
 -   [Ferdium](https://ferdium.org/) ← all the social apps in one place
 -   [HazeOver](https://hazeover.com/) ← fade out background windows
 -   [Homebrew](https://brew.sh/) ← package manager for macOS
