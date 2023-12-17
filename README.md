@@ -1297,7 +1297,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Ninite](https://ninite.com/) ← install and update all your programs at once
 -   [NirSoft - freeware utilities](https://www.nirsoft.net/utils/index.html) ← freeware tools and system utilities 
 -   [Oh My Posh](https://ohmyposh.dev/) ← prompt theme engine for any shell. Alternatively, use [Starship](https://github.com/starship/starship)
--   [Patch My PC](https://patchmypc.com/home-updater) ← free tool for detecting and automatically updating software (more automated than [SUMo](https://www.kcsoftwares.com/?sumo), but less powerful)
+-   [Patch My PC](https://patchmypc.com/home-updater) ← tool for detecting and automatically updating software (shows less stuff than UpdateHub)
 -   [PDF-XChange Editor](https://www.tracker-software.com/product/pdf-xchange-editor) ← most feature-rich PDF viewer/editor
 -   [PortableApps.com](https://portableapps.com/) ← full-featured portable software system
 -   [Potplayer](https://potplayer.daum.net/) ← video player
@@ -1307,9 +1307,9 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [scoop](https://scoop.sh/) ← command-line installer for Windows
 -   [ShareX](https://getsharex.com/) ← most feature-rich screen capture tool
 -   [simplewall](https://github.com/henrypp/simplewall) ← configure Windows Filtering Platform (WFP) which can configure network activity on your computer
--   [SUMo](https://www.kcsoftwares.com/?sumo) ← tool for detecting software updates (less automated than [Patch My PC](https://patchmypc.com/home-updater), but more powerful)
 -   [Sysinternals Utilities Index](https://docs.microsoft.com/en-us/sysinternals/downloads/) ← utilities to manage, diagnose, troubleshoot, and monitor a Microsoft Windows environment
 -   [TaskbarX](https://chrisandriessen.nl/taskbarx) ← center Windows taskbar icons with a variety of animations and options
+-   [UpdateHub](https://github.com/NexovaDev/UpdateHub) ← tool for detecting and automatically updating software (shows more stuff than Patch My PC)
 -   [Windows Terminal](https://github.com/microsoft/terminal) ← modern terminal application (you can find my settings [here](https://github.com/pyxelr/my-terminal))
 -   [WinMerge](https://winmerge.org/) ← open-source diff checker (required e.g. by Ditto)
 -   [WinSCP](https://winscp.net/eng/index.php) ← popular SFTP client and FTP client for Microsoft Windows
