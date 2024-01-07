@@ -809,7 +809,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
     -   [Monosnap](https://monosnap.com/) ← free alternative
 -   [DevUtils](https://devutils.com/) ← all-in-one toolbox for developers
     -   [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) ← free alternative
--   [espanso](https://espanso.org/) ← cross-platform text expander
+-   [espanso](https://espanso.org/) ← cross-platform text expander (you can find my settings [here](https://github.com/pyxelr/my-espanso-config))
 -   [Ferdium](https://ferdium.org/) ← all the social apps in one place
 -   [HazeOver](https://hazeover.com/) ← fade out background windows
 -   [Homebrew](https://brew.sh/) ← package manager for macOS
@@ -1281,7 +1281,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [DevToys](https://devtoys.app/) ← Swiss Army knife for developers
 -   [Directory Opus](https://www.gpsoft.com.au/) ← ultimate file manager (worth paying for)
 -   [Ditto](https://ditto-cp.sourceforge.io/) ← clipboard manager
--   [espanso](https://espanso.org/) ← cross-platform text expander
+-   [espanso](https://espanso.org/) ← cross-platform text expander (you can find my settings [here](https://github.com/pyxelr/my-espanso-config))
 -   [Everything](https://www.voidtools.com/downloads/) ← search local files instantly
 -   [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) ← Everything integration for the Windows taskbar
 -   [Ferdium](https://ferdium.org/) ← all the social apps in one place
