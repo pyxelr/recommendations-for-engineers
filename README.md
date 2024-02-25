@@ -838,6 +838,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 -   [Tinker Tool](http://www.bresink.com/osx/TinkerTool.html) ← adjust hidden OS features, e.g. to disable animation on hiding/showing dock
 -   [Transmit](https://panic.com/transmit/) ← upload, download, and manage files on tons of servers
 -   [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) ← invert scroll direction for mouse & trackpad
+-   [Warp](https://www.warp.dev/) ← modern terminal reimagined with AI
 -   [Xcode Command Line Tools](https://mac.install.guide/commandlinetools/index.html) ← tools for software developers that run on the command line
 
 **[⬆ Back to Contents](#contents)**
