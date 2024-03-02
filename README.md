@@ -1288,7 +1288,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) ← Everything integration for the Windows taskbar
 -   [Ferdium](https://ferdium.org/) ← all the social apps in one place
 -   [FileZilla](https://filezilla-project.org/) ← free and open-source FTP client/server
--   [f.lux](https://justgetflux.com/) ← reduce the amount of blue light at night (you can also install [the preferred UWP app](https://www.microsoft.com/en-us/p/flux/9n9kdphv91jt))
+-   [f.lux](https://justgetflux.com/) ← reduce the amount of blue light at night (you can also install the [UWP app](https://www.microsoft.com/en-us/p/flux/9n9kdphv91jt))
 -   [Frink](https://frinklang.org/) ← practical calculating tool and programming language designed to make physical calculations simple
 -   [GitKraken](https://www.gitkraken.com/) ← cross-platform GUI Git client
 -   [gsudo](https://github.com/gerardog/gsudo) ← sudo for Windows
