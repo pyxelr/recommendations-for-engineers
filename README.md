@@ -982,6 +982,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 
 Try gathering all your favourite newsletters into [Newsletry](https://newsletry.com/) (Inoreader for newsletters).
 
+-   [AI News](https://buttondown.email/ainews) ← daily summary of AI discords + top Twitter accounts
 -   [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters) ← curated list of awesome newsletters
 -   [Bullets.news](https://bullets.news/) ← scientific papers summarized in few bullet points
 -   [Dane i Analizy](https://blog.prokulski.science/) (🇵🇱) ← ML, AI, devops, data analysis, Python and R
