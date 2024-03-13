@@ -832,7 +832,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 -   [PDF Reader Pro](https://www.pdfreaderpro.com/mac) ← best PDF editor as per [this comparison](https://docs.google.com/spreadsheets/d/1pCt75tHayO_QJO2swREcZEgAFEhrm9-3pnDogh5kpRM/)
 -   [QSpace Pro](https://qspace.awehunt.com/en-us/index.html) ← more advanced Finder
 -   [Raycast](https://www.raycast.com/) ← alternative to Alfred
--   [Sound Control](https://staticz.com/soundcontrol/) ← advanced audio controls
+-   [SoundSource](https://rogueamoeba.com/soundsource/) ← advanced audio controls
 -   [System Color Picker](https://apps.apple.com/pl/app/system-color-picker/id1545870783?mt=12) ← built-in color picker
 -   [Timer RH](https://red-hot-timer-for-mac-os-x.3bitlab.com/) ← timer/stopwatch app
 -   [Tinker Tool](http://www.bresink.com/osx/TinkerTool.html) ← adjust hidden OS features, e.g. to disable animation on hiding/showing dock
@@ -1291,6 +1291,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [FileZilla](https://filezilla-project.org/) ← free and open-source FTP client/server
 -   [f.lux](https://justgetflux.com/) ← reduce the amount of blue light at night (you can also install the [UWP app](https://www.microsoft.com/en-us/p/flux/9n9kdphv91jt))
 -   [Frink](https://frinklang.org/) ← practical calculating tool and programming language designed to make physical calculations simple
+-   [FxSound](https://www.fxsound.com/) ← open-source software to boost sound quality
 -   [GitKraken](https://www.gitkraken.com/) ← cross-platform GUI Git client
 -   [gsudo](https://github.com/gerardog/gsudo) ← sudo for Windows
 -   [JDownloader](http://jdownloader.org/home/index?s=lng_en) ← open-source download management tool
