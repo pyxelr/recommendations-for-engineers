@@ -1004,6 +1004,7 @@ Try gathering all your favourite newsletters into [Newsletry](https://newsletry.
 -   [The Batch](https://read.deeplearning.ai/the-batch/) ← stay updated with weekly AI News and Insights from DeepLearning.AI
 -   [The Data Science Roundup](http://roundup.fishtownanalytics.com/) ← internet's most useful data science articles
 -   [The Overflow](https://stackoverflow.blog/newsletter/) ← newsletter by developers, for developers
+-   [TLDR Newsletter](https://tldr.tech/) ← daily 5-minute e-mails on selected categories (AI, DevOps, IT, ...)
 -   [unknowNews](https://unknow.news/) (🇵🇱) ← weekly newsletter. Check its [archive](https://news.mrugalski.pl/) or [search engine](https://www.uw7.org/szukaj/) for the past sendings
 -   [Unreadit/Tech](https://unreadit.com/n/tech/) ← Reddit content on tech
 
