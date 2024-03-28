@@ -1001,6 +1001,7 @@ Try gathering all your favourite newsletters into [Newsletry](https://newsletry.
 -   [Papers with Code](https://paperswithcode.com/newsletter) ← stay informed on the latest trending ML papers with code, research developments, libraries, methods, and datasets
 -   [Podcast Notes](https://podcastnotes.org/) ← summary of podcasts in few bullet points
 -   [Product Hunt Daily](https://www.producthunt.com/newsletter) ← a daily digest of the best of Product Hunt, created by your friends
+-   [Superhuman](https://www.superhuman.ai/) ← popular AI newsletter
 -   [The Batch](https://read.deeplearning.ai/the-batch/) ← stay updated with weekly AI News and Insights from DeepLearning.AI
 -   [The Data Science Roundup](http://roundup.fishtownanalytics.com/) ← internet's most useful data science articles
 -   [The Overflow](https://stackoverflow.blog/newsletter/) ← newsletter by developers, for developers
