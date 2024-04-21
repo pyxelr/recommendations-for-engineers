@@ -874,7 +874,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 -   [AdGuard](https://adguard.com/en/products.html) ← get rid of intrusive ads and online tracking
 -   [Algorithms: Explained and Animated](https://play.google.com/store/apps/details?id=wiki.algorithm.algorithms) ← great representation of various algorithms
 -   [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki) ← learn any topic using active learning and spaced repetition. Before using the mobile app, I strongly suggest to set up your account and decks of cards using the [PC app](https://apps.ankiweb.net/). Also, make sure to check the [public decks shared from my side](https://github.com/pyxelr/my-anki-decks-of-flashcards)
--   [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free) ← best free screen recorder
+-   [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free) ← best free screen recorder (though, I have switched to Android's built-in "Screen recorder")
 -   [Backdrops](https://backdrops.io/) ← my favorite high-quality wallpaper app
 -   [Boost for reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) ← Reddit client
 -   [Brilliant](https://brilliant.org/) ← replace lecture videos with hands-on, interactive problem solving
@@ -905,7 +905,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 -   [SoloLearn](https://www.sololearn.com/) ← mobile programming university
 -   [Termux](https://termux.com/) ← Android terminal emulator and Linux environment app (you can find my settings [here](https://github.com/pyxelr/my-terminal))
 -   [Tiny Scanner](https://play.google.com/store/apps/details?id=com.appxy.tinyscanner) ← PDF scanner app
--   [Twilight](https://twilight.urbandroid.org/) ← blue light filter
+-   [Twilight](https://twilight.urbandroid.org/) ← blue light filter (though, I prefer Android's built-in "Eye comfort shield")
 -   [Universe in a Nutshell](https://shop-eu.kurzgesagt.org/products/universe-in-a-nutshell-app) ← Wait but Why and Kurzgesagt version of the online [Scale of the Universe 2](https://htwins.net/scale2/)
 
 **[⬆ Back to Contents](#contents)**
