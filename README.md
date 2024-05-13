@@ -818,6 +818,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 -   [Itsycal](https://www.mowglii.com/itsycal/) ← tiny menu bar calendar
 -   [Karabiner-Elements](https://karabiner-elements.pqrs.org/) ← keyboard customizer
 -   [Keyboard Maestro](https://www.keyboardmaestro.com/main/) ← macOS automation software
+-   [lima](https://github.com/lima-vm/lima) ← launch Linux virtual machines with automatic file sharing and port forwarding (similar to WSL2)
 -   [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) ← host-based application firewall for macOS
 -   [mas](https://github.com/mas-cli/mas) ← Mac App Store command line interface
 -   [MeetingBar](https://github.com/leits/MeetingBar) ← menu bar calendar
@@ -829,9 +830,11 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 -   [New File Menu](https://apps.apple.com/us/app/new-file-menu/id1064959555?mt=12) ← create new files via Finder
 -   [Numi](https://numi.app/) ← beautiful calculator
 -   [Objective-See’s Tools](https://objective-see.org/tools.html) ← free, open-source, tools to secure your Mac
+-   [Orbstack](https://orbstack.dev/) ← faster alternative for Docker Desktop 
 -   [PDF Reader Pro](https://www.pdfreaderpro.com/mac) ← best PDF editor as per [this comparison](https://docs.google.com/spreadsheets/d/1pCt75tHayO_QJO2swREcZEgAFEhrm9-3pnDogh5kpRM/)
 -   [QSpace Pro](https://qspace.awehunt.com/en-us/index.html) ← more advanced Finder
 -   [Raycast](https://www.raycast.com/) ← alternative to Alfred
+-   [Sloth](https://github.com/sveinbjornt/Sloth) ← show all open files, directories, sockets, pipes and devices in use by all running processes
 -   [SoundSource](https://rogueamoeba.com/soundsource/) ← advanced audio controls
 -   [System Color Picker](https://apps.apple.com/pl/app/system-color-picker/id1545870783?mt=12) ← built-in color picker
 -   [Timer RH](https://red-hot-timer-for-mac-os-x.3bitlab.com/) ← timer/stopwatch app
@@ -840,6 +843,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 -   [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) ← invert scroll direction for mouse & trackpad
 -   [Warp](https://www.warp.dev/) ← modern terminal reimagined with AI
 -   [Xcode Command Line Tools](https://mac.install.guide/commandlinetools/index.html) ← tools for software developers that run on the command line
+-   [Zed](https://github.com/zed-industries/zed) ← open-source code editor written in Rust (my replacement for Sublime Text)
 
 **[⬆ Back to Contents](#contents)**
 
