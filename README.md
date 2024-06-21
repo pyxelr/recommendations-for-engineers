@@ -761,7 +761,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 -   [broot](https://github.com/Canop/broot) ← new way to see and navigate directory trees
 -   [CommandLineFu](https://www.commandlinefu.com/commands/browse)← share & browse Linux CLI one-liners
 -   [crontab guru](https://crontab.guru/) ← quick and simple editor for cron schedule expressions
--   [exa](https://github.com/ogham/exa) ← modern replacement for `ls`
+-   [eza](https://github.com/eza-community/eza) ← modern replacement for `ls`
 -   [explainshell](https://explainshell.com/) ← match CLI arguments to their help text
 -   [fd](https://github.com/sharkdp/fd) ← better alternative to `find`
 -   [fzf](https://github.com/junegunn/fzf) ← CLI fuzzy finder
@@ -841,7 +841,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 -   [Tinker Tool](http://www.bresink.com/osx/TinkerTool.html) ← adjust hidden OS features, e.g. to disable animation on hiding/showing dock
 -   [Transmit](https://panic.com/transmit/) ← upload, download, and manage files on tons of servers
 -   [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) ← invert scroll direction for mouse & trackpad
--   [Warp](https://www.warp.dev/) ← modern terminal reimagined with AI
+-   [Warp](https://www.warp.dev/) ← modern terminal reimagined with AI (you can find my settings [here](https://github.com/pyxelr/my-terminal))
 -   [Xcode Command Line Tools](https://mac.install.guide/commandlinetools/index.html) ← tools for software developers that run on the command line
 -   [Zed](https://github.com/zed-industries/zed) ← open-source code editor written in Rust (my replacement for Sublime Text)
 
