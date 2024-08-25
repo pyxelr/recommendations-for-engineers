@@ -358,6 +358,7 @@ Mostly universal (language-independent books).
 -   [Modern for Wikipedia](https://chrome.google.com/webstore/detail/modern-for-wikipedia/emdkdnnopdnajipoapepbeeiemahbjcn) ← redesigned user interface for Wikipedia
 -   [Nimbus Capture](https://nimbusweb.me/screenshot.php) ← advanced screenshot tool for Google Chrome
 -   [OneTab](https://www.one-tab.com/) ← save up to 95% memory by moving all open tabs into a single one in Google Chrome
+-   [PocketTube](https://pockettube.io/) ← Youtube Subscription Manager. Already does a lot of work with automatic tags
 -   [Power Thesaurus](https://chrome.google.com/webstore/detail/power-thesaurus/hhnjkanigjoiglnlopahbbjdbfhkndjk) ← find synonyms and antonyms to improve your writing
 -   [Privacy Badger](https://www.eff.org/privacybadger) ← block invisible trackers
 -   [Reedy](https://reedy.azagroup.ru/) ← speed reading with RSVP (Rapid Serial Visual Presentation) technique
