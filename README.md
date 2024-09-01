@@ -985,8 +985,6 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 
 ## 📧 Newsletters
 
-Try gathering all your favourite newsletters into [Newsletry](https://newsletry.com/) (Inoreader for newsletters).
-
 -   [AI News](https://buttondown.email/ainews) ← daily summary of AI discords + top Twitter accounts
 -   [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters) ← curated list of awesome newsletters
 -   [Bullets.news](https://bullets.news/) ← scientific papers summarized in few bullet points
@@ -997,6 +995,7 @@ Try gathering all your favourite newsletters into [Newsletry](https://newsletry.
 -   [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) ← subscribe to weekly/daily sets of trending repositories from different languages
 -   [Hacker Newsletter](https://hackernewsletter.com/) ← weekly newsletter of best posts from Hacker News
 -   [Highbrow](https://gohighbrow.com/) ← choose a topic to learn and receive a daily message
+-   [Infopigula](https://infopigula.pl/) (🇵🇱) ← the most important polish/global news in a nutshell
 -   [Inside](https://inside.com/) ← daily newsletters on different topics. For example, check out [Inside AI](https://inside.com/ai)
 -   [James Clear](https://jamesclear.com/newsletter) ← apply better habits in your life (from the author of Atomic Habits)
 -   [KubeWeekly](https://www.cncf.io/kubeweekly/) ← weekly newsletter for all things Kubernetes and beyond
