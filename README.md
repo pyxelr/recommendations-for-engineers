@@ -511,7 +511,7 @@ My private Obsidian would be there, but I prefer to share only the most relevant
 
 ### jobs
 
--   [CalmJobs](http://calmjobs.io/) ← job board of companies who value work-life balance
+-   [CalmJobs](https://calm-jobs.com/) ← job board of companies who value work-life balance
 -   [DataJobs](https://datajobs.com/) ← jobs on the US market
 -   [Indeed](https://www.indeed.com/) ← worldwide job search
 -   [Kaggle jobs](https://www.kaggle.com/jobs) ← job board on Kaggle
@@ -1202,6 +1202,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [ExtendsClass](https://extendsclass.com/) ← toolbox for web designers and webmasters
 -   [favicon.cc](https://www.favicon.cc/) ← favicon.ico generator
 -   [GTmetrix](https://gtmetrix.com/) ← website performance checker
+-   [JSONing](https://jsoning.com/) ← collection of free online JSON tools for web developers
 -   [Layoutit Grid](https://grid.layoutit.com/) ← quickly draw down web pages layouts with our clean editor, and get HTML and CSS code
 -   [Nu HTML checker](https://validator.w3.org/nu/#textarea) ← validate HTML
 -   [Tiny Helpers](https://tiny-helpers.dev/) ← collection of free single-purpose online tools for web developers
@@ -1215,6 +1216,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [DevDocs](https://devdocs.io/) ← API documentation browser
 -   [free-for.dev](https://free-for.dev/) ← list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
 -   [json.pizza](https://json.pizza/) ← beautify your JSON code
+-   [pyrexp](https://pythonium.net/regex) ← online regex tester and visualizer for Python
 -   [regex101](https://regex101.com/) ← online regex tester and debugger
 -   [StackEdit](https://stackedit.io/) ← visual Markdown editor
 
