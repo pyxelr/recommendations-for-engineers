@@ -511,6 +511,7 @@ My private Obsidian would be there, but I prefer to share only the most relevant
 
 ### jobs
 
+-   [CalmJobs](https://calm-jobs.com/) ← job board of companies who value work-life balance
 -   [DataJobs](https://datajobs.com/) ← jobs on the US market
 -   [Indeed](https://www.indeed.com/) ← worldwide job search
 -   [Kaggle jobs](https://www.kaggle.com/jobs) ← job board on Kaggle
