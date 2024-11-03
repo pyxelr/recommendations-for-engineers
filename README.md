@@ -519,6 +519,7 @@ My private Obsidian would be there, but I prefer to share only the most relevant
 -   [Remote Jobs](https://remotehub.io/) ← browse 1,900+ remote companies and learn about their team, benefits, work culture and more
 -   [StatsJobs](https://www.statsjobs.com/) ← jobs for statisticians
 -   [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/) ← carefully curated content to help you ace your next technical interview with a focus on algorithms
+-   [Hired Jobs](https://www.hired.co.ke) ← For both onsite and remote jobs.
 
 #### tools
 
