@@ -698,6 +698,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 -   [ShortcutFoo](https://www.shortcutfoo.com/) ← fun way to memorise shortcuts and commands
 -   [SuperMemo](https://super-memo.com/supermemo18.html) ← more advanced tool over Anki, including the incremental reading feature. The author also dedicated a lot of time into the [science behind the learning topic](http://www.super-memory.com/)
 -   [Tinycards](https://tinycards.duolingo.com/) ← flashcard app from the creators of Duolingo
+-   [Rember](https://www.rember.com) ← A simple yet powerful spaced repetition system designed to help you remember more. Rember uses AI to automatically generate cards and synchronizes across desktop and mobile.
 
 ### languages
 
