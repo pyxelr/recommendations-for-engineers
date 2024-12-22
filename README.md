@@ -1339,6 +1339,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [Parts of speech](https://parts-of-speech.info/) ← categorise words based on similar grammatical properties (noun, verb, adjective, etc.)
 -   [Power Thesaurus](https://www.powerthesaurus.org/) ← synonym finder
 -   [Readable](https://www.webfx.com/tools/read-able/) ← perform the ultimate readability test (base on Flesch Kincaid Reading Ease, SMOG Index and more...)
+-   [TextCraft](https://github.com/suncloudsmoon/TextCraft) ← an AI-powered Microsoft Word add-in for text generation, proofreading, and more.
 -   [Word Frequency Counter](http://www.writewords.org.uk/word_count.asp) ← paste in the text and find out if you're not overusing particular words
 -   [ZoteroBib](https://zbib.org/) ← web bibliography manager. Also, check the [cross-platform version](https://www.zotero.org/)
 
