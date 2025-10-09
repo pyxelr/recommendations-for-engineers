@@ -1372,6 +1372,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) ← ethical hacking tutorials
 -   [John Hammond](https://www.youtube.com/user/RootOfTheNull) ← tutorials and videos on lots of programming languages
 -   [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) ← preparing for CTFs
+-   [Low Level](https://www.youtube.com/@LowLevelTV) ← cyber security + software security
 -   [Mateusz Chrobok](https://www.youtube.com/c/MateuszChrobok) (🇵🇱) ← channel of a CyberSecurity Geek
 -   [Niebezpiecznik](https://www.youtube.com/channel/UCe6nK69Yc1zna7QSJEfA9pw) (🇵🇱) ← cybersecurity channel
 
@@ -1398,6 +1399,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 ### devops/mlops
 
 -   [ByteByteGo](https://www.youtube.com/@ByteByteGo) ← topics and trends in large-scale system design
+-   [DevOps Toolbox](https://www.youtube.com/@devopstoolbox) ← CLI, Tmux, Neovim , Dev, Sec, and Ops, everything that's fun!
 -   [DevOps Toolkit](https://www.youtube.com/c/DevOpsToolkit) ← channel of a passionate DevOps who keeps us up with the most recent DevOps tools
 -   [MLOps.community](https://www.youtube.com/c/MLOpscommunity/) ← Machine Learning Operations best practices from engineers in the field
 
@@ -1465,6 +1467,7 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
 -   [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) ← videos from open-source community
 -   [Gaurav Sen](https://www.youtube.com/c/GauravSensei/) ← one of the most talented YouTube teachers of Competitive programming, System design and Artificial intelligence
 -   [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g) ← LeetCode challenges solver
+-   [Modern Software Engineering](https://www.youtube.com/@ModernSoftwareEngineeringYT) ← learn about the most important techniques in software development
 -   [Pasja Informatyki](https://www.youtube.com/user/MiroslawZelent) (🇵🇱) ← general IT/psychology channel
 -   [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge) ← one of the most varied programming channel
 -   [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA) ← lots of videos on Python, JavaScript, C#
