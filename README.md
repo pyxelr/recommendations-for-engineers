@@ -1163,8 +1163,8 @@ I recommend listening to all podcasts through [Pocket Casts web/mobile app](http
     -   [RStudio](https://rstudio.com/) ← R IDE
 -   [Google Colab](https://colab.research.google.com/) ← alternative to Jupyter Notebook. Run your code entirely in the browser and improve the model learning time by leveraging Google's GPU/TPU
 -   [PyCharm](https://www.jetbrains.com/pycharm/) ← more robust Python IDE
--   [Sublime Text](https://www.sublimetext.com/) ← the most optimised text editor with a package control
 -   [Visual Studio Code](https://code.visualstudio.com/) ← highly extensible IDE from Microsoft (explained thoroughly in [My VS Code Playground](https://pawelcislo.com/2021/11/14/my-vs-code-playground/) blog post)
+-   [Zed](https://github.com/zed-industries/zed) ← open-source code editor written in Rust (my replacement for Sublime Text)
 
 ### online tools
 
