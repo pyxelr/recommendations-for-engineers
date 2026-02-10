@@ -39,8 +39,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## 🌐 Blogs
 
-It's best to collect all your favourite sites into the RSS feed reader like [Inoreader](https://inoreader.com/).  
-You can also discover more tech blogs with [Blogging for Devs](https://bloggingfordevs.com/trends/).
+> [!TIP]
+> It's best to collect all your favourite sites into the RSS feed reader like [Inoreader](https://inoreader.com/).  
+> You can also discover more tech blogs with [Blogging for Devs](https://bloggingfordevs.com/trends/).
 
 ### business
 
@@ -145,7 +146,8 @@ You can also discover more tech blogs with [Blogging for Devs](https://bloggingf
 
 ## 📚 Books
 
-For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/list/57442889).
+> [!NOTE]
+> For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/list/57442889).
 
 ### biographies
 
@@ -293,7 +295,8 @@ For more, visit [my bookshelf on Goodreads](https://www.goodreads.com/review/lis
 
 ### programming
 
-Mostly universal (language-independent books).
+> [!NOTE]
+> Mostly universal (language-independent books).
 
 - [A Philosophy of Software Design](https://www.goodreads.com/book/show/43701534-a-philosophy-of-software-design)
 - [Architecture Patterns with Python: How to Apply DDD, Ports and Adapters, and Enterprise Architecture Design Patterns in a Pythonic Way](https://www.goodreads.com/book/show/50083115-architecture-patterns-with-python)
@@ -463,7 +466,8 @@ Mostly universal (language-independent books).
 
 ## 📊 Data Science
 
-[Subscribe to my newsletter](http://eepurl.com/dDqG-z) to find out even more inspiring stuff to help you with your analytics!
+> [!NOTE]
+> [Subscribe to my newsletter](http://eepurl.com/dDqG-z) to find out even more inspiring stuff to help you with your analytics!
 
 ### cheatsheets
 
@@ -668,7 +672,8 @@ As there are many, I highly encourage you to check my custom feeds:
 
 ## 📰 IT News
 
-All the mentioned sites are mostly free of clickbait and offer the triumph of form over content.
+> [!NOTE]
+> All the mentioned sites are mostly free of clickbait and offer the triumph of form over content.
 
 - [Ars Technica](https://arstechnica.com/)
 - [dobreprogramy](https://www.dobreprogramy.pl/) (🇵🇱) ← one of the most popular Polish sites
@@ -1022,7 +1027,8 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 
 ## 🎧 Podcasts
 
-I recommend listening to all podcasts through [Pocket Casts web/mobile app](https://www.pocketcasts.com/).
+> [!TIP]
+> I recommend listening to all podcasts through [Pocket Casts web/mobile app](https://www.pocketcasts.com/).
 
 ### business
 
