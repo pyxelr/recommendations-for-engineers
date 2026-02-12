@@ -40,7 +40,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## 🌐 Blogs
 
 > [!TIP]
-> It's best to collect all your favourite sites into the RSS feed reader like [Inoreader](https://inoreader.com/).  
+> It's best to collect all your favourite sites into an RSS feed reader like [Inoreader](https://inoreader.com/).  
 > You can also discover more tech blogs with [Blogging for Devs](https://bloggingfordevs.com/trends/).
 
 ### business
@@ -62,7 +62,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mr.d0x](https://mrd0x.com/) ← red team & security research notes
 - [Niebezpiecznik](https://niebezpiecznik.pl/) (🇵🇱) ← most popular Polish blog on cybersecurity
 - [Paged Out!](https://pagedout.institute/) ← free magazine on programming with a focus on hacking
-- [Security Through Education](https://www.social-engineer.org/blog/) ← blog on human engineering
+- [Security Through Education](https://www.social-engineer.org/blog/) ← blog on social engineering
 - [Sekurak](https://sekurak.pl/) (🇵🇱) ← for more technical profiles
 - [The Hacker News](https://thehackernews.com/) ← latest cybersecurity news
 - [Zaufana Trzecia Strona](https://zaufanatrzeciastrona.pl/) (🇵🇱)
@@ -79,18 +79,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [colah's blog](https://colah.github.io/) ← great explanations of more advanced topics
 - [Datafloq](https://datafloq.com/read/) ← big data news
 - [DataGenetics](http://datagenetics.com/blog.html) ← data decoded, value unlocked
-- [David Does Data](https://josephsdavid.github.io/) ← high-quality posts from aspiring data scientist
+- [David Does Data](https://josephsdavid.github.io/) ← high-quality posts from an aspiring data scientist
 - [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/) ← using ML and quantum physics
 - [deepsense.ai](https://deepsense.ai/blog/) ← blog from a team of business-oriented problem solvers
 - [Distill](https://distill.pub/) ← interactive, visual journal for machine learning research
 - [Econometrics and Free Software](https://www.brodrigues.co/) ← blog focused on R from the economist holding a PhD
 - [FlowingData](https://flowingdata.com/) ← blog on data visualisation
-- [Go Practice](https://gopractice.io/blog/) ← essays on how data helps building and growing products
+- [Go Practice](https://gopractice.io/blog/) ← essays on how data helps build and grow products
 - [Information is Beautiful](https://informationisbeautiful.net/) ← see it with your own eyes
 - [Jak badać dane](https://www.jakbadacdane.pl/) (🇵🇱) ← data, ML, AI
 - [Jay Alammar](https://jalammar.github.io/) ← blog with lots of simple ML visualisations
 - [luminousmen](https://luminousmen.com/) ← short posts on ML/Python
-- [Łukasz Prokulski](http://prokulski.net/) (🇵🇱) ← lots of data use cases with step by step analysis in R
+- [Łukasz Prokulski](http://prokulski.net/) (🇵🇱) ← lots of data use cases with step-by-step analysis in R
 - [Machine Learning Mastery](https://machinelearningmastery.com/blog/) ← popular blog on ML with lots of content to learn from
 - [Mateusz Grzyb](https://mateuszgrzyb.pl/) (🇵🇱) ← data analysis in Python
 - [Peter Laurinec](https://petolau.github.io/) ← time series data mining in R from a PhD researcher
@@ -355,7 +355,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [F.B.(FluffBusting)Purity](https://www.fbpurity.com/) ← customise (clean) your Facebook
 - [Git History Browser Extension](https://github.com/LuisReinoso/git-history-browser-extension) ← add "Open in Git History" button to GitHub repos
 - [GitHub Repository Size](https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci) ← add repository size to GitHub's repository summary
-- [Github Web IDE](https://github.com/zvizvi/Github-Web-IDE) ← add a new drop down menu to any Github repository to browse the source code in a number of online IDEs
+- [Github Web IDE](https://github.com/zvizvi/Github-Web-IDE) ← add a new drop-down menu to any GitHub repository to browse the source code in a number of online IDEs
 - [Grammarly](https://app.grammarly.com/) ← very extensive tool to proofread English grammar
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere) ← force HTTPS if possible
 - [Hypothesis - Web & PDF Annotation](https://web.hypothes.is/) ← open-source tool to highlight/annotate the text you read online and in the scientific papers. It's a great way to organize your research, as well as hold discussions about your annotations with other users [like me](https://hypothes.is/users/pyxelr)
@@ -365,14 +365,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Modern for Wikipedia](https://chrome.google.com/webstore/detail/modern-for-wikipedia/emdkdnnopdnajipoapepbeeiemahbjcn) ← redesigned user interface for Wikipedia
 - [Nimbus Capture](https://nimbusweb.me/screenshot.php) ← advanced screenshot tool for Google Chrome
 - [OneTab](https://www.one-tab.com/) ← save up to 95% memory by moving all open tabs into a single one in Google Chrome
-- [PocketTube](https://pockettube.io/) ← Youtube Subscription Manager. Already does a lot of work with automatic tags
+- [PocketTube](https://pockettube.io/) ← YouTube Subscription Manager. Already does a lot of work with automatic tags
 - [Power Thesaurus](https://chrome.google.com/webstore/detail/power-thesaurus/hhnjkanigjoiglnlopahbbjdbfhkndjk) ← find synonyms and antonyms to improve your writing
 - [Privacy Badger](https://www.eff.org/privacybadger) ← block invisible trackers
 - [Reedy](https://reedy.azagroup.ru/) ← speed reading with RSVP (Rapid Serial Visual Presentation) technique
 - [Refined Twitter](https://github.com/sindresorhus/refined-twitter) ← simplify Twitter UI and add useful features
 - [Return YouTube Dislike](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi) ← return ability to see dislikes
 - [Session Buddy](https://sessionbuddy.com/) ← manage browser sessions
-- [SponsorBlock](https://sponsor.ajay.app/) ← skip sponsor segments in YouTube videos)
+- [SponsorBlock](https://sponsor.ajay.app/) ← skip sponsor segments in YouTube videos
 - [Sourcegraph](https://docs.sourcegraph.com/integration/browser_extension) ← add code intelligence to GitHub and other code hosts
 - [Stylus](https://add0n.com/stylus.html) ← user-style manager
 - [Tab Resize - split screen layouts](https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc) ← resize the current tab and tabs to the right into layouts on separate windows
@@ -401,7 +401,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### tools
 
 - [ahrefs](https://ahrefs.com/) ← research your competitors
-- [Bitcoin Regret Club](https://bitcoinregret.club/calculate-regret) ← check how much would you earn/lose if you would invest into Bitcoin on the chosen date
+- [Bitcoin Regret Club](https://bitcoinregret.club/calculate-regret) ← check how much you would earn/lose if you invested in Bitcoin on the chosen date
 - [BuzzSumo](https://buzzsumo.com/) ← analyze what content performs best for any topic or competitor
 - [Calendly](https://calendly.com/) ← schedule appointments
 - [CoSchedule](https://coschedule.com/) ← schedule online posts/marketing
@@ -428,9 +428,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [CTFtime](https://ctftime.org/) ← CTF archive, current overall Capture The Flag team rating, per-team statistics etc.
 - [Google CTF](https://capturetheflag.withgoogle.com/) ← CTF organised by Google with different challenges to practice
 - [Hacker101](https://www.hacker101.com/) ← free class for web security
-- [Hacksplaining](https://www.hacksplaining.com/lessons) ← interactive lessons to present the most typical cybersecurity attacks. Afterwards, the site presents an extended article with the ways of how to protect ourselves from the particular vulnerability
+- [Hacksplaining](https://www.hacksplaining.com/lessons) ← interactive lessons to present the most typical cybersecurity attacks. Afterwards, the site presents an extended article with ways to protect ourselves from the particular vulnerability
 - [Hack The Box](https://www.hackthebox.eu/) ← online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field
-- [HackTricks](https://book.hacktricks.xyz/) ← collection of hacking tricks & techniques that the author have learnt in CTFs, real life apps, and by reading researches and news
+- [HackTricks](https://book.hacktricks.xyz/) ← collection of hacking tricks & techniques that the author has learnt in CTFs, real-life apps, and by reading research and news
 - [pwn.college](https://pwn.college/) ← education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ← collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more
 - [TryHackMe](https://tryhackme.com/) ← cybersecurity guides and challenges in your browser
@@ -447,14 +447,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Have I Been Pwned](https://haveibeenpwned.com/) ← check if you have an account that has been compromised in a data breach
   - [Firefox Monitor](https://monitor.firefox.com/) ← the same tool from Firefox
   - [We Leak Info](https://weleakinfo.com/) ← data breach search engine
-- [Hybrid Analysis](https://hybrid-analysis.com//) ← analyse malware for free in the browser
+- [Hybrid Analysis](https://hybrid-analysis.com/) ← analyse malware for free in the browser
 - [I know what you download](https://iknowwhatyoudownload.com/en/peer/) ← torrent downloads and distributions for chosen IP
 - [IP Info](https://ip.voidsec.com/) ← check if your VPN leaks information
 - [Pi-Hole](https://pi-hole.net/) ← adblock for the whole network (requires: router + raspberry pi)
 - [PrivacyTools](https://www.privacytools.io/) ← set of services, tools, and knowledge to protect your privacy
   - [PRISM Break](https://prism-break.org/) ← set of privacy tools (categorised by operating systems)
   - [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting) ← curated list of privacy respecting services and software
-- [Redirect Checker](https://www.redirect-checker.org/) ← check your redirects and statuscode
+- [Redirect Checker](https://www.redirect-checker.org/) ← check your redirects and status code
 - [Shodan](https://www.shodan.io/) ← search engine of IoT
 - [Tails](https://tails.boum.org/) ← privacy OS for pendrive (protects your privacy and offers all sorts of apps to do so, like Tor, Thunderbird and PGP)
 - [Temp Mail](https://temp-mail.org/en/) ← create a temporary anonymous e-mail
@@ -484,7 +484,7 @@ My private Obsidian would be there, but I prefer to share only the most relevant
 - [50 Best Free Datasets for ML](https://www.telusinternational.com/insights/ai-data/article/the-50-best-free-datasets-for-machine-learning)
 - [100,000 Faces Generated by AI](https://generated.photos/)
 - [Academic Torrents](http://academictorrents.com/browse.php?cat=6&sort_field=times_completed&sort_dir=DESC)
-- [Apollo Scape](http://apolloscape.auto/scene.html) ← RGB videos with high resolution image sequences and per pixel annotation, survey-grade dense 3D points with semantic segmentation
+- [Apollo Scape](http://apolloscape.auto/scene.html) ← RGB videos with high-resolution image sequences and per-pixel annotation, survey-grade dense 3D points with semantic segmentation
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [AWS Public Datasets](https://aws.amazon.com/public-datasets/)
 - [Berkeley DeepDrive BDD100k](https://bdd-data.berkeley.edu/) ← 100,000 HD video sequences of over 1,100-hour driving experience across many different times in the day, weather conditions, and driving scenarios. Video sequences also include GPS locations, IMU data, and timestamps
@@ -499,7 +499,7 @@ My private Obsidian would be there, but I prefer to share only the most relevant
 - [Google BigQuery](https://www.reddit.com/r/bigquery/wiki/datasets) ← public datasets from Google
 - [Google Dataset Search](https://datasetsearch.research.google.com/) ← search engine of datasets from Google
 - [Grouplens datasets](https://grouplens.org/datasets/movielens/)
-- [HealthData](https://healthdata.gov/) ← high value health data
+- [HealthData](https://healthdata.gov/) ← high-value health data
 - [How readers browse Wikipedia](https://blog.wikimedia.org/2018/01/16/wikipedia-rabbit-hole-clickstream/)
 - [Kaggle datasets](https://www.kaggle.com/datasets)
 - [List of lists with datasets](https://www.dataandsons.com/data-market/categories)
@@ -542,19 +542,19 @@ My private Obsidian would be there, but I prefer to share only the most relevant
 - [Deep Learning Monitor](https://deeplearn.org/) ← find new Arxiv papers, tweets and Reddit posts for you
 - [Dive into Deep Learning](https://d2l.ai/) ← interactive deep learning book with code, math, and discussions, based on the NumPy interface
 - [Explained Visually](http://setosa.io/ev/) ← interactive visualisations
-- [Kaggle](https://www.kaggle.com/) ← home of data science for competitions, datasets, coursers, notebooks and discussions
+- [Kaggle](https://www.kaggle.com/) ← home of data science for competitions, datasets, courses, notebooks and discussions
 - [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/) ← blog post, which explains the most critical concepts in a funny and practical way. You won't be bored reading it, and it might take you around 30-40 mins
-- [Machine Learning on Coursera](https://www.coursera.org/learn/machine-learning) ← the must check course by Andrew Ng
+- [Machine Learning on Coursera](https://www.coursera.org/learn/machine-learning) ← the must-check course by Andrew Ng
 - [Machine Learning Study Path March 2019](https://github.com/clone95/Machine-Learning-Study-Path-March-2019) ← GitHub repository with complete ML study path, focused on TensorFlow and Scikit-Learn
-- [Machine Learning with AWS](https://aws.amazon.com/training/learning-paths/machine-learning/) ← free digital curriculum used to train Amazon’s developers and data scientists. You can end it up with a paid professional certification straight from AWS
+- [Machine Learning with AWS](https://aws.amazon.com/training/learning-paths/machine-learning/) ← free digital curriculum used to train Amazon’s developers and data scientists. You can end up with a paid professional certification straight from AWS
 - [Made with ML](https://madewithml.com/) ← platform for the ML community to learn, discover, share & organize content
 - [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) ← YouTube playlist of four (20 mins videos) explaining the theory behind neural networks (by 3blue1brown)
 - [Papers with Code](https://paperswithcode.com/) ← free and open resource with Machine Learning papers, code and evaluation tables
 
 ### news
 
-- [Data Science Central](https://www.datasciencecentral.com/) ← more of a social network for data passionates
-- [DataTau](http://www.datatau.net/) ← Hacker News like. Still growing, but I prefer it mostly for the concise design
+- [Data Science Central](https://www.datasciencecentral.com/) ← more of a social network for data enthusiasts
+- [DataTau](http://www.datatau.net/) ← Hacker News-like. Still growing, but I prefer it mostly for the concise design
 - [KDnuggets](https://www.kdnuggets.com/) ← hub for news, jobs and more, just like Data Science Central
 - [Towards Data Science](https://towardsdatascience.com/) ← Medium for DS
 - [Twitter](https://twitter.com/) ← you can start with [#datascience](https://twitter.com/hashtag/datascience?lang=en) or [Follow Friday](https://followfriday.io/) (AI)
@@ -677,7 +677,7 @@ As there are many, I highly encourage you to check my custom feeds:
 
 - [Ars Technica](https://arstechnica.com/)
 - [dobreprogramy](https://www.dobreprogramy.pl/) (🇵🇱) ← one of the most popular Polish sites
-- [Hacker News](https://news.ycombinator.com/) ← my top resource with high quality content and discussions. Check out [my dark theme](https://github.com/pyxelr/hacker-news-bluish-gray) to save your eyes
+- [Hacker News](https://news.ycombinator.com/) ← my top resource with high-quality content and discussions. Check out [my dark theme](https://github.com/pyxelr/hacker-news-bluish-gray) to save your eyes
 - [Slashdot](https://slashdot.org/)
 - [TechCrunch](https://techcrunch.com/)
 - [The Hacker News](https://thehackernews.com/) ← cybersecurity news
@@ -688,7 +688,7 @@ As there are many, I highly encourage you to check my custom feeds:
 
 - [Brilliant](https://brilliant.org/) ← replace lecture videos with hands-on, interactive problem solving
 - [Hypothesis](https://web.hypothes.is/) ← open-source tool to highlight/annotate the text you read online and in the scientific papers. It's a great way to organize your research, as well as hold discussions about your annotations with other users [like me](https://hypothes.is/users/pyxelr)
-- [Polar Bookshelf](https://github.com/burtonator/polar-bookshelf) ← open-source tool to annotate PDF documents and websites and later turn them into Anki flashcards. It's a quite unique alternative to Hypothesis
+- [Polar Bookshelf](https://github.com/burtonator/polar-bookshelf) ← open-source tool to annotate PDF documents and websites and later turn them into Anki flashcards. It's quite a unique alternative to Hypothesis
 - [Researcher](https://www.researcher-app.com/) ← feed for scientific papers
 - [Simple Wikipedia](https://simple.wikipedia.org/wiki/Main_Page) ← Wikipedia articles explained in simple words
 
@@ -745,7 +745,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 - [AI Explorables](https://pair.withgoogle.com/explorables/) ← big ideas in machine learning, simply explained by Google
 - [Explained Visually](http://setosa.io/ev/) ← interactive visualisations
 - [Explorable Explanations](https://explorabl.es/all/) ← hub for learning through interactive online games. Make sure to check out more from [Nicky Case!](https://ncase.me/)
-- [Explorable Physics](https://landgreen.github.io/physics/index.html) ← course notes for algebra based physics with explorable explanations
+- [Explorable Physics](https://landgreen.github.io/physics/index.html) ← course notes for algebra-based physics with explorable explanations
 - [Neal.fun](https://neal.fun/) ← lots of interactive educational/interesting comparisons
 - [Prajwal DSouza](https://prajwalsouza.github.io/) ← simulations related to Math, Physics and Computer Science
 
@@ -759,7 +759,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 - [Peek](https://github.com/phw/peek) ← animated GIF recorder for Linux
 - [termtosvg](https://github.com/nbedos/termtosvg) ← record terminal sessions as SVG animations
 - [UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) ← run a Linux distribution or application on Android (without root)
-- [WebVM](https://webvm.io/) ← server-less virtual Linux env running client-side in HTML5/WebAssembly
+- [WebVM](https://webvm.io/) ← serverless virtual Linux env running client-side in HTML5/WebAssembly
 - [Wine](https://www.winehq.org/) ← compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS, & BSD
 - [xxh](https://github.com/xxh/xxh) ← bring your favorite shell wherever you go through ssh
 
@@ -769,7 +769,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 
 - [bat](https://github.com/sharkdp/bat) ← cat(1) clone with wings
 - [broot](https://github.com/Canop/broot) ← new way to see and navigate directory trees
-- [CommandLineFu](https://www.commandlinefu.com/commands/browse)← share & browse Linux CLI one-liners
+- [CommandLineFu](https://www.commandlinefu.com/commands/browse) ← share & browse Linux CLI one-liners
 - [crontab guru](https://crontab.guru/) ← quick and simple editor for cron schedule expressions
 - [eza](https://github.com/eza-community/eza) ← modern replacement for `ls`
 - [explainshell](https://explainshell.com/) ← match CLI arguments to their help text
@@ -790,7 +790,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [tree](http://mama.indstate.edu/users/ice/tree/) ← display directories as trees (with optional color/HTML output)
 - [zsh](https://www.zsh.org/) ← shell designed for interactive use, although it is also a powerful scripting language
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) ← fish-like autosuggestions for Zsh
-- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) ← fish shell like syntax highlighting for Zsh
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) ← Fish-shell-like syntax highlighting for Zsh
 
 #### devops/mlops
 
@@ -871,14 +871,14 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [Mathematics For Machine Learning](https://mml-book.github.io/) ← free book in a PDF format
 - [Mathigon](https://mathigon.org/) ← interactive math online
 - [Math is Fun](https://www.mathsisfun.com/) ← easy mathematical explanations
-- [OnlineStatBook](http://onlinestatbook.com/2/index.html) ← easy to understand book about math (in my opinion). It is best to go through the online version as it contains some exercises
+- [OnlineStatBook](http://onlinestatbook.com/2/index.html) ← easy-to-understand book about math (in my opinion). It is best to go through the online version as it contains some exercises
 
 ### tools
 
 - [Desmos](https://www.desmos.com/calculator) ← graphing calculator. You can create visualisations close to 3blue1brown style (such as [[1]](https://www.desmos.com/calculator/p3cqhpvjld) or [[2]](https://www.desmos.com/calculator/pocv58hhrf))
 - [Manim](https://github.com/3b1b/manim) ← generate explanatory animations for your math videos (created by [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw))
 - [Mathway](https://www.mathway.com/Algebra) ← algebra problem solver
-- [Symbolab](https://www.symbolab.com/) ← step by step solver
+- [Symbolab](https://www.symbolab.com/) ← step-by-step solver
 - [WolframAlpha](https://www.wolframalpha.com/) ← ultimate online calculator
 
 **[⬆ Back to Contents](#contents)**
@@ -887,22 +887,22 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 
 - [AdGuard](https://adguard.com/en/products.html) ← get rid of intrusive ads and online tracking
 - [Algorithms: Explained and Animated](https://play.google.com/store/apps/details?id=wiki.algorithm.algorithms) ← great representation of various algorithms
-- [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki) ← learn any topic using active learning and spaced repetition. Before using the mobile app, I strongly suggest to set up your account and decks of cards using the [PC app](https://apps.ankiweb.net/). Also, make sure to check the [public decks shared from my side](https://github.com/pyxelr/my-anki-decks-of-flashcards)
+- [AnkiDroid Flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki) ← learn any topic using active learning and spaced repetition. Before using the mobile app, I strongly suggest setting up your account and decks of cards using the [PC app](https://apps.ankiweb.net/). Also, make sure to check the [public decks shared from my side](https://github.com/pyxelr/my-anki-decks-of-flashcards)
 - [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free) ← best free screen recorder (though, I have switched to Android's built-in "Screen recorder")
 - [Backdrops](https://backdrops.io/) ← my favorite high-quality wallpaper app
 - [Boost for reddit](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) ← Reddit client
 - [Brilliant](https://brilliant.org/) ← replace lecture videos with hands-on, interactive problem solving
 - [Calmaria](https://calmaria.app/) ← focus / breathe / relax
 - [Chess King (Learn Tactics & Solve Puzzles)](https://learn.chessking.com/) ← collection of chess education courses
-- [Cymath - Math Problem Solver](https://www.cymath.com/) ← step by step problem solver
+- [Cymath - Math Problem Solver](https://www.cymath.com/) ← step-by-step problem solver
 - [Elevate](https://www.elevateapp.com/) ← used daily can significantly improve math, reading, writing, speaking, and listening
 - [Enki](https://www.enki.com/) ← learn data science, coding, and stay on top of tech trends
 - [File Manager Plus](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager) ← my favourite file manager
 - [Foreca](https://www.foreca.com/) ← weather forecast
 - [Google Lens](https://lens.google/) ← search what you see
 - [Grasshopper](https://grasshopper.app/) ← learn JavaScript for free from Google
-- [Harmonic for Hacker News](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews) ← great looking tech news that I can read for hours
-- [HiPER Calc Scientific Calculator](https://hiperdevelopment.wixsite.com/hipercalc-android) ← high precision scientific calculator
+- [Harmonic for Hacker News](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews) ← great-looking tech news that I can read for hours
+- [HiPER Calc Scientific Calculator](https://hiperdevelopment.wixsite.com/hipercalc-android) ← high-precision scientific calculator
 - [InShot](https://inshot.com/) ← most advanced video editor
 - [lichess](https://play.google.com/store/apps/details?id=org.lichess.mobileapp) ← best open-source free chess
 - [Listen Audiobook Player](https://play.google.com/store/apps/details?id=com.acmeandroid.listen) ← my favourite Audiobook Player
@@ -960,8 +960,8 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [myNoise](https://mynoise.net/) ← create beautiful noises to mask the noises you don’t want to hear
 - [Noises.online](https://noises.online/) ← premium masking sounds
 - [Poolsuite FM](https://poolsuite.net/) ← the chillest place online: a place where it's perpetually the summer of 1997 (probably my favourite radio)
-- [Radio Garden](http://radio.garden/) ← listen to thousands of radio stations from the world using a Google Earth based menu
-- [SoundCloud](https://soundcloud.com/) ← find lots of indie music and upload your own one. Make sure to [follow me](https://soundcloud.com/pyxelr)!
+- [Radio Garden](http://radio.garden/) ← listen to thousands of radio stations from the world using a Google Earth-based menu
+- [SoundCloud](https://soundcloud.com/) ← find lots of indie music and upload your own. Make sure to [follow me](https://soundcloud.com/pyxelr)!
 - [Spotify](https://www.spotify.com/) ← stream music online
 
 ### sample packs
@@ -996,7 +996,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 
 - [AI News](https://buttondown.email/ainews) ← daily summary of AI discords + top Twitter accounts
 - [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters) ← curated list of awesome newsletters
-- [Bullets.news](https://bullets.news/) ← scientific papers summarized in few bullet points
+- [Bullets.news](https://bullets.news/) ← scientific papers summarized in a few bullet points
 - [Dane i Analizy](https://blog.prokulski.science/) (🇵🇱) ← ML, AI, devops, data analysis, Python and R
 - [Data Elixir](https://dataelixir.com/) ← weekly dose of the top data science picks from around the web. Covering machine learning, data visualization, analytics, and strategy
 - [Data Science Weekly](https://www.datascienceweekly.org/) ← featuring curated news, articles and jobs related to Data Science. You can read the [archive](https://www.datascienceweekly.org/newsletters) at any time
@@ -1005,22 +1005,22 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [Hacker News Daily](https://www.hackernewsdaily.com/) ← daily newsletter of best posts from Hacker News with AI summarizations
 - [Hacker Newsletter](https://hackernewsletter.com/) ← weekly newsletter of best posts from Hacker News
 - [Highbrow](https://gohighbrow.com/) ← choose a topic to learn and receive a daily message
-- [Infopigula](https://infopigula.pl/) (🇵🇱) ← the most important polish/global news in a nutshell
+- [Infopigula](https://infopigula.pl/) (🇵🇱) ← the most important Polish/global news in a nutshell
 - [Inside](https://inside.com/) ← daily newsletters on different topics. For example, check out [Inside AI](https://inside.com/ai)
 - [James Clear](https://jamesclear.com/newsletter) ← apply better habits in your life (from the author of Atomic Habits)
 - [KubeWeekly](https://www.cncf.io/kubeweekly/) ← weekly newsletter for all things Kubernetes and beyond
 - [learnbyexample weekly](https://learnbyexample.gumroad.com/l/learnbyexample-weekly) ← CLI, Python, Regular Expressions, Vim, etc.
 - [Machine Learning Ops Roundup](https://mlopsroundup.substack.com/) ← bringing together the best articles, news and papers about MLOps
-- [Morning Cup of Coding](https://morningcupofcoding.com/) ← daily programming newsletter featuring long form technical articles of all fields of software engineering
+- [Morning Cup of Coding](https://morningcupofcoding.com/) ← daily programming newsletter featuring long-form technical articles of all fields of software engineering
 - [Papers with Code](https://paperswithcode.com/newsletter) ← stay informed on the latest trending ML papers with code, research developments, libraries, methods, and datasets
-- [Podcast Notes](https://podcastnotes.org/) ← summary of podcasts in few bullet points
+- [Podcast Notes](https://podcastnotes.org/) ← summary of podcasts in a few bullet points
 - [Product Hunt Daily](https://www.producthunt.com/newsletter) ← a daily digest of the best of Product Hunt, created by your friends
 - [Superhuman](https://www.superhuman.ai/) ← popular AI newsletter
 - [The Batch](https://read.deeplearning.ai/the-batch/) ← stay updated with weekly AI News and Insights from DeepLearning.AI
 - [The Data Science Roundup](http://roundup.fishtownanalytics.com/) ← internet's most useful data science articles
 - [The Overflow](https://stackoverflow.blog/newsletter/) ← newsletter by developers, for developers
 - [TLDR Newsletter](https://tldr.tech/) ← daily 5-minute e-mails on selected categories (AI, DevOps, IT, ...)
-- [unknowNews](https://unknow.news/) (🇵🇱) ← weekly newsletter. Check its [archive](https://news.mrugalski.pl/) or [search engine](https://www.uw7.org/szukaj/) for the past sendings
+- [unknowNews](https://unknow.news/) (🇵🇱) ← weekly newsletter. Check its [archive](https://news.mrugalski.pl/) or [search engine](https://www.uw7.org/szukaj/) for the past issues
 - [Unreadit/Tech](https://unreadit.com/n/tech/) ← Reddit content on tech
 
 **[⬆ Back to Contents](#contents)**
@@ -1042,7 +1042,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 
 ### cybersecurity
 
-- [Breaking Badness](https://www.domaintools.com/resources/podcasts) ← where timely and relevant security news meets ninja jokes and sit down comedy
+- [Breaking Badness](https://www.domaintools.com/resources/podcasts) ← where timely and relevant security news meets ninja jokes and sit-down comedy
 - [Cyber Security Headlines](https://cisoseries.com/category/podcast/cyber-security-headlines/) ← six-minute news podcast available every weekday
 - [Daily Information Security Podcast ("StormCast")](https://isc.sans.edu/podcast.html) ← daily 5-10 minute information security threat updates
 - [Darknet Diaries](https://darknetdiaries.com/) ← true stories from the dark side of the internet
@@ -1095,7 +1095,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 
 - [Ben Greenfield Fitness](https://bengreenfieldfitness.com/) ← fitness advice
 - [Bulletproof Radio](https://blog.daveasprey.com/category/podcasts/) ← biohacker podcast by Dave Asprey
-- [Huberman Lab](https://hubermanlab.libsyn.com/) ← analysis of Neuroscience: how our brain and its connections with the organs of our body controls our perceptions, our behaviors, and our health
+- [Huberman Lab](https://hubermanlab.libsyn.com/) ← analysis of neuroscience: how our brain and its connections with the organs of our body control our perceptions, our behaviors, and our health
 - [TedTalks Health](https://www.ted.com/talks?topics%5B%5D=health)
 
 ### programming
@@ -1103,7 +1103,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [Andrzej on Software](https://www.spreaker.com/show/andrzej-krzywdas-show) ← software, including but not limited to Ruby, JS, OOP, DDD, CQRS, AI, business, sales, marketing
 - [DevelopersHangout](http://www.developershangout.io/) ← discussions of topics about coding and all that comes with it
 - [Developer Tea](https://spec.fm/podcasts/developer-tea) ← short podcast for developers
-- [Devsession](https://devsession.pl/) (🇵🇱) ← from programmer for programmers
+- [Devsession](https://devsession.pl/) (🇵🇱) ← from a programmer for programmers
 - [DevTalk](https://devtalk.pl/) (🇵🇱) ← podcast for programmers
 - [Retrospektywa](https://www.retrospektywa.com/) (🇵🇱) ← talks about IT projects
 - [The Real Python Podcast](https://realpython.com/podcasts/rpp/) ← interviews, coding tips, and conversation with guests from the Python community
@@ -1115,7 +1115,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch) ← open-source time tracker (alternative to RescueTime)
 - [Box Breathing Exercise](https://breathe.vividwell.com/) ← take a break, breathe and calm down
-- [DeepL](https://www.deepl.com/translator) ← AI based translator (imho, better than Google Translator)
+- [DeepL](https://www.deepl.com/translator) ← AI based translator (imho, better than Google Translate)
 - [Effective Engineer Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) ← quick read on how to be effective and get things done
 - [Focusmate](https://www.focusmate.com/) ← let others watch you while you work
 - [Focus Sounds](https://github.com/pyxelr/recommendations-for-engineers#listen) ← navigate to the ["Music" section](https://github.com/pyxelr/recommendations-for-engineers#listen) of this list
@@ -1123,16 +1123,16 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [Intention](https://www.getintention.com/) ← Chrome extension to stop visiting distractive websites
 - [Leave Me Alone](https://leavemealone.app/) ← see all of your subscription emails in one place and unsubscribe from them with a single click
 - [lofi.cafe](https://lofi.cafe/) ← online radio to focus and relax
-- [Make](https://www.make.com/en) ← automate various tasks (more advanced than [IFTT](https://ifttt.com/) and 2.5x cheaper than [Zapier](https://zapier.com/))
-- Monochrome mode (grayscale mode) activation on your mobile device ← attract yourself less to the colourless screen
+- [Make](https://www.make.com/en) ← automate various tasks (more advanced than [IFTTT](https://ifttt.com/) and 2.5x cheaper than [Zapier](https://zapier.com/))
+- Monochrome mode (grayscale mode) activation on your mobile device ← be less attracted to the colourless screen
 - [Obsidian](https://obsidian.md/) ← my favourite powerful knowledge base (note-taking tool) that works on top of a local folder of plain text Markdown files
-- [OneNote Desktop](https://www.onenote.com/download) ← note-taking tool from Microsoft (desktop version is much more feature-rich over the UWP app)
+- [OneNote Desktop](https://www.onenote.com/download) ← note-taking tool from Microsoft (desktop version is much more feature-rich than the UWP app)
   - [Office OneNote Gem Add-Ins](https://www.onenotegem.com/) ← lots of plugins for different versions of OneNote
   - [Onetastic](https://getonetastic.com/) ← set of extensions for OneNote
 - [Productivity Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/) ← large list by Todoist
 - [Productivity Stack](https://hive.com/the-productivity-stack/) ← list of productivity tools
-- [Quirk](https://quirk.fyi/) ← app to apply Cognitive Behavioral Therapy (CBT). The website also explains what is CBT
-- [Raindrop.io](https://raindrop.io/) ← bookmark manager (Pocket like app)
+- [Quirk](https://quirk.fyi/) ← app to apply Cognitive Behavioral Therapy (CBT). The website also explains what CBT is
+- [Raindrop.io](https://raindrop.io/) ← bookmark manager (Pocket-like app)
 - [RemNote](https://www.remnote.io/homepage) ← note-taking app that will convert your notes to flashcards with the use of specific syntax. Here you can check its [live demo](https://www.remnote.io/documentation/cJSBN4bczFCPMwBx7)
 - [Roam](https://roamresearch.com/) ← note-taking tool as powerful as a graph database, applying the Zettelkasten method (alternative to Obsidian)
 - [Todoist](https://todoist.com/r/pyxelr_kjtwbq) ← my daily to-do app (using this link you will get 2 months of premium for free!). If you don't know how to start, [check out my Todoist setup](https://pawelcislo.com/2018/11/09/aim-for-your-goals-the-right-way/#ftoc-heading-3) and inspire yourself!
@@ -1154,7 +1154,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [CodinGame](https://www.codingame.com/training) ← learn programming through online sets of puzzles
 - [Edabit](https://edabit.com/) ← simple, new website in the market
 - [exercism](https://exercism.io/) ← 100% free service, where you submit solutions through your terminal
-- [HackerRank](https://www.hackerrank.com/) ← my personal choice. I've started with included 30-days coding challenge and can totally recommend it
+- [HackerRank](https://www.hackerrank.com/) ← my personal choice. I've started with the included 30-day coding challenge and can totally recommend it
 - [JetBrains Academy](https://www.jetbrains.com/academy/) ← dive into Java, Python, and other programming languages in a project-based learning environment that is integrated with JetBrains IDEs
 - [LeetCode](https://leetcode.com/) ← more advanced website, where you will mostly find problems asked by the world's largest tech companies. I recommend watching [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g) who goes through many problems from there
 - [Project Lovelace](https://projectlovelace.net/) ← bunch of free scientific programming problems. Each problem teaches some bit of science, like how to simulate a guitar, splice DNA, or predict the weather
@@ -1162,13 +1162,13 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 
 ### devops/mlops
 
-- [Docker Desktop](https://www.docker.com/products/docker-desktop/) ← application for building and sharing containerized application
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/) ← application for building and sharing containerized applications
 - [Postman](https://www.postman.com/) ← popular API client that makes it easy for developers to create, share, test and document APIs
 
 ### IDE
 
 - [Anaconda](https://www.anaconda.com/distribution/) ← most popular Python/R Data Science platform, which lets you install and manage all of the following tools:
-  - [Jupyter Notebook](https://jupyter.org/) ← good choice for the beginning and the reason of maintaining a well-documented code
+  - [Jupyter Notebook](https://jupyter.org/) ← good choice for the beginning and the reason for maintaining well-documented code
   - [Spyder](https://www.spyder-ide.org/) ← Python IDE
   - [RStudio](https://rstudio.com/) ← R IDE
 - [Google Colab](https://colab.research.google.com/) ← alternative to Jupyter Notebook. Run your code entirely in the browser and improve the model learning time by leveraging Google's GPU/TPU
@@ -1178,7 +1178,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 
 ### online tools
 
-#### algorithm visualizer
+#### algorithm visualiser
 
 - [Algorithm Visualiser](https://algorithm-visualizer.org/) ← interactive online platform to visualise algorithms from code
 - [Pandas Data Tutor](https://pandastutor.com/) ← write Python pandas code in your browser and see how it transforms your data step-by-step
@@ -1223,7 +1223,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 
 - [Airtable](https://airtable.com/) ← partly spreadsheet, partly database. Can replace WordPress for non-technical users, who can also manage multiple domains using this tool
 - [Bubble](https://bubble.is/) ← visual programming (no coding required)
-- [Coda](https://coda.io/) ← build docs as powerful as an app (no coding recuired)
+- [Coda](https://coda.io/) ← build docs as powerful as an app (no coding required)
 - [DevDocs](https://devdocs.io/) ← API documentation browser
 - [free-for.dev](https://free-for.dev/) ← list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
 - [json.pizza](https://json.pizza/) ← beautify your JSON code
@@ -1238,7 +1238,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [Build your own X](https://github.com/danistefanovic/build-your-own-x) ← resources to start developing your first website, database; you name it
 - [Code Club](https://codeclubprojects.org/en-GB/python/) ← find ideas for your Python projects
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) ← complete computer science study plan to become a software engineer
-- [Data Structure Visualisations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) ← interactive visualisation for most of data structures
+- [Data Structure Visualisations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) ← interactive visualisation for most data structures
 - [DevTube](https://dev.tube/) ← developer videos in one place. You can try replacing YouTube with DevTube
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) ← collection of (mostly) technical things every software developer should know
 - [freeCodeCamp](https://www.freecodecamp.org/) ← learn to code from open-source community for free
@@ -1253,11 +1253,11 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [O'Reilly learning](https://www.oreilly.com/online-learning/) ← learn artificial intelligence, operations, data, UX design, finance, leadership, and more
 - [Packt Hub Tutorials](https://hub.packtpub.com/category/tutorials/) ← free web dev & programming tutorials
 - [Python Awesome](https://pythonawesome.com/) ← nice collection of often useful awesome Python frameworks, libraries and software
-- [The Best Python Lighting Talks](https://pythonlinks.info/python) ← videos to watch about Python
+- [The Best Python Lightning Talks](https://pythonlinks.info/python) ← videos to watch about Python
 - [Real Python](https://realpython.com/) ← Python tutorials, quizzes, courses and more
 - [Refactoring](https://refactoring.guru/refactoring) ← pleasant guide to clean your messy code
 - [Tutorialspoint](https://www.tutorialspoint.com/) ← programmer's ultimate Wikipedia
-- [W3Schools](https://www.w3schools.com/) ← well documented online tutorials
+- [W3Schools](https://www.w3schools.com/) ← well-documented online tutorials
 
 **[⬆ Back to Contents](#contents)**
 
@@ -1278,7 +1278,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [ShadeMap](https://shademap.app/) ← simulate sun shadows for any time and place on Earth
 - [Shadow Calculator](http://shadowcalculator.eu) ← sun shadow on Google Maps
 - [Submarine Cables](https://globe.gl/example/submarine-cables/) ← map of submarine cables
-- [Surname Maps in Europe](https://www.surnamemap.eu/) ← surname maps generator of main european countries
+- [Surname Maps in Europe](https://www.surnamemap.eu/) ← surname maps generator of main European countries
 - [The Best Time to Travel Anywhere](https://championtraveler.com/best-time-to-travel/) ← comparison of weather, number of tourists etc.
 - [The True Size Of ...](https://thetruesize.com/) ← select a country, drag it around the world map to compare its size
 - [Weather Spark](https://weatherspark.com/) ← climate reports with the weather by month, day, even hour
@@ -1325,7 +1325,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [PortableApps.com](https://portableapps.com/) ← full-featured portable software system
 - [Potplayer](https://potplayer.daum.net/) ← video player
 - [PowerToys](https://github.com/microsoft/PowerToys) ← Windows system utilities to maximize productivity
-- [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)← SSH and telnet client
+- [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) ← SSH and telnet client
 - [qBittorrent](https://www.qbittorrent.org/) ← open-source torrent manager
 - [scoop](https://scoop.sh/) ← command-line installer for Windows
 - [ShareX](https://getsharex.com/) ← most feature-rich screen capture tool
@@ -1349,7 +1349,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [LanguageTool Plus](https://languagetoolplus.com/) ← proofreading extension
 - [Parts of speech](https://parts-of-speech.info/) ← categorise words based on similar grammatical properties (noun, verb, adjective, etc.)
 - [Power Thesaurus](https://www.powerthesaurus.org/) ← synonym finder
-- [Readable](https://www.webfx.com/tools/read-able/) ← perform the ultimate readability test (base on Flesch Kincaid Reading Ease, SMOG Index and more...)
+- [Readable](https://www.webfx.com/tools/read-able/) ← perform the ultimate readability test (based on Flesch-Kincaid Reading Ease, SMOG Index and more...)
 - [Word Frequency Counter](http://www.writewords.org.uk/word_count.asp) ← paste in the text and find out if you're not overusing particular words
 - [ZoteroBib](https://zbib.org/) ← web bibliography manager. Also, check the [cross-platform version](https://www.zotero.org/)
 
@@ -1378,7 +1378,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 
 ### cybersecurity
 
-- [David Bombal](https://www.youtube.com/@davidbombal/) ← Linux, Python, Ethical Hacking, Networking, CCNA, Virtualization and other IT related topics
+- [David Bombal](https://www.youtube.com/@davidbombal/) ← Linux, Python, Ethical Hacking, Networking, CCNA, Virtualization and other IT-related topics
 - [Gynvael Coldwind](https://www.youtube.com/user/GynvaelEN) ← podcasts about CTFs, computer security, programming and similar things. You can also check out [Gynvael's (🇵🇱) channel](https://www.youtube.com/user/GynvaelColdwind)
 - [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) ← ethical hacking tutorials
 - [John Hammond](https://www.youtube.com/user/RootOfTheNull) ← tutorials and videos on lots of programming languages
@@ -1400,9 +1400,9 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [Luis Serrano](https://www.youtube.com/c/LuisSerrano) ← complex topics, mainly in mathematics, machine learning, and artificial intelligence
 - [sentdex](https://www.youtube.com/user/sentdex) ← Python programming tutorials
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) ← AI, ML, Python and more (unfortunately [involved in the scandal of plagiarism](https://www.youtube.com/watch?v=Mz3Mu9e0qRQ))
-- [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer) ← major statistical methodologies into easy to understand pieces (I highly recommend it!)
+- [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer) ← major statistical methodologies into easy-to-understand pieces (I highly recommend it!)
 - [The AI University](https://www.youtube.com/channel/UCv6Uw36LRbYnX4HDxKPguKg) ← educational channel on data science, data analysis, data engineering and cloud architecture
-- [Thu Vu data analytics](https://www.youtube.com/c/Thuvu5) ←  information on entering a Data analytics / Data science career
+- [Thu Vu data analytics](https://www.youtube.com/c/Thuvu5) ← information on entering a data analytics/data science career
 - [Two Minute Papers](https://www.youtube.com/user/keeroyz) ← quick reviews of scientific research papers
 - [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) ← quick reviews of scientific research papers and AI terms explained
 - [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher) ← videos about machine learning research papers, programming, and issues of the AI community and the broader impact of AI in society
@@ -1410,15 +1410,15 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 ### devops/mlops
 
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo) ← topics and trends in large-scale system design
-- [DevOps Toolbox](https://www.youtube.com/@devopstoolbox) ← CLI, Tmux, Neovim , Dev, Sec, and Ops, everything that's fun!
-- [DevOps Toolkit](https://www.youtube.com/c/DevOpsToolkit) ← channel of a passionate DevOps who keeps us up with the most recent DevOps tools
+- [DevOps Toolbox](https://www.youtube.com/@devopstoolbox) ← CLI, Tmux, Neovim, Dev, Sec, and Ops, everything that's fun!
+- [DevOps Toolkit](https://www.youtube.com/c/DevOpsToolkit) ← channel of a passionate DevOps engineer who keeps us up with the most recent DevOps tools
 - [MLOps.community](https://www.youtube.com/c/MLOpscommunity/) ← Machine Learning Operations best practices from engineers in the field
 
 ### entertainment
 
 - [Alan Becker](https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw) ← fights of stick figures
 - [Daily Dose Of Internet](https://www.youtube.com/channel/UCdC0An4ZPNr_YiFiYoVbwaw) ← the best and top trending videos from all over the Internet in short videos
-- [Dylan Tallchief](https://www.youtube.com/channel/UCIu2Fj4x_VMn2dgSB1bFyQA) ← fun look over the music production
+- [Dylan Tallchief](https://www.youtube.com/channel/UCIu2Fj4x_VMn2dgSB1bFyQA) ← fun look at music production
 - [GeoWizard](https://www.youtube.com/c/GeoWizard) ← adventure and geography videos + stories
 - [I did a thing](https://www.youtube.com/channel/UCJLZe_NoiG0hT7QCX_9vmqw) ← the author likes to do things
 - [Level UP](https://www.youtube.com/channel/UCNK813T2BNBwcfDPDTPeMPA) ← mario animations
@@ -1466,7 +1466,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 ### programming
 
 - [anthonywritescode](https://www.youtube.com/@anthonywritescode) ← various videos about programming and related topics (most videos deal with Python)
-- [ArjanCodes](https://www.youtube.com/c/arjancodes) ← Python videos abouVarious videos about programming and related topicst programming and software design to help you take your coding skills to the next level
+- [ArjanCodes](https://www.youtube.com/c/arjancodes) ← Python videos about programming and software design to help you take your coding skills to the next level
 - [Branch Education](https://www.youtube.com/c/BranchEducation) ← engineering and science concepts illuminated with videos of accurate models and visualized physics
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) ← general computer science channel
 - [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) ← Python in data science and not only
@@ -1480,12 +1480,12 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g) ← LeetCode challenges solver
 - [Modern Software Engineering](https://www.youtube.com/@ModernSoftwareEngineeringYT) ← learn about the most important techniques in software development
 - [Pasja Informatyki](https://www.youtube.com/user/MiroslawZelent) (🇵🇱) ← general IT/psychology channel
-- [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge) ← one of the most varied programming channel
+- [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge) ← one of the most varied programming channels
 - [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA) ← lots of videos on Python, JavaScript, C#
 - [Python Engineer](https://www.youtube.com/c/PythonEngineer) ← Python and Machine Learning tutorials
 - [RS Elektronika](https://www.youtube.com/c/RSElektronika) (🇵🇱) ← for anyone interested in electronics
 - [Simplilearn](https://www.youtube.com/c/SimplilearnOfficial/) ← online bootcamp focused on helping people acquire the skills they need to thrive in the digital economy
-- [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) ← one of the most-enthusiastic coders on the web
+- [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) ← one of the most enthusiastic coders on the web
 - [ThePrimeagen](https://www.youtube.com/@ThePrimeagen) ← Vim, Rust, TypeScript with a lot of humor (also check the 2nd channel: [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen))
 - [UW-TEAM.org](https://www.youtube.com/c/uwteamorg) (🇵🇱) ← programming, Linux, security, and more
 - [WilliamFiset](https://www.youtube.com/user/purpongie) ← educational computer science and mathematics videos
@@ -1498,14 +1498,14 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [BrainStuff - HowStuffWorks](https://www.youtube.com/user/BrainStuffShow) ← everyday science in the world around us
 - [CGP Grey](https://www.youtube.com/user/CGPGrey) ← short explanatory videos on varying subjects, including politics, geography, economics, history, and culture
 - [DIY Perks](https://www.youtube.com/c/DIYPerks) ← plenty of interesting DIY projects on a variety of topics, including computers, woodworking, electronics, audio, and more!
-- [exurb1a](https://www.youtube.com/user/willunicycleforfood) ← attempt to explain the way universe works
-- [Geography Now](https://www.youtube.com/user/GeographyNow) ← first and only Youtube Channel that actively attempts to cover profiles on every single country of the world
+- [exurb1a](https://www.youtube.com/user/willunicycleforfood) ← attempt to explain the way the universe works
+- [Geography Now](https://www.youtube.com/user/GeographyNow) ← first and only YouTube channel that actively attempts to cover profiles on every single country of the world
 - [iBiology](https://www.youtube.com/user/ibioseminars) ← biology talks by the world's leading scientists that show the process of science and the wonders of discovery. Make sure to check out their other channels
   - [iBiology Techniques](https://www.youtube.com/user/iBioEducation) ← iBiology technique driven videos such as a microscopy course
 - [It's Okay To Be Smart](https://www.youtube.com/user/itsokaytobesmart) ← Joe Hanson, Ph.D. is a curious group of atoms in a curious universe, and he's here to tell you how it all works
 - [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt) ← videos explaining things with optimistic nihilism (quality > quantity)
 - [Langfocus](https://www.youtube.com/channel/UCNhX3WQEkraW3VHPyup8jkQ) ← channel of a language enthusiast, globetrotter
-- [Lex Clips](https://www.youtube.com/channel/UCJIfeSCssxSC_Dhc5s7woww) ← clips from the Artificial Intelligent podcast and other conversations with Lex Fridman
+- [Lex Clips](https://www.youtube.com/channel/UCJIfeSCssxSC_Dhc5s7woww) ← clips from the Artificial Intelligence podcast and other conversations with Lex Fridman
 - [Life Noggin](https://www.youtube.com/user/lifenoggin) ← quickly animated explanations
 - [Mark Rober](https://www.youtube.com/user/onemeeeliondollars) ← channel of a former NASA engineer and a friend of science
 - [MinuteEarth](https://www.youtube.com/user/minuteearth) ← science and stories about our awesome planet
@@ -1521,9 +1521,9 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [Smarter Every Day](https://www.youtube.com/user/destinws2) ← exploring the world using science (also check out [the 2nd channel](https://www.youtube.com/user/FunnerEveryDay))
 - [Smartgasm](https://www.youtube.com/channel/UCwylAt0VrqZPPNCjQV2t8Qg) (🇵🇱) ← lots of astronomy and physics
 - [Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ) ← building fabrication projects, writing software, making electronics, and more
-- [The Thought Emporium](https://www.youtube.com/user/TheChemlife) ← from biohacking and biology, to nuclear physics and nanotech
+- [The Thought Emporium](https://www.youtube.com/user/TheChemlife) ← from biohacking and biology to nuclear physics and nanotech
 - [TierZoo](https://www.youtube.com/channel/UCHsRtomD4twRf5WVHHk-cMw) ← what if to talk about animals in terms of stats
-- [Today I Found Out](https://www.youtube.com/user/TodayIFoundOut) ← brand new videos 7 days a week to learn something new
+- [Today I Found Out](https://www.youtube.com/user/TodayIFoundOut) ← brand-new videos 7 days a week to learn something new
 - [Tom Scott](https://www.youtube.com/user/enyay) ← channel of a British Internet personality
 - [Uwaga! Naukowy Bełkot](https://www.youtube.com/channel/UC_7PqixGIdE-jjoHKMPYpGA) (🇵🇱) ← well-researched topics from the overall science
 - [Veritasium](https://www.youtube.com/user/1veritasium) ← videos about science, education, and anything else found interesting
@@ -1542,7 +1542,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 
 ## 🤷‍ Other
 
-- [Ancient Earth globe](https://dinosaurpictures.org/ancient-earth) ← check how Earth looked like x years ago
+- [Ancient Earth globe](https://dinosaurpictures.org/ancient-earth) ← check what Earth looked like x years ago
 - [Awesome](https://github.com/sindresorhus/awesome) ← GitHub repository with lists on all kinds of interesting topics
   - [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) ← awesome list of repositories of awesome lists
   - [Awesome Search](https://awesomelists.top/) ← search all awesome lists in one second
@@ -1556,8 +1556,8 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
   - [list of accounts I'm following](https://twitter.com/pawel_cislo/following) ← all the people that influence my writing on [pawelcislo.com](https://pawelcislo.com/)
 - [Future Timeline](https://www.futuretimeline.net/) ← timeline of future predictions
 - [How much free time do you have?](https://erikrood.com/Posts/free_time_calc.html) ← specify values and get the result
-- [Internet Archive](https://archive.org/web/) ← wayback machine with a digital library of Internet sites
-- [My Pinterest account](https://pinterest.com/pyxelrr/) ← aggregation of the most practical infographics that I stepped on
+- [Internet Archive](https://archive.org/web/) ← Wayback Machine with a digital library of Internet sites
+- [My Pinterest account](https://pinterest.com/pyxelrr/) ← aggregation of the most practical infographics that I stumbled upon
 - [Nerd Fonts](https://www.nerdfonts.com/) ← iconic font aggregator, collection, and patches
 - [NUKEMAP](https://nuclearsecrecy.com/nukemap/) ← mapping mash-up that calculates the effects of the detonation of a nuclear bomb
 - [Programming Fonts](https://app.programmingfonts.org/) ← quickly check lots of programming fonts in your browser
