@@ -703,7 +703,7 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 - [Memrise](https://www.memrise.com/) ← learn a language and not only
 - [NeuraCache](https://neuracache.com/) ← automatically generate flashcards from Twitter posts, Markdown editors, Kindle or your favourite note-taking tools, such as OneNote, Evernote or Roam and study them all using a mobile app
 - [Quizlet](https://quizlet.com/) ← more user-friendly alternative to Anki
-- [RemNote](https://www.remnote.io/homepage) ← note-taking app that will convert your notes to flashcards with the use of specific syntax. Here you can check its [live demo](https://www.remnote.io/documentation/cJSBN4bczFCPMwBx7)
+- [RemNote](https://www.remnote.com/) ← note-taking app that will convert your notes to flashcards with the use of specific syntax. Here you can check its [live demo](https://www.remnote.io/documentation/cJSBN4bczFCPMwBx7)
 - [ShortcutFoo](https://www.shortcutfoo.com/) ← fun way to memorise shortcuts and commands
 - [SuperMemo](https://super-memo.com/supermemo18.html) ← more advanced tool over Anki, including the incremental reading feature. The author also dedicated a lot of time into the [science behind the learning topic](http://www.super-memory.com/)
 - [Tinycards](https://tinycards.duolingo.com/) ← flashcard app from the creators of Duolingo
@@ -1133,7 +1133,7 @@ Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.)
 - [Productivity Stack](https://hive.com/the-productivity-stack/) ← list of productivity tools
 - [Quirk](https://quirk.fyi/) ← app to apply Cognitive Behavioral Therapy (CBT). The website also explains what CBT is
 - [Raindrop.io](https://raindrop.io/) ← bookmark manager (Pocket-like app)
-- [RemNote](https://www.remnote.io/homepage) ← note-taking app that will convert your notes to flashcards with the use of specific syntax. Here you can check its [live demo](https://www.remnote.io/documentation/cJSBN4bczFCPMwBx7)
+- [RemNote](https://www.remnote.com/) ← note-taking app that will convert your notes to flashcards with the use of specific syntax. Here you can check its [live demo](https://www.remnote.io/documentation/cJSBN4bczFCPMwBx7)
 - [Roam](https://roamresearch.com/) ← note-taking tool as powerful as a graph database, applying the Zettelkasten method (alternative to Obsidian)
 - [Todoist](https://todoist.com/r/pyxelr_kjtwbq) ← my daily to-do app (using this link you will get 2 months of premium for free!). If you don't know how to start, [check out my Todoist setup](https://pawelcislo.com/2018/11/09/aim-for-your-goals-the-right-way/#ftoc-heading-3) and inspire yourself!
 - [Toggl](https://toggl.com/) ← the most integrated time tracker
