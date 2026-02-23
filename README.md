@@ -6,6 +6,9 @@ The list also aggregates and extends most of the suggestions from [my blog posts
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+> [!TIP]
+> [Subscribe to my newsletter](https://pawelcislo.substack.com/) to keep up to date with my content!
+
 * * * * *
 
 ## Contents
@@ -465,9 +468,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 **[⬆ Back to Contents](#contents)**
 
 ## 📊 Data Science
-
-> [!NOTE]
-> [Subscribe to my newsletter](http://eepurl.com/dDqG-z) to find out even more inspiring stuff to help you with your analytics!
 
 ### cheatsheets
 
