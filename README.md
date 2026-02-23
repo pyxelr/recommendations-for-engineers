@@ -6,7 +6,7 @@ The list also aggregates and extends most of the suggestions from [my blog posts
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-> [!TIP]
+> [!NOTE]
 > [Subscribe to my newsletter](https://pawelcislo.substack.com/) to keep up to date with my content!
 
 * * * * *
@@ -471,7 +471,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### cheatsheets
 
-My private Obsidian would be there, but I prefer to share only the most relevant content. **IMPORTANT**: be aware that [many cheatsheets repeat false information](https://www.linkedin.com/posts/adrianolszewski_biostatistics-statistics-rstats-activity-6621020198185111552-jw12), such as classifying logistic regression as a pure classification algorithm.
+> [!NOTE]
+> My private Obsidian would be there, but I prefer to share only the most relevant content. **IMPORTANT**: be aware that [many cheatsheets repeat false information](https://www.linkedin.com/posts/adrianolszewski_biostatistics-statistics-rstats-activity-6621020198185111552-jw12), such as classifying logistic regression as a pure classification algorithm.
 
 - [Chris Albon](https://chrisalbon.com/) ← comprehensive notes/code snippets on using Data Science & Artificial Intelligence
 - [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/) ← best Python cheatsheet I found so far
@@ -692,7 +693,8 @@ As there are many, I highly encourage you to check my custom feeds:
 
 ### flashcards
 
-I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog post](https://pawelcislo.com/2020/07/10/optimising-our-learning-retention-rate-with-srs-anki/).
+> [!NOTE]
+> I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog post](https://pawelcislo.com/2020/07/10/optimising-our-learning-retention-rate-with-srs-anki/).
 
 - [Anki](https://apps.ankiweb.net/) ← my favourite software to learn through spaced repetition and active learning in mobile and open-source PC app. Make sure to [check out my own decks](https://github.com/pyxelr/my-anki-decks-of-flashcards)
 - [flashcards.wizardzines](https://flashcards.wizardzines.com/) ← set of flashcards from Julia Evans
@@ -763,7 +765,8 @@ I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog
 
 ### shell
 
-Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.) in the [my-terminal](https://github.com/pyxelr/my-terminal) repository.
+> [!NOTE]
+> Additionally, you can find settings of my terminals (UI, plugins, aliases, etc.) in the [my-terminal](https://github.com/pyxelr/my-terminal) repository.
 
 - [bat](https://github.com/sharkdp/bat) ← cat(1) clone with wings
 - [broot](https://github.com/Canop/broot) ← new way to see and navigate directory trees
