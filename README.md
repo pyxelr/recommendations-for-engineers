@@ -1294,9 +1294,12 @@ As there are many, I highly encourage you to check my custom feeds:
 - [7-Zip](https://www.7-zip.org/) ← file archiver with a high compression ratio
 - [Action!](https://mirillis.com/en/products/action.html) ← screen recorder
 - [AIMP](https://www.aimp.ru/?do=download&os=windows) ← music player
+- [AntiMicroX](https://github.com/AntiMicroX/antimicrox/) ← map keyboard buttons and mouse controls to a gamepad
 - [AquaSnap](https://www.nurgo-software.com/products/aquasnap) ← tiling window manager
+- [Astrofox](https://astrofox.io/) ← generate audio visualisation video
 - [Audacity](https://www.audacityteam.org/) ← simple audio editor
 - [AutoHotkey](https://www.autohotkey.com/) ← ultimate automation scripting language for Windows ([here](https://github.com/pyxelr/my-autohotkey-scripts) is a collection of my scripts)
+- [Betterbird](https://betterbird.eu/) ← Mozilla Thunderbird on steroids
 - [Calibre](https://calibre-ebook.com/) ← e-book manager
 - [Chocolatey](https://chocolatey.org/) ← package manager
 - [clink](https://github.com/chrisant996/clink) ← Bash's powerful command line editing in cmd.exe
@@ -1304,9 +1307,12 @@ As there are many, I highly encourage you to check my custom feeds:
 - [DevToys](https://devtoys.app/) ← Swiss Army knife for developers
 - [Directory Opus](https://www.gpsoft.com.au/) ← ultimate file manager (worth paying for)
 - [Ditto](https://ditto-cp.sourceforge.io/) ← clipboard manager
+- [Equalizer APO](https://equalizerapo.com/) ← open-source graphical equalizer for Windows
 - [espanso](https://espanso.org/) ← cross-platform text expander (you can find my settings [here](https://github.com/pyxelr/my-espanso-config))
 - [Everything](https://www.voidtools.com/downloads/) ← search local files instantly
 - [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) ← Everything integration for the Windows taskbar
+- [ExifTool](https://exiftool.org/) ← read, write and edit image meta information
+- [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) ← enhance the working environment on Windows
 - [Ferdium](https://ferdium.org/) ← all the social apps in one place
 - [FileZilla](https://filezilla-project.org/) ← free and open-source FTP client/server
 - [f.lux](https://justgetflux.com/) ← reduce the amount of blue light at night (you can also install the [UWP app](https://www.microsoft.com/en-us/p/flux/9n9kdphv91jt))
@@ -1321,23 +1327,32 @@ As there are many, I highly encourage you to check my custom feeds:
 - [Ninite](https://ninite.com/) ← install and update all your programs at once
 - [NirSoft - freeware utilities](https://www.nirsoft.net/utils/index.html) ← freeware tools and system utilities
 - [Oh My Posh](https://ohmyposh.dev/) ← prompt theme engine for any shell. Alternatively, use [Starship](https://github.com/starship/starship)
+- [Paragon Backup & Recovery](https://www.paragon-software.com/free/br-free/) ← system backup creator
 - [Patch My PC](https://patchmypc.com/home-updater) ← tool for detecting and automatically updating software (shows less stuff than UpdateHub)
 - [PDF-XChange Editor](https://www.tracker-software.com/product/pdf-xchange-editor) ← most feature-rich PDF viewer/editor
 - [PortableApps.com](https://portableapps.com/) ← full-featured portable software system
+- [Posh-Git](https://github.com/dahlbyk/posh-git) ← PowerShell environment for Git
 - [Potplayer](https://potplayer.daum.net/) ← video player
 - [PowerToys](https://github.com/microsoft/PowerToys) ← Windows system utilities to maximize productivity
+- [PPspliT](http://www.maxonthenet.altervista.org/ppsplit.php) ← transform PowerPoint animations into single slides
 - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) ← SSH and telnet client
 - [qBittorrent](https://www.qbittorrent.org/) ← open-source torrent manager
+- [QuickLook](https://github.com/QL-Win/QuickLook) ← bring macOS "Quick Look" feature to Windows
+- [Rufus](https://rufus.ie/) ← create bootable USB drives
 - [scoop](https://scoop.sh/) ← command-line installer for Windows
+- [ScreenToGif](https://www.screentogif.com/) ← simple screen recorder with an integrated editor
 - [ShareX](https://getsharex.com/) ← most feature-rich screen capture tool
 - [simplewall](https://github.com/henrypp/simplewall) ← configure Windows Filtering Platform (WFP) which can configure network activity on your computer
+- [Supermium](https://github.com/win32ss/supermium) ← Chromium fork for older Windows versions
 - [Sysinternals Utilities Index](https://docs.microsoft.com/en-us/sysinternals/downloads/) ← utilities to manage, diagnose, troubleshoot, and monitor a Microsoft Windows environment
 - [TaskbarX](https://chrisandriessen.nl/taskbarx) ← center Windows taskbar icons with a variety of animations and options
+- [Tribler](https://www.tribler.org/) ← privacy-focused torrent client using onion routing
 - [UpdateHub](https://github.com/NexovaDev/UpdateHub) ← tool for detecting and automatically updating software (shows more stuff than Patch My PC)
 - [Windows Terminal](https://github.com/microsoft/terminal) ← modern terminal application (you can find my settings [here](https://github.com/pyxelr/my-terminal))
 - [WinMerge](https://winmerge.org/) ← open-source diff checker (required e.g. by Ditto)
 - [WinSCP](https://winscp.net/eng/index.php) ← popular SFTP client and FTP client for Microsoft Windows
 - [WSLg](https://github.com/microsoft/wslg) ← open GUI software through WSL
+- [wsl-vpn](https://github.com/AmmarRahman/wsl-vpn) ← workaround script for WSL2 connectivity over VPN
 - [XnView MP](https://www.xnview.com/en/xnviewmp/) ← powerful photo viewer, image management, image resizer
 
 **[⬆ Back to Contents](#contents)**
