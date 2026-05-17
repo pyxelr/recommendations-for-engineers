@@ -375,8 +375,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Refined Twitter](https://github.com/sindresorhus/refined-twitter) ← simplify Twitter UI and add useful features
 - [Return YouTube Dislike](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi) ← return ability to see dislikes
 - [Session Buddy](https://sessionbuddy.com/) ← manage browser sessions
-- [SponsorBlock](https://sponsor.ajay.app/) ← skip sponsor segments in YouTube videos
 - [Sourcegraph](https://docs.sourcegraph.com/integration/browser_extension) ← add code intelligence to GitHub and other code hosts
+- [SponsorBlock](https://sponsor.ajay.app/) ← skip sponsor segments in YouTube videos
 - [Stylus](https://add0n.com/stylus.html) ← user-style manager
 - [Tab Resize - split screen layouts](https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc) ← resize the current tab and tabs to the right into layouts on separate windows
 - [Tampermonkey](https://www.tampermonkey.net/) ← the most popular userscript manager
@@ -1500,9 +1500,9 @@ As there are many, I highly encourage you to check my custom feeds:
 - [BrainCraft](https://www.youtube.com/user/braincraftvideo) ← self-improvement tips and advice based in psychology and neuroscience
 - [Charisma on Command](https://www.youtube.com/user/charismaoncommand) ← master your charisma
 - [Devstyle](https://www.youtube.com/channel/UCACp5rqV3Ki0SNdXWDBLhRA) (🇵🇱) ← daily vlog of Polish entrepreneur (past programmer)
-- [Jefferson Fisher](https://www.youtube.com/@jeffersonfisher) ← argue less and talk more
 - [FightMediocrity](https://www.youtube.com/channel/UCXLesGEfmyhxqOjoAqhRwhA) ← summaries of the most inspiring books
 - [HealthyGamerGG](https://www.youtube.com/c/HealthyGamerGG/) ← mental health platform designed to help the internet generation succeed
+- [Jefferson Fisher](https://www.youtube.com/@jeffersonfisher) ← argue less and talk more
 - [Justin Sung](https://www.youtube.com/@JustinSung) ← studying and learning, time management
 - [MiroBurn](https://www.youtube.com/channel/UCwmFNbGnBeEy9nTt42F4WHw) (🇵🇱) ← daily vlog of Polish entrepreneur focused on online courses, biohacking, motivating others and establishing new companies
 - [Wojna Idei](https://www.youtube.com/channel/UC7RswyY8VfbSdikz_8wdp3w) (🇵🇱) ← psychology, philosophy, sociology and culture
@@ -1554,8 +1554,8 @@ As there are many, I highly encourage you to check my custom feeds:
 - [Mark Rober](https://www.youtube.com/user/onemeeeliondollars) ← channel of a former NASA engineer and a friend of science
 - [MinuteEarth](https://www.youtube.com/user/minuteearth) ← science and stories about our awesome planet
 - [minutephysics](https://www.youtube.com/user/minutephysics) ← cool physics and other sweet science
-- [Nauka. To Lubię](https://www.youtube.com/user/naukatolubie) (🇵🇱) ← for everyone who likes science
 - [National Geographic](https://www.youtube.com/user/NationalGeographic) ← world's premium destination for science, exploration, and adventure
+- [Nauka. To Lubię](https://www.youtube.com/user/naukatolubie) (🇵🇱) ← for everyone who likes science
 - [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g) ← explore the outer reaches of space, the craziness of astrophysics, the possibilities of sci-fi and more
 - [Physics Girl](https://www.youtube.com/user/physicswoman) ← adventures into the physical sciences with experiments, demonstrations, and cool new discoveries
 - [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ) ← animated academic subjects
