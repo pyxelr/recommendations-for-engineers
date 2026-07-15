@@ -24,6 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - 📰 [IT News](#-it-news)
 - 🧠 [Learning](#-learning)
 - 🐧 [Linux](#-linux)
+- 🤖 [LLM](#-llm)
 - 🍎 [macOS](#-macos)
 - ➗ [Math](#-math)
 - 📱 [Mobile Apps](#-mobile-apps)
@@ -806,7 +807,57 @@ As there are many, I highly encourage you to check my custom feeds:
 
 **[⬆ Back to Contents](#contents)**
 
+## 🤖 LLM
+
+> [!NOTE]
+> For more, visit my [LLM notes](https://pawelcislo.com/knowledge/llm/llm/).
+
+- [aider](https://github.com/paul-gauthier/aider) ← AI pair programming in your terminal
+- [AutoGen](https://github.com/microsoft/autogen) ← enable next-gen large language model applications
+- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) ← experimental open-source attempt to make GPT-4 fully autonomous
+- [Chainlit](https://github.com/Chainlit/chainlit) ← UI for chatbots
+- Claude Code
+  - [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) ← a single CLAUDE.md file from Andrej Karpathy
+  - [caveman](https://github.com/JuliusBrussee/caveman) ← Claude Code skill to keep short responses
+  - [claude-mem](https://github.com/thedotmack/claude-mem) ← persistent context across sessions for every agent
+  - [claude-token-efficient](https://github.com/drona23/claude-token-efficient) ← one CLAUDE.md file to keep short responses
+  - [codegraph](https://github.com/colbymchenry/codegraph) ← pre-indexed code knowledge graph
+  - [mattpocock/skills](https://github.com/mattpocock/skills) ← skills for real engineers from .claude directory
+  - [ponytail](https://github.com/DietrichGebert/ponytail) ← makes your AI agent think like the laziest senior dev in the room
+  - [Skillta](https://skillta.com/) ← instantly deploy expert-level Claude skills, OpenClaw skills and GitHub Copilot skills. Browse, install, and share
+- [CodeRabbit](https://coderabbit.ai/) ← free LLM bot for code reviews
+- [crewAI](https://github.com/joaomdmoura/crewAI) ← framework for orchestrating role-playing, autonomous AI agents (e.g. to plan trip)
+- [Cursor](https://github.com/getcursor/cursor) ← AI-powered code editor based on VS Code
+- [Docling](https://github.com/DS4SD/docling) ← parse documents and export them to the desired format
+- [DocsGPT](https://github.com/arc53/DocsGPT) ← chat with your documentation
+- [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) ← generate an entire codebase based on a prompt
+- [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) ← dev tool that writes scalable apps from scratch while the developer oversees the implementation
+- [GPT Prompt Attack](https://gpa.43z.one/) ← game to practice prompt injection
+- [Guidance](https://github.com/guidance-ai/guidance) ← preferred over Langchain by **Szymon Maszke**
+- [h2oGPT](https://github.com/h2oai/h2ogpt) ← world's best open source GPT
+- [Jan](https://github.com/janhq/jan) ← open-source alternative to ChatGPT that runs locally
+- [LangChain](https://github.com/hwchase17/langchain) ← framework for building LLM apps
+- [localGPT](https://github.com/PromtEngineer/localGPT) ← private and local chatGPT for chatting with your documents
+- [OpenDevin](https://github.com/OpenDevin/OpenDevin) ← open-source project aiming to replicate [Devin](https://www.cognition-labs.com/introducing-devin)
+- [Open Interpreter](https://github.com/KillianLucas/open-interpreter) ← NLP interface terminal app
+- [OpenUI](https://github.com/wandb/openui) ← OpenUI let's you describe UI using your imagination, then see it rendered live
+- [pandas-ai](https://github.com/gventuri/pandas-ai) ← generative AI in Pandas
+- [privateGPT](https://github.com/imartinez/privateGPT) ← interact privately with your documents using the power of GPT, 100% privately, no data leaks
+- [Ragas](https://github.com/explodinggradients/ragas) ← objective metrics, intelligent test generation, and data-driven insights for LLM apps
+- [ScrapeGraphAI](https://github.com/VinciGit00/Scrapegraph-ai) ← python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents (XML, HTML, JSON, etc.)
+- [screenshot-to-code](https://github.com/abi/screenshot-to-code) ← drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+- [Skyvern](https://github.com/Skyvern-AI/skyvern) ← automate browser-based workflows with LLMs and Computer Vision
+- [Storm](https://github.com/stanford-oval/storm) ← LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations
+- [SWE-agent](https://github.com/princeton-nlp/SWE-agent) ← takes a GitHub issue and tries to automatically fix it
+- [Tabby](https://github.com/TabbyML/tabby) ← self-hosted AI coding assistant (e.g. to be used in VS Code)
+- [TaskWeaver](https://github.com/microsoft/taskweaver/) ← code-first agent framework for seamlessly planning and executing data analytics tasks
+
+**[⬆ Back to Contents](#contents)**
+
 ## 🍎 macOS
+
+> [!NOTE]
+> For more, visit my [macOS notes](https://pawelcislo.com/knowledge/macos/macos/).
 
 - [AirBuddy](https://v2.airbuddy.app/) ← control wireless devices
 - [Alfred](https://www.alfredapp.com/) ← extendable launcher
@@ -860,6 +911,9 @@ As there are many, I highly encourage you to check my custom feeds:
 
 ## ➗ Math
 
+> [!NOTE]
+> For more, visit my [Statistics notes](https://pawelcislo.com/knowledge/math/statistics/).
+
 ### learn
 
 - [Become a Calculus Master](https://www.udemy.com/calculus1/) ← Udemy course of three parts
@@ -885,6 +939,9 @@ As there are many, I highly encourage you to check my custom feeds:
 **[⬆ Back to Contents](#contents)**
 
 ## 📱 Mobile Apps
+
+> [!NOTE]
+> For more, visit my [Android notes](https://pawelcislo.com/knowledge/mobile/android/).
 
 - [ADB AppControl](https://appcontrol.neocities.org/index_en.html) ← manage applications on your android device using your PC and adb
 - [AdGuard](https://adguard.com/en/products.html) ← get rid of intrusive ads and online tracking
@@ -952,6 +1009,9 @@ As there are many, I highly encourage you to check my custom feeds:
 **[⬆ Back to Contents](#contents)**
 
 ## 🎶 Music
+
+> [!NOTE]
+> For more, visit my [Music notes](https://pawelcislo.com/knowledge/music/music/).
 
 ### DAW
 
@@ -1318,6 +1378,9 @@ As there are many, I highly encourage you to check my custom feeds:
 **[⬆ Back to Contents](#contents)**
 
 ## 🖥 Windows
+
+> [!NOTE]
+> For more, visit my [Windows notes](https://pawelcislo.com/knowledge/windows/windows/).
 
 - [7-Zip](https://www.7-zip.org/) ← file archiver with a high compression ratio
 - [Action!](https://mirillis.com/en/products/action.html) ← screen recorder
