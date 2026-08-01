@@ -32,12 +32,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - 📧 [Newsletters](#-newsletters)
 - 🎧 [Podcasts](#-podcasts)
 - ⏲ [Productivity](#-productivity)
-- 👨‍💻 [Programming](#-programming)
+- 💻 [Programming](#-programming)
 - 🛫 [Travel](#-travel)
 - 🖥 [Windows](#-windows)
 - ✍ [Writing/Research](#-writing_research)
 - 📼 [YouTube Channels](#-youtube-channels)
-- 🤷‍ [Other](#-other)
+- 🤷 [Other](#-other)
 
 * * * * *
 
@@ -1229,7 +1229,7 @@ As there are many, I highly encourage you to check my custom feeds:
 
 **[⬆ Back to Contents](#contents)**
 
-## 👨‍💻 Programming
+## 💻 Programming
 
 ### coding challenges
 
@@ -1650,7 +1650,7 @@ As there are many, I highly encourage you to check my custom feeds:
 
 **[⬆ Back to Contents](#contents)**
 
-## 🤷‍ Other
+## 🤷 Other
 
 - [Ancient Earth globe](https://dinosaurpictures.org/ancient-earth) ← check what Earth looked like x years ago
 - [Awesome](https://github.com/sindresorhus/awesome) ← GitHub repository with lists on all kinds of interesting topics
