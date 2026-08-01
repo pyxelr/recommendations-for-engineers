@@ -44,7 +44,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## 🌐 Blogs
 
 > [!TIP]
-> It's best to collect all your favourite sites into an RSS feed reader like [Inoreader](https://inoreader.com/).  
+> It's best to collect all your favourite sites into an RSS feed reader like [Inoreader](https://inoreader.com/).
 > You can also discover more tech blogs with [Blogging for Devs](https://bloggingfordevs.com/trends/).
 
 ### business
@@ -1576,6 +1576,7 @@ As there are many, I highly encourage you to check my custom feeds:
 
 - [anthonywritescode](https://www.youtube.com/@anthonywritescode) ← various videos about programming and related topics (most videos deal with Python)
 - [ArjanCodes](https://www.youtube.com/c/arjancodes) ← Python videos about programming and software design to help you take your coding skills to the next level
+- [Beyond Coding](https://www.youtube.com/c/beyondcoding) ← For software engineers ready to level up. Learn from CTOs, principal engineers, and tech leaders about the skills beyond coding: from technical mastery & AI to product thinking and career growth
 - [Branch Education](https://www.youtube.com/c/BranchEducation) ← engineering and science concepts illuminated with videos of accurate models and visualized physics
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) ← general computer science channel
 - [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) ← Python in data science and not only
