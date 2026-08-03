@@ -838,6 +838,8 @@ As there are many, I highly encourage you to check my custom feeds:
 - [Jan](https://github.com/janhq/jan) ← open-source alternative to ChatGPT that runs locally
 - [LangChain](https://github.com/hwchase17/langchain) ← framework for building LLM apps
 - [localGPT](https://github.com/PromtEngineer/localGPT) ← private and local chatGPT for chatting with your documents
+- [ODS](https://github.com/Osmantic/ODS) ← turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation
+- [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) ← Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin) ← open-source project aiming to replicate [Devin](https://www.cognition-labs.com/introducing-devin)
 - [Open Interpreter](https://github.com/KillianLucas/open-interpreter) ← NLP interface terminal app
 - [OpenUI](https://github.com/wandb/openui) ← OpenUI let's you describe UI using your imagination, then see it rendered live
