@@ -813,6 +813,7 @@ As there are many, I highly encourage you to check my custom feeds:
 > For more, visit my [LLM notes](https://pawelcislo.com/knowledge/llm/llm/).
 
 - [aider](https://github.com/paul-gauthier/aider) ← AI pair programming in your terminal
+- [Artificial Analysis](https://artificialanalysis.ai/models) ← comparison of models: intelligence, performance & price analysis
 - [AutoGen](https://github.com/microsoft/autogen) ← enable next-gen large language model applications
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) ← experimental open-source attempt to make GPT-4 fully autonomous
 - [Chainlit](https://github.com/Chainlit/chainlit) ← UI for chatbots
