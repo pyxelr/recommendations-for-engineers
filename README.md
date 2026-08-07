@@ -1293,6 +1293,7 @@ As there are many, I highly encourage you to check my custom feeds:
 #### SQL
 
 - [MySQL Syntax Check](https://www.piliapp.com/mysql-syntax-check/) ← online SQL Query Checker
+- [SQLable](https://sqlable.com/) ← online SQL formatter, validator, playground, data generator, and database utilities
 - [SQLite Online](https://sqliteonline.com/) ← SQL Online IDE
 - [SQLite Playground](https://sqlime.org/) ← run SQL query to see the results
 
