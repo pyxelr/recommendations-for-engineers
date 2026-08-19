@@ -380,6 +380,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SponsorBlock](https://sponsor.ajay.app/) ← skip sponsor segments in YouTube videos
 - [Stylus](https://add0n.com/stylus.html) ← user-style manager
 - [Tab Resize - split screen layouts](https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc) ← resize the current tab and tabs to the right into layouts on separate windows
+- [Tabox](https://www.tabox.co/) ← save tabs and tab groups into collections and restore whole sessions in one click
 - [Tampermonkey](https://www.tampermonkey.net/) ← the most popular userscript manager
 - [uBlock Origin](https://github.com/gorhill/uBlock#installation) ← blocker addon (not only for ads)
 - [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf) ← point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.
