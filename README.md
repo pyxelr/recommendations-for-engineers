@@ -531,6 +531,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Glassdoor](https://www.glassdoor.com/index.htm) ← find jobs and company reviews from its employees
 - [Jobscan](https://www.jobscan.co/) ← optimise your resume using the ATS system
+- [ResumeAI](https://withresumeai.com/) ← free ATS checker plus State of ATS 2026 (738 employers, 704 portal-verified)
 - [levels.fyi](https://www.levels.fyi/?compare=Microsoft,Amazon,Apple&track=Software%20Engineer) ← compare salaries and career levels at big companies
 
 ### learning material
