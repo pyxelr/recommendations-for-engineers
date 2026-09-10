@@ -1085,6 +1085,7 @@ As there are many, I highly encourage you to check my custom feeds:
 
 - [AI News](https://buttondown.email/ainews) ← daily summary of AI discords + top Twitter accounts
 - [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters) ← curated list of awesome newsletters
+- [AI Weekly](https://aiweekly.co/) ← discover what AI experts are reading and sharing right now, ranked and explained for 53,000+ professionals
 - [Bullets.news](https://bullets.news/) ← scientific papers summarized in a few bullet points
 - [Dane i Analizy](https://blog.prokulski.science/) (🇵🇱) ← ML, AI, devops, data analysis, Python and R
 - [Data Elixir](https://dataelixir.com/) ← weekly dose of the top data science picks from around the web. Covering machine learning, data visualization, analytics, and strategy
