@@ -1106,6 +1106,7 @@ As there are many, I highly encourage you to check my custom feeds:
 - [Papers with Code](https://paperswithcode.com/newsletter) ← stay informed on the latest trending ML papers with code, research developments, libraries, methods, and datasets
 - [Podcast Notes](https://podcastnotes.org/) ← summary of podcasts in a few bullet points
 - [Product Hunt Daily](https://www.producthunt.com/newsletter) ← a daily digest of the best of Product Hunt, created by your friends
+- [Simon Willison's Newsletter](https://simonw.substack.com/) ← AI, LLMs, web engineering, open source, data science, Datasette, SQLite, Python and more
 - [Superhuman](https://www.superhuman.ai/) ← popular AI newsletter
 - [The Batch](https://read.deeplearning.ai/the-batch/) ← stay updated with weekly AI News and Insights from DeepLearning.AI
 - [The Data Science Roundup](http://roundup.fishtownanalytics.com/) ← internet's most useful data science articles
