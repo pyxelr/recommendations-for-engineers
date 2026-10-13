@@ -35,7 +35,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - 💻 [Programming](#-programming)
 - 🛫 [Travel](#-travel)
 - 🖥 [Windows](#-windows)
-- ✍ [Writing/Research](#-writing_research)
+- ✍ [Writing/Research](#-writingresearch)
 - 📼 [YouTube Channels](#-youtube-channels)
 - 🤷 [Other](#-other)
 
@@ -1455,7 +1455,7 @@ As there are many, I highly encourage you to check my custom feeds:
 
 **[⬆ Back to Contents](#contents)**
 
-## ✍ Writing_Research
+## ✍ Writing/Research
 
 - [After the Deadline](https://www.polishmywriting.com/) ← free spell checker
 - [Diffchecker](https://www.diffchecker.com/) ← compare differences in text, images, PDFs and more
