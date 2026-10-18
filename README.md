@@ -1288,6 +1288,7 @@ As there are many, I highly encourage you to check my custom feeds:
 #### online IDE
 
 - [Coding Ground](https://www.tutorialspoint.com/codingground.htm) ← set of online IDE and compilers
+- [Koddo Python Playground](https://koddo.ru/playground/python) ← free Python editor and runner without an account (Russian interface)
 - [OnlineGDB](https://www.onlinegdb.com/) ← online compiler and debugger
 - [Repl.it](https://replit.com/) ← collaborative, in-browser IDE to code in 50+ languages
 - [vscode.dev](https://vscode.dev/) ← VS Code for the web
