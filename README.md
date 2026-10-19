@@ -832,6 +832,7 @@ As there are many, I highly encourage you to check my custom feeds:
 - [Cursor](https://github.com/getcursor/cursor) ← AI-powered code editor based on VS Code
 - [Docling](https://github.com/DS4SD/docling) ← parse documents and export them to the desired format
 - [DocsGPT](https://github.com/arc53/DocsGPT) ← chat with your documentation
+- [Frink](https://frink.dev/) ← Fine-tuned automation for everyone: visual workflows where AI coding agents (Claude Code, Codex, OpenCode, GitHub Copilot, Cursor) act on your tickets, errors and schedules, and ask before they change anything
 - [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) ← generate an entire codebase based on a prompt
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) ← dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - [GPT Prompt Attack](https://gpa.43z.one/) ← game to practice prompt injection
