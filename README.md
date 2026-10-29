@@ -885,6 +885,7 @@ As there are many, I highly encourage you to check my custom feeds:
 - [Itsycal](https://www.mowglii.com/itsycal/) ← tiny menu bar calendar
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/) ← keyboard customizer (you can find my settings [here](https://pawelcislo.com/knowledge/software/karabiner-elements/))
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/) ← macOS automation software
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) ← remember multi-monitor window and Space layouts, sync external display brightness, prevent sleep
 - [lima](https://github.com/lima-vm/lima) ← launch Linux virtual machines with automatic file sharing and port forwarding (similar to WSL2)
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) ← host-based application firewall for macOS
 - [mas](https://github.com/mas-cli/mas) ← Mac App Store command line interface
