@@ -1052,6 +1052,7 @@ As there are many, I highly encourage you to check my custom feeds:
 - [Noises.online](https://noises.online/) ← premium masking sounds
 - [Poolsuite FM](https://poolsuite.net/) ← the chillest place online: a place where it's perpetually the summer of 1997 (probably my favourite radio)
 - [Radio Garden](http://radio.garden/) ← listen to thousands of radio stations from the world using a Google Earth-based menu
+- [Roam Radio](https://roamradios.com/) ← free directory and web player for live radio from around the world; browse by country, genre or language, no account needed
 - [SoundCloud](https://soundcloud.com/) ← find lots of indie music and upload your own. Make sure to [follow me](https://soundcloud.com/pyxelr)!
 - [Spotify](https://www.spotify.com/) ← stream music online
 
